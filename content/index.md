@@ -2,34 +2,13 @@
 id: MOC-Home
 title: "PUMA Vault"
 type: home
+tags: [home, moc, navigation, puma, dashboard]
 created: 2026-03-01
 updated: 2026-04-12
 methodology: [PARA, GTD, Zettelkasten, JohnnyDecimal, SDD, BMAD, CDD, KeshavThreePass]
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pumacp/puma/main/assets/img/PUMA.png" alt="PUMA 307" width="307" />
-</p>
-
-<h2 align="center">Benchmark - Local LLM Evaluation Framework</h2>
-
-<p align="center">
-  <a href="https://github.com/pumacp/puma-vault/" rel="noopener noreferrer">
-    <img alt="PUMA Vault"
-         src="https://img.shields.io/badge/Explore%20PUMA%20Vault-Click%20Here-00bfff?style=for-the-badge&logo=github&cacheSeconds=1"
-         style="display:inline-block; vertical-align:middle; margin:0 8px;" height="60" width="420" />
-  </a>
-  </p>
-
-<p align="center">
-  <a href="https://github.com/pumacp/puma" rel="noopener noreferrer">
-    <img alt="PUMA Repo"
-         src="https://img.shields.io/badge/Explore%20PUMA%20Repo-Click%20Here-00bfff?style=for-the-badge&logo=github&cacheSeconds=1"
-         style="display:inline-block; vertical-align:middle; margin:0 8px;" />
-  </a>
-  </p>
-
----
+![PUMA Logo](https://raw.githubusercontent.com/pumacp/puma/main/assets/img/PUMA.png)
 
 # PUMA Research Vault
 
@@ -62,19 +41,12 @@ A unified, multi-methodology knowledge system for research on autonomous AI agen
 
 ---
 
-# PUMA Research Vault
-## Platform for Understanding and Management with Agents — Empirical Benchmark for LLM-Assisted ICT Project Management
-
-A unified, multi-methodology knowledge system for doctoral-level research on autonomous AI agents applied to software project management. This vault integrates six knowledge management paradigms, multiple research methodologies, a rich prompt library, and a custom Claude AI skill system — all organized under the Johnny Decimal numbering scheme and hosted on GitHub Pages.
-
----
-
 <a name="overview"></a>
 ## 1. Project Overview
 
-PUMA (**PUMA Understanding and Management with Agents**) is a research project investigating whether autonomous Large Language Model agents can perform practical software project management tasks — specifically issue triage and effort estimation — with accuracy and reproducibility comparable to human experts.
+PUMA (**PUMA Understanding & Management w Agents**) is a research project investigating whether autonomous Large Language Model agents can perform practical software project management tasks — specifically issue triage and effort estimation — with accuracy and reproducibility comparable to human experts.
 
-The project is conducted as a Bachelor's / Master's thesis in ICT Engineering and uses a multi-stage empirical pipeline: systematic literature review → artifact design → LLM-based agent construction → experiment on real-world datasets (TAWOS, Jira SR) → statistical validation and replication package publication.
+The project is conducted as a project in ICT Engineering and uses a multi-stage empirical pipeline: systematic literature review → artifact design → LLM-based agent construction → experiment on real-world datasets (TAWOS, Jira SR) → statistical validation and replication package publication.
 
 ### Core Mission
 Design, implement, and empirically evaluate a multi-agent LLM system — the PUMA platform — that autonomously triages software issues (classifying type, priority, and component) and estimates story-point effort from issue text. The platform is benchmarked against human-annotated ground truth using standard SE metrics (accuracy, F1, MAE, MRE) and statistical tests (Wilcoxon, ANOVA).
