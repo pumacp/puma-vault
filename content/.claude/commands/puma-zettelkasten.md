@@ -1,1 +1,1 @@
-/home/isiroca/Projects/projects/tfg/obsidian/PUMA/.claude/puma/knowledge/puma-zettelkasten.md
+../puma/knowledge/puma-zettelkasten.md

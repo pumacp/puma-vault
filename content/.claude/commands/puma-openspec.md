@@ -1,1 +1,1 @@
-/home/isiroca/Projects/projects/tfg/obsidian/PUMA/.claude/puma/development/puma-openspec.md
+../puma/development/puma-openspec.md

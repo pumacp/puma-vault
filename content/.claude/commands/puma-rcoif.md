@@ -1,1 +1,1 @@
-/home/isiroca/Projects/projects/tfg/obsidian/PUMA/.claude/puma/prompting/puma-rcoif.md
+../puma/prompting/puma-rcoif.md

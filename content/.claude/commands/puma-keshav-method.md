@@ -1,1 +1,1 @@
-/home/isiroca/Projects/projects/tfg/obsidian/PUMA/.claude/puma/research/puma-keshav-method.md
+../puma/research/puma-keshav-method.md

@@ -1,1 +1,1 @@
-/home/isiroca/Projects/projects/tfg/obsidian/PUMA/.claude/puma/research/puma-literature-review.md
+../puma/research/puma-literature-review.md

@@ -1,1 +1,1 @@
-/home/isiroca/Projects/projects/tfg/obsidian/PUMA/.claude/puma/vault/puma-rules.md
+../puma/vault/puma-rules.md

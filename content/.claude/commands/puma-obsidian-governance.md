@@ -1,1 +1,1 @@
-/home/isiroca/Projects/projects/tfg/obsidian/PUMA/.claude/puma/vault/puma-obsidian-governance.md
+../puma/vault/puma-obsidian-governance.md

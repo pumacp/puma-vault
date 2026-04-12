@@ -1,1 +1,1 @@
-/home/isiroca/Projects/projects/tfg/obsidian/PUMA/.claude/puma/development/puma-spec-kit.md
+../puma/development/puma-spec-kit.md

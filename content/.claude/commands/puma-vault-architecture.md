@@ -1,1 +1,1 @@
-/home/isiroca/Projects/projects/tfg/obsidian/PUMA/.claude/puma/vault/puma-vault-architecture.md
+../puma/vault/puma-vault-architecture.md

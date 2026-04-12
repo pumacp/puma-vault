@@ -10,6 +10,70 @@ methodology: [PARA, GTD, Zettelkasten, JohnnyDecimal, SDD, BMAD, CDD, KeshavThre
 
 ![PUMA Logo](https://raw.githubusercontent.com/pumacp/puma/main/assets/img/PUMA.png)
 
+---
+
+<p align="center">
+  <a href="https://github.com/pumacp/puma" alt="_blank">
+    <img src="https://img.shields.io/github/stars/pumacp/puma?style=social" />
+  </a>
+  <a href="https://github.com/pumacp/puma#reproducibility" alt="_blank">
+    <img src="https://img.shields.io/badge/Reproducible-Yes-brightgreen" />
+  </a>
+  <a href="https://github.com/codecarbon/codecarbon" alt="_blank">
+    <img src="https://img.shields.io/badge/Tracks%20CO₂-CodeCarbon-teal" />
+  </a>
+  <a href="LICENSE" alt="_blank">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.python.org" alt="_blank">
+    <img src="https://img.shields.io/badge/Python-3.11%2B-blue?logo=python&logoColor=white" />
+  </a>
+  <a href="https://ollama.com" alt="_blank">
+    <img src="https://img.shields.io/badge/Ollama-Local%20LLM-green?logo=ollama" />
+  </a>
+  <a href="https://www.docker.com" alt="_blank">
+    <img src="https://img.shields.io/badge/Docker-Ready-blue?logo=docker&logoColor=white" />
+  </a>
+  <a href="https://github.com/pumacp/puma-vault">
+    <img src="https://img.shields.io/badge/PUMA%20Vault-Repository-black?logo=github"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/pumacp/puma/actions" alt="_blank">
+    <img src="https://img.shields.io/github/actions/workflow/status/pumacp/puma/ci.yml?branch=main" />
+  </a>
+  <a href="https://github.com/pumacp/puma/releases" alt="_blank">
+    <img src="https://img.shields.io/github/v/release/pumacp/puma" />
+  </a>
+  <a href="https://github.com/pumacp/puma-vault/issues" alt="_blank">
+    <img src="https://img.shields.io/github/issues-raw/pumacp/puma-vault" />
+  </a>
+  <a href="https://github.com/pumacp/puma/pulls" alt="_blank">
+    <img src="https://img.shields.io/github/issues-pr-raw/pumacp/puma" />
+  </a>
+</p>
+
+<br>
+<p align="center">
+  <a href="https://pumacp.github.io/puma-vault/" rel="noopener noreferrer">
+    <img alt="PUMA Vault Docs"
+         src="https://img.shields.io/badge/Explore%20PUMA%20Vault-Click%20Here-00bfff?style=for-the-badge&logo=github&cacheSeconds=1"
+         style="display:inline-block; vertical-align:middle; margin:0 8px;" height="60" width="420" />
+  </a>
+  </p>
+
+<p align="center">
+  <img src="assets/img/PUMA.png" alt="PUMA 307" width="307" />
+</p>
+
+<h2 align="center">Benchmark - Local LLM Evaluation Framework</h2>
+
+---
+
 # PUMA Research Vault
 
 > **Platform for Understanding and Management with Agents — Empirical Benchmark for LLM-Assisted ICT Project Management**

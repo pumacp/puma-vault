@@ -1,1 +1,1 @@
-/home/isiroca/Projects/projects/tfg/obsidian/PUMA/.claude/puma/development/puma-experiment.md
+../puma/development/puma-experiment.md

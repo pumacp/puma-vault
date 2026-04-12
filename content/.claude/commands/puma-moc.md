@@ -1,1 +1,1 @@
-/home/isiroca/Projects/projects/tfg/obsidian/PUMA/.claude/puma/knowledge/puma-moc.md
+../puma/knowledge/puma-moc.md

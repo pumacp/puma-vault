@@ -1,1 +1,1 @@
-/home/isiroca/Projects/projects/tfg/obsidian/PUMA/.claude/obsidian-skills/skills/obsidian-bases/SKILL.md
+../obsidian-skills/skills/obsidian-bases/SKILL.md

@@ -1,1 +1,1 @@
-/home/isiroca/Projects/projects/tfg/obsidian/PUMA/.claude/puma/core/puma-orchestrator.md
+../puma/core/puma-orchestrator.md

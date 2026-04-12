@@ -1,1 +1,1 @@
-/home/isiroca/Projects/projects/tfg/obsidian/PUMA/.claude/puma/development/puma-agile.md
+../puma/development/puma-agile.md
