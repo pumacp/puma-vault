@@ -3,8 +3,8 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "PUMA — Smart PMO con AI Swarm Agents",
-    pageTitleSuffix: " | TFG Ingeniería Informática",
+    pageTitle: "PUMA Vault",
+    pageTitleSuffix: " | (PUMA Understanding & Management w Agents)",
     enableSPA: true,
     enablePopovers: true,
     analytics: { provider: "plausible" },
