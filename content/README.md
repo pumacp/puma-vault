@@ -49,8 +49,8 @@
 
 <br>
 <p align="center">
-  <a href="https://pumacp.github.io/puma-vault/" rel="noopener noreferrer">
-    <img alt="PUMA Vault Docs"
+  <a href="https://github.com/pumacp/puma-vault/" rel="noopener noreferrer">
+    <img alt="PUMA Vault"
          src="https://img.shields.io/badge/Explore%20PUMA%20Vault-Click%20Here-00bfff?style=for-the-badge&logo=github&cacheSeconds=1"
          style="display:inline-block; vertical-align:middle; margin:0 8px;" height="60" width="420" />
   </a>
@@ -65,9 +65,9 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/pumacp/puma-vault" rel="noopener noreferrer">
-    <img alt="PUMA Vault Repo"
-         src="https://img.shields.io/badge/Explore%20PUMA%20Vault%20Repo-Click%20Here-00bfff?style=for-the-badge&logo=github&cacheSeconds=1"
+  <a href="https://github.com/pumacp/puma" rel="noopener noreferrer">
+    <img alt="PUMA Repo"
+         src="https://img.shields.io/badge/Explore%20PUMA%20Repo-Click%20Here-00bfff?style=for-the-badge&logo=github&cacheSeconds=1"
          style="display:inline-block; vertical-align:middle; margin:0 8px;" />
   </a>
   </p>
