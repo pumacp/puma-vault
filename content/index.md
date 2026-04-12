@@ -2,7 +2,6 @@
 id: MOC-Home
 title: "PUMA Vault"
 type: home
-tags: [home, moc, navigation, puma, dashboard]
 created: 2026-03-01
 updated: 2026-04-12
 methodology: [PARA, GTD, Zettelkasten, JohnnyDecimal, SDD, BMAD, CDD, KeshavThreePass]
