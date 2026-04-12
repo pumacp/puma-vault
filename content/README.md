@@ -1,13 +1,5 @@
 # PUMA Research Vault
 
-![PUMA Logo](https://raw.githubusercontent.com/pumacp/puma/main/assets/img/PUMA.png)
-
-> **PUMA — PUMA Understanding and Management with Agents**
->
-> *Can language models manage ICT projects? An empirical benchmark of local LLM agents for issue triage and effort estimation in ICT projects.*
-
-PUMA is a research-driven platform that benchmarks autonomous AI agents on practical project management tasks. This vault is the **unified knowledge management system** for the PUMA project. It integrates six complementary methodological layers into a single coherent workspace.
-
 ---
 
 <p align="center">
@@ -65,7 +57,7 @@ PUMA is a research-driven platform that benchmarks autonomous AI agents on pract
   </p>
 
 <p align="center">
-  <img src="assets/img/PUMA.png" alt="PUMA 307" width="307" />
+  <img src="https://raw.githubusercontent.com/pumacp/puma/main/assets/img/PUMA.png" alt="PUMA 307" width="307" />
 </p>
 
 <h2 align="center">Benchmark - Local LLM Evaluation Framework</h2>
@@ -81,6 +73,12 @@ PUMA is a research-driven platform that benchmarks autonomous AI agents on pract
   </p>
 
 ---
+
+> **PUMA — PUMA Understanding and Management with Agents**
+>
+> *Can language models manage ICT projects? An empirical benchmark of local LLM agents for issue triage and effort estimation in ICT projects.*
+
+PUMA is a research-driven platform that benchmarks autonomous AI agents on practical project management tasks. This vault is the **unified knowledge management system** for the PUMA project. It integrates six complementary methodological layers into a single coherent workspace.
 
 ---
 
