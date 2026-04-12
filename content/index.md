@@ -8,7 +8,31 @@ updated: 2026-04-12
 methodology: [PARA, GTD, Zettelkasten, JohnnyDecimal, SDD, BMAD, CDD, KeshavThreePass]
 ---
 
-![PUMA Logo](https://raw.githubusercontent.com/pumacp/puma/main/assets/img/PUMA.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pumacp/puma/main/assets/img/PUMA.png" alt="PUMA 307" width="307" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/pumacp/puma-vault/" rel="noopener noreferrer">
+    <img alt="PUMA Vault"
+         src="https://img.shields.io/badge/Explore%20PUMA%20Vault-Click%20Here-00bfff?style=for-the-badge&logo=github&cacheSeconds=1"
+         style="display:inline-block; vertical-align:middle; margin:0 8px;" height="60" width="420" />
+  </a>
+  </p>
+
+<h2 align="center">Benchmark - Local LLM Evaluation Framework</h2>
+
+<p align="center">
+  <a href="https://github.com/pumacp/puma" rel="noopener noreferrer">
+    <img alt="PUMA Repo"
+         src="https://img.shields.io/badge/Explore%20PUMA%20Repo-Click%20Here-00bfff?style=for-the-badge&logo=github&cacheSeconds=1"
+         style="display:inline-block; vertical-align:middle; margin:0 8px;" />
+  </a>
+  </p>
+
+---
 
 # PUMA Research Vault
 
