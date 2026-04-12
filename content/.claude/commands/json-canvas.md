@@ -1,0 +1,1 @@
+/home/isiroca/Projects/projects/tfg/obsidian/PUMA/.claude/obsidian-skills/skills/json-canvas/SKILL.md

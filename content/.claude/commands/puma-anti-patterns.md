@@ -1,0 +1,1 @@
+/home/isiroca/Projects/projects/tfg/obsidian/PUMA/.claude/puma/vault/puma-anti-patterns.md

@@ -1,0 +1,113 @@
+/* =====================================================
+   PUMA Vault — Custom CSS Snippets
+   File: 00 - Meta/Snippets/puma-styles.css
+   Enable in Obsidian: Settings → Appearance → CSS Snippets
+   ===================================================== */
+
+/* ── Callout Colours for Note Types ── */
+
+/* Fleeting Notes — orange */
+.callout[data-callout="fleeting"] {
+  --callout-color: 255, 150, 50;
+  --callout-icon: lucide-zap;
+}
+
+/* Literature Notes — blue */
+.callout[data-callout="literature"] {
+  --callout-color: 59, 130, 246;
+  --callout-icon: lucide-book-open;
+}
+
+/* Permanent Notes — green */
+.callout[data-callout="permanent"] {
+  --callout-color: 34, 197, 94;
+  --callout-icon: lucide-leaf;
+}
+
+/* Experiment Notes — purple */
+.callout[data-callout="experiment"] {
+  --callout-color: 139, 92, 246;
+  --callout-icon: lucide-flask-conical;
+}
+
+/* Spec Notes — indigo */
+.callout[data-callout="spec"] {
+  --callout-color: 79, 70, 229;
+  --callout-icon: lucide-clipboard-list;
+}
+
+/* Warning / Red Team */
+.callout[data-callout="red-team"] {
+  --callout-color: 239, 68, 68;
+  --callout-icon: lucide-shield-alert;
+}
+
+/* ── Maturity Indicators ── */
+.tag[href="#permanent"] { background-color: #22c55e22; color: #16a34a; }
+.tag[href="#seedling"] { background-color: #fef08a22; color: #ca8a04; }
+.tag[href="#growing"] { background-color: #bbf7d022; color: #15803d; }
+.tag[href="#evergreen"] { background-color: #86efac22; color: #166534; }
+
+/* ── Folder Colour Indicators in File Explorer ── */
+/* Requires "Folder Note" or "File Color" plugin */
+
+/* ── Table Styles ── */
+.markdown-rendered table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.markdown-rendered th {
+  background-color: var(--background-modifier-hover);
+  font-weight: 600;
+  text-align: left;
+  padding: 6px 12px;
+}
+
+.markdown-rendered td {
+  padding: 4px 12px;
+  border-bottom: 1px solid var(--background-modifier-border);
+}
+
+/* ── Status Badges ── */
+/* Usage: ==✅ Done== ==🔄 Active== ==⏳ Pending== */
+mark { border-radius: 4px; padding: 2px 6px; }
+
+/* ── MOC Heading Style ── */
+.markdown-rendered h1 {
+  border-bottom: 2px solid var(--interactive-accent);
+  padding-bottom: 4px;
+}
+
+/* ── Dataview Tables ── */
+.dataview.table-view-table td, 
+.dataview.table-view-table th {
+  padding: 4px 8px;
+  font-size: 0.9em;
+}
+
+/* ── Cornell Notes Layout Helper ── */
+/* Use with table syntax for Cornell format */
+.cornell-table td:first-child {
+  width: 30%;
+  background-color: var(--background-secondary);
+  font-style: italic;
+}
+
+/* ── Reading Progress Bar (custom callout) ── */
+.callout[data-callout="progress"] {
+  --callout-color: 59, 130, 246;
+}
+
+/* ── Inline Code in Tables ── */
+.markdown-rendered table code {
+  font-size: 0.85em;
+  background: var(--code-background);
+  padding: 1px 4px;
+  border-radius: 3px;
+}
+
+/* ── Highlight colours for note status ── */
+/* Yellow highlight = needs review */
+/* Green highlight = verified/done */
+/* Red highlight = problem/risk */

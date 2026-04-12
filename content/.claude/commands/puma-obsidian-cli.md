@@ -1,0 +1,1 @@
+/home/isiroca/Projects/projects/tfg/obsidian/PUMA/.claude/puma/integration/puma-obsidian-cli.md
