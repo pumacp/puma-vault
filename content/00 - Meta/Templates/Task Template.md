@@ -5,29 +5,25 @@ Date: ""
 Type: Task-Note
 Alias: 
 ---
-___
 
+# ✅ {{ title }}
+
+> [!todo] Task
+> Define the task clearly — what needs to be done, by whom, and by when.
+
+---
+
+## Tasks
 
 ### ""
 - [ ] 
 
+---
 
+## Context & Notes
 
+*Add any relevant context, blockers, or references here.*
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 ## References

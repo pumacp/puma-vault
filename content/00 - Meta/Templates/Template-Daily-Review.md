@@ -9,6 +9,7 @@ created: "{{date}}"
 
 # 📅 Daily Review — "{{date}}"
 
+> [!info] Overview
 > *"Capture everything. Process ruthlessly. Trust your system."* — GTD
 
 ---

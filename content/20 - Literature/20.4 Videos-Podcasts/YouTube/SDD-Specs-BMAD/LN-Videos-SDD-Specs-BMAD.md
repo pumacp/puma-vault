@@ -11,6 +11,7 @@ phase: [F1, F2, F3]
 
 # 🎬 Videos — Spec-Driven Development, BMAD, OpenSpec & Spec Kit
 
+> [!info] Overview
 > Category C.1 of the PUMA video library.
 > These videos inform PUMA's development methodology (SDD, BMAD agents, spec-first design).
 > See also: [[30 - Permanent/33 Frameworks/PN-SDD-Framework]] · [[40 - Projects/PUMA/41.9 BMAD-Agents/BMAD-PRD-PUMA]]

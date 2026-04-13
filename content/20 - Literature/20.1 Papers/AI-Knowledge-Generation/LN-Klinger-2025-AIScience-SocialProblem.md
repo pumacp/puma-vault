@@ -21,9 +21,13 @@ updated: 2026-04-07
 
 ## Pass 1 — Bird's Eye
 
-**Type**: Position/Policy paper
-**Main Claim**: The impact of AI on scientific discovery depends as much on socio-institutional structures (incentives, documentation standards, open infrastructure) as on technical advances. Uncontrolled AI-generated research could overwhelm peer review and impede knowledge consolidation.
-**Relevance to PUMA**: ⭐⭐⭐ Medium-High — relevant for PUMA Section 1.3 (Ethical-Social Impact) and Section 1.8 (AI Use Declaration).
+> [!abstract] Main Claim
+> The impact of AI on scientific discovery depends as much on socio-institutional structures (incentives, documentation standards, open infrastructure) as on technical advances. Uncontrolled AI-generated research could overwhelm peer review and impede knowledge consolidation.
+
+| Property | Detail |
+|----------|--------|
+| **Type** | Position/Policy paper |
+| **Relevance to PUMA** | ⭐⭐⭐ Medium-High — relevant for PUMA Section 1.3 (Ethical-Social Impact) and Section 1.8 (AI Use Declaration) |
 
 ## Pass 2 — Key Arguments
 
@@ -46,13 +50,15 @@ updated: 2026-04-07
 
 ## PUMA Connection
 
-Klinger et al.'s social problem framework maps directly to PUMA's governance design:
-1. **Open infrastructure** → PUMA uses public datasets (Jira SR, TAWOS) + open-source stack
-2. **Reproducibility** → PUMA Constitution: every experiment reproducible from scratch
-3. **Attribution** → PUMA Section 1.8: AI Use Declaration with Marco Veritas protocol
-4. **Governance** → HITL architecture: human PM retains decision authority
-
-PUMA is designed to be a socially responsible AI system for PM — not just technically capable.
+> [!info] Governance Alignment
+> Klinger et al.'s social problem framework maps directly to PUMA's governance design:
+>
+> 1. **Open infrastructure** → PUMA uses public datasets (Jira SR, TAWOS) + open-source stack
+> 2. **Reproducibility** → PUMA Constitution: every experiment reproducible from scratch
+> 3. **Attribution** → PUMA Section 1.8: AI Use Declaration with Marco Veritas protocol
+> 4. **Governance** → HITL architecture: human PM retains decision authority
+>
+> PUMA is designed to be a socially responsible AI system for PM — not just technically capable.
 
 ---
 

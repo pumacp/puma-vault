@@ -9,6 +9,9 @@ updated: 2026-04-06
 
 # 📊 Dashboard — Research Progress
 
+> [!tip] How to Use This Dashboard
+> Run a **Weekly Review** to update chapter status, check the reading queue, and process orphan notes. All queries below are live Dataview results.
+
 ---
 
 ## Literature Pipeline

@@ -8,6 +8,7 @@ created: 2026-03-01
 
 # 📄 Papers — Sub-folder Guide
 
+> [!info] Overview
 > Use the template [[00 - Meta/Templates/Template-Literature-Note-Paper]] for every new paper note.
 
 | Sub-folder | Papers to file here |

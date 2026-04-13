@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 DEJA de pagar ChatGPT: Despliega tu propia IA Privada con Ollama + Docker
 
-**Channel**: Comarca IA
-**URL**: https://www.youtube.com/watch?v=a8ES9UrWSNc
-**Relevance**: ⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: Comarca IA
+> **URL**: https://www.youtube.com/watch?v=a8ES9UrWSNc
+> **Relevance**: ⭐⭐⭐⭐
 
 ---
 

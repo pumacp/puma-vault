@@ -11,6 +11,7 @@ phase: [F2, F3, F4, F5]
 
 # 🎬 Videos — Model Context Protocol (MCP) & Agent Protocols
 
+> [!info] Overview
 > MCP is the tool integration protocol for PUMA Stage 5 (Jira API, GitHub connections).
 > See also: [[20 - Literature/20.1 Papers/AIOps-DevOps/LN-Hou-2025-MCP-Security]]
 

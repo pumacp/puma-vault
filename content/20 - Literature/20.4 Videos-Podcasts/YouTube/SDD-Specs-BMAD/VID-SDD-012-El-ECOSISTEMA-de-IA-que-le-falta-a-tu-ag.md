@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 El ECOSISTEMA de IA que le falta a tu agente — Engram + SDD + Skills
 
-**Channel**: Gentleman Programming
-**URL**: https://www.youtube.com/watch?v=UoS_LP-PCG8
-**Relevance**: ⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: Gentleman Programming
+> **URL**: https://www.youtube.com/watch?v=UoS_LP-PCG8
+> **Relevance**: ⭐⭐⭐⭐
 
 ---
 

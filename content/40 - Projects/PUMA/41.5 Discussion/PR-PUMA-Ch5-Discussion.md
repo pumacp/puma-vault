@@ -12,7 +12,8 @@ created: 2026-03-01
 
 # Chapter 5 — Discussion & Conclusions
 
-> **Status:** ⏳ Pending F4 results
+> [!info] Chapter Status
+> ⏳ Pending F4 results
 > **Requires:** Completed results tables from [[40 - Projects/PUMA/41.4 Results/PR-PUMA-Ch4-Results]]
 
 ---

@@ -8,17 +8,19 @@ created: 2026-03-01
 
 # 🎨 CSS Snippets & Obsidian Styling Guide
 
+> [!info] Overview
 > Custom visual styles for the PUMA vault.
-[[|> Main stylesheet: 00 - Meta/Snippets/puma-styles.css
+> Main stylesheet: 00 - Meta/Snippets/puma-styles.css
 
 ## Activating the Stylesheet
 
-```
-Obsidian → Settings → Appearance → CSS Snippets
-→ Click the folder icon → confirm puma-styles.css is present
-→ Toggle ON: puma-styles
-→ Restart Obsidian if styles don't appear immediately
-```
+> [!tip] How to enable
+> ```
+> Obsidian → Settings → Appearance → CSS Snippets
+> → Click the folder icon → confirm puma-styles.css is present
+> → Toggle ON: puma-styles
+> → Restart Obsidian if styles don't appear immediately
+> ```
 
 ---
 

@@ -12,7 +12,10 @@ sources: ["[[20 - Literature/20.3 Datasets/LN-Datasets-JiraSR-TAWOS]]", "Manzoor
 
 # Issue Triage in Software Project Management
 
-> **Atomic claim:** Manual issue triage is a high-volume, low-individual-value activity that introduces systematic cognitive bias in priority assignment — making it the ideal first target for LLM automation in ICT project management.
+> [!abstract] Atomic Claim
+
+> [!info] Overview
+> Manual issue triage is a high-volume, low-individual-value activity that introduces systematic cognitive bias in priority assignment — making it the ideal first target for LLM automation in ICT project management.
 
 ---
 
@@ -87,7 +90,8 @@ sources: ["[[20 - Literature/20.3 Datasets/LN-Datasets-JiraSR-TAWOS]]", "[[20 - 
 
 # Story Points & Effort Estimation in Agile
 
-> **Atomic claim:** Story point estimation is the PM task with the highest variance in software engineering, exhibiting systematic over-estimation under sprint pressure and under-estimation in new projects — patterns that LLMs with few-shot examples may partially correct by anchoring to historical data.
+> [!abstract] Atomic Claim
+> Story point estimation is the PM task with the highest variance in software engineering, exhibiting systematic over-estimation under sprint pressure and under-estimation in new projects — patterns that LLMs with few-shot examples may partially correct by anchoring to historical data.
 
 ---
 

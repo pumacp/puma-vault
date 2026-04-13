@@ -13,7 +13,10 @@ sources: ["[[LN-AuthorYear]]", "[[LN-AuthorYear2]]"]
 
 # "{{Concept Name}}"
 
-> **Atomic claim:** "{{State the single, precise idea this note captures. One idea only. If you need to say "and", split into two notes.}}"
+> [!abstract] Atomic Claim
+
+> [!info] Overview
+> "{{State the single, precise idea this note captures. One idea only. If you need to say "and", split into two notes.}}"
 
 ---
 
@@ -38,18 +41,18 @@ Do NOT copy quotes — summarise the evidence.
 
 | Source | What it shows |
 |--------|--------------|
-[[|| [[LN-"{{Paper1}}"]] | "{{What this paper contributes to this idea}}" |
-[[|| [[LN-"{{Paper2}}"]] | "{{What this paper contributes}}" |
+| [[LN-"{{Paper1}}"]] | "{{What this paper contributes to this idea}}" |
+| [[LN-"{{Paper2}}"]] | "{{What this paper contributes}}" |
 
 ---
 
 ## 🔗 Connected Ideas
 
-[[|**Is a type of:** [[PN-"{{Parent concept}}"]]
-[[|**Enables:** [[PN-"{{Concept this makes possible}}"]]
-[[|**Contrasts with:** [[PN-"{{Opposing concept}}"]]
-[[|**Requires:** [[PN-"{{Prerequisite concept}}"]]
-[[|**Used in:** [[PR-PUMA-"{{Chapter or experiment}}"]]
+**Is a type of:** [[PN-"{{Parent concept}}"]]
+**Enables:** [[PN-"{{Concept this makes possible}}"]]
+**Contrasts with:** [[PN-"{{Opposing concept}}"]]
+**Requires:** [[PN-"{{Prerequisite concept}}"]]
+**Used in:** [[PR-PUMA-"{{Chapter or experiment}}"]]
 
 ---
 
@@ -67,15 +70,18 @@ Do NOT copy quotes — summarise the evidence.
 
 ## 📚 Key References
 
-[[|- "{{Author (year). Title. Venue.}}" → [[LN-"{{Key}}"]]
-[[|- "{{Author (year). Title. Venue.}}" → [[LN-"{{Key}}"]]
+- "{{Author (year). Title. Venue.}}" → [[LN-"{{Key}}"]]
+- "{{Author (year). Title. Venue.}}" → [[LN-"{{Key}}"]]
 
 ---
 
 ## 🌱 Maturity Notes
 
-- **Seedling:** Initial capture, needs verification
-- **Growing:** Multiple sources, tested in context
-- **Evergreen:** Stable, well-supported, reused across projects
+> [!note] Maturity Scale
+> | Level | Meaning |
+> |-------|---------|
+> | `#seedling` | Initial capture, needs verification |
+> | `#growing` | Multiple sources, tested in context |
+> | `#evergreen` | Stable, well-supported, reused across projects |
 
 *Current maturity: "{{seedling/growing/evergreen}}" — "{{reason}}"*

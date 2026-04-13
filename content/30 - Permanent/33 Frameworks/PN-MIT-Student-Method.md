@@ -9,13 +9,22 @@ tags: [permanent-note, keshav, paper-reading, methodology, literature, academic-
 
 # Keshav Three-Pass Method: a academic paper-reading framework
 
-Reading a research paper should be done in multiple passes of increasing depth, not in a single linear read from start to finish.
+> [!abstract] Atomic Claim
+
+> [!info] Overview
+> Reading a research paper should be done in multiple passes of increasing depth, not in a single linear read from start to finish.
 
 ---
 
 ## The Core Idea
 
 S. Keshav (University of Waterloo) published "How to Read a Paper" (2007, ACM SIGCOMM Computer Communication Review, 37(3), 83–84). The method defines three passes:
+
+| Pass | Time Budget | Goal | Vault Output |
+|------|-------------|------|-------------|
+| **Pass 1** | 5–10 min | Decide if worth reading further (5 Cs) | Fleeting note |
+| **Pass 2** | ≤ 1 hour | Grasp content + main thrust | Literature note |
+| **Pass 3** | 4–5 hours | Virtual re-implementation → deep understanding | Permanent note |
 
 **Pass 1** (5–10 minutes): Read title, abstract, intro, section headings, conclusions, glance at references. Goal: decide if the paper is worth reading further. Evaluate using the **5 Cs**: Category, Context, Correctness, Contributions, Clarity.
 
@@ -38,7 +47,8 @@ Keshav's method integrates naturally with Zettelkasten:
 
 ## Note on "MIT Student Method"
 
-The term "MIT Student Method" does not correspond to a verified, published methodology. The closest verified sources are:
+> [!warning] Nomenclature Clarification
+> The term "MIT Student Method" does not correspond to a verified, published methodology. The closest verified sources are:
 1. Keshav (2007) — the Three-Pass Method (origin: University of Waterloo, referenced at MIT course 6.5950)
 2. MIT AI Lab Working Paper 316 ("How to Do Research at the MIT AI Lab") — informal guidance for graduate students including reading with questions like "How can I use this?" and "What if...?"
 

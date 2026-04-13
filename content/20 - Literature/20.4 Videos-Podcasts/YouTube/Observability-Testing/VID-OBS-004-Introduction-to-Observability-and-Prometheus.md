@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 Introduction to Observability and Prometheus Tutorial
 
-**Channel**: NullSafe Architect  
-**URL**: https://www.youtube.com/watch?v=sNk9NkgTOLs  
-**Relevance**: ⭐⭐⭐
+> [!info] Video Details
+> **Channel**: NullSafe Architect  
+> **URL**: https://www.youtube.com/watch?v=sNk9NkgTOLs  
+> **Relevance**: ⭐⭐⭐
 
 ---
 

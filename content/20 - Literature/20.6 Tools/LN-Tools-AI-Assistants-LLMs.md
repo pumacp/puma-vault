@@ -10,6 +10,7 @@ phase: [F0, F1, F2, F3, F4, F5]
 
 # 🤖 Tools — AI Assistants & LLM Models
 
+> [!info] Overview
 > PUMA uses AI models in two distinct roles:
 > - **Role A**: Research and development assistance (Marco Veritas protocol applies)
 > - **Role B**: Object of study — models evaluated in the benchmark experiment

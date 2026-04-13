@@ -46,7 +46,10 @@ parent_spec: "[[SP-Architecture]]"
 
 # PUMA Estimation Agent — OpenSpec v1.0
 
+> [!important] Constitutional Preamble
 > **Spec for Stage 2** — effort estimation in story points.
+
+> [!info] Overview
 > Follows same structural pattern as [[SP-Triage-Agent]].
 
 ---

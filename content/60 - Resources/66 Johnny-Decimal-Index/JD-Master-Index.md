@@ -10,6 +10,8 @@ updated: 2026-04-06
 # 🔢 Johnny Decimal Master Index — PUMA Vault
 
 > **Johnny Decimal principle**: every file has a unique numeric address (AC.ID).
+
+> [!info] Overview
 > Areas: 10–90. Categories: 10–19 within each area. Sub-items: decimal.
 > Rule: max 10 areas, max 10 categories per area, max 10 items per category (conceptually).
 

@@ -12,7 +12,10 @@ created: 2026-03-01
 
 # Chapter 4 — Results
 
-> **Status:** ⏳ Pending F4 (experiment completion + analysis)
+> [!info] Chapter Status
+
+> [!info] Overview
+> ⏳ Pending F4 (experiment completion + analysis)
 > All tables generated programmatically from `results/` directory.
 
 ---

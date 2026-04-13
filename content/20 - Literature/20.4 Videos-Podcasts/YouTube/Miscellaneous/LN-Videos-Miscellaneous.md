@@ -11,6 +11,7 @@ phase: [F0, F1, F2, F3, F4, F5]
 
 # 🎬 Videos — General AI Tools, SaaS, Automation & Miscellaneous
 
+> [!info] Overview
 > Videos not fitting other categories but providing useful context.
 > Includes: Supabase, Gemini CLI, n8n, Flowise, creative AI, general automation.
 

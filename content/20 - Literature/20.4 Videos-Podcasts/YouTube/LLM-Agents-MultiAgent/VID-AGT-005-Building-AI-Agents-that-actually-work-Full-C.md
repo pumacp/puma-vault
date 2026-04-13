@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 Building AI Agents that actually work (Full Course)
 
-**Channel**: Greg Isenberg
-**URL**: https://www.youtube.com/watch?v=eA9Zf2-qYYM
-**Relevance**: ⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: Greg Isenberg
+> **URL**: https://www.youtube.com/watch?v=eA9Zf2-qYYM
+> **Relevance**: ⭐⭐⭐⭐
 
 ---
 

@@ -13,7 +13,10 @@ sources: ["[[20 - Literature/20.4 Videos-Podcasts/YouTube/SDD-Specs-BMAD/VID-SDD
 
 # Spec-Driven Development (SDD) + BDD + BMAD
 
-> **Atomic claim:** In PUMA, SDD ensures every agent component is defined by an executable specification before any code is written, making the artefact auditable, testable, and reproducible — directly addressing the reproducibility gap identified in the SLR.
+> [!abstract] Atomic Claim
+
+> [!info] Overview
+> In PUMA, SDD ensures every agent component is defined by an executable specification before any code is written, making the artefact auditable, testable, and reproducible — directly addressing the reproducibility gap identified in the SLR.
 
 ---
 

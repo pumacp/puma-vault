@@ -14,22 +14,26 @@ created: "{{date}}"
 
 # SRC: "{{author}}" ("{{year}}") — "{{short-title}}"
 
-**Full reference**: 
-
-**Type**: 
-**Context**: 
+> [!abstract] Source Summary
+> **Full reference**: 
+> **Type**: 
+> **Context**: 
 
 ---
 
 ## Key Contribution to PUMA
 
-
+*Explain how this source directly informs PUMA's research questions, methodology, or findings.*
 
 ---
 
 ## Permanent Notes Generated
 
-- 
+| Permanent Note | Concept captured |
+|----------------|-----------------|
+| | |
+
+---
 
 ## Literature Note
 

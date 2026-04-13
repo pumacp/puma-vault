@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 MAIA Master Class — De NLP a la IA Agéntica: Una visión general
 
-**Channel**: Universidad de los Andes
-**URL**: https://www.youtube.com/watch?v=u2Lpf1-ZURo
-**Relevance**: ⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: Universidad de los Andes
+> **URL**: https://www.youtube.com/watch?v=u2Lpf1-ZURo
+> **Relevance**: ⭐⭐⭐⭐
 
 ---
 

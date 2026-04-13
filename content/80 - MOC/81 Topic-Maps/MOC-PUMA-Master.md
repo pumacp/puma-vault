@@ -9,6 +9,7 @@ updated: 2026-04-06
 
 # 🗺️ MOC — PUMA Master Map
 
+> [!info] Overview
 > **Central navigation hub for the PUMA project.**
 > PUMA: Platform for Understanding and Management with Agents.
 > *"Can language models manage ICT projects?"*

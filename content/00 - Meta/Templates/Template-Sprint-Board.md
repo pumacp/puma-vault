@@ -51,9 +51,15 @@ created: "{{date}}"
 | Total tasks | |
 | Completed | |
 | Carried over | |
-| Velocity | |
+| Velocity (story points) | |
+| Completion rate | |
+
+---
 
 ## 🔍 Retrospective
+
+> [!note] Sprint Retrospective
+> Be honest and specific. What process changes will make next sprint better?
 
 **What went well**:
 

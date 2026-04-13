@@ -10,6 +10,7 @@ phase: [F2, F3, F4, F5]
 
 # ⚙️ Tools — Development Environment, IDE & Technical Stack
 
+> [!info] Overview
 > All development, coding, and infrastructure tools used in PUMA Stages F2–F4 (implementation).
 > Core principle: every tool choice supports reproducibility (Constitution Article 1).
 

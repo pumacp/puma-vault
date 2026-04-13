@@ -20,9 +20,9 @@ keshav-pass: 3
 
 # LN: Yao et al. (2022) — ReAct: Synergizing Reasoning and Acting
 
-**Citation**: Yao, S., Zhao, J., Yu, D., Du, N., Shafran, I., Narasimhan, K., & Cao, Y. (2022). *ReAct: Synergizing reasoning and acting in language models*. arXiv:2210.03629. https://arxiv.org/abs/2210.03629
-
-**Venue**: Presented at ICLR 2023.
+> [!cite] Bibliographic Reference
+> **Citation**: Yao, S., Zhao, J., Yu, D., Du, N., Shafran, I., Narasimhan, K., & Cao, Y. (2022). *ReAct: Synergizing reasoning and acting in language models*. arXiv:2210.03629. https://arxiv.org/abs/2210.03629
+> **Venue**: Presented at ICLR 2023.
 
 ---
 
@@ -36,7 +36,8 @@ keshav-pass: 3
 | **Contributions** | (1) ReAct paradigm: interleaves Thought–Action–Observation cycles; (2) 69% on HotpotQA vs 28% for Act-only; (3) Reduces hallucination via grounding in external observations |
 | **Clarity** | Excellent. Clear prompting examples. |
 
-**Relevance**: ⭐⭐⭐⭐⭐ — Foundation paper for PUMA Stage 4–5 agent architecture.
+> [!success] Relevance: ⭐⭐⭐⭐⭐
+> Foundation paper for PUMA Stage 4–5 agent architecture.
 
 ---
 

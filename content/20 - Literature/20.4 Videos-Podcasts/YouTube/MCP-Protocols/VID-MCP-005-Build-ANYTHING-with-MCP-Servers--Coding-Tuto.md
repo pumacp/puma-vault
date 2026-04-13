@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 Build ANYTHING with MCP Servers — Coding Tutorial
 
-**Channel**: Better Stack  
-**URL**: https://www.youtube.com/watch?v=sMqlObpNz64  
-**Relevance**: ⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: Better Stack  
+> **URL**: https://www.youtube.com/watch?v=sMqlObpNz64  
+> **Relevance**: ⭐⭐⭐⭐
 
 ---
 

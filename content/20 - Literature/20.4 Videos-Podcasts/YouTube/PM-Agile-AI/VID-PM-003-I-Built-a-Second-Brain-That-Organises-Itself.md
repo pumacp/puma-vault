@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 I Built a Second Brain That Organises Itself (and you can too!)
 
-**Channel**: Paul O'Malley  
-**URL**: https://www.youtube.com/watch?v=g8hmAjogElQ  
-**Relevance**: ⭐⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: Paul O'Malley  
+> **URL**: https://www.youtube.com/watch?v=g8hmAjogElQ  
+> **Relevance**: ⭐⭐⭐⭐⭐
 
 ---
 

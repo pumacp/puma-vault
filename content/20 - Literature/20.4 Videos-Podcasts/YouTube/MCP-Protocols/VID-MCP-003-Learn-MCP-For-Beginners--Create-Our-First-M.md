@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 Learn MCP! For Beginners + Create Our First MCP From Scratch
 
-**Channel**: midudev  
-**URL**: https://www.youtube.com/watch?v=wnHczxwukYY  
-**Relevance**: ⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: midudev  
+> **URL**: https://www.youtube.com/watch?v=wnHczxwukYY  
+> **Relevance**: ⭐⭐⭐⭐
 
 ---
 

@@ -25,7 +25,8 @@ The MIT AI Lab WP 316 three questions (Q1/Q2/Q3) operationalise active reading. 
 
 ## The Cognitive Offloading Risk
 
-Modern AI tools (Claude, Perplexity, NotebookLM) make it easy to ask a paper's questions *to an AI* rather than engaging with the text directly. This is efficient but dangerous: the AI produces a summary; the researcher never has to struggle with the text; the knowledge does not transfer.
+> [!warning] Risk of Delegating to AI
+> Modern AI tools (Claude, Perplexity, NotebookLM) make it easy to ask a paper's questions *to an AI* rather than engaging with the text directly. This is efficient but dangerous: the AI produces a summary; the researcher never has to struggle with the text; the knowledge does not transfer.
 
 **Cognitive offloading** (delegating thinking to AI) degrades the researcher's own synthesis capability over time. The Q1/Q2/Q3 framework must be applied by the researcher, not delegated. AI can *verify* or *challenge* your Q1/Q2/Q3 answers — but the answers must come first from you.
 

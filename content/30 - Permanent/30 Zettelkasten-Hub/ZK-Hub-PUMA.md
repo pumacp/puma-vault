@@ -62,12 +62,13 @@ SORT file.name ASC
 
 ## 🔗 Zettelkasten Rules (PUMA)
 
-1. **One idea per note**. If a note wants to say two things, split it.
-2. **Declarative title**. The title IS the claim. Example: ✅ "RAG retrieval improves precision when examples are structurally similar to the query" ❌ "RAG notes"
-3. **Never move a permanent note**. It lives in `30 - Permanent/` forever. Projects archive; knowledge does not.
-4. **Always link**. Every permanent note must link to: its source LN, at least one related PN, and one MOC.
-5. **Write in your own words**. No copy-paste from sources. If you can't restate it, you don't understand it yet.
-6. **Distinguish claim from evidence**. State the idea, then support it. Never bury the claim in the middle.
+> [!tip] Core Rules — Memorise These
+> 1. **One idea per note**. If a note wants to say two things, split it.
+> 2. **Declarative title**. The title IS the claim. Example: ✅ "RAG retrieval improves precision when examples are structurally similar to the query" ❌ "RAG notes"
+> 3. **Never move a permanent note**. It lives in `30 - Permanent/` forever. Projects archive; knowledge does not.
+> 4. **Always link**. Every permanent note must link to: its source LN, at least one related PN, and one MOC.
+> 5. **Write in your own words**. No copy-paste from sources. If you can't restate it, you don't understand it yet.
+> 6. **Distinguish claim from evidence**. State the idea, then support it. Never bury the claim in the middle.
 
 ---
 

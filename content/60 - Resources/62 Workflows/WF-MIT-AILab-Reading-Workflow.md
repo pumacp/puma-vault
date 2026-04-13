@@ -9,6 +9,7 @@ updated: 2026-04-06
 
 # 🔄 Workflow — MIT AI Lab Q1/Q2/Q3 + Keshav Integrated Reading
 
+> [!info] Overview
 > **Purpose**: Step-by-step protocol for processing a paper using Keshav Three-Pass as structure and MIT AI Lab WP 316 Q1/Q2/Q3 as the active reading mindset.
 >
 > **Time**: Pass 1: 10 min · Pass 2: 1h · Pass 3 + Q1/Q2/Q3: 2–5h

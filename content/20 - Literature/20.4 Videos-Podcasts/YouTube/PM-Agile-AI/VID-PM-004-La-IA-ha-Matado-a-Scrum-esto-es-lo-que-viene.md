@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 La IA ha Matado a Scrum (esto es lo que viene Ahora)
 
-**Channel**: Javier Garzás  
-**URL**: https://www.youtube.com/watch?v=jrTrihcZZlc  
-**Relevance**: ⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: Javier Garzás  
+> **URL**: https://www.youtube.com/watch?v=jrTrihcZZlc  
+> **Relevance**: ⭐⭐⭐⭐
 
 ---
 

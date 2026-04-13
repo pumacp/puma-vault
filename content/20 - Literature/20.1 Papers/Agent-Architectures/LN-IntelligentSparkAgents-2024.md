@@ -20,8 +20,8 @@ keshav-pass: 1
 
 # LN: Zhang et al. (2024) — Intelligent Spark Agents: A Modular LangGraph Framework
 
-**Citation**: Zhang, W., Liu, H., Chen, M., & Wang, J. (2024). *Intelligent Spark agents: A modular LangGraph framework for scalable, visualized, and enhanced big data machine learning workflows*. arXiv:2412.01490. https://arxiv.org/abs/2412.01490
-
+> [!cite] Bibliographic Reference
+> **Citation**: Zhang, W., Liu, H., Chen, M., & Wang, J. (2024). *Intelligent Spark agents: A modular LangGraph framework for scalable, visualized, and enhanced big data machine learning workflows*. arXiv:2412.01490. https://arxiv.org/abs/2412.01490
 *(This paper is in the PUMA project knowledge PDFs as "Intelligent_Spark_Agents_A_Modular_LangGraph_Framework_2412.01490v4.pdf")*
 
 ---
@@ -36,7 +36,8 @@ keshav-pass: 1
 | **Contributions** | (1) LangGraph-based modular agent orchestration for Spark; (2) Visualised workflow graphs; (3) Integration with SQL and ML tools |
 | **Clarity** | Good. |
 
-**Relevance**: ⭐⭐⭐ — Demonstrates LangGraph's viability for modular agentic pipelines in data processing contexts. PUMA Stage 4 uses LangGraph for the RAG-enhanced triage agent. This paper validates LangGraph as a suitable orchestration framework.
+> [!success] Relevance: ⭐⭐⭐
+> Demonstrates LangGraph's viability for modular agentic pipelines in data processing contexts. PUMA Stage 4 uses LangGraph for the RAG-enhanced triage agent. This paper validates LangGraph as a suitable orchestration framework.
 
 ---
 

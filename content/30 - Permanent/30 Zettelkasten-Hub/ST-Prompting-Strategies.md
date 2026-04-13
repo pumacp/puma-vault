@@ -16,6 +16,9 @@ created: 2026-04-06
 
 ## Core Claims (linked permanent notes)
 
+> [!note] Cluster Summary
+> Six interconnected claims about how prompting strategy choice affects LLM performance and reproducibility in PM tasks.
+
 1. **CoT improves structured classification** → [[30 - Permanent/31 Concepts/PN-CoT-FewShot-Prompting]]
 2. **Few-shot k has non-monotonic effect on MAE** → [[30 - Permanent/31 Concepts/PN-CoT-FewShot-Prompting]]
 3. **Local LLMs trade capability for reproducibility** → [[30 - Permanent/31 Concepts/PN-LLM-Local-vs-Cloud]]

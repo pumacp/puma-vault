@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 How to implement secure MCP patterns: Identity, authorization, and runtime protection
 
-**Channel**: Google Cloud Tech  
-**URL**: https://www.youtube.com/watch?v=9CoVNqbLdZU  
-**Relevance**: ⭐⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: Google Cloud Tech  
+> **URL**: https://www.youtube.com/watch?v=9CoVNqbLdZU  
+> **Relevance**: ⭐⭐⭐⭐⭐
 
 ---
 

@@ -9,6 +9,7 @@ updated: 2026-04-06
 
 # 🔧 MOC — PUMA Full Technology Stack
 
+> [!info] Overview
 > Complete technology map for the PUMA project, organised by category.  
 > Tool selection principle: [[30 - Permanent/31 Concepts/PN-ToolSelection-PUMA]]
 

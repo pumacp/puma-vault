@@ -12,9 +12,13 @@ created: 2026-04-06
 
 # PER: Shunyu Yao
 
-**Known for PUMA**: Author of ReAct (2022) — the foundational paper for PUMA's Stage 4 agent architecture — and Tree of Thoughts (2023), relevant for Stage 3 backlog prioritisation.
+> [!info] PUMA Context
 
-**Key contribution**: ReAct's Thought-Action-Observation loop is the base pattern for all PUMA agent stages from Stage 4 onwards. The paper's empirical demonstration that grounding LLM reasoning in external observations reduces hallucination is directly relevant to PUMA's triage agent design.
+> [!info] Overview
+> Author of ReAct (2022) — the foundational paper for PUMA's Stage 4 agent architecture — and Tree of Thoughts (2023), relevant for Stage 3 backlog prioritisation.
+
+> [!info] Key Contribution
+> ReAct's Thought-Action-Observation loop is the base pattern for all PUMA agent stages from Stage 4 onwards. The paper's empirical demonstration that grounding LLM reasoning in external observations reduces hallucination is directly relevant to PUMA's triage agent design.
 
 **Related notes**:
 - [[20 - Literature/20.1 Papers/LLM-Agents-General/LN-Yao-2022-ReAct]]

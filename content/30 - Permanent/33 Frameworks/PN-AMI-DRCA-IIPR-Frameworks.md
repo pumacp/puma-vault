@@ -11,7 +11,10 @@ maturity: evergreen
 
 # AMI — Autodiagnosis & Iterative Improvement
 
-> **Atomic claim:** AMI is a structured feedback loop where you present your own work to an AI, request a critical diagnosis using defined criteria, then iterate — using the AI as an external critic while retaining full authorship.
+> [!abstract] Atomic Claim
+
+> [!info] Overview
+> AMI is a structured feedback loop where you present your own work to an AI, request a critical diagnosis using defined criteria, then iterate — using the AI as an external critic while retaining full authorship.
 
 ## 💡 The Three-Step Loop
 
@@ -57,7 +60,8 @@ title: "DRCA — Deconstrucción y Reconstrucción Conceptual Avanzada"
 
 # DRCA — Advanced Conceptual Deconstruction & Reconstruction
 
-> **Atomic claim:** DRCA is a four-step cognitive procedure for deeply processing any complex concept or paper: Deconstruct its components, Reconstruct in your own framework, perform Critical analysis, then Advance by generating original output.
+> [!abstract] Atomic Claim
+> DRCA is a four-step cognitive procedure for deeply processing any complex concept or paper: Deconstruct its components, Reconstruct in your own framework, perform Critical analysis, then Advance by generating original output.
 
 ## 💡 The Four Steps
 
@@ -82,7 +86,8 @@ title: "IIPR — Ingeniería Inversa de Prompts y Respuestas"
 
 # IIPR — Inverse Prompt Engineering
 
-> **Atomic claim:** IIPR is the practice of reverse-engineering why a prompt produced a poor result, then systematically redesigning the prompt structure to achieve the desired output — treating prompts as testable specifications.
+> [!abstract] Atomic Claim
+> IIPR is the practice of reverse-engineering why a prompt produced a poor result, then systematically redesigning the prompt structure to achieve the desired output — treating prompts as testable specifications.
 
 ## 💡 The IIPR Protocol
 

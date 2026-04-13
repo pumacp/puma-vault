@@ -8,6 +8,7 @@ created: 2026-03-01
 
 # 📆 Weekly Review
 
+> [!info] Overview
 > Copy this template each week: rename to `GT-Weekly-{{year}}-W{{week}}.md`
 > Full template: [[00 - Meta/Templates/Template-Weekly-Review]]
 

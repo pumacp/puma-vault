@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 OpenSpec is Insane: Spec Driven Development is 100X Better Than Vibe Coding
 
-**Channel**: AI Stack Studio
-**URL**: https://www.youtube.com/watch?v=wZFOW89Lsc0
-**Relevance**: ⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: AI Stack Studio
+> **URL**: https://www.youtube.com/watch?v=wZFOW89Lsc0
+> **Relevance**: ⭐⭐⭐⭐
 
 ---
 

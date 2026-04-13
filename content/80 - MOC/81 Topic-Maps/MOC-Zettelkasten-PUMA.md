@@ -9,6 +9,7 @@ updated: 2026-04-06
 
 # 🗃️ MOC — Zettelkasten PUMA Knowledge Graph
 
+> [!info] Overview
 > Navigation map for the Zettelkasten layer of the PUMA vault.
 > Inspired by [Obsidian Zettelkasten Starter Kit](https://github.com/groepl/Obsidian-Zettelkasten-Starter-Kit) by Edmund Gröpl.
 

@@ -9,6 +9,7 @@ updated: 2026-04-06
 
 # 🤖 BMAD Agent Prompts — PUMA Project
 
+> [!info] Overview
 > All prompts follow RCOIF structure: Role · Context · Objective · Instructions · Format.
 > CDD principle: every prompt anchors to the PUMA project context explicitly.
 > See [[40 - Projects/PUMA/41.9 BMAD-Agents/BMAD-Agent-Roster]] for agent definitions.

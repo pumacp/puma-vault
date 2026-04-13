@@ -125,10 +125,12 @@ git add [file]
 git commit -m "fix: resolve merge conflict in [file]"
 ```
 
-**Reset to last commit (discard unsaved changes):**
-```bash
-git checkout -- .   # ⚠️ IRREVERSIBLE — only use if sure
-```
+> [!danger] Irreversible Operation
+> **Reset to last commit (discard unsaved changes):**
+> ```bash
+> git checkout -- .   # ⚠️ IRREVERSIBLE — only use if sure
+> ```
+> This permanently discards all uncommitted changes. Cannot be undone.
 
 **View history of a specific note:**
 ```bash

@@ -20,8 +20,8 @@ keshav-pass: 2
 
 # LN: Masterman et al. (2024) — The Landscape of Emerging AI Agent Architectures: A Survey
 
-**Citation**: Masterman, T., Besen, S., Sawtell, M., & Chao, A. (2024). *The landscape of emerging AI agent architectures for reasoning, planning, and tool calling: A survey*. arXiv:2404.11584. https://arxiv.org/abs/2404.11584
-
+> [!cite] Bibliographic Reference
+> **Citation**: Masterman, T., Besen, S., Sawtell, M., & Chao, A. (2024). *The landscape of emerging AI agent architectures for reasoning, planning, and tool calling: A survey*. arXiv:2404.11584. https://arxiv.org/abs/2404.11584
 *(This paper is in the PUMA project knowledge PDFs as "The_Landscape_of_Emerging_AI_Agent_Architectures_for_Reasoning_Planning_and_Tool_Calling_A_Survey_2404.11584v1.pdf")*
 
 ---
@@ -36,7 +36,8 @@ keshav-pass: 2
 | **Contributions** | (1) Taxonomy: single-agent vs. multi-agent; (2) Reasoning patterns: CoT, ToT, ReAct, Reflexion; (3) Planning: task decomposition, tool selection; (4) Tool integration patterns |
 | **Clarity** | Excellent. Well-organised reference. |
 
-**Relevance**: ⭐⭐⭐⭐ — Provides the theoretical taxonomy for classifying PUMA's agent architecture choices. Essential reference for Ch.2 state-of-the-art section.
+> [!success] Relevance: ⭐⭐⭐⭐
+> Provides the theoretical taxonomy for classifying PUMA's agent architecture choices. Essential reference for Ch.2 state-of-the-art section.
 
 ---
 

@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 you need to learn MCP RIGHT NOW!! (Model Context Protocol)
 
-**Channel**: NetworkChuck  
-**URL**: https://www.youtube.com/watch?v=GuTcle5edjk  
-**Relevance**: ⭐⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: NetworkChuck  
+> **URL**: https://www.youtube.com/watch?v=GuTcle5edjk  
+> **Relevance**: ⭐⭐⭐⭐⭐
 
 ---
 

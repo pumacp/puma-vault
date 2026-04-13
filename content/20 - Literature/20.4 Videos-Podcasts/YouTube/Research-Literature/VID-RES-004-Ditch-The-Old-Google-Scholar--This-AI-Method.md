@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 Ditch The Old Google Scholar — This AI Method Finds Papers 10x Faster
 
-**Channel**: Andy Stapleton
-**URL**: https://www.youtube.com/watch?v=qP7ukloRLCk
-**Relevance**: ⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: Andy Stapleton
+> **URL**: https://www.youtube.com/watch?v=qP7ukloRLCk
+> **Relevance**: ⭐⭐⭐⭐
 
 ---
 

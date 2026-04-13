@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 How to Build a Scalable RAG System for AI Apps (Full Architecture)
 
-**Channel**: ByteMonk
-**URL**: https://www.youtube.com/watch?v=4KiiKQ9RVvA
-**Relevance**: ⭐⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: ByteMonk
+> **URL**: https://www.youtube.com/watch?v=4KiiKQ9RVvA
+> **Relevance**: ⭐⭐⭐⭐⭐
 
 ---
 

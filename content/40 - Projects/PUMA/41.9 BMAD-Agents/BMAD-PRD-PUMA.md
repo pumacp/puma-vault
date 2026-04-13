@@ -12,6 +12,7 @@ updated: 2026-04-06
 
 # 📋 PUMA — Product Requirements Document (PRD)
 
+> [!info] Overview
 > **BMAD Phase 2 artefact.** This PRD defines WHAT the system must do and WHY.
 > Reviewed by: Advisor (Architect role). Approved: 2026-04-01.
 > Downstream: [[40 - Projects/PUMA/41.6 Specs/SP-Architecture]]

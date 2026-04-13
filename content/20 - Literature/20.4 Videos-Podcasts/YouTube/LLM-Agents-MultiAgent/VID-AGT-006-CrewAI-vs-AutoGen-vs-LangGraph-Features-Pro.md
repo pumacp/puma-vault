@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 CrewAI vs AutoGen vs LangGraph: Features, Pros & Cons Compared (2026)
 
-**Channel**: GuideToEverything
-**URL**: https://www.youtube.com/watch?v=kVqk_eCEOns
-**Relevance**: ⭐⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: GuideToEverything
+> **URL**: https://www.youtube.com/watch?v=kVqk_eCEOns
+> **Relevance**: ⭐⭐⭐⭐⭐
 
 ---
 

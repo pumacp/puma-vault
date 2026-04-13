@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 Did you like NotebookLM? Create it yourself from scratch (RAG Masterclass)
 
-**Channel**: Javi Manzano
-**URL**: https://www.youtube.com/watch?v=N3IN2pG6ZMM
-**Relevance**: ⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: Javi Manzano
+> **URL**: https://www.youtube.com/watch?v=N3IN2pG6ZMM
+> **Relevance**: ⭐⭐⭐⭐
 
 ---
 

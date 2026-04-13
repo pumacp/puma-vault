@@ -8,6 +8,7 @@ created: 2026-03-01
 
 # Ethics Review Log — PUMA
 
+> [!info] Overview
 > Tracks ethical considerations and decisions made throughout the project.
 
 ## Ethical Risk Register

@@ -20,8 +20,8 @@ keshav-pass: 2
 
 # LN: Dorri et al. (2025) — Orchestrating Human-AI Teams: The Manager Agent as a Unifying Challenge
 
-**Citation**: Dorri, A., Xu, C., Jaques, N., Finn, C., & Russell, S. (2025). *Orchestrating human-AI teams: The manager agent as a unifying challenge*. arXiv:2510.02557. DAI 2025. https://arxiv.org/abs/2510.02557
-
+> [!cite] Bibliographic Reference
+> **Citation**: Dorri, A., Xu, C., Jaques, N., Finn, C., & Russell, S. (2025). *Orchestrating human-AI teams: The manager agent as a unifying challenge*. arXiv:2510.02557. DAI 2025. https://arxiv.org/abs/2510.02557
 *(This paper is in the PUMA project knowledge PDFs as "Orchestrating_Human-AI_Teams_The_Manager_Agent_as_a_Unifying_Challenge_2510.02557v1.pdf")*
 
 ---
@@ -36,7 +36,8 @@ keshav-pass: 2
 | **Contributions** | (1) Manager Agent taxonomy and competency framework; (2) GPT-5 outperforms GPT-4.1 on goal achievement by consistent margin; (3) Research agenda for building capable Manager Agents; (4) Human-AI team design principles |
 | **Clarity** | Excellent. |
 
-**Relevance**: ⭐⭐⭐⭐ — The Manager Agent concept is central to PUMA Stage 5 (Smart PMO orchestrator). This paper's competency framework provides the evaluation dimensions for a future PUMA PM Manager Agent.
+> [!success] Relevance: ⭐⭐⭐⭐
+> The Manager Agent concept is central to PUMA Stage 5 (Smart PMO orchestrator). This paper's competency framework provides the evaluation dimensions for a future PUMA PM Manager Agent.
 
 ---
 

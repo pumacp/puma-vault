@@ -20,7 +20,8 @@ keshav-pass: 2
 
 # LN: Yao et al. (2023) — Tree of Thoughts: Deliberate Problem Solving with Large Language Models
 
-**Citation**: Yao, S., Yu, D., Zhao, J., et al. (2023). *Tree of thoughts: Deliberate problem solving with large language models*. arXiv:2305.10601. NeurIPS 2023. https://arxiv.org/abs/2305.10601
+> [!cite] Bibliographic Reference
+> **Citation**: Yao, S., Yu, D., Zhao, J., et al. (2023). *Tree of thoughts: Deliberate problem solving with large language models*. arXiv:2305.10601. NeurIPS 2023. https://arxiv.org/abs/2305.10601
 
 ---
 
@@ -34,7 +35,8 @@ keshav-pass: 2
 | **Contributions** | (1) Tree search over reasoning steps; (2) LLM evaluates intermediate steps; (3) BFS/DFS/beam search variants; (4) 74% on Game of 24 vs. 4% for standard CoT |
 | **Clarity** | Excellent. Clear algorithm descriptions. |
 
-**Relevance**: ⭐⭐⭐ — ToT is relevant for PUMA's complex backlog prioritisation (Stage 3) where multiple alternative orderings need to be evaluated. Too expensive for high-volume triage (Stage 1).
+> [!success] Relevance: ⭐⭐⭐
+> ToT is relevant for PUMA's complex backlog prioritisation (Stage 3) where multiple alternative orderings need to be evaluated. Too expensive for high-volume triage (Stage 1).
 
 ---
 

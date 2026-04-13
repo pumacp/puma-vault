@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 Context Engineering Clearly Explained
 
-**Channel**: Tina Huang  
-**URL**: https://www.youtube.com/watch?v=jLuwLJBQkIs  
-**Relevance**: ⭐⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: Tina Huang  
+> **URL**: https://www.youtube.com/watch?v=jLuwLJBQkIs  
+> **Relevance**: ⭐⭐⭐⭐⭐
 
 ---
 

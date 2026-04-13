@@ -18,7 +18,8 @@ keshav-pass: 3
 
 # LN: Angermeir (2025) — Reproducibility of LLM Studies in SE
 
-**Citation**: Angermeir, F., Kalinowski, M., & Méndez, D. (2025). *Reproducibility of LLM studies in software engineering* [Preprint]. arXiv:2510.25506.
+> [!cite] Bibliographic Reference
+> **Citation**: Angermeir, F., Kalinowski, M., & Méndez, D. (2025). *Reproducibility of LLM studies in software engineering* [Preprint]. arXiv:2510.25506.
 
 ---
 
@@ -32,7 +33,8 @@ keshav-pass: 3
 | **Contributions** | (1) Only 5/18 papers with published artefacts are executable. (2) Zero papers are fully reproducible end-to-end. (3) Taxonomy of reproducibility failures. |
 | **Clarity** | Excellent. Well-structured, clear definitions. |
 
-**Relevance**: ⭐⭐⭐⭐⭐ (5/5) — **Directly justifies PUMA's reproducibility design**
+> [!success] Relevance: ⭐⭐⭐⭐⭐ (5/5)
+> **Directly justifies PUMA's reproducibility design**
 
 ---
 

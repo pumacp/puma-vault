@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 Gemini CLI — Google's Free Open-Source Coding Agent
 
-**Channel**: Prompt Engineering  
-**URL**: https://www.youtube.com/watch?v=ZWfZQa05C8s  
-**Relevance**: ⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: Prompt Engineering  
+> **URL**: https://www.youtube.com/watch?v=ZWfZQa05C8s  
+> **Relevance**: ⭐⭐⭐⭐
 
 ---
 

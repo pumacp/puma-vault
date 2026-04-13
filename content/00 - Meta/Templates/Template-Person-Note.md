@@ -12,6 +12,18 @@ created: "{{date}}"
 
 # PER: "{{full-name}}"
 
+> [!info] Person Summary
+> | Field | Value |
+> |-------|-------|
+> | **Role** | |
+> | **Affiliation** | |
+> | **Field** | |
+> | **Known for** | |
+
+---
+
+## Relevance to PUMA
+
 **Known for PUMA**: 
 
 **Key contribution**: 
@@ -20,6 +32,6 @@ created: "{{date}}"
 
 ---
 
-## Related notes
+## Related Notes
 
 - 

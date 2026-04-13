@@ -10,6 +10,7 @@ total-videos: 281
 
 # 🎬 MOC — PUMA Video Library (Master Map)
 
+> [!info] Overview
 > Complete navigation map for all 280+ research and development videos.
 > Videos are classified by thematic category and relevance to PUMA stages.
 > ⭐⭐⭐⭐⭐ = Critical for PUMA · ⭐⭐⭐⭐ = Highly relevant · ⭐⭐⭐ = Useful background

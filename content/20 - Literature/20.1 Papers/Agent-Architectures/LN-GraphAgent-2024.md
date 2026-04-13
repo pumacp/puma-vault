@@ -20,9 +20,13 @@ keshav-pass: 1
 
 # LN: Hu et al. (2024) — GraphAgent: Agentic Graph Language Assistant
 
-**Citation**: Hu, Y., Yuan, Z., Huang, B., et al. (2024). *GraphAgent: Agentic graph language assistant*. arXiv:2412.17029. EMNLP 2025. https://arxiv.org/abs/2412.17029
+> [!cite] Bibliographic Reference
+> **Citation**: Hu, Y., Yuan, Z., Huang, B., et al. (2024). *GraphAgent: Agentic graph language assistant*. arXiv:2412.17029. EMNLP 2025. https://arxiv.org/abs/2412.17029
 
-**Important note**: The bibliography entry "Wang et al. (2024). The impact of sentiment polarity on ticket resolution time. arXiv:2412.17029" is **incorrect**. The verified paper at arXiv:2412.17029 is GraphAgent, not a ticket sentiment paper. The "ticket resolution time" paper does not exist in any academic database.
+> [!warning] Important Note
+
+> [!info] Overview
+> The bibliography entry "Wang et al. (2024). The impact of sentiment polarity on ticket resolution time. arXiv:2412.17029" is **incorrect**. The verified paper at arXiv:2412.17029 is GraphAgent, not a ticket sentiment paper. The "ticket resolution time" paper does not exist in any academic database.
 
 *(This paper is in the PUMA project knowledge PDFs as "GraphAgent_Agentic_Graph_Language_Assistant_2412.17029v1.pdf")*
 
@@ -38,7 +42,8 @@ keshav-pass: 1
 | **Contributions** | (1) Unified agent for graph-structured and text data; (2) Plan-then-execute framework for graph operations; (3) Better than specialised graph models on hybrid tasks |
 | **Clarity** | Good. |
 
-**Relevance**: ⭐⭐⭐ — Relevant for PUMA Stage 4–5 where the project knowledge graph (issues, dependencies, sprint history) could be represented as a graph and queried agentically.
+> [!success] Relevance: ⭐⭐⭐
+> Relevant for PUMA Stage 4–5 where the project knowledge graph (issues, dependencies, sprint history) could be represented as a graph and queried agentically.
 
 ## MOCs
 

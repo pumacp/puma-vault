@@ -9,6 +9,7 @@ updated: 2026-04-06
 
 # 🤖 BMAD Agent Roster — PUMA Project
 
+> [!info] Overview
 > **BMAD Method** (Breakthrough Method for Agile AI-Driven Development): simulate a full agile team using specialised AI personas. Each agent has a defined role, commands, and responsibilities.
 
 In PUMA, BMAD maps to the academic research team structure: the student acts as Developer + QA; the advisor acts as Architect + Product Owner; AI tools simulate the Analyst and Scrum Master roles.

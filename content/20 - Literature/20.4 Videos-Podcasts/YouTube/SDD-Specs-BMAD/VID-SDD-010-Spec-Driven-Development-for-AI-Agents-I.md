@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 Spec-Driven Development for AI Agents: I Tried OpenSpec and Others
 
-**Channel**: AI Coding Daily
-**URL**: https://www.youtube.com/watch?v=d3Glwdf_xA8
-**Relevance**: ⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: AI Coding Daily
+> **URL**: https://www.youtube.com/watch?v=d3Glwdf_xA8
+> **Relevance**: ⭐⭐⭐⭐
 
 ---
 

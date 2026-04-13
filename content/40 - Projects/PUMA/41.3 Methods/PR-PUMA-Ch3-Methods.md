@@ -15,6 +15,8 @@ updated: 2026-03-18
 # Chapter 3 — Materials & Methods
 
 > **Goal:** Provide a complete, reproducible description of the PUMA benchmark.
+
+> [!info] Overview
 > Anyone with this chapter should be able to replicate the experiment independently.
 > **SDD approach:** Write specs first → describe implementation in this chapter.
 

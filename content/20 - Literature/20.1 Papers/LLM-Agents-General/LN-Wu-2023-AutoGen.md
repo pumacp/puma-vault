@@ -20,9 +20,9 @@ keshav-pass: 2
 
 # LN: Wu et al. (2023) — AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation
 
-**Citation**: Wu, Q., Bansal, G., Zhang, J., et al. (2023). *AutoGen: Enabling next-gen LLM applications via multi-agent conversation*. arXiv:2308.08155. https://arxiv.org/abs/2308.08155
-
-**Affiliation**: Microsoft Research
+> [!cite] Bibliographic Reference
+> **Citation**: Wu, Q., Bansal, G., Zhang, J., et al. (2023). *AutoGen: Enabling next-gen LLM applications via multi-agent conversation*. arXiv:2308.08155. https://arxiv.org/abs/2308.08155
+> **Affiliation**: Microsoft Research
 
 ---
 
@@ -36,7 +36,8 @@ keshav-pass: 2
 | **Contributions** | (1) Conversational multi-agent framework with customisable roles; (2) Human-in-the-loop support; (3) Code execution agents with sandbox; (4) Widely adopted open-source framework (100k+ stars) |
 | **Clarity** | Excellent. Well-documented with code examples. |
 
-**Relevance**: ⭐⭐⭐⭐ — AutoGen is the most widely adopted multi-agent framework. Relevant as alternative to LangGraph for PUMA Stage 5.
+> [!success] Relevance: ⭐⭐⭐⭐
+> AutoGen is the most widely adopted multi-agent framework. Relevant as alternative to LangGraph for PUMA Stage 5.
 
 ---
 

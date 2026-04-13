@@ -19,9 +19,13 @@ keshav-pass: 2
 
 # LN: Bruneliere et al. (2022) — AIDOaRt: AI-augmented Automation for DevOps
 
-**Citation**: Bruneliere, H., Muttillo, V., Eramo, R., et al. (2022). AIDOaRt: AI-augmented automation for DevOps, a model-based framework for continuous development in cyber-physical systems. *Microprocessors and Microsystems*, **94**, 104672. https://doi.org/10.1016/j.micpro.2022.104672
+> [!cite] Bibliographic Reference
+> **Citation**: Bruneliere, H., Muttillo, V., Eramo, R., et al. (2022). AIDOaRt: AI-augmented automation for DevOps, a model-based framework for continuous development in cyber-physical systems. *Microprocessors and Microsystems*, **94**, 104672. https://doi.org/10.1016/j.micpro.2022.104672
 
-**Important note**: The bibliography lists "Zampetti et al." as the first author (incorrect) and volume 90 (incorrect). The **verified** first author is **Hugo Bruneliere** and the volume is **94**.
+> [!warning] Important Note
+
+> [!info] Overview
+> The bibliography lists "Zampetti et al." as the first author (incorrect) and volume 90 (incorrect). The **verified** first author is **Hugo Bruneliere** and the volume is **94**.
 
 ---
 
@@ -35,7 +39,8 @@ keshav-pass: 2
 | **Contributions** | (1) AI-augmented automation framework for DevOps pipelines; (2) Model-based approach to integrating AI into CI/CD; (3) Covers requirements, testing, monitoring, and deployment phases |
 | **Clarity** | Good. Framework-level paper. |
 
-**Relevance**: ⭐⭐⭐ — AIDOaRt addresses AI in DevOps at the pipeline level. PUMA's scope (issue triage, estimation) is narrower but related. Reference for contextualising PUMA within the broader AI-augmented SE ecosystem.
+> [!success] Relevance: ⭐⭐⭐
+> AIDOaRt addresses AI in DevOps at the pipeline level. PUMA's scope (issue triage, estimation) is narrower but related. Reference for contextualising PUMA within the broader AI-augmented SE ecosystem.
 
 ---
 

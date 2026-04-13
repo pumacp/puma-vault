@@ -10,6 +10,7 @@ source: "PUMA Project Technical Glosary v5.0"
 
 # 📖 Glossary Supplement — Extended Technical Terms
 
+> [!info] Overview
 > **Supplement to**: [[60 - Resources/64 Glossary/Glossary-Master]]
 > This file adds terms from the full PUMA Project technical glossary (v5.0, 139 terms) not yet in the Master.
 > All definitions in English. Organised by PUMA Project glossary categories.

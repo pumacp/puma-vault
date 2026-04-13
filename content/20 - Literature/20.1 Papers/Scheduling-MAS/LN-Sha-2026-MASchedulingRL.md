@@ -19,9 +19,13 @@ keshav-pass: 1
 
 # LN: Sha et al. (2026) — Multi-Agent RL Scheduling with State and Task Graph Structural Modeling
 
-**Citation**: Sha, J., Song, M., Sui, G., Sun, H., & Dong, D. (2026). A multi-agent reinforcement learning scheduling algorithm integrating state graph and task graph structural modeling for ride-sharing dispatching. *Scientific Reports*, *16*. https://doi.org/10.1038/s41598-026-35004-8
+> [!cite] Bibliographic Reference
+> **Citation**: Sha, J., Song, M., Sui, G., Sun, H., & Dong, D. (2026). A multi-agent reinforcement learning scheduling algorithm integrating state graph and task graph structural modeling for ride-sharing dispatching. *Scientific Reports*, *16*. https://doi.org/10.1038/s41598-026-35004-8
 
-**Important note**: The bibliography's description ("applied to project scheduling") is misleading. The **verified** paper is specifically about **ride-sharing vehicle dispatch**. The techniques (MARL + state graph + task graph) are transferable to PM scheduling, but the paper itself does not address project management.
+> [!warning] Important Note
+
+> [!info] Overview
+> The bibliography's description ("applied to project scheduling") is misleading. The **verified** paper is specifically about **ride-sharing vehicle dispatch**. The techniques (MARL + state graph + task graph) are transferable to PM scheduling, but the paper itself does not address project management.
 
 ---
 
@@ -35,7 +39,8 @@ keshav-pass: 1
 | **Contributions** | (1) State graph captures environment dynamics; (2) Task graph models dependency structure; (3) Combined graph neural network for MARL scheduling |
 | **Clarity** | Technical. Clear algorithm descriptions. |
 
-**Relevance**: ⭐⭐⭐ — The graph-based MARL approach is technically transferable to PM sprint scheduling (dependency graph of tasks). However, the paper is about ride-sharing, so this is a methodological transfer reference, not a direct PM paper.
+> [!success] Relevance: ⭐⭐⭐
+> The graph-based MARL approach is technically transferable to PM sprint scheduling (dependency graph of tasks). However, the paper is about ride-sharing, so this is a methodological transfer reference, not a direct PM paper.
 
 ---
 

@@ -21,9 +21,13 @@ updated: 2026-04-07
 
 ## Pass 1 — Bird's Eye
 
-**Type**: Research paper — Theoretical Physics
-**Main Claim**: Single-minus gluon tree amplitudes (traditionally assumed zero) are nonzero in specific regimes (half-collinear, Klein space, complex momenta). GPT-5.2 Pro played a central role in deriving the closed-form expression.
-**Relevance to PUMA**: ⭐⭐ Medium — key example for PUMA's state-of-the-art section on AI-generated knowledge; demonstrates AI can correct human beliefs in theoretical physics.
+> [!abstract] Main Claim
+> Single-minus gluon tree amplitudes (traditionally assumed zero) are nonzero in specific regimes. GPT-5.2 Pro played a central role in deriving the closed-form expression, correcting an established belief in theoretical physics.
+
+| Property | Detail |
+|----------|--------|
+| **Type** | Research paper — Theoretical Physics |
+| **Relevance to PUMA** | ⭐⭐ Medium — key example for PUMA's state-of-the-art section on AI-generated knowledge; demonstrates AI can correct human beliefs |
 
 ## Pass 2 — Key Content
 

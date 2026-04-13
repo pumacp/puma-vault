@@ -8,6 +8,7 @@ created: 2026-03-01
 
 # 🧠 Concepts — Permanent Notes Guide
 
+> [!info] Overview
 > Atomic concept notes. Each note = exactly one idea. Use [[00 - Meta/Templates/Template-Permanent-Note]].
 
 ## Rules for Permanent Notes

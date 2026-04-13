@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 This EMBARRASSING AI-Generated Paper Exposed a Billion-Dollar Problem
 
-**Channel**: Andy Stapleton
-**URL**: https://www.youtube.com/watch?v=DujMeMHHfDc
-**Relevance**: ⭐⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: Andy Stapleton
+> **URL**: https://www.youtube.com/watch?v=DujMeMHHfDc
+> **Relevance**: ⭐⭐⭐⭐⭐
 
 ---
 

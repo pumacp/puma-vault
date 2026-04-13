@@ -20,8 +20,8 @@ keshav-pass: 1
 
 # LN: Ning et al. (2024) — A Taxonomy of Architecture Options for Foundation Model-based Agents
 
-**Citation**: Ning, Z., Lu, H., Wang, G., & Zheng, Y. (2024). *A taxonomy of architecture options for foundation model-based agents: Analysis and decision model*. arXiv:2408.02920. https://arxiv.org/abs/2408.02920
-
+> [!cite] Bibliographic Reference
+> **Citation**: Ning, Z., Lu, H., Wang, G., & Zheng, Y. (2024). *A taxonomy of architecture options for foundation model-based agents: Analysis and decision model*. arXiv:2408.02920. https://arxiv.org/abs/2408.02920
 *(This paper is in the PUMA project knowledge PDFs as "A_Taxonomy_of_Architecture_Options_for_Foundation_Model-based_Agents_Analysis_and_Decision_Model_2408.02920v1.pdf")*
 
 ---
@@ -36,7 +36,8 @@ keshav-pass: 1
 | **Contributions** | (1) Multi-dimensional taxonomy of agent architecture dimensions; (2) Decision model for selecting architecture based on task requirements; (3) Analysis of tradeoffs between complexity, cost, and capability |
 | **Clarity** | Good. Decision model is practical. |
 
-**Relevance**: ⭐⭐⭐⭐ — Provides a systematic decision framework for PUMA's architectural choices: single vs. multi-agent, reactive vs. deliberative, with/without memory, etc.
+> [!success] Relevance: ⭐⭐⭐⭐
+> Provides a systematic decision framework for PUMA's architectural choices: single vs. multi-agent, reactive vs. deliberative, with/without memory, etc.
 
 ---
 

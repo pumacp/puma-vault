@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 MISO Master Class — RAG en entornos reales y los desafíos con LLMs
 
-**Channel**: Universidad de los Andes
-**URL**: https://www.youtube.com/watch?v=CwWEOIc2hmg
-**Relevance**: ⭐⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: Universidad de los Andes
+> **URL**: https://www.youtube.com/watch?v=CwWEOIc2hmg
+> **Relevance**: ⭐⭐⭐⭐⭐
 
 ---
 

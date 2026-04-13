@@ -32,7 +32,8 @@ keshav-pass: 3
 | **Contributions** | (1) Three active reading questions for papers. (2) Framework for choosing a research direction. (3) Advice on writing, collaboration, and intellectual honesty. |
 | **Clarity** | Very clear. Written for intelligent non-experts (first-year graduate students). |
 
-**Relevance**: ⭐⭐⭐⭐⭐ — Foundational document for the MIT Student Method / reading framework used in PUMA.
+> [!success] Relevance: ⭐⭐⭐⭐⭐
+> Foundational document for the MIT Student Method / reading framework used in PUMA.
 
 ---
 

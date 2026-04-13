@@ -20,7 +20,8 @@ keshav-pass: 1
 
 # LN: Zelikman et al. (2024) — Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking
 
-**Citation**: Zelikman, E., Harik, G., Shao, Y., Jayasiri, V., Haber, N., & Goodman, N. D. (2024). *Quiet-STaR: Language models can teach themselves to think before speaking*. arXiv:2403.09629. COLM 2024. https://arxiv.org/abs/2403.09629
+> [!cite] Bibliographic Reference
+> **Citation**: Zelikman, E., Harik, G., Shao, Y., Jayasiri, V., Haber, N., & Goodman, N. D. (2024). *Quiet-STaR: Language models can teach themselves to think before speaking*. arXiv:2403.09629. COLM 2024. https://arxiv.org/abs/2403.09629
 
 ---
 
@@ -34,7 +35,8 @@ keshav-pass: 1
 | **Contributions** | (1) LLMs generate internal rationales for every token during training; (2) Rationales that improve predictions are reinforced; (3) Emergent reasoning without supervised CoT examples |
 | **Clarity** | Complex implementation but well-explained theory. |
 
-**Relevance**: ⭐⭐⭐ — Relevant as background on why CoT works. Not directly applicable to PUMA MVP (no training, only prompting). Useful for future work (fine-tuning section).
+> [!success] Relevance: ⭐⭐⭐
+> Relevant as background on why CoT works. Not directly applicable to PUMA MVP (no training, only prompting). Useful for future work (fine-tuning section).
 
 ---
 

@@ -20,7 +20,8 @@ keshav-pass: 1
 
 # LN: Qian et al. (2023) — ChatDev: Communicative Agents for Software Development
 
-**Citation**: Qian, C., Liu, H., Yang, C., et al. (2023). *ChatDev: Communicative agents for software development*. arXiv:2307.07924. ACL 2024. https://arxiv.org/abs/2307.07924
+> [!cite] Bibliographic Reference
+> **Citation**: Qian, C., Liu, H., Yang, C., et al. (2023). *ChatDev: Communicative agents for software development*. arXiv:2307.07924. ACL 2024. https://arxiv.org/abs/2307.07924
 
 ---
 
@@ -34,7 +35,8 @@ keshav-pass: 1
 | **Contributions** | (1) Chat-chain: sequential communication between CEO, CTO, programmer, reviewer, tester; (2) Phase-based collaboration; (3) Open-source framework |
 | **Clarity** | Good. |
 
-**Relevance**: ⭐⭐⭐ — Similar to MetaGPT but focused on chat-based agent communication. Less directly relevant than MetaGPT to PUMA's PM-specific architecture.
+> [!success] Relevance: ⭐⭐⭐
+> Similar to MetaGPT but focused on chat-based agent communication. Less directly relevant than MetaGPT to PUMA's PM-specific architecture.
 
 ---
 

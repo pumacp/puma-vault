@@ -11,7 +11,10 @@ updated: 2026-04-06
 
 # ⚖️ PUMA Project Constitution
 
+> [!important] Constitutional Preamble
 > **Spec Kit concept**: the constitution defines non-negotiable project principles.
+
+> [!info] Overview
 > These principles persist across all sprints, features, and deliverables.
 > Changing the constitution requires explicit advisor approval.
 > All generated code, prompts, and artefacts MUST pass constitutional validation.
@@ -25,7 +28,8 @@ updated: 2026-04-06
 **1.3** All Python dependencies SHALL be pinned with exact versions in `requirements.txt`.  
 **1.4** All dataset sampling scripts SHALL be committed to the GitHub repository.
 
-*Rationale*: Angermeir et al. (2025) found only 5 of 18 published LLM-SE papers with artefacts were executable. PUMA SHALL be fully reproducible.
+> [!quote] Rationale
+> Angermeir et al. (2025) found only 5 of 18 published LLM-SE papers with artefacts were executable. PUMA SHALL be fully reproducible.
 
 ---
 
@@ -35,7 +39,8 @@ updated: 2026-04-06
 **2.2** No paid API calls (GPT-4, Claude Opus, Gemini) SHALL be used in benchmarked experiments.  
 **2.3** Models SHALL be open-weights with publicly verifiable checksums.
 
-*Rationale*: Cost-free replication, privacy, and environmental comparability require local execution.
+> [!quote] Rationale
+> Cost-free replication, privacy, and environmental comparability require local execution.
 
 ---
 
@@ -46,7 +51,8 @@ updated: 2026-04-06
 **3.3** Effect sizes SHALL be reported (r = Z / √N) alongside p-values.  
 **3.4** Failure to reject H₀ SHALL be reported and discussed, not hidden.
 
-*Rationale*: Popper's demarcation criterion. Scientific claims require falsifiability.
+> [!quote] Rationale
+> Popper's demarcation criterion. Scientific claims require falsifiability.
 
 ---
 
@@ -56,7 +62,8 @@ updated: 2026-04-06
 **4.2** No autonomous write operations to production systems SHALL be implemented.  
 **4.3** The system SHALL include explicit validation gates before any consequential action.
 
-*Rationale*: Ethical AI design (Taddeo & Floridi, 2024) and GDPR compliance.
+> [!quote] Rationale
+> Ethical AI design (Taddeo & Floridi, 2024) and GDPR compliance.
 
 ---
 
@@ -66,7 +73,8 @@ updated: 2026-04-06
 **5.2** The GitHub repository SHALL be public.  
 **5.3** The README SHALL contain ≤ 10 commands to go from zero to reproduced results.
 
-*Rationale*: Academic contribution requires verifiable, replicable artefacts.
+> [!quote] Rationale
+> Academic contribution requires verifiable, replicable artefacts.
 
 ---
 
@@ -76,7 +84,8 @@ updated: 2026-04-06
 **6.2** gCO₂eq SHALL be reported per experimental condition in the results table.  
 **6.3** Energy-efficient models (quantised 4-bit) SHALL be preferred over large cloud models.
 
-*Rationale*: Strubell et al. (2019). First PM+LLM study to measure carbon per task.
+> [!quote] Rationale
+> Strubell et al. (2019). First PM+LLM study to measure carbon per task.
 
 ---
 
@@ -86,7 +95,8 @@ updated: 2026-04-06
 **7.2** Every AI-generated passage SHALL be rewritten in the author's voice before submission.  
 **7.3** All references obtained via AI tools SHALL be verified in primary source.
 
-*Rationale*: PUMA Project integrity policy and PRISMA-trAIce protocol.
+> [!quote] Rationale
+> PUMA Project integrity policy and PRISMA-trAIce protocol.
 
 ---
 

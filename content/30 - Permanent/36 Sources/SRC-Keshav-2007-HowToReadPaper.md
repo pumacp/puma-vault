@@ -22,9 +22,12 @@ created: 2026-04-06
 
 ## Three-Pass Method Summary
 
-**Pass 1** (5–10 min): Title, abstract, intro, headings, conclusions, glance references. Evaluate 5Cs.
-**Pass 2** (≤1h): Read carefully, skip proofs. Understand main argument.
-**Pass 3** (4–5h): Re-implement virtually. Identify assumptions and gaps.
+> [!tip] Reading Time Investment
+> | Pass | Time | Goal |
+> |------|------|------|
+> | Pass 1 | 5–10 min | Bird's eye — evaluate 5Cs (Category, Context, Correctness, Contributions, Clarity) |
+> | Pass 2 | ≤ 1 hour | Grasp content — read carefully, skip proofs |
+> | Pass 3 | 4–5 hours | Virtual re-implementation — identify all assumptions and gaps |
 
 ---
 

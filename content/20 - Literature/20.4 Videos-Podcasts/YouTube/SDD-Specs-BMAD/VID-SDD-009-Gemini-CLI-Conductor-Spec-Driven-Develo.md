@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 Gemini CLI Conductor: Spec-Driven Development 100x Better Than BMAD and OpenSpec
 
-**Channel**: AI Stack Studio
-**URL**: https://www.youtube.com/watch?v=hv2UX-YdyHs
-**Relevance**: ⭐⭐⭐
+> [!info] Video Details
+> **Channel**: AI Stack Studio
+> **URL**: https://www.youtube.com/watch?v=hv2UX-YdyHs
+> **Relevance**: ⭐⭐⭐
 
 ---
 

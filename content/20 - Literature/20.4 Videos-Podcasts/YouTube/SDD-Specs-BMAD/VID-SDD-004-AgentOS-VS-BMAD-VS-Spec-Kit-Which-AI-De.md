@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 AgentOS VS BMAD VS Spec Kit: Which AI Development Framework is Worth Your Time?
 
-**Channel**: AI Stack Studio
-**URL**: https://www.youtube.com/watch?v=TxRpWktXBBk
-**Relevance**: ⭐⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: AI Stack Studio
+> **URL**: https://www.youtube.com/watch?v=TxRpWktXBBk
+> **Relevance**: ⭐⭐⭐⭐⭐
 
 ---
 

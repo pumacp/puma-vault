@@ -10,6 +10,7 @@ phase: [F0, F1, F2, F3, F4]
 
 # 🗃️ Tools — RAG Systems & Vector Databases
 
+> [!info] Overview
 > Tools for Retrieval-Augmented Generation (RAG) pipeline in PUMA.
 > Used in: Stage 4 (RAG-enhanced triage) and document knowledge base for research.
 > See also: [[30 - Permanent/31 Concepts/PN-RAG-Embeddings-VectorDB]]

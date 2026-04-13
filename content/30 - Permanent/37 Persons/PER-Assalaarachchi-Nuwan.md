@@ -12,9 +12,13 @@ created: 2026-04-06
 
 # PER: Nuwan Assalaarachchi
 
-**Known for PUMA**: First author of arXiv:2601.16392 — "Toward Agentic Software Project Management: A Vision and Roadmap" (2026). This is the pioneer paper in the "agentic SPM" micro-niche and the closest vision paper to PUMA's Stage 5 Smart PMO.
+> [!info] PUMA Context
 
-**Key contribution**: The 3-level autonomy taxonomy (Assistant → Co-pilot → Junior PM Agent) provides the conceptual ladder that PUMA's incremental design climbs (Stages 1–3 = Assistant; Stage 4 = Co-pilot; Stage 5 = Junior PM Agent).
+> [!info] Overview
+> First author of arXiv:2601.16392 — "Toward Agentic Software Project Management: A Vision and Roadmap" (2026). This is the pioneer paper in the "agentic SPM" micro-niche and the closest vision paper to PUMA's Stage 5 Smart PMO.
+
+> [!info] Key Contribution
+> The 3-level autonomy taxonomy (Assistant → Co-pilot → Junior PM Agent) provides the conceptual ladder that PUMA's incremental design climbs (Stages 1–3 = Assistant; Stage 4 = Co-pilot; Stage 5 = Junior PM Agent).
 
 **Related notes**:
 - [[20 - Literature/20.1 Papers/PM-AI-Convergence/LN-Assalaarachchi-2026-AgenticSPM]]

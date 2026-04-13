@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 Plan, Specify, and Implement with Spec Kit
 
-**Channel**: Microsoft Developer and GitHub
-**URL**: https://www.youtube.com/watch?v=VfBLlAN5zdQ
-**Relevance**: ⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: Microsoft Developer and GitHub
+> **URL**: https://www.youtube.com/watch?v=VfBLlAN5zdQ
+> **Relevance**: ⭐⭐⭐⭐
 
 ---
 

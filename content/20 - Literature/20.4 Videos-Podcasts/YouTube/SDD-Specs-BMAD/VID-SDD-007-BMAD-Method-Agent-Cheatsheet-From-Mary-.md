@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 BMAD Method Agent Cheatsheet (From Mary to Quinn)
 
-**Channel**: AppyDave
-**URL**: https://www.youtube.com/watch?v=-GKpGdonMbg
-**Relevance**: ⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: AppyDave
+> **URL**: https://www.youtube.com/watch?v=-GKpGdonMbg
+> **Relevance**: ⭐⭐⭐⭐
 
 ---
 

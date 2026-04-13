@@ -18,7 +18,8 @@ keshav-pass: 3
 
 # LN: Calikli & Alhamed (2025) — Request Formats and Effort Estimation
 
-**Citation**: Calikli, G., & Alhamed, A. (2025). Request formats and effort estimation with LLMs. *ACM Transactions on Software Engineering and Methodology*. https://doi.org/10.1145/3715771
+> [!cite] Bibliographic Reference
+> **Citation**: Calikli, G., & Alhamed, A. (2025). Request formats and effort estimation with LLMs. *ACM Transactions on Software Engineering and Methodology*. https://doi.org/10.1145/3715771
 
 ---
 
@@ -32,7 +33,8 @@ keshav-pass: 3
 | **Contributions** | Prompt format has **non-monotonic, counter-intuitive effects** on estimation quality. More examples ≠ better. |
 | **Clarity** | Excellent. Clear experimental design. |
 
-**Relevance**: ⭐⭐⭐⭐⭐ (5/5) — **Directly justifies PUMA's systematic prompting comparison (H2)**
+> [!success] Relevance: ⭐⭐⭐⭐⭐ (5/5)
+> **Directly justifies PUMA's systematic prompting comparison (H2)**
 
 ---
 

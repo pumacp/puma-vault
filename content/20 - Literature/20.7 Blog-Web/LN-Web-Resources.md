@@ -9,6 +9,7 @@ created: 2026-03-01
 
 # 🌐 Web Resources — Blogs, Docs & Key Links
 
+> [!info] Overview
 > Important web resources that don't fit other categories.
 > These are references, not captures — for raw captures use [[10 - Inbox/Quick-Capture/Quick-Capture-Log]].
 

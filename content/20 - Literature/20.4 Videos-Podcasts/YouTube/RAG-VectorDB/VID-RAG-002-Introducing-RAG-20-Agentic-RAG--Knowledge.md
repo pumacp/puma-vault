@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 Introducing RAG 2.0: Agentic RAG + Knowledge Graphs (FREE Template)
 
-**Channel**: Cole Medin
-**URL**: https://www.youtube.com/watch?v=p0FERNkpyHE
-**Relevance**: ⭐⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: Cole Medin
+> **URL**: https://www.youtube.com/watch?v=p0FERNkpyHE
+> **Relevance**: ⭐⭐⭐⭐⭐
 
 ---
 

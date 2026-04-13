@@ -20,11 +20,14 @@ keshav-pass: 2
 
 # LN: Arora et al. (2024) — MASAI: Modular Architecture for Software-Engineering AI Agents
 
-**Citation**: Arora, D., Sonwane, A., Wadhwa, N., et al. (2024). *MASAI: Modular architecture for software-engineering AI agents*. arXiv:2406.11638. https://arxiv.org/abs/2406.11638
+> [!cite] Bibliographic Reference
+> **Citation**: Arora, D., Sonwane, A., Wadhwa, N., et al. (2024). *MASAI: Modular architecture for software-engineering AI agents*. arXiv:2406.11638. https://arxiv.org/abs/2406.11638
+> **Affiliation**: Microsoft Research India
 
-**Affiliation**: Microsoft Research India
+> [!warning] Important Note
 
-**Important note**: The bibliography entry attributes this paper to "Xie et al." — this is incorrect. The verified first author is **Daman Arora**.
+> [!info] Overview
+> The bibliography entry attributes this paper to "Xie et al." — this is incorrect. The verified first author is **Daman Arora**.
 
 ---
 
@@ -38,7 +41,8 @@ keshav-pass: 2
 | **Contributions** | (1) Modular sub-agents with well-defined objectives; (2) Information gathering across repo; (3) Avoiding long trajectories; (4) SOTA on SWE-bench Lite |
 | **Clarity** | Excellent. Clear architecture diagrams. |
 
-**Relevance**: ⭐⭐⭐⭐ — MASAI's modular sub-agent architecture is directly applicable to PUMA: separate agents for triage, estimation, and scheduling, each with well-defined scope.
+> [!success] Relevance: ⭐⭐⭐⭐
+> MASAI's modular sub-agent architecture is directly applicable to PUMA: separate agents for triage, estimation, and scheduling, each with well-defined scope.
 
 ---
 

@@ -20,9 +20,13 @@ updated: 2026-04-07
 
 ## Pass 1 — Bird's Eye
 
-**Type**: Research paper — Physics / Reinforcement Learning
-**Main Claim**: A deep RL agent learns to control plasma configurations in the TCV tokamak, including configurations not previously achievable with classical linear controllers.
-**Relevance to PUMA**: ⭐⭐ Medium — demonstrates AI discovering novel operational strategies (plasma configurations) in a domain with complex physics; analogous to PUMA discovering optimal triage strategies.
+> [!abstract] Main Claim
+> A deep RL agent learns to control plasma configurations in the TCV tokamak, including configurations not previously achievable with classical linear controllers.
+
+| Property | Detail |
+|----------|--------|
+| **Type** | Research paper — Physics / Reinforcement Learning |
+| **Relevance to PUMA** | ⭐⭐ Medium — demonstrates AI discovering novel operational strategies in a domain with complex physics; analogous to PUMA discovering optimal triage strategies |
 
 ## Pass 2 — Key Content
 
@@ -44,11 +48,12 @@ updated: 2026-04-07
 
 ## PUMA Relevance
 
-The pattern is analogous to PUMA:
-- RL agent discovers novel plasma configurations not anticipated by human experts
-- PUMA's CoT agent might discover novel triage reasoning chains not used by human PMs
-
-The key difference: PUMA's "discovery" is evaluated via F1-macro rather than physical plasma stability — but the knowledge generation dynamic is similar.
+> [!info] PUMA Analogy
+> The pattern is analogous to PUMA:
+> - RL agent discovers novel plasma configurations not anticipated by human experts
+> - PUMA's CoT agent might discover novel triage reasoning chains not used by human PMs
+>
+> The key difference: PUMA's "discovery" is evaluated via F1-macro rather than physical plasma stability — but the knowledge generation dynamic is similar.
 
 ---
 

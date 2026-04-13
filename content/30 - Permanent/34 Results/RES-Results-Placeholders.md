@@ -11,7 +11,10 @@ status: pending
 
 # Results — Stage 1: Issue Triage
 
-> **Status:** ⏳ Pending F2 execution · Will be updated after all triage experiments complete.
+> [!info] Chapter Status
+
+> [!info] Overview
+> ⏳ Pending F2 execution · Will be updated after all triage experiments complete.
 
 ## Best Configuration (TBD)
 
@@ -42,7 +45,8 @@ status: pending
 
 # Results — Stage 2: Effort Estimation
 
-> **Status:** ⏳ Pending F3 execution
+> [!info] Chapter Status
+> ⏳ Pending F3 execution
 
 ## Best Configuration (TBD)
 

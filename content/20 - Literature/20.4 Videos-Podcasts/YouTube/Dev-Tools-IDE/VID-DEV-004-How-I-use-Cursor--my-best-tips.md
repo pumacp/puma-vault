@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 How I use Cursor (+ my best tips)
 
-**Channel**: Steve Builder.io  
-**URL**: https://www.youtube.com/watch?v=uJimjSDio_Y  
-**Relevance**: ⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: Steve Builder.io  
+> **URL**: https://www.youtube.com/watch?v=uJimjSDio_Y  
+> **Relevance**: ⭐⭐⭐⭐
 
 ---
 

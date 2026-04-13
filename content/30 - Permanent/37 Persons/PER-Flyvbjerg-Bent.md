@@ -12,9 +12,13 @@ created: 2026-04-06
 
 # PER: Bent Flyvbjerg
 
-**Known for PUMA**: Coined the "Uniqueness Trap" — the tendency of project managers to treat each project as absolutely unique, blocking statistical learning from historical data. This is one of PUMA's three motivating problems.
+> [!info] PUMA Context
 
-**Key contribution**: Reference Class Forecasting (RCF) as antidote to planning optimism bias. PUMA's Stage 4 (RAG) can be seen as a computational implementation of RCF.
+> [!info] Overview
+> Coined the "Uniqueness Trap" — the tendency of project managers to treat each project as absolutely unique, blocking statistical learning from historical data. This is one of PUMA's three motivating problems.
+
+> [!info] Key Contribution
+> Reference Class Forecasting (RCF) as antidote to planning optimism bias. PUMA's Stage 4 (RAG) can be seen as a computational implementation of RCF.
 
 **Relevance to H2**: The "mean historical SP" baseline in Stage 2 is a simple form of reference class thinking. A well-designed LLM few-shot agent could do better by selecting a more specific reference class.
 

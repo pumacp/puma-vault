@@ -9,6 +9,7 @@ updated: 2026-04-06
 
 # 📊 MOC — LLM Benchmarks, PM-AI Convergence & Agent Architectures
 
+> [!info] Overview
 > Navigation map for all literature on LLM agents, PM-AI convergence, benchmarks, and agent architectures.
 > Updated with verified references from bibliography supplement v3.
 
@@ -52,8 +53,15 @@ updated: 2026-04-06
 - [[20 - Literature/20.1 Papers/Agent-Architectures/LN-Ning-2025-AgentTaxonomy]] — Taxonomy + decision model for agent design
 - [[20 - Literature/20.1 Papers/Agent-Architectures/LN-Tang-2025-LLMOrbit]] — LLMOrbit: scaling to agentic AI taxonomy
 
+### Self-Improvement & Reasoning
+- [[20 - Literature/20.1 Papers/LLM-Agents-General/LN-Shinn-2023-Reflexion]] — Reflexion: verbal self-reflection loop (NeurIPS 2023)
+- [[20 - Literature/20.1 Papers/LLM-Agents-General/LN-Liu-2023-AgentBench]] — AgentBench: 8-environment benchmark, open-source vs GPT-4 gap (ICLR 2024)
+- [[20 - Literature/20.1 Papers/Agent-Architectures/LN-Park-2023-GenerativeAgents]] — Generative Agents: memory stream + reflection + planning (UIST 2023)
+- [[20 - Literature/20.1 Papers/LLM-Agents-General/LN-Xie-2023-OpenAgents]] — OpenAgents: Data/Plugins/Web agent triad
+
 ### Memory & State
 - [[20 - Literature/20.1 Papers/LLM-Agents-General/LN-Packer-2023-MemGPT]] — MemGPT: virtual context management
+- [[20 - Literature/20.1 Papers/Agent-Architectures/LN-AssistGUI-2023]] — AssistGUI: GUI automation for PM tool integration
 
 ### Collaboration & Coordination
 - [[20 - Literature/20.1 Papers/Agent-Architectures/LN-Huang-2024-InternetOfAgents]] — Internet of Agents: heterogeneous coordination
@@ -83,6 +91,13 @@ updated: 2026-04-06
 - [[20 - Literature/20.1 Papers/AIOps-DevOps/LN-Chen-2025-AIOpsLab]] — AIOpsLab: AIOps benchmark (PUMA analogue)
 - [[20 - Literature/20.1 Papers/AIOps-DevOps/LN-Bruneliere-2022-AIDOaRt]] — AIDOaRt: AI-augmented DevOps framework
 - [[LN-Chen-2024-RootCauseAnalysis]] — Root cause analysis via LLMs (Microsoft production)
+- [[20 - Literature/20.1 Papers/AIOps-DevOps/LN-Incident-Management-AI-2023]] — Incident Management survey: triage lifecycle (arXiv 2312.14411)
+
+### PM-AI & Human Collaboration
+- [[20 - Literature/20.1 Papers/PM-AI-Convergence/LN-LLM-MAS-SE-2024]] — LLM-MAS for SE: PM agent taxonomy, evaluation gap (ACM TOSEM)
+- [[20 - Literature/20.1 Papers/PM-AI-Convergence/LN-Flyvbjerg-2023-UniquenessTrap]] — Uniqueness Trap: PUMA's theoretical motivation (RCF)
+- [[20 - Literature/20.1 Papers/PM-AI-Convergence/LN-Collaborating-AIAgents-2025]] — Field experiments: human-AI team productivity (arXiv 2503.18238)
+- [[20 - Literature/20.1 Papers/Agent-Architectures/LN-Hubinger-2019-LearnedOptimization]] — Risks from Learned Optimization: inner alignment, HITL basis
 
 ---
 
@@ -103,6 +118,17 @@ updated: 2026-04-06
 - [[30 - Permanent/31 Concepts/PN-ReAct-AgentPattern]] — ReAct foundation
 - [[30 - Permanent/31 Concepts/PN-IssueTriage-StoryPoints]] — PUMA target tasks
 - [[50 - Areas/56 Smart-PMO/Smart-PMO-Vision]] — Stage 5 future
+- [[30 - Permanent/31 Concepts/PN-Evaluation-Metrics-Comprehensive]] — F1, MAE, SA, SPR, Wilcoxon, CI
+- [[30 - Permanent/31 Concepts/PN-StatisticalValidation-Full]] — Wilcoxon, bootstrap, effect size
+- [[30 - Permanent/31 Concepts/PN-LLM-Models-PUMA]] — Model comparison: Llama, Mistral, GPT-4o, DeepSeek
+- [[30 - Permanent/31 Concepts/PN-Reflexion-SelfCritique]] — Verbal reinforcement loop
+- [[30 - Permanent/31 Concepts/PN-GenerativeAgents-Simulacra]] — Memory stream architecture
+- [[30 - Permanent/31 Concepts/PN-HITL-BoundedAutonomy]] — Human oversight design
+- [[30 - Permanent/31 Concepts/PN-UniquenessTrap]] — Reference class forecasting in PUMA
+- [[30 - Permanent/31 Concepts/PN-COSTAR-SelfConsistency]] — Prompt engineering frameworks
+- [[30 - Permanent/31 Concepts/PN-AlgorithmicBias]] — Fairness and bias in PM AI
+- [[30 - Permanent/31 Concepts/PN-ComputationalSustainability]] — Carbon footprint tracking
+- [[30 - Permanent/31 Concepts/PN-FineTuning-LoRA-Quantization]] — LoRA, QLoRA, GGUF
 
 ## 🔗 Related MOCs
 

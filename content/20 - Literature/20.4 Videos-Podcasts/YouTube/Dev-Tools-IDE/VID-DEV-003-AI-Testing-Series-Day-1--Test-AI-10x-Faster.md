@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 AI Testing Series Day 1 — Test AI 10x Faster with #promptfoo!
 
-**Channel**: AB Automation Hub  
-**URL**: https://www.youtube.com/watch?v=vfHu2-YLBWE  
-**Relevance**: ⭐⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: AB Automation Hub  
+> **URL**: https://www.youtube.com/watch?v=vfHu2-YLBWE  
+> **Relevance**: ⭐⭐⭐⭐⭐
 
 ---
 

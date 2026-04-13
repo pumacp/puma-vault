@@ -9,6 +9,8 @@ created: 2026-03-01
 # 🌱 Someday / Maybe
 
 > **Ideas that are NOT active commitments but worth keeping.** Review monthly during Weekly Review.
+
+> [!info] Overview
 > If an idea becomes actionable → move to [[90 - GTD/91 Tasks/TASKS-Active]].
 
 ---

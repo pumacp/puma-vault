@@ -14,6 +14,7 @@ updated: 2026-04-06
 > - **Pass 2** (≤1h): grasp content, note figures, mark unread references
 > - **Pass 3** (4–5h): re-implement / virtually reconstruct the paper
 >
+> [!info] Overview
 > *Used in MIT AI Lab Working Paper 316 ("How to Do Research") as reading guidance for graduate students.*
 > *Integrated here as the PUMA paper-reading framework.*
 

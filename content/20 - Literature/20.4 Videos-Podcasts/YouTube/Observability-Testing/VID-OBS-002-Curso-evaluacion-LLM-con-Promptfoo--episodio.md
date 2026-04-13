@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 Curso evaluacion LLM con Promptfoo — episodio 1
 
-**Channel**: La Hora Maker  
-**URL**: https://www.youtube.com/watch?v=nGaHoH9HHu0  
-**Relevance**: ⭐⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: La Hora Maker  
+> **URL**: https://www.youtube.com/watch?v=nGaHoH9HHu0  
+> **Relevance**: ⭐⭐⭐⭐⭐
 
 ---
 

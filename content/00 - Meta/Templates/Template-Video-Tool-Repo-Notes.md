@@ -134,9 +134,9 @@ created: "{{date}}"
 
 ## 🔗 Connections
 
-[[|**Used in:** [[SP-Architecture]]
-[[|**Pairs with:** [[LN-Tool-"{{related tool}}"]]
-[[|**Prompts:** [[PT-"{{Tool}}"-"{{UseCase}}"]]
+**Used in:** [[SP-Architecture]]
+**Pairs with:** [[LN-Tool-"{{related tool}}"]]
+**Prompts:** [[PT-"{{Tool}}"-"{{UseCase}}"]]
 
 ---
 ---
@@ -200,5 +200,5 @@ created: "{{date}}"
 
 ## 🔗 Connections
 
-[[|**Referenced in:** [[SP-Architecture]]
-[[|**Similar repos:** [[LN-Repo-"{{related}}"]]
+**Referenced in:** [[SP-Architecture]]
+**Similar repos:** [[LN-Repo-"{{related}}"]]

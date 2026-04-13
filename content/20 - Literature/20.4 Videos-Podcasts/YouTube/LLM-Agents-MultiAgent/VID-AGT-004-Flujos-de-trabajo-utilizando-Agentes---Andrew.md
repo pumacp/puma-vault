@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 Flujos de trabajo utilizando Agentes - Andrew Ng explica
 
-**Channel**: La Hora Maker
-**URL**: https://www.youtube.com/watch?v=YIcFlsIez_Q
-**Relevance**: ⭐⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: La Hora Maker
+> **URL**: https://www.youtube.com/watch?v=YIcFlsIez_Q
+> **Relevance**: ⭐⭐⭐⭐⭐
 
 ---
 

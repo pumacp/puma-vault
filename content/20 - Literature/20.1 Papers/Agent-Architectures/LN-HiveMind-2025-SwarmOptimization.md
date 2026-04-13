@@ -20,8 +20,8 @@ keshav-pass: 1
 
 # LN: Chen et al. (2025) — The Society of HiveMind: Multi-Agent Optimization of Foundation Model Swarms
 
-**Citation**: Chen, Q., Wang, Z., Zhang, Y., Li, H., Liu, Z., & Sun, M. (2025). *The society of HiveMind: Multi-agent optimization of foundation model swarms to unlock the potential of collective intelligence*. arXiv:2503.05473. https://arxiv.org/abs/2503.05473
-
+> [!cite] Bibliographic Reference
+> **Citation**: Chen, Q., Wang, Z., Zhang, Y., Li, H., Liu, Z., & Sun, M. (2025). *The society of HiveMind: Multi-agent optimization of foundation model swarms to unlock the potential of collective intelligence*. arXiv:2503.05473. https://arxiv.org/abs/2503.05473
 *(This paper is in the PUMA project knowledge PDFs as "THE_SOCIETY_OF_HIVE_MIND_2503.05473v2.pdf" and "The_Society_of_HiveMind_Multi-Agent_Optimization_of_Foundation_Model_Swarms_2503.05473v2.pdf")*
 
 **Note**: This is the correct arXiv:2503.05473 paper. DynTaskMAS uses arXiv:2503.07675 — these are two different papers with similar IDs.
@@ -38,7 +38,8 @@ keshav-pass: 1
 | **Contributions** | (1) Swarm-level optimisation of agent behaviours; (2) Collective intelligence emerges from agent interactions; (3) Better than individual agent optimisation |
 | **Clarity** | Good. |
 
-**Relevance**: ⭐⭐⭐ — The swarm optimisation pattern is relevant for PUMA Stage 5 if multiple triage agents specialise through interaction with the same issue corpus. Background for the Smart PMO swarm architecture.
+> [!success] Relevance: ⭐⭐⭐
+> The swarm optimisation pattern is relevant for PUMA Stage 5 if multiple triage agents specialise through interaction with the same issue corpus. Background for the Smart PMO swarm architecture.
 
 ## MOCs
 

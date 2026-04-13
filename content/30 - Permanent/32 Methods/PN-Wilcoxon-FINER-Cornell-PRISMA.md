@@ -10,7 +10,10 @@ maturity: evergreen
 
 # Wilcoxon Signed-Rank Test
 
-> **Atomic claim:** The Wilcoxon signed-rank test is the appropriate non-parametric alternative to the paired t-test when comparing LLM condition scores against baseline scores, because F1 distributions are not assumed to be normally distributed.
+> [!abstract] Atomic Claim
+
+> [!info] Overview
+> The Wilcoxon signed-rank test is the appropriate non-parametric alternative to the paired t-test when comparing LLM condition scores against baseline scores, because F1 distributions are not assumed to be normally distributed.
 
 ## The Test in PUMA
 
@@ -65,7 +68,8 @@ maturity: evergreen
 
 # FINER Criteria for Research Questions
 
-> **Atomic claim:** A well-formed research question must satisfy all five FINER criteria simultaneously — Feasible, Interesting, Novel, Ethical, Relevant — to constitute a valid academic contribution.
+> [!abstract] Atomic Claim
+> A well-formed research question must satisfy all five FINER criteria simultaneously — Feasible, Interesting, Novel, Ethical, Relevant — to constitute a valid academic contribution.
 
 ## The Framework
 
@@ -93,7 +97,8 @@ maturity: evergreen
 
 # Cornell Note-Taking Method
 
-> **Atomic claim:** The Cornell system forces active processing of information by physically separating questions/cues (left) from notes (right) and demanding synthesis (bottom) — making it the structural backbone of the MIT Student Method reading process.
+> [!abstract] Atomic Claim
+> The Cornell system forces active processing of information by physically separating questions/cues (left) from notes (right) and demanding synthesis (bottom) — making it the structural backbone of the MIT Student Method reading process.
 
 ## Layout
 
@@ -140,7 +145,8 @@ maturity: growing
 
 # PRISMA-DFLLM & PRISMA-trAIce
 
-> **Atomic claim:** When AI tools assist in SLR screening or synthesis, standard PRISMA 2020 reporting must be extended to document: which tasks were AI-assisted, with which models, what outputs were generated, and what human validation was applied — enabling reproducibility of the review process itself.
+> [!abstract] Atomic Claim
+> When AI tools assist in SLR screening or synthesis, standard PRISMA 2020 reporting must be extended to document: which tasks were AI-assisted, with which models, what outputs were generated, and what human validation was applied — enabling reproducibility of the review process itself.
 
 ## PRISMA-DFLLM Extension
 
@@ -186,7 +192,8 @@ maturity: seedling
 
 # Contextual Anchoring
 
-> **Atomic claim:** Re-stating critical constraints at the *end* of a long prompt (the "anchor") significantly reduces model drift away from task requirements, exploiting the recency bias of transformer attention mechanisms.
+> [!abstract] Atomic Claim
+> Re-stating critical constraints at the *end* of a long prompt (the "anchor") significantly reduces model drift away from task requirements, exploiting the recency bias of transformer attention mechanisms.
 
 ## Why It Works
 

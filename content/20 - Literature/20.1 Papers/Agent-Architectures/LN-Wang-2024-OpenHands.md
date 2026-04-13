@@ -21,8 +21,8 @@ keshav-pass: 2
 
 # LN: Wang et al. (2024) — OpenHands: An Open Platform for AI Software Developers as Generalist Agents
 
-**Citation**: Wang, X., Li, B., Song, Y., et al. (2024). *OpenHands: An open platform for AI software developers as generalist agents*. arXiv:2407.16741. ICLR 2025. https://arxiv.org/abs/2407.16741
-
+> [!cite] Bibliographic Reference
+> **Citation**: Wang, X., Li, B., Song, Y., et al. (2024). *OpenHands: An open platform for AI software developers as generalist agents*. arXiv:2407.16741. ICLR 2025. https://arxiv.org/abs/2407.16741
 **GitHub**: https://github.com/OpenHands/OpenHands (formerly OpenDevin; org renamed from All-Hands-AI to OpenHands)
 
 ---
@@ -37,7 +37,8 @@ keshav-pass: 2
 | **Contributions** | (1) Open-source MIT-licensed platform; (2) Sandboxed code execution; (3) Multi-agent coordination; (4) 2.1K+ contributions from 188+ contributors |
 | **Clarity** | Excellent. Comprehensive documentation. |
 
-**Relevance**: ⭐⭐⭐⭐ — OpenHands (formerly OpenDevin) is directly cited in PUMA's bibliography as a tool for the development phase. Used in PUMA for scaffolding and agentic code execution.
+> [!success] Relevance: ⭐⭐⭐⭐
+> OpenHands (formerly OpenDevin) is directly cited in PUMA's bibliography as a tool for the development phase. Used in PUMA for scaffolding and agentic code execution.
 
 ---
 

@@ -8,6 +8,7 @@ created: 2026-03-01
 
 # 📅 Daily Review — {{date}}
 
+> [!info] Overview
 > Copy each morning. Full template: [[00 - Meta/Templates/Template-Daily-Review]]
 
 ---

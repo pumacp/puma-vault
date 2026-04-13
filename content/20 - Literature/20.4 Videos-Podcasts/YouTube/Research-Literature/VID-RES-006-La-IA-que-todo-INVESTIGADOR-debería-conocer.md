@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 La IA que todo INVESTIGADOR debería conocer — Consensus IA
 
-**Channel**: Ph.D. Alejandro Medina Sandín
-**URL**: https://www.youtube.com/watch?v=tCrw2p19Xj4
-**Relevance**: ⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: Ph.D. Alejandro Medina Sandín
+> **URL**: https://www.youtube.com/watch?v=tCrw2p19Xj4
+> **Relevance**: ⭐⭐⭐⭐
 
 ---
 

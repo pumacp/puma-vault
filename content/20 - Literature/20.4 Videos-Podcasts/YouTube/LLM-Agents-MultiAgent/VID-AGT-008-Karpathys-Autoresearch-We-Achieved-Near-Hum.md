@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 Karpathy's Autoresearch: We Achieved Near-Human Scores in 2 Hours!
 
-**Channel**: Onchain AI Garage
-**URL**: https://www.youtube.com/watch?v=9jxrmk_Xses
-**Relevance**: ⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: Onchain AI Garage
+> **URL**: https://www.youtube.com/watch?v=9jxrmk_Xses
+> **Relevance**: ⭐⭐⭐⭐
 
 ---
 

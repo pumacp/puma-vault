@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 Run a Powerful AI Agent Locally — Hermes Agent + Ollama (No API Key Required)
 
-**Channel**: Prompt Engineer
-**URL**: https://www.youtube.com/watch?v=UTaXIzhXoxI
-**Relevance**: ⭐⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: Prompt Engineer
+> **URL**: https://www.youtube.com/watch?v=UTaXIzhXoxI
+> **Relevance**: ⭐⭐⭐⭐⭐
 
 ---
 

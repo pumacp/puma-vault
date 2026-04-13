@@ -20,8 +20,8 @@ keshav-pass: 1
 
 # LN: DeBellis et al. (2026) — Authenticated Workflows: A Systems Approach to Protecting Agentic AI
 
-**Citation**: DeBellis, M., Rivera, C., & Shankar, K. (2026). *Authenticated workflows: A systems approach to protecting agentic AI*. arXiv:2602.10465. https://arxiv.org/abs/2602.10465
-
+> [!cite] Bibliographic Reference
+> **Citation**: DeBellis, M., Rivera, C., & Shankar, K. (2026). *Authenticated workflows: A systems approach to protecting agentic AI*. arXiv:2602.10465. https://arxiv.org/abs/2602.10465
 *(This paper is in the PUMA project knowledge PDFs as "Authenticated_Workflows_A_Systems_Approach_to_Protecting_Agentic_AI_2602.10465v1.pdf")*
 
 ---
@@ -36,7 +36,8 @@ keshav-pass: 1
 | **Contributions** | (1) Authentication model for agentic workflows; (2) Preventing unauthorised agent actions; (3) Audit trail for agentic decision chains |
 | **Clarity** | Good. |
 
-**Relevance**: ⭐⭐⭐ — PUMA's governance layer (Constitution Article 4: HITL; Article 5: open source) needs authentication mechanisms. Relevant for Stage 5 Smart PMO where agents interact with real Jira/GitHub APIs.
+> [!success] Relevance: ⭐⭐⭐
+> PUMA's governance layer (Constitution Article 4: HITL; Article 5: open source) needs authentication mechanisms. Relevant for Stage 5 Smart PMO where agents interact with real Jira/GitHub APIs.
 
 ---
 

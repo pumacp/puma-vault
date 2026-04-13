@@ -1,13 +1,20 @@
 ---
 sleep: "9"
-helath: "10"
+health: "10"
 life: "8"
 motivation: "10"
 ---
-# 👉Start Here
-[[|- [[README]]
+# 👉 Start Here
+
+> [!info] Daily Note
+> Review your priorities, check tasks, and capture reflections. Start with the **Today's Focus** section before opening any task managers.
+
+- [[README]]
+
 ---
+
 ## 📝 Daily Journal
+
 - 
 
 
@@ -91,14 +98,22 @@ limit 10
 
 ## 🎯 Today's Focus
 
-> What are the 3 most important things to accomplish today?
+> [!tip] Most Important Tasks (MIT)
+> Name the **3 most important things** to accomplish today. If nothing else gets done, these must.
+
+1. 
+2. 
+3. 
+
+---
 
 ## 🤔 Evening Reflection
 
-> What went well? What could be improved?
+> [!note] End-of-Day Review
+> What went well? What could be improved? Be honest and brief.
 
-## **Wins:**
+**Wins:**
 
-## **Areas for improvement:**
+**Areas for improvement:**
 
-## **Tomorrow's preparation:**
+**Tomorrow's preparation:**

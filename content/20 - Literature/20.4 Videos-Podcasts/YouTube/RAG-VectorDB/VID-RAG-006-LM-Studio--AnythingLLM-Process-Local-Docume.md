@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 LM Studio + AnythingLLM: Process Local Documents with RAG Like a Pro!
 
-**Channel**: Vibe Coding AI
-**URL**: https://www.youtube.com/watch?v=UG8uftJXcNs
-**Relevance**: ⭐⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: Vibe Coding AI
+> **URL**: https://www.youtube.com/watch?v=UG8uftJXcNs
+> **Relevance**: ⭐⭐⭐⭐⭐
 
 ---
 

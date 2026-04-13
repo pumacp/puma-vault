@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 Orquestación de Agentes: Control Determinista con Hooks
 
-**Channel**: DevExpert
-**URL**: https://www.youtube.com/watch?v=vCA2jBthyhA
-**Relevance**: ⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: DevExpert
+> **URL**: https://www.youtube.com/watch?v=vCA2jBthyhA
+> **Relevance**: ⭐⭐⭐⭐
 
 ---
 

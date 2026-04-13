@@ -11,6 +11,7 @@ phase: [F0, F1, F2, F3, F4]
 
 # 🎬 Videos — RAG, Vector Databases & Knowledge Systems
 
+> [!info] Overview
 > Videos covering RAG pipelines, vector databases, and knowledge retrieval.
 > Directly informs PUMA Stage 4 (RAG-enhanced triage) and the research knowledge base.
 > See also: [[30 - Permanent/31 Concepts/PN-RAG-Embeddings-VectorDB]] · [[20 - Literature/20.6 Tools/LN-Tools-RAG-VectorDB]]

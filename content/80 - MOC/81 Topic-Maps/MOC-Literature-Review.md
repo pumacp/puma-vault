@@ -9,6 +9,7 @@ updated: 2026-03-01
 
 # 📖 MOC — Literature Review (SLR)
 
+> [!info] Overview
 > **Systematic Literature Review for PUMA** following PRISMA 2020 + PRISMA-DFLLM + PRISMA-trAIce protocols.
 > Target: ≥ 40 papers · Period: 2022–2026 · SLR Workflow: [[60 - Resources/62 Workflows/WF-SLR-Pipeline]]
 

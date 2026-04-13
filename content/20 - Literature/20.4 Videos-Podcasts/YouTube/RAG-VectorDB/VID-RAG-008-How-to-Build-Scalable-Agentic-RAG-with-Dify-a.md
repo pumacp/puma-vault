@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 How to Build Scalable Agentic RAG with Dify and Qdrant
 
-**Channel**: Dify
-**URL**: https://www.youtube.com/watch?v=ZhNjf08TfOE
-**Relevance**: ⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: Dify
+> **URL**: https://www.youtube.com/watch?v=ZhNjf08TfOE
+> **Relevance**: ⭐⭐⭐⭐
 
 ---
 

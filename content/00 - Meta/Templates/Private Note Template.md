@@ -5,24 +5,19 @@ date: ", {{time:HH:mm}}"
 tags: [private, knowledge-management, second-brain, template]
 aliases: []
 ---
-___
 
+# 🔒 {{ title }}
 
-
-
-
-
-
-
-
-
-
-
-
-
+> [!warning] Private Note
+> This note is marked private. Review before sharing or publishing.
 
 ---
->🧠 _A note from the Second Brain of_ [Your Name](https://shuvangkardas.com)
-## References
 
+*Add your private content here.*
+
+---
+
+>🧠 _A note from the Second Brain of_ [Your Name](https://shuvangkardas.com)
+
+## References
 

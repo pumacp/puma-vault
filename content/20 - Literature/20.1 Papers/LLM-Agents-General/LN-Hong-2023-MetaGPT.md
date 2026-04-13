@@ -20,7 +20,8 @@ keshav-pass: 2
 
 # LN: Hong et al. (2023) — MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework
 
-**Citation**: Hong, S., Zhuge, M., Chen, J., et al. (2023). *MetaGPT: Meta programming for a multi-agent collaborative framework*. arXiv:2308.00352. ICLR 2024. https://arxiv.org/abs/2308.00352
+> [!cite] Bibliographic Reference
+> **Citation**: Hong, S., Zhuge, M., Chen, J., et al. (2023). *MetaGPT: Meta programming for a multi-agent collaborative framework*. arXiv:2308.00352. ICLR 2024. https://arxiv.org/abs/2308.00352
 
 ---
 
@@ -34,7 +35,8 @@ keshav-pass: 2
 | **Contributions** | (1) Structured workflows encoding real-world SOP into multi-agent communication; (2) Role specialisation (PM, architect, engineer, QA); (3) "Code = requirement + design + code" pipeline |
 | **Clarity** | Good. Some implementation complexity. |
 
-**Relevance**: ⭐⭐⭐⭐ — BMAD methodology in PUMA directly inspired by MetaGPT's role-based approach.
+> [!success] Relevance: ⭐⭐⭐⭐
+> BMAD methodology in PUMA directly inspired by MetaGPT's role-based approach.
 
 ---
 

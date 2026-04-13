@@ -10,6 +10,7 @@ created: 2026-03-01
 
 # Development Stack Tools — PUMA
 
+> [!info] Overview
 > Detailed notes on all development tools used or evaluated for PUMA implementation.
 
 ---

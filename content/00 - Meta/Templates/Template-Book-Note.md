@@ -64,15 +64,15 @@ updated: "{{date}}"
 
 | Concept | Note created | Applied in PUMA |
 |---------|-------------|----------------|
-[[|| "{{Concept}}" | [[PN-"{{concept}}"]] | "{{How}}" |
+| "{{Concept}}" | [[PN-"{{concept}}"]] | "{{How}}" |
 
 ---
 
 ## 🔗 Connections
 
-[[|**Cited in:** [[40 - Projects/PUMA/41.1 Introduction/PR-PUMA-Ch1-Introduction]]
-[[|**Permanent notes generated:** [[PN-"{{concept}}"]]
-[[|**Related books:** [[LN-"{{RelatedBook}}"]]
+**Cited in:** [[40 - Projects/PUMA/41.1 Introduction/PR-PUMA-Ch1-Introduction]]
+**Permanent notes generated:** [[PN-"{{concept}}"]]
+**Related books:** [[LN-"{{RelatedBook}}"]]
 
 ---
 

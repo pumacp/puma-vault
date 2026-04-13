@@ -20,9 +20,13 @@ updated: 2026-04-07
 
 ## Pass 1 — Bird's Eye
 
-**Type**: Research paper — Materials Science / AI
-**Main Claim**: GNoME (Graph Networks for Materials Exploration) discovered 2.2 million stable crystal structures via graph neural network + active learning loop, expanding known stable materials by ~10×.
-**Relevance to PUMA**: ⭐⭐ Medium — quantitative demonstration of AI generating vast new scientific knowledge; key example for PUMA's PEC2 state-of-the-art section.
+> [!abstract] Main Claim
+> GNoME discovered 2.2 million stable crystal structures via graph neural network + active learning loop, expanding known stable materials by ~10×.
+
+| Property | Detail |
+|----------|--------|
+| **Type** | Research paper — Materials Science / AI |
+| **Relevance to PUMA** | ⭐⭐ Medium — quantitative demonstration of AI generating vast new scientific knowledge; key example for PUMA's PEC2 state-of-the-art section |
 
 ## Pass 2 — Key Content
 
@@ -45,15 +49,14 @@ updated: 2026-04-07
 
 ## PUMA Connection
 
-GNoME represents the "AI as scientific model" level operating at scale:
-- Input: crystal structure parameters
-- Output: stability prediction (classification, like PUMA's triage)
-- Value: enables human researchers to focus synthesis efforts on high-probability candidates
-
-PUMA's triage agent performs an analogous function:
-- Input: issue text
-- Output: priority classification
-- Value: enables PM to focus attention on high-priority issues with AI providing pre-filtering
+> [!info] PUMA Analogy
+> GNoME represents the "AI as scientific model" level operating at scale:
+> - **Input**: crystal structure parameters → **Output**: stability prediction (classification, like PUMA's triage)
+> - **Value**: enables human researchers to focus synthesis efforts on high-probability candidates
+>
+> PUMA's triage agent performs an analogous function:
+> - **Input**: issue text → **Output**: priority classification
+> - **Value**: enables PM to focus attention on high-priority issues with AI providing pre-filtering
 
 ---
 

@@ -12,9 +12,13 @@ created: 2026-04-06
 
 # PER: Srinivasan Keshav
 
-**Known for PUMA**: Author of the Three-Pass Method for reading research papers (2007). His method is used as the primary paper-reading protocol for the PUMA SLR.
+> [!info] PUMA Context
 
-**Key contribution**: A simple, actionable framework that turns passive paper reading into systematic knowledge extraction. The 5Cs evaluation (Category, Context, Correctness, Contributions, Clarity) in Pass 1 directly parallels peer review quality criteria.
+> [!info] Overview
+> Author of the Three-Pass Method for reading research papers (2007). His method is used as the primary paper-reading protocol for the PUMA SLR.
+
+> [!info] Key Contribution
+> A simple, actionable framework that turns passive paper reading into systematic knowledge extraction. The 5Cs evaluation (Category, Context, Correctness, Contributions, Clarity) in Pass 1 directly parallels peer review quality criteria.
 
 **Related notes**:
 - [[30 - Permanent/33 Frameworks/PN-MIT-Student-Method-Complete]]

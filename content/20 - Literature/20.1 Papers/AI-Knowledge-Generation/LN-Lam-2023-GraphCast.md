@@ -20,9 +20,13 @@ updated: 2026-04-07
 
 ## Pass 1 — Bird's Eye
 
-**Type**: Research paper — Meteorology / AI
-**Main Claim**: GraphCast (graph neural network) outperforms ECMWF's operational HRES system in >90% of 1380 evaluated metrics for 10-day global weather forecasting, at orders of magnitude lower computational cost.
-**Relevance to PUMA**: ⭐⭐ Medium — paradigmatic example of AI as scientific model outperforming traditional mechanistic models; supports PUMA's positioning of LLM agents as superior to heuristic PM baselines.
+> [!abstract] Main Claim
+> GraphCast outperforms ECMWF's HRES system in >90% of 1380 evaluated metrics for 10-day global weather forecasting, at orders of magnitude lower computational cost.
+
+| Property | Detail |
+|----------|--------|
+| **Type** | Research paper — Meteorology / AI |
+| **Relevance to PUMA** | ⭐⭐ Medium — paradigmatic example of AI as scientific model outperforming traditional mechanistic models; supports PUMA's positioning of LLM agents as superior to heuristic PM baselines |
 
 ## Pass 2 — Key Content
 
@@ -45,12 +49,13 @@ updated: 2026-04-07
 
 ## PUMA Connection
 
-GraphCast vs. HRES = analogous to PUMA's triage agent vs. majority-class baseline:
-- Both AI systems replace rule-based/statistical baselines with learned models
-- Both achieve measurably superior performance on defined evaluation metrics
-- Both operate in domains where ground truth is available (observed weather / labeled Jira issues)
-
-This validates the general approach PUMA uses.
+> [!info] PUMA Analogy
+> GraphCast vs. HRES = analogous to PUMA's triage agent vs. majority-class baseline:
+> - Both AI systems replace rule-based/statistical baselines with learned models
+> - Both achieve measurably superior performance on defined evaluation metrics
+> - Both operate in domains where ground truth is available (observed weather / labeled Jira issues)
+>
+> This validates the general approach PUMA uses.
 
 ---
 

@@ -20,8 +20,8 @@ keshav-pass: 1
 
 # LN: Weichbroth et al. (2025) — A Survey on the Impact of Emotions on Developer Productivity
 
-**Citation**: Weichbroth, P., Lotysz, G., & Wrobel, M. (2025). *A survey on the impact of emotions on the productivity among software developers*. arXiv:2510.04611. https://arxiv.org/abs/2510.04611
-
+> [!cite] Bibliographic Reference
+> **Citation**: Weichbroth, P., Lotysz, G., & Wrobel, M. (2025). *A survey on the impact of emotions on the productivity among software developers*. arXiv:2510.04611. https://arxiv.org/abs/2510.04611
 **Important notes**: (1) The citation should be "et al." as there are 3 authors. (2) The subtitle "and burnout" does not appear in the verified title. (3) The correct title is "...on the productivity among software developers" not "...on developer productivity and burnout."
 
 ---
@@ -36,7 +36,8 @@ keshav-pass: 1
 | **Contributions** | (1) Taxonomy of emotional factors affecting productivity; (2) Burnout as a distinct category from general emotions; (3) Implications for team management practices |
 | **Clarity** | Good. |
 
-**Relevance**: ⭐⭐⭐ — Background for PUMA's ethical impact section (1.3): automating triage reduces cognitive load and potential burnout from repetitive classification tasks. Supports Graeber (2018) "bullshit jobs" argument.
+> [!success] Relevance: ⭐⭐⭐
+> Background for PUMA's ethical impact section (1.3): automating triage reduces cognitive load and potential burnout from repetitive classification tasks. Supports Graeber (2018) "bullshit jobs" argument.
 
 ---
 

@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 How To Do A Literature Review (STRESS-FREE!)
 
-**Channel**: Andy Stapleton
-**URL**: https://www.youtube.com/watch?v=jJntl74QNWo
-**Relevance**: ⭐⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: Andy Stapleton
+> **URL**: https://www.youtube.com/watch?v=jJntl74QNWo
+> **Relevance**: ⭐⭐⭐⭐⭐
 
 ---
 

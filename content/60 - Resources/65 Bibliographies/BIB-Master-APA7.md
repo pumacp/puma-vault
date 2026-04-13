@@ -10,6 +10,7 @@ total-references: 42
 
 # 📚 Master Bibliography — APA 7th Edition
 
+> [!info] Overview
 > **Source**: Zotero group library + manual verification.
 > All references verified in primary source before inclusion.
 > Target: ≥ 40 references (OE1). **Current: 42.**

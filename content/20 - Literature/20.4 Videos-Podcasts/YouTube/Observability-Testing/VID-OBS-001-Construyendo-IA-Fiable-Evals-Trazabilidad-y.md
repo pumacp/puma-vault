@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 Construyendo IA Fiable: Evals, Trazabilidad y Observabilidad — LambdaCast 34
 
-**Channel**: LambdaLoopers  
-**URL**: https://www.youtube.com/watch?v=qZ2Eu3kqA_g  
-**Relevance**: ⭐⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: LambdaLoopers  
+> **URL**: https://www.youtube.com/watch?v=qZ2Eu3kqA_g  
+> **Relevance**: ⭐⭐⭐⭐⭐
 
 ---
 

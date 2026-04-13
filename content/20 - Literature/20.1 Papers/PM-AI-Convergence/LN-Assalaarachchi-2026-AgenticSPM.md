@@ -20,7 +20,8 @@ keshav-pass: 3
 
 # LN: Assalaarachchi et al. (2026) — Toward Agentic Software Project Management: A Vision and Roadmap
 
-**Citation**: Assalaarachchi, N., Hoda, R., Hassan, A. E., & Grundy, J. (2026). *Toward agentic software project management: A vision and roadmap*. arXiv:2601.16392. ICSE 2026 AGENT Workshop. https://arxiv.org/abs/2601.16392
+> [!cite] Bibliographic Reference
+> **Citation**: Assalaarachchi, N., Hoda, R., Hassan, A. E., & Grundy, J. (2026). *Toward agentic software project management: A vision and roadmap*. arXiv:2601.16392. ICSE 2026 AGENT Workshop. https://arxiv.org/abs/2601.16392
 
 ---
 
@@ -34,7 +35,8 @@ keshav-pass: 3
 | **Contributions** | (1) Concept of "Agentic Project Manager" (APM) in software project management; (2) Taxonomy of autonomy levels (from assistant to junior PM agent); (3) Ethical implications of human role shift to "coach"; (4) Research roadmap for SPM 3.0 |
 | **Clarity** | Excellent. Clear framework and diagrams. |
 
-**Relevance**: ⭐⭐⭐⭐⭐ — This is the most directly aligned paper with PUMA's long-term vision (Stage 5: Smart PMO). Pioneer paper in "agentic SPM" micro-niche.
+> [!success] Relevance: ⭐⭐⭐⭐⭐
+> This is the most directly aligned paper with PUMA's long-term vision (Stage 5: Smart PMO). Pioneer paper in "agentic SPM" micro-niche.
 
 ---
 

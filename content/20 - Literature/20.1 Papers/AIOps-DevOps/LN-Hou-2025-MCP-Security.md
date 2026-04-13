@@ -20,7 +20,8 @@ keshav-pass: 1
 
 # LN: Hou et al. (2025) — Model Context Protocol (MCP): Landscape, Security Threats, and Future Directions
 
-**Citation**: Hou, X., Zhao, Y., Wang, S., & Wang, H. (2025). *Model context protocol (MCP): Landscape, security threats, and future research directions*. arXiv:2503.23278. https://arxiv.org/abs/2503.23278
+> [!cite] Bibliographic Reference
+> **Citation**: Hou, X., Zhao, Y., Wang, S., & Wang, H. (2025). *Model context protocol (MCP): Landscape, security threats, and future research directions*. arXiv:2503.23278. https://arxiv.org/abs/2503.23278
 
 ---
 
@@ -34,7 +35,8 @@ keshav-pass: 1
 | **Contributions** | (1) First academic survey of MCP landscape; (2) Security threat taxonomy (injection attacks, tool poisoning, data exfiltration); (3) Research directions for secure MCP deployments |
 | **Clarity** | Good. Accessible for non-security readers. |
 
-**Relevance**: ⭐⭐⭐ — PUMA Stage 5 Smart PMO uses MCP for tool integration (Jira API, GitHub). Understanding MCP security is important for the governance layer design.
+> [!success] Relevance: ⭐⭐⭐
+> PUMA Stage 5 Smart PMO uses MCP for tool integration (Jira API, GitHub). Understanding MCP security is important for the governance layer design.
 
 ---
 

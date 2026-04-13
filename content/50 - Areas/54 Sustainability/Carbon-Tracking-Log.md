@@ -10,6 +10,8 @@ updated: 2026-03-01
 # Carbon Tracking Log — PUMA Experiments
 
 > **PUMA tracks gCO₂eq for every experimental condition using CodeCarbon.**
+
+> [!info] Overview
 > This log is the first systematic PM+LLM carbon measurement dataset in the literature.
 
 ---

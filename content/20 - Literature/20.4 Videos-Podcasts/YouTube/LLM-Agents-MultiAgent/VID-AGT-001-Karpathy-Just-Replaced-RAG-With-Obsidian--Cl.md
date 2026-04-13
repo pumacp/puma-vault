@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 Karpathy Just Replaced RAG With Obsidian + Claude Code
 
-**Channel**: Chase AI
-**URL**: https://www.youtube.com/watch?v=OSZdFnQmgRw
-**Relevance**: ⭐⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: Chase AI
+> **URL**: https://www.youtube.com/watch?v=OSZdFnQmgRw
+> **Relevance**: ⭐⭐⭐⭐⭐
 
 ---
 

@@ -10,6 +10,7 @@ source: "Anexo C — Catálogo de Herramientas (TFG PUMA v5.0)"
 
 # 📖 Glossary — Tools & Platforms (Supplement v4)
 
+> [!info] Overview
 > **Supplement to**: [[60 - Resources/64 Glossary/Glossary-Master]]
 > Terms for tools and platforms in the PUMA project. All definitions in English.
 

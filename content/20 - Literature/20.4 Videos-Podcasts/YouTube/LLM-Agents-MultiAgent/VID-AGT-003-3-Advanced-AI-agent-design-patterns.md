@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 3 Advanced AI agent design patterns
 
-**Channel**: Google Cloud Tech
-**URL**: https://www.youtube.com/watch?v=89KKm_a4M7A
-**Relevance**: ⭐⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: Google Cloud Tech
+> **URL**: https://www.youtube.com/watch?v=89KKm_a4M7A
+> **Relevance**: ⭐⭐⭐⭐⭐
 
 ---
 

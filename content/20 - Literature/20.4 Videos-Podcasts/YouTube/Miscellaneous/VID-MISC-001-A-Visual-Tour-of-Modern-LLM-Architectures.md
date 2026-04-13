@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 A Visual Tour of Modern LLM Architectures
 
-**Channel**: Sebastian Raschka  
-**URL**: https://www.youtube.com/watch?v=CepbWmGie0E  
-**Relevance**: ⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: Sebastian Raschka  
+> **URL**: https://www.youtube.com/watch?v=CepbWmGie0E  
+> **Relevance**: ⭐⭐⭐⭐
 
 ---
 

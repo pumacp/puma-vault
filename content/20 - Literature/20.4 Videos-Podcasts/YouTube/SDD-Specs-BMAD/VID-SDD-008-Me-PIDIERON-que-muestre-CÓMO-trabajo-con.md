@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 Me PIDIERON que muestre CÓMO trabajo con IA — Engram + Agent Teams + SDD
 
-**Channel**: Gentleman Programming
-**URL**: https://www.youtube.com/watch?v=c5Gwx0RcxNE
-**Relevance**: ⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: Gentleman Programming
+> **URL**: https://www.youtube.com/watch?v=c5Gwx0RcxNE
+> **Relevance**: ⭐⭐⭐⭐
 
 ---
 

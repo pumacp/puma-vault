@@ -20,9 +20,13 @@ keshav-pass: 1
 
 # LN: Shao et al. (2025) — Future of Work with AI Agents: Auditing Automation and Augmentation Potential
 
-**Citation**: Shao, Y., Wang, J., Lam, J., et al. (2025). *Future of work with AI agents: Auditing automation and augmentation potential across the U.S. workforce*. arXiv:2506.06576. https://arxiv.org/abs/2506.06576
+> [!cite] Bibliographic Reference
+> **Citation**: Shao, Y., Wang, J., Lam, J., et al. (2025). *Future of work with AI agents: Auditing automation and augmentation potential across the U.S. workforce*. arXiv:2506.06576. https://arxiv.org/abs/2506.06576
 
-**Important note**: The bibliography entry lists "Sapkota, S., Hoda, R., & Hassan, A." as authors and an inaccurate subtitle ("Auditing Automation and Readiness"). The **verified** first author is **Yijia Shao** (Stanford). The correct title includes "across the U.S. Workforce."
+> [!warning] Important Note
+
+> [!info] Overview
+> The bibliography entry lists "Sapkota, S., Hoda, R., & Hassan, A." as authors and an inaccurate subtitle ("Auditing Automation and Readiness"). The **verified** first author is **Yijia Shao** (Stanford). The correct title includes "across the U.S. Workforce."
 
 ---
 
@@ -36,7 +40,8 @@ keshav-pass: 1
 | **Contributions** | (1) WORKBank: database of O*NET tasks mapped to AI automation potential; (2) Project manager tasks ~40% automatable with current AI; (3) Augmentation more likely than full automation for PM tasks |
 | **Clarity** | Good. |
 
-**Relevance**: ⭐⭐⭐ — Provides empirical evidence for which PM tasks are automatable, supporting PUMA's task selection (triage, estimation vs. full project management).
+> [!success] Relevance: ⭐⭐⭐
+> Provides empirical evidence for which PM tasks are automatable, supporting PUMA's task selection (triage, estimation vs. full project management).
 
 ---
 

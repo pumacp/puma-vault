@@ -20,8 +20,8 @@ keshav-pass: 1
 
 # LN: Li et al. (2026) — HAIF: A Human-AI Integration Framework for Hybrid Team Operations
 
-**Citation**: Li, W., Zhang, R., Chen, J., & Wang, H. (2026). *HAIF: A human-AI integration framework for hybrid team operations*. arXiv:2602.07641. https://arxiv.org/abs/2602.07641
-
+> [!cite] Bibliographic Reference
+> **Citation**: Li, W., Zhang, R., Chen, J., & Wang, H. (2026). *HAIF: A human-AI integration framework for hybrid team operations*. arXiv:2602.07641. https://arxiv.org/abs/2602.07641
 *(This paper is in the PUMA project knowledge PDFs as "HAIF_A_Human–AI_Integration_Framework_for_Hybrid_Team_Operations_2602.07641v1.pdf")*
 
 ---
@@ -36,7 +36,8 @@ keshav-pass: 1
 | **Contributions** | (1) HAIF framework: roles, responsibilities, and authority levels for human-AI teams; (2) Governance model for delegating decisions to agents; (3) Escalation protocols when agents fail |
 | **Clarity** | Good. |
 
-**Relevance**: ⭐⭐⭐⭐ — HAIF's governance model directly supports PUMA's HITL principle and bounded autonomy design. Relevant for Section 1.3 (ethical-social impact) and Stage 5 governance layer.
+> [!success] Relevance: ⭐⭐⭐⭐
+> HAIF's governance model directly supports PUMA's HITL principle and bounded autonomy design. Relevant for Section 1.3 (ethical-social impact) and Stage 5 governance layer.
 
 ---
 

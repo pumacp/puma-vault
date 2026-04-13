@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 Claude MCP has Changed AI Forever — Here's What You NEED to Know
 
-**Channel**: Cole Medin  
-**URL**: https://www.youtube.com/watch?v=v_6EXt6T83I  
-**Relevance**: ⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: Cole Medin  
+> **URL**: https://www.youtube.com/watch?v=v_6EXt6T83I  
+> **Relevance**: ⭐⭐⭐⭐
 
 ---
 

@@ -11,7 +11,8 @@ updated: 2026-04-07
 
 ## Core Insight
 
-Current AI systems (LLMs, multi-agent pipelines, robot scientists) can contribute to scientific discovery across multiple domains — mathematics, physics, materials science, structural biology — but they consistently operate within frameworks, datasets, and evaluation criteria defined by human researchers. The key question is not *whether* AI can produce new knowledge, but *to what degree* it can do so autonomously.
+> [!abstract] Atomic Claim
+> Current AI systems (LLMs, multi-agent pipelines, robot scientists) can contribute to scientific discovery across multiple domains — mathematics, physics, materials science, structural biology — but they consistently operate within frameworks, datasets, and evaluation criteria defined by human researchers. The key question is not *whether* AI can produce new knowledge, but *to what degree* it can do so autonomously.
 
 ---
 
@@ -50,10 +51,11 @@ Yann LeCun structures AI's role in science into three levels:
 
 ## The Skeptical Counter-Argument (Felin & Holweg, 2024)
 
-"Theory Is All You Need" argues AI is fundamentally retrospective:
-- Human cognition is **prospective** and **causal** — generates experiments driven by theory, not just data.
-- AI is **retrospective** and **correlational** — pattern-matches on existing data.
-- True scientific novelty requires formulating causal models not determined by prior data — which current AI cannot do spontaneously.
+> [!warning] Rival Hypothesis
+> "Theory Is All You Need" argues AI is fundamentally retrospective:
+> - Human cognition is **prospective** and **causal** — generates experiments driven by theory, not just data.
+> - AI is **retrospective** and **correlational** — pattern-matches on existing data.
+> - True scientific novelty requires formulating causal models not determined by prior data — which current AI cannot do spontaneously.
 
 **Assessment**: This is partially correct but increasingly challenged. The single-minus gluon result and First Proof cases suggest some LLMs can generate results that *correct prior human beliefs* — going beyond interpolation.
 

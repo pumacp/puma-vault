@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 12 Claude Code Features Every Engineer Should Know
 
-**Channel**: ByteByteAI  
-**URL**: https://www.youtube.com/watch?v=E4fzxVMOav4  
-**Relevance**: ⭐⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: ByteByteAI  
+> **URL**: https://www.youtube.com/watch?v=E4fzxVMOav4  
+> **Relevance**: ⭐⭐⭐⭐⭐
 
 ---
 

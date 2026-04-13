@@ -10,6 +10,8 @@ updated: 2026-03-01
 # 📇 Master Index — Johnny Decimal
 
 > **Every note in this vault has a unique Johnny Decimal address.**
+
+> [!info] Overview
 > Format: `AREA.CATEGORY-NoteKeyword` (e.g., `30.31-ChainOfThought`)
 > This index is the authoritative list of all active notes.
 

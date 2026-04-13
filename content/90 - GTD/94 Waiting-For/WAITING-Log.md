@@ -8,6 +8,7 @@ created: 2026-03-01
 
 # ⏳ Waiting For Log
 
+> [!info] Overview
 > Items blocked on external parties or events.
 > Review every week during [[90 - GTD/95 Reviews/Weekly-Review-Template]].
 

@@ -48,8 +48,11 @@ acceptance_criteria_count: 8
 
 # PUMA Triage Agent — OpenSpec v1.0
 
+> [!important] Constitutional Preamble
 > **Spec-first document per SDD methodology.**
 > [[30 - Permanent/33 Frameworks/PN-SDD-Framework]]
+
+> [!info] Overview
 > This spec is approved before any implementation begins.
 
 ---

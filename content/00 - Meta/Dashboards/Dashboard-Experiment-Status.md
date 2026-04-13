@@ -9,6 +9,9 @@ updated: 2026-04-06
 
 # 🔬 Dashboard — Experiment Status
 
+> [!warning] Placeholder Data
+> Results marked **TBD** will be populated after PEC2 experiments complete. Replace each TBD with actual CodeCarbon + statistical output.
+
 ---
 
 ## All Experiments

@@ -18,7 +18,8 @@ keshav-pass: 2
 
 # LN: Spichkova (2025) — Cognitive Agents for Agile PM
 
-**Citation**: Spichkova, M., Georgievski, I., & Čizmić, B. (2025). Cognitive agents for Agile software project management. In *Proceedings of EASE 2025* [Preprint]. arXiv:2508.16678.
+> [!cite] Bibliographic Reference
+> **Citation**: Spichkova, M., Georgievski, I., & Čizmić, B. (2025). Cognitive agents for Agile software project management. In *Proceedings of EASE 2025* [Preprint]. arXiv:2508.16678.
 
 ---
 
@@ -32,7 +33,8 @@ keshav-pass: 2
 | **Contributions** | Evaluates 5 Agile PM tasks with LLM agents. Shows CoT helps for structured tasks. |
 | **Clarity** | Good. Task definitions clear. |
 
-**Relevance**: ⭐⭐⭐⭐⭐ (5/5) — **Direct competitor / predecessor to PUMA**
+> [!success] Relevance: ⭐⭐⭐⭐⭐ (5/5)
+> **Direct competitor / predecessor to PUMA**
 
 ---
 

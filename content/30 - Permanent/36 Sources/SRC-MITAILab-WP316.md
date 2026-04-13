@@ -21,10 +21,11 @@ created: 2026-04-06
 
 ## Key Contribution to PUMA
 
-The three active reading questions (Q1/Q2/Q3) used in PUMA's reading protocol:
-- Q1: "How can I use this?"
-- Q2: "Does this really do what the author claims?"
-- Q3: "What if…?"
+> [!quote] The Three Active Reading Questions (Q1/Q2/Q3)
+> Used in PUMA's reading protocol for every paper processed:
+> - **Q1**: "How can I use this?"
+> - **Q2**: "Does this really do what the author claims?"
+> - **Q3**: "What if…?"
 
 ---
 

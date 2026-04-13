@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 The Future of RAG is Agentic — Learn this Strategy NOW
 
-**Channel**: Cole Medin
-**URL**: https://www.youtube.com/watch?v=_R-ff4ZMLC8
-**Relevance**: ⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: Cole Medin
+> **URL**: https://www.youtube.com/watch?v=_R-ff4ZMLC8
+> **Relevance**: ⭐⭐⭐⭐
 
 ---
 

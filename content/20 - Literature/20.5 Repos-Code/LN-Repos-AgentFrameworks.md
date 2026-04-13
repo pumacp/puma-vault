@@ -10,6 +10,7 @@ updated: 2026-04-06
 
 # 📦 Repository Notes — Verified Agent Frameworks and Tools
 
+> [!info] Overview
 > All repositories listed here have been verified as existing, active GitHub repositories with the cited URLs. Only verified repos with academic backing or direct PUMA relevance are included.
 
 ---

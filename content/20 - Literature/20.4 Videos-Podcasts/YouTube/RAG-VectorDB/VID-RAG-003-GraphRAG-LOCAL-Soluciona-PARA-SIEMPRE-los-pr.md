@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 GraphRAG LOCAL: Soluciona PARA SIEMPRE los problemas de tu RAG
 
-**Channel**: Joaquín Ruiz Lite
-**URL**: https://www.youtube.com/watch?v=dJ6D_krxpX0
-**Relevance**: ⭐⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: Joaquín Ruiz Lite
+> **URL**: https://www.youtube.com/watch?v=dJ6D_krxpX0
+> **Relevance**: ⭐⭐⭐⭐⭐
 
 ---
 

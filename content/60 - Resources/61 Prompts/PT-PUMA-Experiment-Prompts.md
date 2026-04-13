@@ -16,6 +16,8 @@ created: 2026-03-01
 # PUMA Experiment Prompt — Issue Triage (Zero-Shot)
 
 > **This is the actual prompt used in PUMA benchmark experiments.** It runs inside the Ollama inference pipeline, not as a conversational prompt.
+
+> [!info] Experiment Context
 > **Independent variable:** This zero-shot strategy is the baseline condition for H1.
 
 ---
@@ -151,6 +153,7 @@ title: "PUMA Experiment Prompt — Effort Estimation (Few-Shot)"
 
 # PUMA Experiment Prompt — Effort Estimation (Few-Shot)
 
+> [!info] Stage Context
 > **Used in Stage 2 (TAWOS dataset). This prompt tests H2.**
 
 ```python

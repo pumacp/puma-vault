@@ -20,8 +20,8 @@ keshav-pass: 1
 
 # LN: Tang et al. (2025) — LLMOrbit: A Circular Taxonomy from Scaling to Agentic AI
 
-**Citation**: Tang, J., Chen, W., Li, X., Liu, Z., & Sun, M. (2025). *LLMOrbit: A circular taxonomy of large language models — from scaling walls to agentic AI systems*. arXiv:2601.14053. https://arxiv.org/abs/2601.14053
-
+> [!cite] Bibliographic Reference
+> **Citation**: Tang, J., Chen, W., Li, X., Liu, Z., & Sun, M. (2025). *LLMOrbit: A circular taxonomy of large language models — from scaling walls to agentic AI systems*. arXiv:2601.14053. https://arxiv.org/abs/2601.14053
 *(This paper is in the PUMA project knowledge PDFs as "LLMOrbit_A_Circular_Taxonomy_of_Large_Language_Models_From_Scaling_Walls_to_Agentic_AI_Systems_2601.14053v1.pdf")*
 
 ---
@@ -36,7 +36,8 @@ keshav-pass: 1
 | **Contributions** | (1) Circular taxonomy: base LLM → instruction tuning → RLHF → agentic capabilities; (2) "Scaling wall" concept (diminishing returns from raw scale); (3) Positioning of agentic AI as next paradigm |
 | **Clarity** | Good. Visual taxonomy helpful. |
 
-**Relevance**: ⭐⭐⭐ — Useful for contextualising why local 8B models (PUMA's Llama 3.2 8B, Mistral 7B) can achieve meaningful results: they sit at the "instruction-tuned + agentic prompting" tier, not just raw scale.
+> [!success] Relevance: ⭐⭐⭐
+> Useful for contextualising why local 8B models (PUMA's Llama 3.2 8B, Mistral 7B) can achieve meaningful results: they sit at the "instruction-tuned + agentic prompting" tier, not just raw scale.
 
 ---
 

@@ -10,6 +10,7 @@ phase: [F0, F1, F5]
 
 # 🔍 Tools — Research Discovery & Bibliographic Management
 
+> [!info] Overview
 > All tools used in PUMA's Systematic Literature Review (OE1: ≥40 references) and bibliography management.
 > **Marco Veritas** applies: every reference obtained via AI tools is verified in primary source before inclusion.
 

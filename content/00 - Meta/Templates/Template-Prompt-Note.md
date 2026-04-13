@@ -17,7 +17,7 @@ updated: "{{date}}"
 # Prompt: "{{Tool}}" — "{{Use Case}}"
 
 > **Purpose:** "{{One sentence describing what this prompt achieves}}"
-[[|> **Methodology:** [[30 - Permanent/33 Frameworks/PN-"{{Methodology-Name}}"]]
+> **Methodology:** [[30 - Permanent/33 Frameworks/PN-"{{Methodology-Name}}"]]
 
 ---
 
@@ -110,9 +110,9 @@ FORMAT:
 
 ## 🔗 Related Prompts
 
-[[|- **Similar purpose:** [[PT-"{{Tool2}}"-"{{UseCase}}"]]
-[[|- **Complementary:** [[PT-"{{Tool}}"-"{{UseCase2}}"]]
-[[|- **Next step after this:** [[PT-"{{Tool}}"-"{{NextStep}}"]]
+- **Similar purpose:** [[PT-"{{Tool2}}"-"{{UseCase}}"]]
+- **Complementary:** [[PT-"{{Tool}}"-"{{UseCase2}}"]]
+- **Next step after this:** [[PT-"{{Tool}}"-"{{NextStep}}"]]
 
 ---
 

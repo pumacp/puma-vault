@@ -12,7 +12,12 @@ related_bdd: "41.6 Specs/SP-Triage-Agent-v1"
 
 # PUMA Architecture Specification v1.0
 
-> **Spec-first document.** This specification is written BEFORE implementation begins. All changes require version increment.
+> [!important] Spec-First Document
+
+> [!important] Constitutional Preamble
+
+> [!info] Overview
+> This specification is written BEFORE implementation begins. All changes require version increment.
 
 ---
 

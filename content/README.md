@@ -74,6 +74,7 @@
 
 ---
 
+> [!info] Overview
 > **PUMA — PUMA Understanding and Management with Agents**
 >
 > *Can language models manage ICT projects? An empirical benchmark of local LLM agents for issue triage and effort estimation in ICT projects.*
@@ -161,8 +162,35 @@ See `00 - Meta/Plugins-Config/Recommended-Plugins` for full setup instructions.
 ## Key Links
 
 - **GitHub Repository:** [pumacp/PUMA](https://github.com/pumacp/PUMA)
-- **Zotero Library:** PUMA group library
+- **Zotero Library:** [PUMA group library]([https://www.zotero.org/pumacp/library](https://www.zotero.org/pumacp/library))
 - **Datasets:** Jira SR (Zenodo DOI: 10.5281/zenodo.5901893) · TAWOS (GitHub: SOLAR-group/TAWOS)
+
+---
+
+## Other Links
+
+**Youtube Playlist**
+[https://www.youtube.com/@PUMACapstoneProject](https://www.youtube.com/@PUMACapstoneProject)
+
+**Research Discovery**
+[https://discovery.researcher.life/my-library/reading-list/1815730](https://discovery.researcher.life/my-library/reading-list/1815730)
+
+**Gemini (GEM)**
+[https://gemini.google.com/gem/1h-rxrzZagTsvX59_CGfaoDHjisJ48cz7?usp=sharing](https://gemini.google.com/gem/1h-rxrzZagTsvX59_CGfaoDHjisJ48cz7?usp=sharing)
+
+**Perplexity Space**
+[https://www.perplexity.ai/spaces/puma-6IpatdqAS_yOxg9j69qvAQ](https://www.perplexity.ai/spaces/puma-6IpatdqAS_yOxg9j69qvAQ)
+
+**Research Rabbit**
+[https://app.researchrabbit.ai/folder-shares/d8244f17-47f7-4f6c-a589-473876578b54](https://app.researchrabbit.ai/folder-shares/d8244f17-47f7-4f6c-a589-473876578b54)
+
+**Google Drive**
+[https://drive.google.com/drive/folders/1TKbYhYqLIrq7liAPlSF7ztS2Bv0l7vZS?usp=sharing](https://drive.google.com/drive/folders/1TKbYhYqLIrq7liAPlSF7ztS2Bv0l7vZS?usp=sharing)
+
+---
+## Full Documentation
+
+See [VAULT-GUIDE.md](VAULT-GUIDE.md) for the complete reference — methodology details, research frameworks, note types, .claude skills, workflow tutorials, plugin configuration, and the full index of all 386 vault files.
 
 ---
 

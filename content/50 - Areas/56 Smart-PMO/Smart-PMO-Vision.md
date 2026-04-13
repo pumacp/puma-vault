@@ -10,6 +10,7 @@ updated: 2026-04-06
 
 # 🏢 Smart PMO Vision — PUMA Stage 5
 
+> [!info] Overview
 > **This is aspirational scope** — beyond the MVP. Documents the long-term vision informed by the PEC1 correction feedback. Serves as the "north star" for future work section of the PUMA Project.
 
 ---

@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 I Compared Every Popular AI Literature Review Tool So You Don't Have To
 
-**Channel**: Andy Stapleton
-**URL**: https://www.youtube.com/watch?v=Ki2OBrW1HFU
-**Relevance**: ⭐⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: Andy Stapleton
+> **URL**: https://www.youtube.com/watch?v=Ki2OBrW1HFU
+> **Relevance**: ⭐⭐⭐⭐⭐
 
 ---
 

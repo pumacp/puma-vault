@@ -9,6 +9,7 @@ updated: 2026-04-06
 
 # 🧠 MOC — Methods & Frameworks
 
+> [!info] Overview
 > All research, development, and knowledge management methodologies integrated in PUMA and this vault.
 
 ---
@@ -30,6 +31,12 @@ updated: 2026-04-06
 ### Statistical Methods
 - [[30 - Permanent/32 Methods/PN-Wilcoxon-FINER-Cornell-PRISMA]] — Wilcoxon + effect sizes
 - Wilcoxon signed-rank (α=0.05, two-sided), effect size r = Z/√N
+- [[30 - Permanent/31 Concepts/PN-StatisticalValidation-Full]] — Full pipeline: normality → Wilcoxon → effect size → bootstrap CI → BH correction
+- [[30 - Permanent/31 Concepts/PN-Evaluation-Metrics-Comprehensive]] — Complete metrics reference (F1, MAE, SA, SPR, CO₂, AUC-ROC, etc.)
+
+### Reference Class Forecasting (RCF)
+- [[30 - Permanent/31 Concepts/PN-UniquenessTrap]] — Uniqueness Trap + RCF algorithm + PUMA mapping
+- [[20 - Literature/20.1 Papers/PM-AI-Convergence/LN-Flyvbjerg-2023-UniquenessTrap]] — Source: Flyvbjerg (2023)
 
 ---
 
@@ -107,6 +114,10 @@ updated: 2026-04-06
 - [[30 - Permanent/31 Concepts/PN-CoT-FewShot-Prompting]] — Permanent note
 - PUMA prompting Strategies 2 and 3
 
+### CO-STAR + Self-Consistency + Structured Output
+- [[30 - Permanent/31 Concepts/PN-COSTAR-SelfConsistency]] — CO-STAR 6-component template; Self-Consistency k-sampling; JSON mode strategies
+- [[20 - Literature/20.2 Books/LN-Shum-2025-PensarConPrompts]] — Comprehensive prompt engineering taxonomy
+
 ### Contextual Anchoring
 - Used in all PUMA triage prompts: restate key constraints at prompt end
 - [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Advanced-Prompts-IIPR-Anchoring-AgentOS]]
@@ -126,6 +137,10 @@ updated: 2026-04-06
 ### IIPR (Ingeniería Inversa de Prompts y Respuestas)
 - [[30 - Permanent/33 Frameworks/PN-AMI-DRCA-IIPR-Frameworks]] — Full explanation
 - Used for: diagnosing and fixing underperforming prompts
+
+### Reflexion (Verbal Self-Reflection Loop)
+- [[30 - Permanent/31 Concepts/PN-Reflexion-SelfCritique]] — Architecture + PUMA implementation (Stage 4 iterative triage)
+- [[20 - Literature/20.1 Papers/LLM-Agents-General/LN-Shinn-2023-Reflexion]] — Source: Shinn et al. (NeurIPS 2023)
 
 ---
 

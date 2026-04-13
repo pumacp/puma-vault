@@ -17,6 +17,8 @@ updated: "{{date}}"
 # Keshav Three-Pass: "{{title}}"
 
 > **Keshav's Three-Pass Method** — Read papers in up to three passes.
+
+> [!info] Overview
 > Pass 1 (5-10 min): bird's-eye view. Pass 2 (≤1h): grasp content. Pass 3 (4-5h): re-implement.
 
 **Citation**: `@"{{citekey}}"`  
@@ -26,7 +28,8 @@ updated: "{{date}}"
 
 ## Pass 1 — Bird's Eye View (5–10 min)
 
-*Read: title, abstract, intro, section headings, conclusions, glance at references.*
+> [!tip] What to read
+> Title · Abstract · Introduction · Section headings · Conclusions · Glance at references. Do **not** read the full paper yet.
 
 ### The Five Cs
 
@@ -48,7 +51,8 @@ updated: "{{date}}"
 
 ## Pass 2 — Grasp the Content (≤ 1 hour)
 
-*Read carefully but skip proofs. Note key points. Note unread references.*
+> [!tip] What to do
+> Read carefully but skip proofs. Note key points. Mark unread references for follow-up.
 
 ### Key Concepts & Arguments
 
@@ -69,7 +73,8 @@ updated: "{{date}}"
 
 ## Pass 3 — Virtual Re-implementation (4–5 hours)
 
-*Attempt to re-implement the paper. Identify assumptions, hidden failings, potential issues.*
+> [!warning] Deep Work Required
+> Attempt to virtually re-implement the paper from scratch. Identify assumptions, hidden failings, and potential issues. Only for core papers.
 
 ### Core Claims to Validate
 
@@ -78,7 +83,7 @@ updated: "{{date}}"
 ### How PUMA Would Extend or Challenge This
 
 ### Permanent Note Created?
-- [ ][[| Yes — 30 - Permanent/31 Concepts/PN-...
+- [ ] Yes — 30 - Permanent/31 Concepts/PN-...
 
 ---
 
@@ -94,6 +99,6 @@ updated: "{{date}}"
 
 ## Fleeting → Literature → Permanent Pipeline
 
-[[|- Fleeting: [[10 - Inbox/Fleeting-Notes/...]] (initial capture)
+- Fleeting: [[10 - Inbox/Fleeting-Notes/...]] (initial capture)
 - Literature: this note (Pass 1–3)
-[[|- Permanent: [[30 - Permanent/...]] (synthesised insight)
+- Permanent: [[30 - Permanent/...]] (synthesised insight)

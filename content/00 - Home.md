@@ -74,9 +74,13 @@ methodology:
 
 > **PUMA — PUMA Understanding and Management with Agents**
 >
+> [!info] Overview
 > *Can language models manage ICT projects? An empirical benchmark of local LLM agents for issue triage and effort estimation in ICT projects.*
 
 PUMA is a research-driven platform that benchmarks autonomous AI agents on practical project management tasks. This vault integrates **PARA · GTD · Zettelkasten · Johnny Decimal · SDD · BMAD · Keshav Three-Pass · CDD** into a single coherent workspace.
+
+> [!tip] Vault Guide
+> For full documentation on vault structure, methodologies, workflows, note types, .claude skills, and the complete file index → [[VAULT-GUIDE|VAULT-GUIDE.md]]
 
 ---
 

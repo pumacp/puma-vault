@@ -20,9 +20,13 @@ keshav-pass: 3
 
 # LN: Cinkusz et al. (2025) — Cognitive Agents Powered by LLMs for Agile Software PM
 
-**Citation**: Cinkusz, K., Barański, M., Brodowski, M., Kowalczyk, R., & Spichkova, M. (2025). *Cognitive agents powered by large language models for agile software project management*. arXiv:2508.16678. EASE 2025. https://arxiv.org/abs/2508.16678
+> [!cite] Bibliographic Reference
+> **Citation**: Cinkusz, K., Barański, M., Brodowski, M., Kowalczyk, R., & Spichkova, M. (2025). *Cognitive agents powered by large language models for agile software project management*. arXiv:2508.16678. EASE 2025. https://arxiv.org/abs/2508.16678
 
-**Important note**: The bibliography entry lists "Spichkova, M., Georgievski, I., & Čizmić, B." as the author list. The **verified** first author is **Konrad Cinkusz**. Spichkova is the last author. Georgievski and Čizmić do not appear in the verified paper.
+> [!warning] Important Note
+
+> [!info] Overview
+> The bibliography entry lists "Spichkova, M., Georgievski, I., & Čizmić, B." as the author list. The **verified** first author is **Konrad Cinkusz**. Spichkova is the last author. Georgievski and Čizmić do not appear in the verified paper.
 
 *(Also exists in vault as [[20 - Literature/20.1 Papers/LN-Spichkova-2025-CognitiveAgents]] — this note supersedes with corrected author metadata.)*
 
@@ -38,7 +42,8 @@ keshav-pass: 3
 | **Contributions** | (1) Evaluation of 5 Agile PM tasks (triage, estimation, sprint planning, risk, reporting); (2) CoT improves structured task performance; (3) First systematic multi-task PM benchmark with agents |
 | **Clarity** | Good. Tasks clearly defined. |
 
-**Relevance**: ⭐⭐⭐⭐⭐ — Direct predecessor to PUMA. PUMA's three differentiating contributions address the three limitations of this paper.
+> [!success] Relevance: ⭐⭐⭐⭐⭐
+> Direct predecessor to PUMA. PUMA's three differentiating contributions address the three limitations of this paper.
 
 ---
 

@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 Supabase con IA (CLI + MCP + Skills): Automatiza todo tu backend
 
-**Channel**: Fazt Code  
-**URL**: https://www.youtube.com/watch?v=nNdPT-FhlLU  
-**Relevance**: ⭐⭐⭐
+> [!info] Video Details
+> **Channel**: Fazt Code  
+> **URL**: https://www.youtube.com/watch?v=nNdPT-FhlLU  
+> **Relevance**: ⭐⭐⭐
 
 ---
 

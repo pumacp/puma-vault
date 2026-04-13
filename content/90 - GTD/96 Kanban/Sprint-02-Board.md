@@ -55,6 +55,7 @@ created: 2026-03-29
 
 # 🏃 Kanban Board — Sprint 02
 
+> [!info] Overview
 > This is the **GTD execution view** of the sprint. See [[40 - Projects/PUMA/41.8 Sprint-Boards/Sprint-02]] for the full sprint plan with retrospective.
 
 **Deadline**: 2026-04-08 · **Goal**: Functional triage module + Wilcoxon analysis

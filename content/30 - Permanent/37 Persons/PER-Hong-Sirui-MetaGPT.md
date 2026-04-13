@@ -12,7 +12,10 @@ created: 2026-04-06
 
 # PER: Sirui Hong (MetaGPT)
 
-**Known for PUMA**: First author of MetaGPT (arXiv:2308.00352) — the role-based multi-agent framework that directly inspired PUMA's BMAD agent team structure. MetaGPT's Product Manager → Architect → Engineer → QA workflow maps to PUMA's Research Analyst → Product Manager → Architect → Developer → QA.
+> [!info] PUMA Context
+
+> [!info] Overview
+> First author of MetaGPT (arXiv:2308.00352) — the role-based multi-agent framework that directly inspired PUMA's BMAD agent team structure. MetaGPT's Product Manager → Architect → Engineer → QA workflow maps to PUMA's Research Analyst → Product Manager → Architect → Developer → QA.
 
 **Related notes**:
 - [[20 - Literature/20.1 Papers/LLM-Agents-General/LN-Hong-2023-MetaGPT]]

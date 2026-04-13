@@ -8,6 +8,7 @@ created: 2026-03-01
 
 # 🔧 Frameworks — Research & Engineering Frameworks
 
+> [!info] Overview
 > Permanent notes on all methodological frameworks. Sub-folders: `Prompting/` · `Research/` · `Engineering/`
 
 ## Current Framework Notes
@@ -41,7 +42,8 @@ status: pending
 
 # Results Summary — Stage 1: Issue Triage
 
-> **Status:** ⏳ Pending experiment execution (Phase F2)
+> [!info] Chapter Status
+> ⏳ Pending experiment execution (Phase F2)
 > This note will be populated after running all 8 triage conditions.
 
 ---
@@ -79,7 +81,8 @@ status: pending
 
 # Results Summary — Stage 2: Effort Estimation
 
-> **Status:** ⏳ Pending experiment execution (Phase F3)
+> [!info] Chapter Status
+> ⏳ Pending experiment execution (Phase F3)
 
 ## Summary Table
 
@@ -114,7 +117,8 @@ sources: ["[[20 - Literature/20.2 Books/LN-Books-KeyReferences]]"]
 
 # Falsifiability — Popper's Criterion of Demarcation
 
-> **Atomic claim:** A hypothesis has scientific value only if it can be falsified by empirical evidence — meaning it must be possible to conceive an observation that would prove it wrong. This is the principle guiding how PUMA formulates H1 and H2.
+> [!abstract] Atomic Claim
+> A hypothesis has scientific value only if it can be falsified by empirical evidence — meaning it must be possible to conceive an observation that would prove it wrong. This is the principle guiding how PUMA formulates H1 and H2.
 
 ## The Principle
 

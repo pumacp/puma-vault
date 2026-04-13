@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 Ollama vs LM Studio vs Docker Models vs LlamaBarn ¿Cuál es el mejor inferidor?
 
-**Channel**: CodelyTV
-**URL**: https://www.youtube.com/watch?v=934BLPv15UI
-**Relevance**: ⭐⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: CodelyTV
+> **URL**: https://www.youtube.com/watch?v=934BLPv15UI
+> **Relevance**: ⭐⭐⭐⭐⭐
 
 ---
 

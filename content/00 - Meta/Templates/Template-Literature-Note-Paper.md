@@ -104,12 +104,12 @@ Summarise results in your own words. Do NOT quote numbers without attribution co
 
 ## 🔗 Connections (Zettelkasten Links)
 
-[[|**Supports:** [[PN-"{{Concept this paper supports}}"]]
-[[|**Contradicts:** [[PN-"{{Concept this paper challenges}}"]]
-[[|**Extends:** [[LN-"{{Paper this extends}}"]]
+**Supports:** [[PN-"{{Concept this paper supports}}"]]
+**Contradicts:** [[PN-"{{Concept this paper challenges}}"]]
+**Extends:** [[LN-"{{Paper this extends}}"]]
 **Extended by:** (to be filled when found)
-[[|**Dataset shared:** [[LN-"{{Dataset note}}"]]
-[[|**See also:** [[LN-"{{Related paper}}"]]
+**Dataset shared:** [[LN-"{{Dataset note}}"]]
+**See also:** [[LN-"{{Related paper}}"]]
 
 ---
 
@@ -149,6 +149,9 @@ Format: "quote" (Author, year, p.X)
 ---
 
 ## ✅ Processing Checklist
+
+> [!todo] Keshav Three-Pass Status
+> Complete each phase before moving to the next. A note is only "processed" when all items below are checked.
 
 - [ ] Abstract read
 - [ ] Full paper read

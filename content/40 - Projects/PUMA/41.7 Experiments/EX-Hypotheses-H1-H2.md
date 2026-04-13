@@ -11,7 +11,10 @@ updated: 2026-03-01
 
 # PUMA Research Hypotheses — H1 & H2
 
-> **Main research question:** Are there statistically significant differences in quality of automatic issue triage and effort estimation when using different LLMs and prompting strategies, evaluated on real ICT project datasets with verified reference labels?
+> [!question] Main Research Question
+
+> [!info] Overview
+> Are there statistically significant differences in quality of automatic issue triage and effort estimation when using different LLMs and prompting strategies, evaluated on real ICT project datasets with verified reference labels?
 
 ---
 

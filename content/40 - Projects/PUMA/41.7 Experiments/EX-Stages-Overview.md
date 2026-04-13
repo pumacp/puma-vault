@@ -12,6 +12,8 @@ updated: 2026-03-01
 # Experiment Overview — Stage 1: Issue Triage
 
 > **Tests H1.** Full design for all 8 experimental conditions + 2 baselines.
+
+> [!info] Overview
 > Individual runs: create from [[00 - Meta/Templates/Template-Experiment-Note]]
 
 ---

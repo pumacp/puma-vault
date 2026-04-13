@@ -8,6 +8,7 @@ created: 2026-03-01
 
 # 📐 Methods — Research & Statistical Methods
 
+> [!info] Overview
 > Permanent notes on research and statistical methods used in PUMA.
 > Sub-folders: `Research-Methods/` · `Statistical-Methods/`
 

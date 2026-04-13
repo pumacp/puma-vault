@@ -20,8 +20,8 @@ keshav-pass: 1
 
 # LN: Wang et al. (2025) — Flow: Modularized Agentic Workflow Automation
 
-**Citation**: Wang, B., Chen, H., Sun, T., He, Y., & Fu, J. (2025). *Flow: Modularized agentic workflow automation*. arXiv:2501.07834. https://arxiv.org/abs/2501.07834
-
+> [!cite] Bibliographic Reference
+> **Citation**: Wang, B., Chen, H., Sun, T., He, Y., & Fu, J. (2025). *Flow: Modularized agentic workflow automation*. arXiv:2501.07834. https://arxiv.org/abs/2501.07834
 *(This paper is in the PUMA project knowledge PDFs as "Flow_Modularized_Agentic_Workflow_Automation_2501.07834v2.pdf")*
 
 ---
@@ -36,7 +36,8 @@ keshav-pass: 1
 | **Contributions** | (1) Modular workflow composition from reusable agent components; (2) Better generalization than monolithic agents; (3) Explicit workflow graph for debugging and monitoring |
 | **Clarity** | Good. |
 
-**Relevance**: ⭐⭐⭐⭐ — Flow's modular composition is directly applicable to PUMA: triage module, estimation module, and planning module are independent "Flow" components that compose into the full benchmark pipeline.
+> [!success] Relevance: ⭐⭐⭐⭐
+> Flow's modular composition is directly applicable to PUMA: triage module, estimation module, and planning module are independent "Flow" components that compose into the full benchmark pipeline.
 
 ---
 

@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 Por qué NO uso RAG (y qué uso en su lugar)
 
-**Channel**: Ruben Loan
-**URL**: https://www.youtube.com/watch?v=5xZxgqif-qg
-**Relevance**: ⭐⭐⭐
+> [!info] Video Details
+> **Channel**: Ruben Loan
+> **URL**: https://www.youtube.com/watch?v=5xZxgqif-qg
+> **Relevance**: ⭐⭐⭐
 
 ---
 

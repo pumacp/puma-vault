@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 How to build, evaluate, and refine prompts with AI — Latitude
 
-**Channel**: Latitude  
-**URL**: https://www.youtube.com/watch?v=G-0Kq9Dt-8c  
-**Relevance**: ⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: Latitude  
+> **URL**: https://www.youtube.com/watch?v=G-0Kq9Dt-8c  
+> **Relevance**: ⭐⭐⭐⭐
 
 ---
 

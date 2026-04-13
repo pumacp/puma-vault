@@ -9,6 +9,7 @@ created: "{{date}}"
 
 # 📆 Weekly Review — "{{year}}" W"{{week}}"
 
+> [!info] Overview
 > *The Weekly Review is the master key to GTD. Without it, the system collapses.* — David Allen
 
 ---
@@ -37,9 +38,9 @@ WHERE type = "project"
 SORT deadline ASC
 ```
 
-- [ ][[| PUMA Ch1 Introduction → [[40 - Projects/PUMA/41.1 Introduction/PR-PUMA-Ch1-Introduction]]
-- [ ][[| PUMA Ch2 Literature → [[PR-PUMA-Ch2-Ch3-Ch4-Ch5]]
-- [ ][[| PUMA Triage Module → [[EX-Stages-Overview]]
+- [ ] PUMA Ch1 Introduction → [[40 - Projects/PUMA/41.1 Introduction/PR-PUMA-Ch1-Introduction]]
+- [ ] PUMA Ch2 Literature → [[PR-PUMA-Ch2-Ch3-Ch4-Ch5]]
+- [ ] PUMA Triage Module → [[EX-Stages-Overview]]
 
 ### Next Actions Review
 
@@ -104,6 +105,9 @@ SORT deadline ASC
 ---
 
 ## 7️⃣ REFLECTIONS
+
+> [!note] Weekly Synthesis
+> Be honest. The value of the Weekly Review is in the reflection, not the data entry.
 
 **What went well this week:**
 "{{Free text}}"

@@ -9,6 +9,7 @@ updated: 2026-04-06
 
 # 📖 PUMA Vault — Master Glossary
 
+> [!info] Overview
 > All technical terms used in the PUMA project and this vault, organised alphabetically.
 > Total terms: 65+. All definitions in English.
 

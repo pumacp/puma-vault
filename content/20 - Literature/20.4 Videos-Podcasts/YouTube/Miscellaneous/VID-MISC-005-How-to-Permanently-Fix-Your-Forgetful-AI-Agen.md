@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 How to Permanently Fix Your Forgetful AI Agents (Full Guide)
 
-**Channel**: Arseny Shatokhin  
-**URL**: https://www.youtube.com/watch?v=ZcWMSVGcZio  
-**Relevance**: ⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: Arseny Shatokhin  
+> **URL**: https://www.youtube.com/watch?v=ZcWMSVGcZio  
+> **Relevance**: ⭐⭐⭐⭐
 
 ---
 

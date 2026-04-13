@@ -20,7 +20,8 @@ keshav-pass: 2
 
 # LN: Jimenez et al. (2023) — SWE-bench: Can Language Models Resolve Real-World GitHub Issues?
 
-**Citation**: Jimenez, C. E., Yang, J., Wettig, A., Yao, S., Pei, K., Press, O., & Narasimhan, K. (2023). *SWE-bench: Can language models resolve real-world GitHub issues?* arXiv:2310.06770. ICLR 2024. https://arxiv.org/abs/2310.06770
+> [!cite] Bibliographic Reference
+> **Citation**: Jimenez, C. E., Yang, J., Wettig, A., Yao, S., Pei, K., Press, O., & Narasimhan, K. (2023). *SWE-bench: Can language models resolve real-world GitHub issues?* arXiv:2310.06770. ICLR 2024. https://arxiv.org/abs/2310.06770
 
 ---
 
@@ -34,7 +35,8 @@ keshav-pass: 2
 | **Contributions** | (1) SWE-bench: 2294 real GitHub issues requiring code patches; (2) State-of-the-art (at publication) resolved only 1.96% of issues; (3) Much harder than typical coding benchmarks |
 | **Clarity** | Excellent. |
 
-**Relevance**: ⭐⭐⭐⭐ — SWE-bench is to code generation what PUMA is to PM: a benchmark of LLM agents on real-world software engineering tasks with verified ground truth. Key reference for benchmark design methodology.
+> [!success] Relevance: ⭐⭐⭐⭐
+> SWE-bench is to code generation what PUMA is to PM: a benchmark of LLM agents on real-world software engineering tasks with verified ground truth. Key reference for benchmark design methodology.
 
 ---
 

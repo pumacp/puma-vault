@@ -20,7 +20,8 @@ keshav-pass: 1
 
 # LN: Mialon et al. (2023) — GAIA: A Benchmark for General AI Assistants
 
-**Citation**: Mialon, G., Fourrier, C., Swift, C., Yang, J., LeCun, Y., & Wolf, T. (2023). *GAIA: A benchmark for general AI assistants*. arXiv:2311.12983. ICLR 2024. https://arxiv.org/abs/2311.12983
+> [!cite] Bibliographic Reference
+> **Citation**: Mialon, G., Fourrier, C., Swift, C., Yang, J., LeCun, Y., & Wolf, T. (2023). *GAIA: A benchmark for general AI assistants*. arXiv:2311.12983. ICLR 2024. https://arxiv.org/abs/2311.12983
 
 ---
 
@@ -34,7 +35,8 @@ keshav-pass: 1
 | **Contributions** | (1) GAIA: 466 real-world tasks in 3 difficulty levels; (2) GPT-4 achieves 15% on hardest level vs. humans' 92%; (3) Highlights gap between benchmark-trained and truly capable agents |
 | **Clarity** | Good. |
 
-**Relevance**: ⭐⭐⭐ — Useful for contextualising PUMA's benchmark contribution. GAIA evaluates general AI agents; PUMA evaluates domain-specific PM agents.
+> [!success] Relevance: ⭐⭐⭐
+> Useful for contextualising PUMA's benchmark contribution. GAIA evaluates general AI agents; PUMA evaluates domain-specific PM agents.
 
 ---
 

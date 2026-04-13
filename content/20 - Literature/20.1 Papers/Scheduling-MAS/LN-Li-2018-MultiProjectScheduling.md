@@ -19,9 +19,13 @@ keshav-pass: 1
 
 # LN: Li & Xu (2018) — Multi-Agent System for Distributed Multi-Project Scheduling
 
-**Citation**: Li, F., & Xu, Z. (2018). A multi-agent system for distributed multi-project scheduling with two-stage decomposition. *PLOS ONE*, *13*(10). https://doi.org/10.1371/journal.pone.0205445
+> [!cite] Bibliographic Reference
+> **Citation**: Li, F., & Xu, Z. (2018). A multi-agent system for distributed multi-project scheduling with two-stage decomposition. *PLOS ONE*, *13*(10). https://doi.org/10.1371/journal.pone.0205445
 
-**Important note**: The bibliography lists "Confessore, G., Liotta, G., & Rismondo, S." as the authors and cites a different title. The **verified** authors from the DOI are **Feifeng Li and Zhe Xu**. The verified title includes "with two-stage decomposition." The DOI is correct but was paired with fabricated author metadata in the bibliography.
+> [!warning] Important Note
+
+> [!info] Overview
+> The bibliography lists "Confessore, G., Liotta, G., & Rismondo, S." as the authors and cites a different title. The **verified** authors from the DOI are **Feifeng Li and Zhe Xu**. The verified title includes "with two-stage decomposition." The DOI is correct but was paired with fabricated author metadata in the bibliography.
 
 ---
 
@@ -35,7 +39,8 @@ keshav-pass: 1
 | **Contributions** | (1) Two-stage decomposition: local project agents + global coordinator; (2) Negotiation-based resource conflict resolution; (3) Convergence proof |
 | **Clarity** | Technical but well-structured. |
 
-**Relevance**: ⭐⭐⭐ — The "local agent + coordinator" architecture is the canonical design for PUMA Stage 5 multi-project PMO: individual project agents + master orchestrator.
+> [!success] Relevance: ⭐⭐⭐
+> The "local agent + coordinator" architecture is the canonical design for PUMA Stage 5 multi-project PMO: individual project agents + master orchestrator.
 
 ---
 

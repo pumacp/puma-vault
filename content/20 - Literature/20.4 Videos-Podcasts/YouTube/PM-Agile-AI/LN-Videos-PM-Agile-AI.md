@@ -11,6 +11,7 @@ phase: [F0, F1, F5]
 
 # 🎬 Videos — AI in Project Management, Agile & Scrum Evolution
 
+> [!info] Overview
 > Videos on AI's impact on PM, Agile, and Scrum — directly relevant to PUMA's domain.
 > See also: [[20 - Literature/20.1 Papers/PM-AI-Convergence/LN-Assalaarachchi-2026-AgenticSPM]]
 

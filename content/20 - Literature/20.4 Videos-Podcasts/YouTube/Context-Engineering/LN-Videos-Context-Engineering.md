@@ -11,6 +11,7 @@ phase: [F1, F2, F3]
 
 # 🎬 Videos — Context Engineering, Prompt Engineering & Skills
 
+> [!info] Overview
 > Context Engineering is the 2026 evolution of Prompt Engineering.
 > See also: [[30 - Permanent/33 Frameworks/PN-RCOIF-Framework]] · [[30 - Permanent/31 Concepts/PN-CoT-FewShot-Prompting]]
 

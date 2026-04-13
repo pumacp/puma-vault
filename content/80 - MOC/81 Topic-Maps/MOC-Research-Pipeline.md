@@ -9,6 +9,7 @@ updated: 2026-03-01
 
 # 🔬 Research Pipeline Map of Content
 
+> [!info] Overview
 > This MOC maps the complete research methodology pipeline used in PUMA, combining three integrated frameworks.
 
 ---

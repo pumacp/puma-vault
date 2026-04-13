@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 Agentes de IA y LangGraph: cómo las empresas reducen costos
 
-**Channel**: Código Espinoza
-**URL**: https://www.youtube.com/watch?v=FPQpVGoj0rI
-**Relevance**: ⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: Código Espinoza
+> **URL**: https://www.youtube.com/watch?v=FPQpVGoj0rI
+> **Relevance**: ⭐⭐⭐⭐
 
 ---
 

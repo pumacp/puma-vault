@@ -17,7 +17,7 @@ run_date: "{{date}}"
 
 # Experiment: "{{Model}}" × "{{Strategy}}" × "{{Task}}"
 
-[[|> **Hypothesis tested:** [[40 - Projects/PUMA/41.7 Experiments/EX-Hypotheses-H1-H2]]
+> **Hypothesis tested:** [[40 - Projects/PUMA/41.7 Experiments/EX-Hypotheses-H1-H2]]
 > **Stage:** "{{Stage description}}"
 
 ---
@@ -51,7 +51,7 @@ run_date: "{{date}}"
 "{{Paste the exact prompt template used, with [PLACEHOLDERS] for variable parts}}"
 ```
 
-[[|**Prompt strategy:** [[60 - Resources/61 Prompts/PT-PUMA-"{{Strategy}}"-"{{Task}}"]]
+**Prompt strategy:** [[60 - Resources/61 Prompts/PT-PUMA-"{{Strategy}}"-"{{Task}}"]]
 
 ---
 
@@ -118,15 +118,18 @@ CodeCarbon Report:
 
 ## 🔗 Links
 
-[[|- **Prompt:** [[60 - Resources/61 Prompts/PT-PUMA-"{{Strategy}}"-"{{Task}}"]]
-[[|- **Dataset:** [[20 - Literature/20.3 Datasets/LN-"{{Dataset}}"]]
-[[|- **Results table:** [[40 - Projects/PUMA/41.4 Results/PR-PUMA-Ch4-Results]]
+- **Prompt:** [[60 - Resources/61 Prompts/PT-PUMA-"{{Strategy}}"-"{{Task}}"]]
+- **Dataset:** [[20 - Literature/20.3 Datasets/LN-"{{Dataset}}"]]
+- **Results table:** [[40 - Projects/PUMA/41.4 Results/PR-PUMA-Ch4-Results]]
 - **Code:** `src/experiments/"{{filename}}".py`
 - **Notebook:** `notebooks/"{{filename}}".ipynb`
 
 ---
 
 ## ✅ Reproduction Checklist
+
+> [!warning] PUMA Reproducibility Constitution
+> Every experiment MUST be fully reproducible from this note alone. Do not commit results until all items below are checked.
 
 - [ ] `seed=42` and `temperature=0` set
 - [ ] Exact model version logged

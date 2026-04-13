@@ -11,6 +11,7 @@ phase: [F2, F3, F4]
 
 # 🎬 Videos — Development Tools, IDEs & Coding Workflows
 
+> [!info] Overview
 > Videos covering IDE workflows, agentic coding tools, and infrastructure.
 > See also: [[20 - Literature/20.6 Tools/LN-Tools-Dev-Environment]]
 

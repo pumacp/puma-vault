@@ -20,9 +20,13 @@ keshav-pass: 1
 
 # LN: Chen et al. (2024) — Automatic Root Cause Analysis via LLMs for Cloud Incidents
 
-**Citation**: Chen, Y., Xie, H., Ma, M., et al. (2024). *Automatic root cause analysis via large language models for cloud incidents*. EuroSys 2024. arXiv:2305.15778. https://arxiv.org/abs/2305.15778
+> [!cite] Bibliographic Reference
+> **Citation**: Chen, Y., Xie, H., Ma, M., et al. (2024). *Automatic root cause analysis via large language models for cloud incidents*. EuroSys 2024. arXiv:2305.15778. https://arxiv.org/abs/2305.15778
 
-**Important note**: The bibliography listed arXiv:2407.11638 as the ID, which points to a different paper. The **correct** arXiv ID is **2305.15778**. The title should be "**Automatic**" not "Automated." DOI: 10.1145/3627703.3629553 (EuroSys 2024).
+> [!warning] Important Note
+
+> [!info] Overview
+> The bibliography listed arXiv:2407.11638 as the ID, which points to a different paper. The **correct** arXiv ID is **2305.15778**. The title should be "**Automatic**" not "Automated." DOI: 10.1145/3627703.3629553 (EuroSys 2024).
 
 **Affiliation**: Microsoft
 
@@ -38,7 +42,8 @@ keshav-pass: 1
 | **Contributions** | (1) LLM-based automated root cause analysis for cloud incidents; (2) Significant reduction in MTTD; (3) Multi-step reasoning over telemetry data; (4) Production deployment evidence |
 | **Clarity** | Good. Industrial paper with real metrics. |
 
-**Relevance**: ⭐⭐⭐ — PUMA's AIOps context (incident triage, risk detection) is directly related. This paper shows LLMs can automate production-grade incident analysis. Reference for PUMA's justification of AI-automated triage value (Section 1.1).
+> [!success] Relevance: ⭐⭐⭐
+> PUMA's AIOps context (incident triage, risk detection) is directly related. This paper shows LLMs can automate production-grade incident analysis. Reference for PUMA's justification of AI-automated triage value (Section 1.1).
 
 ---
 

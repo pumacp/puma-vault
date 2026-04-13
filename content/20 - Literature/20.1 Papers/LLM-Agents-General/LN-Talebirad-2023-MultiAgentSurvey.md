@@ -20,9 +20,13 @@ keshav-pass: 1
 
 # LN: Talebirad & Nadiri (2023) — Multi-Agent Collaboration: Harnessing the Power of Intelligent LLM Agents
 
-**Citation**: Talebirad, Y., & Nadiri, A. (2023). *Multi-agent collaboration: Harnessing the power of intelligent LLM agents*. arXiv:2306.03314. https://arxiv.org/abs/2306.03314
+> [!cite] Bibliographic Reference
+> **Citation**: Talebirad, Y., & Nadiri, A. (2023). *Multi-agent collaboration: Harnessing the power of intelligent LLM agents*. arXiv:2306.03314. https://arxiv.org/abs/2306.03314
 
-**Important note**: The bibliography entry lists arXiv:2312.04677 (a mathematics paper) as the ID. The **correct** arXiv ID is **2306.03314**, verified on Semantic Scholar and arXiv.
+> [!warning] Important Note
+
+> [!info] Overview
+> The bibliography entry lists arXiv:2312.04677 (a mathematics paper) as the ID. The **correct** arXiv ID is **2306.03314**, verified on Semantic Scholar and arXiv.
 
 ---
 
@@ -36,7 +40,8 @@ keshav-pass: 1
 | **Contributions** | (1) Taxonomy of multi-agent LLM architectures; (2) Communication patterns (hierarchical, peer-to-peer, broadcast); (3) Task decomposition strategies for complex problems |
 | **Clarity** | Good. Accessible overview. |
 
-**Relevance**: ⭐⭐⭐⭐ — Provides the theoretical taxonomy for classifying PUMA's multi-agent architecture choices (Stage 4–5).
+> [!success] Relevance: ⭐⭐⭐⭐
+> Provides the theoretical taxonomy for classifying PUMA's multi-agent architecture choices (Stage 4–5).
 
 ---
 

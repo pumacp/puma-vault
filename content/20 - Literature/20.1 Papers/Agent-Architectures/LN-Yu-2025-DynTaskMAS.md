@@ -20,9 +20,13 @@ keshav-pass: 1
 
 # LN: Yu et al. (2025) — DynTaskMAS: Dynamic Task Graph-driven Multi-Agent Systems
 
-**Citation**: Yu, J., Ding, Y., & Sato, H. (2025). *DynTaskMAS: A dynamic task graph-driven framework for asynchronous and parallel LLM-based multi-agent systems*. arXiv:2503.07675. https://arxiv.org/abs/2503.07675
+> [!cite] Bibliographic Reference
+> **Citation**: Yu, J., Ding, Y., & Sato, H. (2025). *DynTaskMAS: A dynamic task graph-driven framework for asynchronous and parallel LLM-based multi-agent systems*. arXiv:2503.07675. https://arxiv.org/abs/2503.07675
 
-**Important note**: The bibliography entry lists "Zhu et al." as the authors. The **verified** first author is **Junwei Yu**, not Zhu. The correct arXiv ID is **2503.07675** (not 2503.05473, which is a different paper — "The Society of HiveMind").
+> [!warning] Important Note
+
+> [!info] Overview
+> The bibliography entry lists "Zhu et al." as the authors. The **verified** first author is **Junwei Yu**, not Zhu. The correct arXiv ID is **2503.07675** (not 2503.05473, which is a different paper — "The Society of HiveMind").
 
 ---
 
@@ -36,7 +40,8 @@ keshav-pass: 1
 | **Contributions** | (1) Dynamic task graph that updates as agent outputs arrive; (2) Asynchronous agent execution (no blocking); (3) Parallel execution of independent sub-tasks; (4) Better resource utilisation than sequential frameworks |
 | **Clarity** | Good. Diagrams helpful. |
 
-**Relevance**: ⭐⭐⭐⭐ — PUMA Stage 5 Smart PMO processes backlog items in parallel (multiple issues simultaneously). DynTaskMAS's asynchronous graph is the technical foundation for this.
+> [!success] Relevance: ⭐⭐⭐⭐
+> PUMA Stage 5 Smart PMO processes backlog items in parallel (multiple issues simultaneously). DynTaskMAS's asynchronous graph is the technical foundation for this.
 
 ---
 

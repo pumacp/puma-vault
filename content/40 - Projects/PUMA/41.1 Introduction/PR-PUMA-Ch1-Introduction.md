@@ -14,7 +14,10 @@ updated: 2026-03-01
 
 # Chapter 1 — Introduction
 
-> **Status:** ✅ PEC1 delivered 2026-03-08
+> [!success] Chapter Status
+
+> [!info] Overview
+> ✅ PEC1 delivered 2026-03-08
 > **Chapter structure:** Follows PUMA Project requirements for final thesis
 
 ---

@@ -21,9 +21,13 @@ keshav-pass: 2
 
 # LN: Chen et al. (2025) — AIOpsLab: A Holistic Framework to Evaluate AI Agents for Autonomous Clouds
 
-**Citation**: Chen, Y., Shetty, M., Somashekar, G., et al. (2025). *AIOpsLab: A holistic framework to evaluate AI agents for enabling autonomous clouds*. arXiv:2501.06706. MLSys 2025. https://arxiv.org/abs/2501.06706
+> [!cite] Bibliographic Reference
+> **Citation**: Chen, Y., Shetty, M., Somashekar, G., et al. (2025). *AIOpsLab: A holistic framework to evaluate AI agents for enabling autonomous clouds*. arXiv:2501.06706. MLSys 2025. https://arxiv.org/abs/2501.06706
 
-**Important note**: The bibliography lists "Zhang, Y., & Cui, L." as authors (incorrect). The **verified** first author is **Yinfang Chen** (Microsoft). The arXiv ID is **2501.06706**, not the URL cited.
+> [!warning] Important Note
+
+> [!info] Overview
+> The bibliography lists "Zhang, Y., & Cui, L." as authors (incorrect). The **verified** first author is **Yinfang Chen** (Microsoft). The arXiv ID is **2501.06706**, not the URL cited.
 
 ---
 
@@ -37,7 +41,8 @@ keshav-pass: 2
 | **Contributions** | (1) Holistic evaluation framework covering detection, diagnosis, and mitigation; (2) Orchestration layer for reproducible AIOps agent testing; (3) Baseline evaluation of frontier LLMs on cloud operations; (4) Open-source framework |
 | **Clarity** | Excellent. Clear evaluation protocols. |
 
-**Relevance**: ⭐⭐⭐⭐ — AIOpsLab is the benchmark for AIOps agents that PUMA parallels for PM agents. The design principle (reproducible, standardised evaluation of LLM agents for operational tasks) is identical.
+> [!success] Relevance: ⭐⭐⭐⭐
+> AIOpsLab is the benchmark for AIOps agents that PUMA parallels for PM agents. The design principle (reproducible, standardised evaluation of LLM agents for operational tasks) is identical.
 
 ---
 

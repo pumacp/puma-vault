@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 The only AutoResearch tutorial you'll ever need
 
-**Channel**: David Ondrej
-**URL**: https://www.youtube.com/watch?v=uBWuKh1nZ2Y
-**Relevance**: ⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: David Ondrej
+> **URL**: https://www.youtube.com/watch?v=uBWuKh1nZ2Y
+> **Relevance**: ⭐⭐⭐⭐
 
 ---
 

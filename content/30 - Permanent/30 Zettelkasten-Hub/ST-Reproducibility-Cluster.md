@@ -14,6 +14,9 @@ created: 2026-04-06
 
 ## Core Claims
 
+> [!warning] Reproducibility Crisis
+> Only 5/18 LLM-SE papers with published artefacts are actually executable (Angermeir, 2025). PUMA is designed to be fully reproducible by construction.
+
 1. **Only 5/18 LLM-SE papers with artefacts are executable** (Angermeir 2025) → [[30 - Permanent/31 Concepts/PN-KeyConcepts-Agents-Reproducibility-RedTeam]]
 2. **Local inference + pinned models = bit-identical reproduction** → [[30 - Permanent/31 Concepts/PN-LLM-Local-vs-Cloud]]
 3. **seed=42 + temperature=0 ensure determinism** → [[40 - Projects/PUMA/41.6 Specs/SP-PUMA-Constitution]]

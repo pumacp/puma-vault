@@ -12,7 +12,10 @@ sources: ["Wei et al. (2022) arXiv:2201.11903", "Brown et al. (2020) arXiv:2005.
 
 # Chain-of-Thought (CoT) Prompting
 
-> **Atomic claim:** Instructing a language model to reason step-by-step before producing a final answer (CoT) consistently improves performance on tasks requiring multi-step inference — including issue triage and effort estimation — compared to direct answer prompting.
+> [!abstract] Atomic Claim
+
+> [!info] Overview
+> Instructing a language model to reason step-by-step before producing a final answer (CoT) consistently improves performance on tasks requiring multi-step inference — including issue triage and effort estimation — compared to direct answer prompting.
 
 ---
 
@@ -90,7 +93,8 @@ maturity: evergreen
 
 # Few-Shot Prompting
 
-> **Atomic claim:** Providing k labelled examples (k=3,6) within the prompt context enables LLMs to adapt their classification behaviour to the target task distribution without gradient updates — a form of in-context learning that is the primary variable being manipulated in PUMA Stages 1 and 2.
+> [!abstract] Atomic Claim
+> Providing k labelled examples (k=3,6) within the prompt context enables LLMs to adapt their classification behaviour to the target task distribution without gradient updates — a form of in-context learning that is the primary variable being manipulated in PUMA Stages 1 and 2.
 
 ---
 

@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 BMAD vs Open Spec vs Spec Kit: Which AI Development Framework Actually Works?
 
-**Channel**: AI Stack Studio
-**URL**: https://www.youtube.com/watch?v=yMz8vzoFOqk
-**Relevance**: ⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: AI Stack Studio
+> **URL**: https://www.youtube.com/watch?v=yMz8vzoFOqk
+> **Relevance**: ⭐⭐⭐⭐
 
 ---
 

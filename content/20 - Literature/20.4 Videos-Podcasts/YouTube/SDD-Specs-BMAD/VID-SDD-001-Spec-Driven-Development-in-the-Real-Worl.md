@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 Spec-Driven Development in the Real World
 
-**Channel**: Brian Casel
-**URL**: https://www.youtube.com/watch?v=3le-v1Pme44
-**Relevance**: ⭐⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: Brian Casel
+> **URL**: https://www.youtube.com/watch?v=3le-v1Pme44
+> **Relevance**: ⭐⭐⭐⭐⭐
 
 ---
 

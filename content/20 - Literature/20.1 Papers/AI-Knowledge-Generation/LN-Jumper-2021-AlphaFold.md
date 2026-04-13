@@ -20,9 +20,13 @@ updated: 2026-04-07
 
 ## Pass 1 — Bird's Eye
 
-**Type**: Research paper — Computational Biology / AI
-**Main Claim**: AlphaFold2 predicts protein structures with near-experimental accuracy even without structural homologues, winning CASP14 by a large margin.
-**Relevance to PUMA**: ⭐⭐ Medium — canonical example of AI achieving breakthrough results in science; context for PUMA's positioning of LLM agents as equivalent transformers for PM tasks.
+> [!abstract] Main Claim
+> AlphaFold2 predicts protein structures with near-experimental accuracy even without structural homologues, winning CASP14 by a large margin.
+
+| Property | Detail |
+|----------|--------|
+| **Type** | Research paper — Computational Biology / AI |
+| **Relevance to PUMA** | ⭐⭐ Medium — canonical example of AI achieving breakthrough results in science; context for PUMA's positioning of LLM agents as equivalent transformers for PM tasks |
 
 ## Pass 2 — Key Content
 
@@ -42,11 +46,12 @@ updated: 2026-04-07
 
 ## Pass 3 — PUMA Relevance
 
-AlphaFold demonstrates the "AI as scientific model" level in LeCun's framework. PUMA occupies a similar position for PM:
-- AlphaFold: input (sequence) → output (structure) with implicit physical knowledge
-- PUMA triage agent: input (issue text) → output (priority) with implicit PM domain knowledge
-
-Both use learned representations to solve domain-specific prediction tasks that previously required human expertise.
+> [!info] PUMA Analogy
+> AlphaFold demonstrates the "AI as scientific model" level in LeCun's framework. PUMA occupies a similar position for PM:
+> - AlphaFold: input (sequence) → output (structure) with implicit physical knowledge
+> - PUMA triage agent: input (issue text) → output (priority) with implicit PM domain knowledge
+>
+> Both use learned representations to solve domain-specific prediction tasks that previously required human expertise.
 
 ---
 

@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 Ingeniería de Contexto: La Habilidad CLAVE para crear AGENTES de IA ahora mismo
 
-**Channel**: Pocho Costa  
-**URL**: https://www.youtube.com/watch?v=Tbfc2lQzfAU  
-**Relevance**: ⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: Pocho Costa  
+> **URL**: https://www.youtube.com/watch?v=Tbfc2lQzfAU  
+> **Relevance**: ⭐⭐⭐⭐
 
 ---
 

@@ -12,7 +12,10 @@ sources: ["Hevner et al. (2004) MIS Quarterly 28(1)", "Peffers et al. (2007) JMI
 
 # Design Science Research (DSR)
 
-> **Atomic claim:** DSR is the appropriate research paradigm for PUMA because it explicitly produces and evaluates *artefacts* (the benchmark framework) alongside the *knowledge contribution* (empirical evidence about LLM capabilities), satisfying both engineering and academic validity requirements.
+> [!abstract] Atomic Claim
+
+> [!info] Overview
+> DSR is the appropriate research paradigm for PUMA because it explicitly produces and evaluates *artefacts* (the benchmark framework) alongside the *knowledge contribution* (empirical evidence about LLM capabilities), satisfying both engineering and academic validity requirements.
 
 ## 💡 The Paradigm
 
@@ -53,7 +56,8 @@ maturity: evergreen
 
 # Systematic Literature Review + PRISMA 2020
 
-> **Atomic claim:** An SLR following PRISMA 2020 protocol provides transparent, reproducible, and bias-controlled evidence synthesis — essential for establishing the research gap that motivates PUMA.
+> [!abstract] Atomic Claim
+> An SLR following PRISMA 2020 protocol provides transparent, reproducible, and bias-controlled evidence synthesis — essential for establishing the research gap that motivates PUMA.
 
 ## The PRISMA Flow for PUMA
 

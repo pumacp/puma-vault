@@ -8,6 +8,7 @@ created: 2026-03-01
 
 # 📋 Projects Master List
 
+> [!info] Overview
 > All multi-step active projects. Each must have ONE clear next action.
 > Review weekly during [[90 - GTD/95 Reviews/Weekly-Review-Template]].
 

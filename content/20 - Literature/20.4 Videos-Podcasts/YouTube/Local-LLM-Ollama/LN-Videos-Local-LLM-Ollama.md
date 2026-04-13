@@ -11,6 +11,7 @@ phase: [F1, F2, F3, F4]
 
 # 🎬 Videos — Local LLMs, Ollama & Hardware
 
+> [!info] Overview
 > Videos covering local LLM execution, Ollama setup, hardware choices for inference.
 > Core for PUMA's reproducibility-first design (Constitution Article 1).
 > See also: [[20 - Literature/20.6 Tools/LN-Tools-AI-Assistants-LLMs]] · [[30 - Permanent/31 Concepts/PN-LLM-Local-vs-Cloud]]

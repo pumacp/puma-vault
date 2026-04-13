@@ -11,7 +11,10 @@ maturity: evergreen
 
 # EGI — Guided Interactive Exploration
 
-> **Atomic claim:** EGI is a multi-turn AI interaction pattern that systematically maps an unfamiliar knowledge domain through structured questioning sequences, preventing both premature closure and infinite exploration.
+> [!abstract] Atomic Claim
+
+> [!info] Overview
+> EGI is a multi-turn AI interaction pattern that systematically maps an unfamiliar knowledge domain through structured questioning sequences, preventing both premature closure and infinite exploration.
 
 ## 💡 The Pattern
 

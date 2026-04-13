@@ -8,6 +8,7 @@ created: 2026-03-01
 
 # 📄 Papers — Index & Guide
 
+> [!info] Overview
 > All academic papers processed for PUMA. Use [[00 - Meta/Templates/Template-Literature-Note-Paper]] for new entries.
 > Full SLR process: [[60 - Resources/62 Workflows/WF-SLR-Pipeline]]
 

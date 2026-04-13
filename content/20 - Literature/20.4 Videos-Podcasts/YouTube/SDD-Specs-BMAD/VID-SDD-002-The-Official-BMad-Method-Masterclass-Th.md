@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 The Official BMad-Method Masterclass (The Complete IDE Workflow)
 
-**Channel**: BMad Code
-**URL**: https://www.youtube.com/watch?v=LorEJPrALcg
-**Relevance**: ⭐⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: BMad Code
+> **URL**: https://www.youtube.com/watch?v=LorEJPrALcg
+> **Relevance**: ⭐⭐⭐⭐⭐
 
 ---
 

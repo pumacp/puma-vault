@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 BMAD Method V6: PRD, Architecture, Agents — This Finally Ends Vibe Coding
 
-**Channel**: AI Stack Studio
-**URL**: https://www.youtube.com/watch?v=vWoJuzHAnQ0
-**Relevance**: ⭐⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: AI Stack Studio
+> **URL**: https://www.youtube.com/watch?v=vWoJuzHAnQ0
+> **Relevance**: ⭐⭐⭐⭐⭐
 
 ---
 

@@ -20,8 +20,8 @@ keshav-pass: 1
 
 # LN: Packer et al. (2023) — MemGPT: Towards LLMs as Operating Systems
 
-**Citation**: Packer, C., Wooders, S., Lin, K., et al. (2023). *MemGPT: Towards LLMs as operating systems*. arXiv:2310.08560. https://arxiv.org/abs/2310.08560
-
+> [!cite] Bibliographic Reference
+> **Citation**: Packer, C., Wooders, S., Lin, K., et al. (2023). *MemGPT: Towards LLMs as operating systems*. arXiv:2310.08560. https://arxiv.org/abs/2310.08560
 **Note**: The original title in the bibliography ("Towards LLMs with Persistent Memory") is inaccurate. The verified title is "Towards LLMs as Operating Systems."
 
 ---
@@ -36,7 +36,8 @@ keshav-pass: 1
 | **Contributions** | (1) Virtual context management (main context + external storage); (2) Agent-controlled memory paging; (3) Persistent persona memory across conversations |
 | **Clarity** | Good. OS analogy is helpful. |
 
-**Relevance**: ⭐⭐⭐ — PUMA Stage 4+ requires persistent memory across issue classification sessions. MemGPT's approach is relevant for maintaining project context.
+> [!success] Relevance: ⭐⭐⭐
+> PUMA Stage 4+ requires persistent memory across issue classification sessions. MemGPT's approach is relevant for maintaining project context.
 
 ---
 

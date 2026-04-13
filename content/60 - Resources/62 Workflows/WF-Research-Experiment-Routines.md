@@ -8,6 +8,7 @@ created: 2026-03-01
 
 # Workflow: Daily Research Routine
 
+> [!info] Overview
 > **The daily cadence that keeps the research moving.** Takes 20–30 min for planning + processing; rest is focused work.
 
 ---

@@ -8,6 +8,7 @@ created: 2026-03-01
 
 # Recommended Obsidian Plugins — PUMA Vault
 
+> [!info] Overview
 > Complete setup guide for getting the most out of this vault.
 
 ---
@@ -210,7 +211,7 @@ git push -u origin main
 Default new note location: 10 - Inbox
 New note template: (handled by Templater + QuickAdd)
 Attachments folder: 00 - Meta/Attachments
-[[|Use Wikilinks: ON (not Markdown links)
+Use Wikilinks: ON (not Markdown links)
 Always update internal links: ON
 ```
 
@@ -223,7 +224,8 @@ Always update internal links: ON
 
 ## 🔌 Plugin Startup Checklist
 
-After installing all plugins:
+> [!todo] First-Time Setup — Complete in Order
+> After installing all plugins, verify each item below before using the vault.
 
 - [ ] Dataview: Enable JS queries
 - [ ] Templater: Set template folder + hotkeys

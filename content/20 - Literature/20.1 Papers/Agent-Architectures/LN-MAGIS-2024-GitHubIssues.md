@@ -20,8 +20,8 @@ keshav-pass: 1
 
 # LN: Tao et al. (2024) — MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution
 
-**Citation**: Tao, W., Zhou, Y., Zhang, W., & Cheng, Y. (2024). *MAGIS: LLM-based multi-agent framework for GitHub issue resolution*. arXiv:2403.17927. https://arxiv.org/abs/2403.17927
-
+> [!cite] Bibliographic Reference
+> **Citation**: Tao, W., Zhou, Y., Zhang, W., & Cheng, Y. (2024). *MAGIS: LLM-based multi-agent framework for GitHub issue resolution*. arXiv:2403.17927. https://arxiv.org/abs/2403.17927
 *(This paper is in the PUMA project knowledge PDFs as "MAGIS_LLM-Based_Multi-Agent_Framework_for_GitHub_Issue_ReSolution_2403.17927v2.pdf")*
 
 ---
@@ -36,7 +36,8 @@ keshav-pass: 1
 | **Contributions** | (1) Manager + Repository curator + Developer + QA team pattern; (2) Role-specific context retrieval; (3) Better than SWE-agent on SWE-bench subset |
 | **Clarity** | Good. Clear role descriptions. |
 
-**Relevance**: ⭐⭐⭐⭐ — MAGIS's GitHub issue team is directly analogous to PUMA's multi-agent PM team. The "Repository curator" role (finds relevant files) maps to PUMA's "historical issue retriever" in Stage 4.
+> [!success] Relevance: ⭐⭐⭐⭐
+> MAGIS's GitHub issue team is directly analogous to PUMA's multi-agent PM team. The "Repository curator" role (finds relevant files) maps to PUMA's "historical issue retriever" in Stage 4.
 
 ---
 

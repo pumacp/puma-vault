@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 Demo: De Ticket a Pull Request en 30 minutos con Cursor
 
-**Channel**: LIDR  
-**URL**: https://www.youtube.com/watch?v=dkzOe2TwD_Q  
-**Relevance**: ⭐⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: LIDR  
+> **URL**: https://www.youtube.com/watch?v=dkzOe2TwD_Q  
+> **Relevance**: ⭐⭐⭐⭐⭐
 
 ---
 

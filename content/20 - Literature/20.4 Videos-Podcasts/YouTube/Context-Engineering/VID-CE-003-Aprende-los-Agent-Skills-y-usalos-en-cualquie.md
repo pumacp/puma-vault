@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 Aprende los Agent Skills y usalos en cualquier herramienta IA
 
-**Channel**: Fazt  
-**URL**: https://www.youtube.com/watch?v=_iVeYCRpH7w  
-**Relevance**: ⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: Fazt  
+> **URL**: https://www.youtube.com/watch?v=_iVeYCRpH7w  
+> **Relevance**: ⭐⭐⭐⭐
 
 ---
 

@@ -9,6 +9,7 @@ updated: 2026-04-06
 
 # 📦 Repository Notes — Analysed Reference Code & Architectural Patterns
 
+> [!info] Overview
 > Repositories analysed as **architectural references** or sources of **reusable code patterns**.
 > These are NOT dependencies — they are studied, understood, and selectively adapted.
 > All adaptations are declared in Section 1.8 (AI/tool use declaration).

@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 Claude Code con Modelos Locales: Privacidad y Coste Cero con Ollama
 
-**Channel**: DevExpert
-**URL**: https://www.youtube.com/watch?v=pZ56M-sjmyo
-**Relevance**: ⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: DevExpert
+> **URL**: https://www.youtube.com/watch?v=pZ56M-sjmyo
+> **Relevance**: ⭐⭐⭐⭐
 
 ---
 

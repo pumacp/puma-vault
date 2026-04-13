@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 AI Agent Specialization. RAG vs Fine-tuning — T3chFest 2026
 
-**Channel**: T3chFest
-**URL**: https://www.youtube.com/watch?v=weNLIRJutC8
-**Relevance**: ⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: T3chFest
+> **URL**: https://www.youtube.com/watch?v=weNLIRJutC8
+> **Relevance**: ⭐⭐⭐⭐
 
 ---
 

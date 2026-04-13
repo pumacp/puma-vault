@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 Codelab: Construyendo un Sistema Multi-Agente Multimodal para Análisis de Evidencia
 
-**Channel**: DevHack
-**URL**: https://www.youtube.com/watch?v=4l0bYXTtDIs
-**Relevance**: ⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: DevHack
+> **URL**: https://www.youtube.com/watch?v=4l0bYXTtDIs
+> **Relevance**: ⭐⭐⭐⭐
 
 ---
 

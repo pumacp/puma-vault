@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 How To Use Research Rabbit — Effortlessly Explore Literature for FREE!
 
-**Channel**: Andy Stapleton
-**URL**: https://www.youtube.com/watch?v=phWqcGcxeE4
-**Relevance**: ⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: Andy Stapleton
+> **URL**: https://www.youtube.com/watch?v=phWqcGcxeE4
+> **Relevance**: ⭐⭐⭐⭐
 
 ---
 

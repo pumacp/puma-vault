@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 E124 — Creando agentes con PydanticAI
 
-**Channel**: en_coders  
-**URL**: https://www.youtube.com/watch?v=txRPLlkK4KE  
-**Relevance**: ⭐⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: en_coders  
+> **URL**: https://www.youtube.com/watch?v=txRPLlkK4KE  
+> **Relevance**: ⭐⭐⭐⭐⭐
 
 ---
 

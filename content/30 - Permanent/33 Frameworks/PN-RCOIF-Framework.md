@@ -13,7 +13,10 @@ sources: ["[[30 - Permanent/33 Frameworks/PN-MIT-Student-Method]]"]
 
 # RCOIF — Role · Context · Objective · Instructions · Format
 
-> **Atomic claim:** Structuring every AI prompt into five components (Role, Context, Objective, Instructions, Format) consistently produces higher-quality, more predictable outputs than unstructured prompting.
+> [!abstract] Atomic Claim
+
+> [!info] Overview
+> Structuring every AI prompt into five components (Role, Context, Objective, Instructions, Format) consistently produces higher-quality, more predictable outputs than unstructured prompting.
 
 ---
 

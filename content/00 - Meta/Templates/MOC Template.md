@@ -4,20 +4,33 @@ date: ", {{time:HH:mm}}"
 tags: [moc]
 aliases: []
 ---
-____
-## 🚀Quick Notes
+
+# 🗺️ MOC — {{ title }}
+
+> [!info] Map of Content
+> This note is a navigational hub for the topic **{{ title }}**. It links to all related notes, resources, and permanent concepts.
+
 ---
-[[|- [[Idea of "{{title}}"]]
-[[|- [[Tasks of "{{title}}"]]
+
+## 🚀 Quick Notes
+
+- [[Idea of "{{title}}"]]
+- [[Tasks of "{{title}}"]]
+
+---
 
 ## 📝 All Notes
+
+*Link all notes related to this topic below, grouped by type.*
+
+### Permanent Notes
+
+### Literature Notes
+
+### Projects
+
 ---
 
+## 📒 Misc.
 
-
-
-
-## 📒Misc.
----
->Not sure, keep here
-
+> Not sure where this fits — keep here temporarily.

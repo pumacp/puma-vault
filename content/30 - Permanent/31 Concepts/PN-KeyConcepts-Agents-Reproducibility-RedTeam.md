@@ -12,7 +12,10 @@ sources: ["[[20 - Literature/20.1 Papers/LN-Spichkova-2025-CognitiveAgents]]"]
 
 # LLM Agents — Definition and Taxonomy
 
-> **Atomic claim:** An LLM agent is a language model equipped with tools, memory, and a planning loop that allows it to take sequences of actions toward a goal — going beyond single-turn question-answering to multi-step autonomous task completion.
+> [!abstract] Atomic Claim
+
+> [!info] Overview
+> An LLM agent is a language model equipped with tools, memory, and a planning loop that allows it to take sequences of actions toward a goal — going beyond single-turn question-answering to multi-step autonomous task completion.
 
 ## 💡 The Concept
 
@@ -53,7 +56,8 @@ sources: ["[[20 - Literature/20.1 Papers/LN-Angermeir-2025-Reproducibility]]"]
 
 # Reproducibility Crisis in LLM/SE Research
 
-> **Atomic claim:** The inability to reproduce LLM-based SE research results — demonstrated by Angermeir et al. (2025) finding that 0/18 published artefacts are fully reproducible — is the primary methodological crisis motivating PUMA's design, which treats 100% reproducibility as a first-class requirement.
+> [!abstract] Atomic Claim
+> The inability to reproduce LLM-based SE research results — demonstrated by Angermeir et al. (2025) finding that 0/18 published artefacts are fully reproducible — is the primary methodological crisis motivating PUMA's design, which treats 100% reproducibility as a first-class requirement.
 
 ## 💡 The Problem
 
@@ -96,7 +100,8 @@ sources: ["20 - Literature/20.1 Papers/LN-Flyvbjerg2023-BigThings"]
 
 # The Uniqueness Trap in Project Management
 
-> **Atomic claim:** The systematic tendency of project managers to treat each project as absolutely unique — thereby rejecting applicable historical evidence — is a documented cognitive bias that LLM few-shot prompting partially corrects by forcing anchoring to historical base rates.
+> [!abstract] Atomic Claim
+> The systematic tendency of project managers to treat each project as absolutely unique — thereby rejecting applicable historical evidence — is a documented cognitive bias that LLM few-shot prompting partially corrects by forcing anchoring to historical base rates.
 
 ## 💡 The Concept
 
@@ -132,7 +137,8 @@ maturity: evergreen
 
 # Red Teaming — Cognitive Self-Auditing
 
-> **Atomic claim:** Actively constructing the strongest possible argument against your own conclusions — before submitting or publishing — is the single most effective defence against confirmation bias in research.
+> [!abstract] Atomic Claim
+> Actively constructing the strongest possible argument against your own conclusions — before submitting or publishing — is the single most effective defence against confirmation bias in research.
 
 ## 💡 The Practice
 
@@ -183,7 +189,8 @@ maturity: growing
 
 # Agent Prompt Engineering & Agent OS
 
-> **Atomic claim:** Designing prompts for LLM agents (multi-step, tool-using systems) requires different principles than single-turn prompting — specifically: explicit role anchoring, tool description clarity, output schema enforcement, and failure mode handling.
+> [!abstract] Atomic Claim
+> Designing prompts for LLM agents (multi-step, tool-using systems) requires different principles than single-turn prompting — specifically: explicit role anchoring, tool description clarity, output schema enforcement, and failure mode handling.
 
 ## 💡 Agent vs Single-Turn Prompting
 

@@ -20,9 +20,9 @@ keshav-pass: 2
 
 # LN: Gao et al. (2024) — AgentScope: A Flexible yet Robust Multi-Agent Platform
 
-**Citation**: Gao, D., Li, Z., Pan, X., et al. (2024). *AgentScope: A flexible yet robust multi-agent platform*. arXiv:2402.14034. https://arxiv.org/abs/2402.14034
-
-**Affiliation**: Alibaba Group
+> [!cite] Bibliographic Reference
+> **Citation**: Gao, D., Li, Z., Pan, X., et al. (2024). *AgentScope: A flexible yet robust multi-agent platform*. arXiv:2402.14034. https://arxiv.org/abs/2402.14034
+> **Affiliation**: Alibaba Group
 
 ---
 
@@ -36,7 +36,8 @@ keshav-pass: 2
 | **Contributions** | (1) Actor-model concurrency for parallel agent execution; (2) Fault-tolerant pipeline with automatic retry; (3) Multiple LLM backends (OpenAI, Ollama, Hugging Face); (4) Built-in monitoring and debugging |
 | **Clarity** | Excellent. Comprehensive documentation. |
 
-**Relevance**: ⭐⭐⭐⭐ — AgentScope explicitly supports Ollama as a backend, making it directly compatible with PUMA's local inference stack.
+> [!success] Relevance: ⭐⭐⭐⭐
+> AgentScope explicitly supports Ollama as a backend, making it directly compatible with PUMA's local inference stack.
 
 ---
 

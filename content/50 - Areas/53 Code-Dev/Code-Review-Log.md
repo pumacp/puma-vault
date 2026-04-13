@@ -8,6 +8,7 @@ created: 2026-03-01
 
 # Code Review Log — PUMA
 
+> [!info] Overview
 > Every AI-generated code block must be reviewed and logged here.
 
 ## Review Protocol

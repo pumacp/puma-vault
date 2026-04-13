@@ -21,9 +21,13 @@ updated: 2026-04-07
 
 ## Pass 1 — Bird's Eye (5 min)
 
-**Type**: Benchmark / System paper — Empirical + System Design
-**Main Claim**: A fully automated pipeline can conduct end-to-end ML research — ideation → coding → experiments → writing → review — producing papers that pass peer review.
-**Relevance to PUMA**: ⭐⭐⭐⭐ High — demonstrates that closed-loop AI research pipelines are technically viable; PUMA's Smart PMO is an applied instance of this pattern in the PM domain.
+> [!abstract] Main Claim
+> A fully automated pipeline can conduct end-to-end ML research — ideation → coding → experiments → writing → review — producing papers that pass peer review.
+
+| Property | Detail |
+|----------|--------|
+| **Type** | Benchmark / System paper — Empirical + System Design |
+| **Relevance to PUMA** | ⭐⭐⭐⭐ High — demonstrates that closed-loop AI research pipelines are technically viable; PUMA's Smart PMO is an applied instance of this pattern in the PM domain |
 
 ## Pass 2 — Content Grasp
 

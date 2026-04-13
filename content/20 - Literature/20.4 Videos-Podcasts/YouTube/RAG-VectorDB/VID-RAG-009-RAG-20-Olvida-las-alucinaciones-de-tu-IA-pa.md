@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 RAG 2.0: Olvida las alucinaciones de tu IA para SIEMPRE (tutorial Python)
 
-**Channel**: Joaquín Ruiz Lite
-**URL**: https://www.youtube.com/watch?v=gvzibu9-OUc
-**Relevance**: ⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: Joaquín Ruiz Lite
+> **URL**: https://www.youtube.com/watch?v=gvzibu9-OUc
+> **Relevance**: ⭐⭐⭐⭐
 
 ---
 

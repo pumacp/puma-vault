@@ -15,9 +15,10 @@ updated: 2026-04-06
 
 # 🎬 El clásico Sprint hoy es demasiado lento: las 3 velocidades de los equipos con IA
 
-**Channel**: Javier Garzás  
-**URL**: https://www.youtube.com/watch?v=nOtaMh2yRfI  
-**Relevance**: ⭐⭐⭐⭐⭐
+> [!info] Video Details
+> **Channel**: Javier Garzás  
+> **URL**: https://www.youtube.com/watch?v=nOtaMh2yRfI  
+> **Relevance**: ⭐⭐⭐⭐⭐
 
 ---
 

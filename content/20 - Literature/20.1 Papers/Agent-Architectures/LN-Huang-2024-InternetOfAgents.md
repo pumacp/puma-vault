@@ -20,7 +20,8 @@ keshav-pass: 1
 
 # LN: Huang et al. (2024) — Internet of Agents: Weaving a Web of Heterogeneous Agents
 
-**Citation**: Huang, W., Chen, J., Chen, B., et al. (2024). *Internet of agents: Weaving a web of heterogeneous agents for collaborative intelligence*. arXiv:2407.07061. EMNLP 2024. https://arxiv.org/abs/2407.07061
+> [!cite] Bibliographic Reference
+> **Citation**: Huang, W., Chen, J., Chen, B., et al. (2024). *Internet of agents: Weaving a web of heterogeneous agents for collaborative intelligence*. arXiv:2407.07061. EMNLP 2024. https://arxiv.org/abs/2407.07061
 
 ---
 
@@ -34,7 +35,8 @@ keshav-pass: 1
 | **Contributions** | (1) Protocol for heterogeneous agent discovery and composition; (2) Internet-like routing of tasks to capable agents; (3) Agents from different providers and frameworks can collaborate |
 | **Clarity** | Good. |
 
-**Relevance**: ⭐⭐⭐ — PUMA Stage 5 may combine Ollama-local agents (triage/estimation) with cloud agents (complex planning). IoA's heterogeneous integration protocol is relevant for this hybrid architecture.
+> [!success] Relevance: ⭐⭐⭐
+> PUMA Stage 5 may combine Ollama-local agents (triage/estimation) with cloud agents (complex planning). IoA's heterogeneous integration protocol is relevant for this hybrid architecture.
 
 ---
 
