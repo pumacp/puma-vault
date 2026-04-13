@@ -3,7 +3,7 @@ id: RES-Triage-Stage1-Summary
 title: "📊 Results — Stage 1 Triage Summary"
 type: permanent-note
 category: result
-tags: [permanent, results, triage, stage1, f1-macro, h1, puma]
+tags: [permanent, results, triage, stage1, f1-macro, h1, puma, baseline, code-review, effect-size, effort-estimation, evaluation, github, issue-triage, metrics, non-parametric, permanent-note, precision-recall, statistics, story-points, wilcoxon]
 created: 2026-03-01
 maturity: seedling
 status: pending

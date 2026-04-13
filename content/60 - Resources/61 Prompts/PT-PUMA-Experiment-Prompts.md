@@ -2,7 +2,7 @@
 id: PT-PUMA-Triage-ZeroShot
 title: "PUMA Experiment Prompt — Issue Triage (Zero-Shot)"
 type: prompt-template
-tags: [prompt, puma, experiment, triage, zero-shot, ollama]
+tags: [prompt, puma, experiment, triage, zero-shot, ollama, agile, api, baseline, benchmark, carbon-footprint, chain-of-thought, codecarbon, cot, data-formats, dataset, effort-estimation, evaluation, few-shot, hypothesis, issue-triage, jira, json, local-llm, moc, pipeline, prompt-template, prompting, python, reasoning, research-methodology, security, story-points, sustainability, tawos, template]
 tool: ollama
 methodology: zero-shot
 use_case: experiment

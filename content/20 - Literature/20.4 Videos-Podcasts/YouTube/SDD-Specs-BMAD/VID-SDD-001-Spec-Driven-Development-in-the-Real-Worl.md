@@ -6,7 +6,7 @@ channel: "Brian Casel"
 url: "https://www.youtube.com/watch?v=3le-v1Pme44"
 year: 2025
 status: to-watch
-tags: [video, sdd, puma]
+tags: [video, sdd, puma, effort-estimation, issue-triage, metrics, moc, precision-recall, spec-driven-development, story-points, triage, video-note]
 phase: ['F1', 'F2']
 rating: 5
 created: 2026-04-06

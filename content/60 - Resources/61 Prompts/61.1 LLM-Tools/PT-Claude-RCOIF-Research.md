@@ -2,7 +2,7 @@
 id: PT-Claude-RCOIF-Research
 title: "Prompt: Claude — RCOIF Academic Research Assistant"
 type: prompt-template
-tags: [prompt, claude, rcoif, research, academic]
+tags: [prompt, claude, rcoif, research, academic, academic-writing, ami, anthropic, api, baseline, benchmark, carbon-footprint, chain-of-thought, codecarbon, cot, critical-thinking, dataset, drca, effect-size, effort-estimation, egi, evaluation, falsifiability, few-shot, gpt, hypothesis, ict, iipr, issue-triage, jira, llama, llm, local-llm, meta, metrics, mistral, non-parametric, ollama, openai, popper, precision-recall, project-management, prompt-template, prompting, red-teaming, research-methodology, research-tools, software-engineering, statistics, story-points, sustainability, tawos, template, thesis, triage, wilcoxon, zero-shot, zotero]
 tool: claude
 methodology: rcoif
 use_case: research

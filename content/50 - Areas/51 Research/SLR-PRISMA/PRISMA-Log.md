@@ -2,7 +2,7 @@
 id: PRISMA-Log
 title: "PRISMA Screening Log — PUMA SLR"
 type: log
-tags: [slr, prisma, screening, log, literature, prisma-traice]
+tags: [slr, prisma, screening, log, literature, prisma-traice, cornell-notes, dsr, finer, literature-review, moc, navigation, non-parametric, note-taking, pipeline, research-methodology, research-tools, semantic-scholar, software-engineering, statistics, wilcoxon, zotero]
 created: 2026-03-01
 ---
 

@@ -6,7 +6,7 @@ channel: "Joaquín Ruiz Lite"
 url: "https://www.youtube.com/watch?v=gvzibu9-OUc"
 year: 2025
 status: to-watch
-tags: [video, rag, hallucination, python, tutorial]
+tags: [video, rag, hallucination, python, tutorial, bibliography, citation, effort-estimation, embeddings, issue-triage, llama, meta, moc, para, retrieval, story-points, triage, vector-db, video-note]
 phase: ['F2', 'F3']
 rating: 4
 created: 2026-04-06

@@ -6,7 +6,7 @@ channel: "Comarca IA"
 url: "https://www.youtube.com/watch?v=a8ES9UrWSNc"
 year: 2025
 status: to-watch
-tags: [video, ollama, docker, private, local]
+tags: [video, ollama, docker, private, local, devops, gpt, local-llm, moc, openai, privacy, template, video-note]
 phase: ['F2']
 rating: 4
 created: 2026-04-06

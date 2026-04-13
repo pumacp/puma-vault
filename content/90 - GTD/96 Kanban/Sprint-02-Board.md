@@ -12,6 +12,44 @@ tags:
   - gtd
   - pec2
   - agile
+  - architecture
+  - backlog
+  - baseline
+  - carbon-footprint
+  - chain-of-thought
+  - codecarbon
+  - cot
+  - dataset
+  - effort-estimation
+  - evaluation
+  - few-shot
+  - github
+  - hypothesis
+  - issue-triage
+  - jira
+  - literature-review
+  - llama
+  - local-llm
+  - meta
+  - metrics
+  - mistral
+  - moc
+  - non-parametric
+  - ollama
+  - pec
+  - precision-recall
+  - prompt-engineering
+  - puma
+  - research-methodology
+  - slr
+  - statistics
+  - story-points
+  - sustainability
+  - tawos
+  - template
+  - triage
+  - wilcoxon
+  - zero-shot
 created: 2026-03-29
 ---
 

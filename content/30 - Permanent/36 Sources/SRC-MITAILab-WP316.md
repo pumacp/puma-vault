@@ -6,7 +6,7 @@ author: "MIT AI Lab (ed. David Chapman)"
 year: 1988
 citekey: "@MITAILab1988HowToDoResearch"
 url: "http://www.ai.mit.edu/lab/howto.html"
-tags: [source-note, mit-ai-lab, wp316, research-methodology]
+tags: [source-note, mit-ai-lab, wp316, research-methodology, academic-writing, literature-note, research]
 created: 2026-04-06
 ---
 

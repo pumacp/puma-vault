@@ -6,7 +6,7 @@ channel: "en_coders"
 url: "https://www.youtube.com/watch?v=txRPLlkK4KE"
 year: 2025
 status: to-watch
-tags: [video, pydanticai, agents, structured-output, python]
+tags: [video, pydanticai, agents, structured-output, python, effort-estimation, issue-triage, local-llm, moc, ollama, pydantic, reasoning, story-points, triage, video-note]
 phase: ['F2', 'F3']
 rating: 5
 created: 2026-04-06

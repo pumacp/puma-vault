@@ -6,7 +6,7 @@ channel: "Google Cloud Tech"
 url: "https://www.youtube.com/watch?v=89KKm_a4M7A"
 year: 2025
 status: to-watch
-tags: [video, agents, design-patterns, google]
+tags: [video, agents, design-patterns, google, architecture, issue-triage, llm, metrics, moc, multi-agent, orchestration, planning, precision-recall, project-management, react, reasoning-action, smart-pmo, tool-use, triage, video-note]
 phase: ['F1', 'F2']
 rating: 5
 created: 2026-04-06

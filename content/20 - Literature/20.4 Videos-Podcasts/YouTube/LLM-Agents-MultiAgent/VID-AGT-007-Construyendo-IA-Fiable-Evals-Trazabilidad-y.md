@@ -6,7 +6,7 @@ channel: "LambdaLoopers"
 url: "https://www.youtube.com/watch?v=qZ2Eu3kqA_g"
 year: 2025
 status: to-watch
-tags: [video, agents, observability, evals, arize]
+tags: [video, agents, observability, evals, arize, ai-ethics, ethics, evaluation, hypothesis, issue-triage, llm, moc, non-parametric, promptfoo, research-methodology, statistics, testing, triage, video-note, wilcoxon]
 phase: ['F3', 'F4']
 rating: 5
 created: 2026-04-06

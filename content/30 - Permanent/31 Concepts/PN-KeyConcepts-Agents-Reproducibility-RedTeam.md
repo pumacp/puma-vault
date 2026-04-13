@@ -3,7 +3,7 @@ id: PN-LLM-Agents
 title: "LLM Agents — Definition and Taxonomy"
 type: permanent-note
 category: concept
-tags: [permanent, concept, llm-agents, agents, orchestration]
+tags: [permanent, concept, llm-agents, agents, orchestration, ai-ethics, ami, anthropic, api, architecture, artefact, baseline, bias, chain-of-thought, claude, code-review, cot, crewai, critical-thinking, data-formats, dataset, dev-tools, devops, docker, drca, dsr, effort-estimation, ethics, evaluation, few-shot, github, hypothesis, iipr, issue-triage, jira, json, langgraph, llama, llm, local-llm, memory, meta, mistral, moc, multi-agent, ollama, opencode, permanent-note, planning, project-management, prompt-engineering, prompting, python, rag, rcoif, reasoning, red-teaming, research-methodology, retrieval, software-engineering, story-points, tawos, tool-use, triage, validity, zero-shot, zettelkasten]
 aliases: ["LLM Agent", "AI Agent", "Language Model Agent"]
 created: 2026-03-01
 maturity: growing

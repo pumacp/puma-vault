@@ -2,7 +2,7 @@
 id: LN-Tools-RAG-VectorDB
 title: "🗃️ Tools — RAG Systems & Vector Databases"
 type: literature-tools
-tags: [tools, rag, vector-database, qdrant, chromadb, llamaindex, embeddings, puma]
+tags: [tools, rag, vector-database, qdrant, chromadb, llamaindex, embeddings, puma, academic-writing, anythingllm, api, chain-of-thought, cot, devops, docker, index, issue-triage, jira, keshav, langchain, literature-note, literature-review, llama, llm, local-llm, memory, meta, metrics, moc, notebooklm, ollama, pipeline, precision-recall, privacy, project-management, python, react, reading-method, reasoning-action, research, research-tools, retrieval, semantic-search, slr, triage, vector-db, workflow]
 created: 2026-04-06
 updated: 2026-04-06
 phase: [F0, F1, F2, F3, F4]

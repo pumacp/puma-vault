@@ -6,7 +6,7 @@ role: ""
 affiliation: ""
 field: ""
 known-for: ""
-tags: [person-note]
+tags: [person-note, template]
 created: "{{date}}"
 ---
 

@@ -6,7 +6,7 @@ channel: "AI Stack Studio"
 url: "https://www.youtube.com/watch?v=yMz8vzoFOqk"
 year: 2025
 status: to-watch
-tags: [video, sdd, puma]
+tags: [video, sdd, puma, bmad, metrics, moc, multi-agent, precision-recall, spec-driven-development, spec-kit, video-note]
 phase: ['F1']
 rating: 4
 created: 2026-04-06

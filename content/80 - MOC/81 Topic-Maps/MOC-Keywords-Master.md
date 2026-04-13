@@ -3,7 +3,7 @@ id: MOC-Keywords-Master
 title: "MOC — PUMA Keywords Master Index"
 type: moc
 version: 1.0
-tags: [moc, keywords, glossary, puma, search-strings]
+tags: [moc, keywords, glossary, puma, search-strings, ai-ethics, aiops, architecture, automation, benchmark, carbon-footprint, codecarbon, dataset, devops, dsr, effort-estimation, ethics, human-in-the-loop, index, issue-triage, keshav, langgraph, literature-review, llm, local-llm, mas, mcp, metrics, multi-agent, navigation, obsidian, ollama, pipeline, precision-recall, prisma, project-management, protocol, pydantic, python, rag, reading-method, research-methodology, research-tools, retrieval, slr, smart-pmo, software-engineering, story-points, sustainability, swarm-intelligence, tfg, thesis, triage, zotero]
 created: 2026-04-07
 updated: 2026-04-07
 ---

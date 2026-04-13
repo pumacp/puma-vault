@@ -2,7 +2,7 @@
 id: ST-Reproducibility-Cluster
 title: "ST: Reproducibility in LLM-SE Research — Structure Note"
 type: structure-note
-tags: [zettelkasten, structure-note, reproducibility, llm, se, puma]
+tags: [zettelkasten, structure-note, reproducibility, llm, se, puma, code-review, critical-thinking, effort-estimation, embeddings, github, index, local-llm, moc, ollama, rag, red-teaming, retrieval, software-engineering, story-points, vector-db]
 created: 2026-04-06
 ---
 

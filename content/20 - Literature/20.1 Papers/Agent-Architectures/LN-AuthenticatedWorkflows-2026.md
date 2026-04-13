@@ -12,7 +12,7 @@ venue: "arXiv preprint"
 arxiv: "2602.10465"
 doi: "10.48550/arXiv.2602.10465"
 url: "https://arxiv.org/abs/2602.10465"
-tags: [literature, agentic-ai, security, authentication, workflows, governance]
+tags: [literature, agentic-ai, security, authentication, workflows, governance, academic-writing, ai-ethics, architecture, bibliography, citation, ethics, github, human-in-the-loop, jira, keshav, literature-note, llm, moc, project-management, reading-method, research, smart-pmo]
 created: 2026-04-06
 updated: 2026-04-06
 keshav-pass: 1

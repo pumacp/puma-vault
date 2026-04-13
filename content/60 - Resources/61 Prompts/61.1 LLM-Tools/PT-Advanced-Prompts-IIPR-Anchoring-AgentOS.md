@@ -2,7 +2,7 @@
 id: PT-Claude-IIPR-Prompt-Refinement
 title: "Prompt: Claude — IIPR Inverse Prompt Engineering"
 type: prompt-template
-tags: [prompt, claude, iipr, prompt-engineering, refinement, meta-prompt]
+tags: [prompt, claude, iipr, prompt-engineering, refinement, meta-prompt, academic-writing, ai-ethics, ami, anthropic, api, architecture, backlog, benchmark, contextual-anchoring, data-formats, dataset, drca, ethics, human-in-the-loop, ict, issue-triage, jira, json, llm, local-llm, ollama, orchestration, pipeline, planning, project-management, prompt-template, prompting, python, rcoif, reasoning, research, software-engineering, tawos, template, triage]
 tool: claude
 methodology: iipr
 use_case: research

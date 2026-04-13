@@ -6,7 +6,7 @@ tool: claude
 phase: Phase1-Research
 step: "07-Critical-Review"
 methodology: [GroundedTheory, Qualitative-Analysis, Strauss-Corbin]
-tags: [prompt, grounded-theory, qualitative, error-analysis, puma]
+tags: [prompt, grounded-theory, qualitative, error-analysis, puma, anthropic, claude, code-review, dsr, effort-estimation, github, literature-review, llm, metrics, moc, precision-recall, prompt-engineering, prompt-template, qualitative-research, quantitative-research, reasoning, research-methodology, slr, story-points]
 rating: 4
 created: 2026-04-07
 updated: 2026-04-07

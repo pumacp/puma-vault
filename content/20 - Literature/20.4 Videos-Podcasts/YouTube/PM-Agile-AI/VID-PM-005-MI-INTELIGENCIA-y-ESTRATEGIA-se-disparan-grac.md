@@ -6,7 +6,7 @@ channel: "Emowe"
 url: "https://www.youtube.com/watch?v=4uTB2q-eL9M"
 year: 2025
 status: to-watch
-tags: [video, obsidian, gemini, pkm, research]
+tags: [video, obsidian, gemini, pkm, research, anthropic, claude, google, knowledge-management, literature-review, metrics, moc, pipeline, precision-recall, prisma, project-management, slr, software-engineering, vault, video-note]
 phase: ['F0', 'F1']
 rating: 4
 created: 2026-04-06

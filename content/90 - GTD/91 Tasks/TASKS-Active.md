@@ -2,7 +2,7 @@
 id: TASKS-Active
 title: "✅ Active Tasks — PUMA"
 type: gtd-tasks
-tags: [gtd, tasks, active]
+tags: [gtd, tasks, active, academic-writing, ai-tools, api, architecture, baseline, bdd, benchmark, bibliography, carbon-footprint, chain-of-thought, citation, codecarbon, cot, dataset, effort-estimation, evaluation, few-shot, github, issue-triage, jira, literature-review, llama, local-llm, meta, metrics, mistral, non-parametric, obsidian, ollama, openspec, pec, perplexity, precision-recall, prompt-engineering, puma, research, research-tools, sdd, slr, statistics, story-points, sustainability, tawos, template, thesis, triage, wilcoxon, zero-shot, zotero]
 created: 2026-03-01
 updated: 2026-03-01
 ---

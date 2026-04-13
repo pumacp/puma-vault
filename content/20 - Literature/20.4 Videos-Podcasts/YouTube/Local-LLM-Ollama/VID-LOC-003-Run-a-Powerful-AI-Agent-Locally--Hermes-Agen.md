@@ -6,7 +6,7 @@ channel: "Prompt Engineer"
 url: "https://www.youtube.com/watch?v=UTaXIzhXoxI"
 year: 2025
 status: to-watch
-tags: [video, ollama, local-agent, hermes, api-free]
+tags: [video, ollama, local-agent, hermes, api-free, api, effort-estimation, jira, langgraph, llm, local-llm, memory, moc, story-points, tool-use, video-note]
 phase: ['F2', 'F3']
 rating: 5
 created: 2026-04-06

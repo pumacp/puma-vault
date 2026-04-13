@@ -6,7 +6,7 @@ channel: "Universidad de los Andes"
 url: "https://www.youtube.com/watch?v=u2Lpf1-ZURo"
 year: 2025
 status: to-watch
-tags: [video, agents, academic, nlp, overview]
+tags: [video, agents, academic, nlp, overview, code-review, critical-thinking, github, llm, metrics, moc, multi-agent, precision-recall, project-management, prompt-engineering, rag, reasoning, red-teaming, retrieval, tool-use, video-note]
 phase: ['F0', 'F1']
 rating: 4
 created: 2026-04-06

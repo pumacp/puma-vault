@@ -2,7 +2,7 @@
 id: LN-Tools-Documentation-Organisation
 title: "📋 Tools — Documentation, Organisation & Productivity"
 type: literature-tools
-tags: [tools, documentation, obsidian, notion, excalidraw, grammarly, puma]
+tags: [tools, documentation, obsidian, notion, excalidraw, grammarly, puma, academic-writing, api, architecture, automation, bibliography, citation, github, gtd, index, johnny-decimal, kanban, keshav, knowledge-management, langgraph, literature-note, literature-review, metrics, moc, multi-agent, para, pipeline, precision-recall, reading-method, research, research-tools, slr, sprint, template, tfg, thesis, vault, zettelkasten, zotero]
 created: 2026-04-06
 updated: 2026-04-06
 phase: [F0, F1, F2, F3, F4, F5]

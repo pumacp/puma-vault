@@ -2,7 +2,7 @@
 id: MOC-Tools-Stack
 title: "🔧 MOC — PUMA Full Technology Stack"
 type: moc
-tags: [moc, tools, stack, technology, puma, ollama, claude, perplexity, zotero]
+tags: [moc, tools, stack, technology, puma, ollama, claude, perplexity, zotero, academic-writing, ai-tools, anthropic, anythingllm, api, architecture, automation, benchmark, bibliography, chain-of-thought, cicd, citation, cot, crewai, dashboard, dataset, dev-tools, devops, docker, effort-estimation, elicit, embeddings, gemini, github, google, gpt, human-in-the-loop, ide, jira, knowledge-management, langgraph, literature-review, llama, llm, lm-studio, local-llm, meta, metrics, mistral, multi-agent, nlp, notebooklm, obsidian, openai, opencode, openhands, openspec, orchestration, pipeline, precision-recall, project-management, prompting, pydantic, python, rag, rcoif, react, reasoning, reasoning-action, research, research-tools, rest-api, retrieval, scrum, sdd, semantic-scholar, slr, software-engineering, spec-driven-development, story-points, swe-bench, tawos, template, vault, vector-db]
 created: 2026-04-06
 updated: 2026-04-06
 ---

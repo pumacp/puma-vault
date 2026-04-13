@@ -3,7 +3,7 @@ id: PN-AMI-Framework
 title: "AMI — Autodiagnóstico y Mejora Iterativa"
 type: permanent-note
 category: framework
-tags: [permanent, framework, prompting, ami, iteration, self-improvement]
+tags: [permanent, framework, prompting, ami, iteration, self-improvement, academic-writing, anthropic, claude, drca, falsifiability, hypothesis, iipr, issue-triage, literature-review, llm, local-llm, ollama, permanent-note, popper, prompt-engineering, rcoif, research, research-methodology, sdd, slr, spec-driven-development, template, triage, validity, zettelkasten]
 aliases: ["AMI", "Autodiagnosis Iterative Improvement"]
 created: 2026-03-01
 maturity: evergreen

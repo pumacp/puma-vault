@@ -2,7 +2,7 @@
 id: LN-Videos-Dev-Tools-IDE
 title: "🎬 Videos — Development Tools, IDEs & Coding Workflows"
 type: literature-videos
-tags: [videos, vscode, cursor, opencode, docker, git, python, puma]
+tags: [videos, vscode, cursor, opencode, docker, git, python, puma, aiops, anthropic, automation, claude, code-review, dev-tools, devops, effort-estimation, evaluation, gemini, github, google, gpt, ide, issue-triage, literature-note, llm, moc, openai, para, promptfoo, story-points, testing, triage, workflow]
 created: 2026-04-06
 updated: 2026-04-06
 total-videos: 40

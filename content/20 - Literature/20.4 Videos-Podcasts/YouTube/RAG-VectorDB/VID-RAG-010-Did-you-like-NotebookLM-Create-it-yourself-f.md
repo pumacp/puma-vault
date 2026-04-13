@@ -6,7 +6,7 @@ channel: "Javi Manzano"
 url: "https://www.youtube.com/watch?v=N3IN2pG6ZMM"
 year: 2025
 status: to-watch
-tags: [video, rag, notebooklm, build, masterclass]
+tags: [video, rag, notebooklm, build, masterclass, anythingllm, architecture, embeddings, llm, local-llm, metrics, moc, ollama, precision-recall, privacy, research-tools, retrieval, vector-db, video-note]
 phase: ['F0', 'F1']
 rating: 4
 created: 2026-04-06

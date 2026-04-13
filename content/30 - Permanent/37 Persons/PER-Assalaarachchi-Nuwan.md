@@ -6,7 +6,7 @@ role: "PhD Researcher"
 affiliation: "Monash University / IBM Research"
 field: "Software project management, AI agents, automated SE"
 known-for: "Toward Agentic Software Project Management (2026) — first paper proposing the 'Agentic PM' concept"
-tags: [person-note, assalaarachchi, agentic-pm, spm]
+tags: [person-note, assalaarachchi, agentic-pm, spm, academic-writing, agentic-science, code-review, github, llm, moc, person, project-management, research, smart-pmo, software-engineering]
 created: 2026-04-06
 ---
 

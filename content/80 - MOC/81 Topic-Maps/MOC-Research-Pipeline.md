@@ -2,7 +2,7 @@
 id: MOC-Research-Pipeline
 title: "🔬 MOC — Research Pipeline"
 type: moc
-tags: [moc, research, ebse, dsr, slr, prisma, pipeline]
+tags: [moc, research, ebse, dsr, slr, prisma, pipeline, academic-writing, ami, architecture, artefact, bdd, bmad, carbon-footprint, chain-of-thought, code-review, codecarbon, cornell-notes, cot, critical-thinking, drca, effort-estimation, egi, falsifiability, few-shot, finer, github, human-in-the-loop, hypothesis, iipr, keshav, literature-review, llm, metrics, mit-ai-lab, multi-agent, non-parametric, note-taking, openspec, popper, precision-recall, prompting, rcoif, reading-method, red-teaming, research-methodology, sdd, spec-driven-development, spec-kit, statistics, story-points, sustainability, tdd, validity, wilcoxon, workflow, wp316]
 created: 2026-03-01
 updated: 2026-03-01
 ---

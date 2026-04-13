@@ -3,7 +3,7 @@ id: LN-Tools-Research
 title: "Research Tools — Academic Discovery & Management"
 type: literature-note
 subtype: tool-collection
-tags: [tool, research, perplexity, consensus, elicit, zotero, semantic-scholar, connected-papers]
+tags: [tool, research, perplexity, consensus, elicit, zotero, semantic-scholar, connected-papers, academic-writing, ai-tools, anythingllm, api, benchmark, bibliography, chain-of-thought, citation, cot, dataset, dsr, few-shot, jira, literature-note, literature-review, llm, local-llm, metrics, notebooklm, obsidian, pipeline, precision-recall, prisma, project-management, python, rag, research-methodology, research-tools, retrieval, semantic-search, slr, software-engineering, tawos]
 puma_role: "Literature discovery, screening, management, citation network analysis"
 puma_phase: "F0, F1"
 created: 2026-03-01

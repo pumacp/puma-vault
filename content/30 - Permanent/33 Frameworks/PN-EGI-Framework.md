@@ -3,7 +3,7 @@ id: PN-EGI-Framework
 title: "EGI — Exploración Guiada Interactiva (Guided Interactive Exploration)"
 type: permanent-note
 category: framework
-tags: [permanent, framework, prompting, egi, exploration, methodology]
+tags: [permanent, framework, prompting, egi, exploration, methodology, academic-writing, ami, anthropic, claude, llm, permanent-note, project-management, rcoif, thesis]
 aliases: ["EGI", "Guided Interactive Exploration"]
 created: 2026-03-01
 maturity: evergreen

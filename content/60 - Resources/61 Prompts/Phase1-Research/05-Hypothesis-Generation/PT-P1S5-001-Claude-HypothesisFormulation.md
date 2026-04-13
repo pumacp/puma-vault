@@ -6,7 +6,7 @@ tool: claude
 phase: Phase1-Research
 step: "05-Hypothesis-Generation"
 methodology: [RCOIF, EGI, DSR, Popper-Falsifiability]
-tags: [prompt, claude, hypothesis, egi, falsifiability, puma]
+tags: [prompt, claude, hypothesis, egi, falsifiability, puma, accuracy, anthropic, artefact, baseline, bias, chain-of-thought, code-review, cot, dataset, dsr, effort-estimation, ethics, evaluation, few-shot, github, issue-triage, jira, literature-review, llama, llm, local-llm, meta, metrics, mistral, moc, non-parametric, popper, precision-recall, project-management, prompt-template, prompting, rcoif, research-methodology, slr, software-engineering, statistics, story-points, tawos, triage, validity, wilcoxon, zero-shot]
 rating: 5
 created: 2026-04-07
 updated: 2026-04-07

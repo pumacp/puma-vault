@@ -13,7 +13,7 @@ arxiv: "2407.16741"
 doi: "10.48550/arXiv.2407.16741"
 url: "https://arxiv.org/abs/2407.16741"
 github: "https://github.com/OpenHands/OpenHands"
-tags: [literature, open-source, platform, ai-agents, software-engineering, openhands]
+tags: [literature, open-source, platform, ai-agents, software-engineering, openhands, agents, architecture, benchmark, bibliography, citation, github, keshav, literature-note, llm, llm-agents, moc, multi-agent, project-management, reading-method, smart-pmo, swe-bench, tool-use]
 created: 2026-04-06
 updated: 2026-04-06
 keshav-pass: 2

@@ -6,7 +6,7 @@ channel: "Andy Stapleton"
 url: "https://www.youtube.com/watch?v=jJntl74QNWo"
 year: 2024
 status: to-watch
-tags: [video, research, slr, literature-review]
+tags: [video, research, slr, literature-review, dsr, moc, pipeline, prisma, research-methodology, research-tools, semantic-scholar, video-note]
 phase: ['F0']
 rating: 5
 created: 2026-04-06

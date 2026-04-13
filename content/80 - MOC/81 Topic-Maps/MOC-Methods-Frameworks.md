@@ -2,7 +2,7 @@
 id: MOC-Methods-Frameworks
 title: "🧠 MOC — Methods & Frameworks"
 type: moc
-tags: [moc, methods, frameworks, methodology]
+tags: [moc, methods, frameworks, methodology, academic-writing, ami, architecture, artefact, benchmark, bmad, chain-of-thought, contextual-anchoring, cornell-notes, cot, drca, dsr, effect-size, effort-estimation, egi, few-shot, finer, github, gtd, iipr, index, issue-triage, johnny-decimal, keshav, knowledge-management, literature-review, llm, mit-ai-lab, multi-agent, non-parametric, note-taking, obsidian, one-shot, openspec, para, permanent-note, pipeline, prisma, prompting, rcoif, reading-method, research, research-methodology, sdd, slr, spec-driven-development, spec-kit, statistics, story-points, template, triage, vault, wilcoxon, workflow, wp316, zero-shot, zettelkasten]
 created: 2026-03-01
 updated: 2026-04-06
 ---

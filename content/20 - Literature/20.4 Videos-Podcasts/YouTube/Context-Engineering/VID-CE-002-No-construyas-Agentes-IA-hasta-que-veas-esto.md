@@ -6,7 +6,7 @@ channel: "Ro Analytics"
 url: "https://www.youtube.com/watch?v=3kzen1qCMBY"
 year: 2025
 status: to-watch
-tags: [video, agents, anthropic, context, best-practices]
+tags: [video, agents, anthropic, context, best-practices, chain-of-thought, cot, data-formats, effort-estimation, issue-triage, json, metrics, moc, precision-recall, prompt-engineering, pydantic, python, story-points, triage, video-note]
 phase: ['F1', 'F2']
 rating: 5
 created: 2026-04-06

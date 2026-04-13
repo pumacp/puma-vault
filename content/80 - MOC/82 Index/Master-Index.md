@@ -2,7 +2,7 @@
 id: Master-Index
 title: "📇 Master Index — Johnny Decimal"
 type: index
-tags: [index, johnny-decimal, navigation, master]
+tags: [index, johnny-decimal, navigation, master, academic-writing, ai-ethics, ami, anthropic, architecture, baseline, benchmark, bibliography, chain-of-thought, citation, claude, code-review, contextual-anchoring, cornell-notes, cot, critical-thinking, dashboard, dataset, dev-tools, drca, dsr, effort-estimation, egi, embeddings, ethics, evaluation, falsifiability, few-shot, finer, github, glossary, gtd, hypothesis, iipr, issue-triage, jira, langgraph, literature-review, llm, local-llm, metrics, mit-ai-lab, moc, multi-agent, non-parametric, note-taking, obsidian, ollama, opencode, pipeline, popper, precision-recall, prisma, project-management, prompting, rag, rcoif, react, reasoning-action, red-teaming, research, research-methodology, retrieval, scrum, sdd, slr, spec-driven-development, statistics, story-points, tawos, template, triage, vault, vector-db, wilcoxon, workflow, wp316, zettelkasten]
 created: 2026-03-01
 updated: 2026-03-01
 ---

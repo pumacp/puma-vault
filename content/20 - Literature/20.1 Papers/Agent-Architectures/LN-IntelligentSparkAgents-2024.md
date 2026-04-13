@@ -12,7 +12,7 @@ venue: "arXiv preprint"
 arxiv: "2412.01490"
 doi: "10.48550/arXiv.2412.01490"
 url: "https://arxiv.org/abs/2412.01490"
-tags: [literature, langgraph, modular, spark, big-data, ml-workflows]
+tags: [literature, langgraph, modular, spark, big-data, ml-workflows, academic-writing, bibliography, citation, database, issue-triage, keshav, literature-note, moc, orchestration, pipeline, rag, reading-method, research, retrieval, sql, triage, workflow]
 created: 2026-04-06
 updated: 2026-04-06
 keshav-pass: 1

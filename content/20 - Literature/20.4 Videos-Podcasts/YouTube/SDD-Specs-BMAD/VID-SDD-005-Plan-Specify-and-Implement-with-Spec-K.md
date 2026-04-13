@@ -6,7 +6,7 @@ channel: "Microsoft Developer and GitHub"
 url: "https://www.youtube.com/watch?v=VfBLlAN5zdQ"
 year: 2025
 status: to-watch
-tags: [video, spec-kit, puma]
+tags: [video, spec-kit, puma, bmad, data-formats, github, json, metrics, moc, multi-agent, obsidian, precision-recall, sdd, spec-driven-development, video-note]
 phase: ['F1']
 rating: 4
 created: 2026-04-06

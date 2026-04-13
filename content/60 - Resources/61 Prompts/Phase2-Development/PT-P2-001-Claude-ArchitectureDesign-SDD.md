@@ -6,7 +6,7 @@ tool: claude
 phase: Phase2-Development
 step: "Architecture-Design"
 methodology: [SDD, BMAD, OpenSpec, DSR, RCOIF]
-tags: [prompt, claude, sdd, bmad, architecture, langgraph, puma]
+tags: [prompt, claude, sdd, bmad, architecture, langgraph, puma, anthropic, api, backlog, carbon-footprint, chain-of-thought, codecarbon, cot, crewai, data-formats, dev-tools, devops, docker, dsr, effort-estimation, few-shot, human-in-the-loop, ide, issue-triage, jira, json, llama, llm, local-llm, mas, mcp, meta, metrics, moc, multi-agent, ollama, openspec, orchestration, pipeline, planning, precision-recall, prompt-engineering, prompt-template, prompting, protocol, pydantic, python, rag, rcoif, reasoning, research-methodology, retrieval, smart-pmo, spec-driven-development, sprint, story-points, sustainability, template, triage, workflow, zero-shot]
 rating: 5
 created: 2026-04-07
 updated: 2026-04-07

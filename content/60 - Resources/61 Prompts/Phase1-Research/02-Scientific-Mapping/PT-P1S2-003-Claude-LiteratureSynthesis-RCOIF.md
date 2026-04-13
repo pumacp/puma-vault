@@ -6,7 +6,7 @@ tool: claude
 phase: Phase1-Research
 step: "02-Scientific-Mapping"
 methodology: [RCOIF, DSR, SLR, Keshav-Three-Pass]
-tags: [prompt, claude, rcoif, synthesis, keshav, puma]
+tags: [prompt, claude, rcoif, synthesis, keshav, puma, academic-writing, ami, anthropic, automation, benchmark, code-review, dataset, dsr, effort-estimation, github, human-in-the-loop, hypothesis, issue-triage, jira, literature-review, llama, llm, local-llm, meta, metrics, mistral, moc, ollama, pipeline, precision-recall, project-management, prompt-template, prompting, reading-method, research, research-methodology, slr, software-engineering, story-points, tawos, tfg, thesis, triage]
 rating: 5
 created: 2026-04-07
 updated: 2026-04-07

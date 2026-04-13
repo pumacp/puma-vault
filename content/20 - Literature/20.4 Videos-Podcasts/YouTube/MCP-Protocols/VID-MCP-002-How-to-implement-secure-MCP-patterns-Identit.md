@@ -6,7 +6,7 @@ channel: "Google Cloud Tech"
 url: "https://www.youtube.com/watch?v=9CoVNqbLdZU"
 year: 2025
 status: to-watch
-tags: [video, mcp, security, authorization, google]
+tags: [video, mcp, security, authorization, google, ai-ethics, effort-estimation, ethics, human-in-the-loop, issue-triage, jira, moc, planning, protocol, smart-pmo, story-points, triage, video-note]
 phase: ['F3', 'F4', 'F5']
 rating: 5
 created: 2026-04-06

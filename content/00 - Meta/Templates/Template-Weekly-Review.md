@@ -2,7 +2,7 @@
 id: "GT-Weekly-{{year}}-W{{week}}"
 title: "Weekly Review — {{year}} W{{week}}"
 type: gtd-weekly
-tags: [gtd, weekly-review]
+tags: [gtd, weekly-review, academic-writing, ai-tools, anthropic, claude, code-review, dev-tools, github, ide, issue-triage, notebooklm, obsidian, pec, perplexity, pipeline, prisma, puma, research-tools, slr, template, thesis, triage, workflow, zotero]
 week: "{{year}}-W{{week}}"
 created: "{{date}}"
 ---

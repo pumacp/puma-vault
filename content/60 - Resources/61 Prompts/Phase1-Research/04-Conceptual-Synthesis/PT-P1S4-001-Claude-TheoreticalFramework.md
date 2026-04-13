@@ -6,7 +6,7 @@ tool: claude
 phase: Phase1-Research
 step: "04-Conceptual-Synthesis"
 methodology: [RCOIF, DSR, DRCA, GroundedTheory]
-tags: [prompt, claude, theoretical-framework, drca, puma]
+tags: [prompt, claude, theoretical-framework, drca, puma, academic-writing, anthropic, benchmark, chain-of-thought, code-review, cot, critical-thinking, dataset, dsr, effort-estimation, few-shot, github, human-in-the-loop, issue-triage, jira, llama, llm, local-llm, mas, meta, metrics, mistral, moc, multi-agent, nlp, non-parametric, obsidian, permanent-note, precision-recall, project-management, prompt-template, prompting, rag, rcoif, red-teaming, research-methodology, research-tools, retrieval, semantic-scholar, software-engineering, statistics, story-points, tawos, tfg, thesis, triage, vault, wilcoxon, zettelkasten]
 rating: 5
 created: 2026-04-07
 updated: 2026-04-07

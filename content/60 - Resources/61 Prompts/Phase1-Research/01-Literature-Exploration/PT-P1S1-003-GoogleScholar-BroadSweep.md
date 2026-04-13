@@ -6,7 +6,7 @@ tool: google-scholar
 phase: Phase1-Research
 step: "01-Literature-Exploration"
 methodology: [SLR, PRISMA]
-tags: [prompt, google-scholar, literature-exploration, puma, boolean]
+tags: [prompt, google-scholar, literature-exploration, puma, boolean, academic-writing, aiops, benchmark, dataset, devops, human-in-the-loop, literature-review, llm, moc, multi-agent, pipeline, prisma, project-management, prompt-template, research, research-tools, semantic-scholar, slr, software-engineering]
 rating: 5
 created: 2026-04-07
 updated: 2026-04-07

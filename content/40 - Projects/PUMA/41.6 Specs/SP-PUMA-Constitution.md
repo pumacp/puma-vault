@@ -4,7 +4,7 @@ title: "⚖️ PUMA Project Constitution"
 type: constitution
 version: "1.0"
 status: locked
-tags: [sdd, speckit, constitution, puma, bmad]
+tags: [sdd, speckit, constitution, puma, bmad, anthropic, api, architecture, carbon-footprint, checklist, claude, code-review, codecarbon, critical-thinking, dataset, effort-estimation, falsifiability, gemini, github, google, gpt, human-in-the-loop, hypothesis, llm, local-llm, moc, multi-agent, navigation, non-parametric, ollama, openai, openspec, popper, prisma, privacy, project-management, python, red-teaming, research-methodology, slr, software-engineering, spec, spec-driven-development, spec-kit, sprint, statistics, story-points, sustainability, wilcoxon]
 created: 2026-03-01
 updated: 2026-04-06
 ---

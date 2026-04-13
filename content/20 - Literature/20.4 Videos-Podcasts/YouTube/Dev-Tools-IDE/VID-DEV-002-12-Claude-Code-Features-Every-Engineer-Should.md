@@ -6,7 +6,7 @@ channel: "ByteByteAI"
 url: "https://www.youtube.com/watch?v=E4fzxVMOav4"
 year: 2025
 status: to-watch
-tags: [video, claude-code, features, subagents, mcp]
+tags: [video, claude-code, features, subagents, mcp, anthropic, claude, code-review, dev-tools, effort-estimation, github, ide, memory, moc, protocol, story-points, video-note]
 phase: ['F2', 'F3']
 rating: 5
 created: 2026-04-06

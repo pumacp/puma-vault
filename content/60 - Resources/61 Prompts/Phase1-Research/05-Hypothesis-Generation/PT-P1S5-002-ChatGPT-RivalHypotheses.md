@@ -6,7 +6,7 @@ tool: chatgpt
 phase: Phase1-Research
 step: "05-Hypothesis-Generation"
 methodology: [IIPR, Popper-Falsifiability, RCOIF]
-tags: [prompt, chatgpt, rival-hypotheses, falsification, puma, iipr]
+tags: [prompt, chatgpt, rival-hypotheses, falsification, puma, iipr, baseline, carbon-footprint, chain-of-thought, checklist, code-review, codecarbon, cot, dataset, effect-size, effort-estimation, evaluation, falsifiability, few-shot, github, gpt, hypothesis, issue-triage, jira, literature-review, llama, llm, meta, metrics, moc, non-parametric, openai, popper, precision-recall, project-management, prompt-engineering, prompt-template, prompting, rcoif, research-methodology, slr, sprint, statistics, story-points, sustainability, tawos, tfg, thesis, triage, wilcoxon, zero-shot]
 rating: 5
 created: 2026-04-07
 updated: 2026-04-07

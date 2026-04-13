@@ -1,6 +1,6 @@
 ---
 type: readme
-tags: [readme, papers]
+tags: [readme, papers, academic-writing, issue-triage, moc, research, template, triage]
 ---
 # Triage-Benchmarks — Papers
 

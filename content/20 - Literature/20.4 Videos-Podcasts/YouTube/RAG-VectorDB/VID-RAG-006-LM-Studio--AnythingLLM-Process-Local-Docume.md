@@ -6,7 +6,7 @@ channel: "Vibe Coding AI"
 url: "https://www.youtube.com/watch?v=UG8uftJXcNs"
 year: 2025
 status: to-watch
-tags: [video, rag, anythingllm, lm-studio, local]
+tags: [video, rag, anythingllm, lm-studio, local, academic-writing, embeddings, keshav, literature-review, llm, local-llm, metrics, moc, ollama, precision-recall, privacy, reading-method, research, retrieval, slr, vector-db, video-note]
 phase: ['F0', 'F1']
 rating: 5
 created: 2026-04-06

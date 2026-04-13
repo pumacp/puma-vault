@@ -3,7 +3,7 @@ id: LN-Tools-Dev-Stack
 title: "Development Stack Tools — PUMA"
 type: literature-note
 subtype: tool-collection
-tags: [tool, lmstudio, groq, crewai, langgraph, openroute, streamlit, arize, docker]
+tags: [tool, lmstudio, groq, crewai, langgraph, openroute, streamlit, arize, docker, agile, api, architecture, carbon-footprint, chain-of-thought, codecarbon, cot, data-formats, dev-tools, devops, effort-estimation, embeddings, few-shot, github, issue-triage, jira, json, langchain, literature-note, llama, llm, lm-studio, local-llm, meta, mistral, monitoring, multi-agent, observability, obsidian, ollama, opencode, orchestration, pipeline, project-management, pydantic, python, rag, reasoning, retrieval, scrum, smart-pmo, story-points, sustainability, template, triage, vault, vector-db, zero-shot, zettelkasten]
 puma_phase: "F2, F3, F4"
 created: 2026-03-01
 ---

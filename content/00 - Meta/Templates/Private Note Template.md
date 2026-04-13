@@ -2,7 +2,7 @@
 title: "{{ title }}"
 author: Your Name
 date: ", {{time:HH:mm}}"
-tags: [private]
+tags: [private, knowledge-management, second-brain, template]
 aliases: []
 ---
 ___

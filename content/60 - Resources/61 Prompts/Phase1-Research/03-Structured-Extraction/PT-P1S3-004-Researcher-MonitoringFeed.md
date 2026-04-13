@@ -6,7 +6,7 @@ tool: researcher
 phase: Phase1-Research
 step: "03-Structured-Extraction"
 methodology: [Continuous-Monitoring, SLR-Update]
-tags: [prompt, researcher, monitoring, discovery, puma]
+tags: [prompt, researcher, monitoring, discovery, puma, academic-writing, automation, benchmark, carbon-footprint, codecarbon, effort-estimation, github, human-in-the-loop, hypothesis, issue-triage, jira, literature-review, llm, moc, multi-agent, orchestration, prisma, project-management, prompt-template, research, research-methodology, slr, software-engineering, story-points, sustainability, tfg, thesis, triage]
 rating: 4
 created: 2026-04-07
 updated: 2026-04-07

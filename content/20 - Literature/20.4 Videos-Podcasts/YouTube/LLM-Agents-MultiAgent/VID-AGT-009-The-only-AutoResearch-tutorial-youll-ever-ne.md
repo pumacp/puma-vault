@@ -6,7 +6,7 @@ channel: "David Ondrej"
 url: "https://www.youtube.com/watch?v=uBWuKh1nZ2Y"
 year: 2025
 status: to-watch
-tags: [video, agents, karpathy, autoresearch, tutorial]
+tags: [video, agents, karpathy, autoresearch, tutorial, anthropic, claude, dev-tools, hypothesis, ide, keshav, metrics, moc, obsidian, pipeline, precision-recall, reading-method, research-methodology, vault, video-note]
 phase: ['F0', 'F1']
 rating: 4
 created: 2026-04-06

@@ -1,6 +1,6 @@
 ---
 type: readme
-tags: [readme, papers]
+tags: [readme, papers, academic-writing, llm, moc, research, template]
 ---
 # LLM-Agents-General — Papers
 

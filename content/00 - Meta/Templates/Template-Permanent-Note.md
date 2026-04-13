@@ -3,7 +3,7 @@ id: "PN-{{Concept-Name}}"
 title: "{{Concept Name}}"
 type: permanent-note
 category: "{{concept | method | framework | result | hypothesis}}"
-tags: [permanent, tag1 tag2]
+tags: [permanent, tag1 tag2, academic-writing, benchmark, code-review, github, hypothesis, permanent-note, research, research-methodology, template]
 aliases: ["{{alternative name}}", "{{abbreviation}}"]
 created: "{{date}}"
 updated: "{{date}}"

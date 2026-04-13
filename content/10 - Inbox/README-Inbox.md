@@ -2,7 +2,7 @@
 id: README-Inbox
 title: "📥 Inbox README"
 type: readme
-tags: [readme, inbox, guide]
+tags: [readme, inbox, guide, gtd, template]
 created: 2026-03-01
 ---
 

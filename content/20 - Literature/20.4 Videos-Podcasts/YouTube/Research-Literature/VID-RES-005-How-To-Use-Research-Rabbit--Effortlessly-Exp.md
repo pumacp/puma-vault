@@ -6,7 +6,7 @@ channel: "Andy Stapleton"
 url: "https://www.youtube.com/watch?v=phWqcGcxeE4"
 year: 2024
 status: to-watch
-tags: [video, research, research-rabbit, citation-graph]
+tags: [video, research, research-rabbit, citation-graph, bibliography, citation, literature-review, llm, moc, pipeline, prisma, project-management, research-tools, semantic-search, slr, video-note, zotero]
 phase: ['F0']
 rating: 4
 created: 2026-04-06

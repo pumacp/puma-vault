@@ -12,7 +12,7 @@ venue: "arXiv preprint"
 arxiv: "2406.11638"
 doi: "10.48550/arXiv.2406.11638"
 url: "https://arxiv.org/abs/2406.11638"
-tags: [literature, llm-agents, masai, software-engineering, modular, microsoft, puma-core]
+tags: [literature, llm-agents, masai, software-engineering, modular, microsoft, puma-core, academic-writing, agents, architecture, benchmark, bibliography, citation, critical-thinking, effort-estimation, github, issue-triage, keshav, literature-note, llm, moc, multi-agent, orchestration, project-management, react, reading-method, reasoning, reasoning-action, red-teaming, research, scheduling, smart-pmo, story-points, swe-bench, triage]
 created: 2026-04-06
 updated: 2026-04-06
 keshav-pass: 2

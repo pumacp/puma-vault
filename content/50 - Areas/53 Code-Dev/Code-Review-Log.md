@@ -2,7 +2,7 @@
 id: Code-Review-Log
 title: "Code Review Log — PUMA"
 type: log
-tags: [code, review, quality, development]
+tags: [code, review, quality, development, ai-ethics, anthropic, architecture, claude, code-review, dev-tools, effort-estimation, ethics, github, ide, issue-triage, moc, navigation, story-points, triage]
 created: 2026-03-01
 ---
 

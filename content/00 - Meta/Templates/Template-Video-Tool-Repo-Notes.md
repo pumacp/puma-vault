@@ -3,7 +3,7 @@ id: "LN-Video-{{Channel}}-{{Keyword}}"
 title: "Video: {{Title}}"
 type: literature-note
 subtype: video
-tags: [literature, video, youtube, "{{topic}}"]
+tags: [literature, video, youtube, {{topic}}, architecture, effort-estimation, github, metrics, orchestration, precision-recall, python, story-points, template]
 author: "{{Creator name}}"
 channel: "{{Channel name}}"
 url: "{{YouTube/Vimeo URL}}"

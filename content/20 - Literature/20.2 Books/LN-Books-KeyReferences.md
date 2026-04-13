@@ -2,7 +2,7 @@
 id: README-Papers
 title: "📄 Papers — How to Add a New Paper"
 type: readme
-tags: [readme, papers, literature, guide]
+tags: [readme, papers, literature, guide, academic-writing, ai-tools, architecture, bias, code-review, cornell-notes, data-formats, drca, ethics, few-shot, github, gtd, hypothesis, index, issue-triage, json, literature-note, literature-review, llm, moc, note-taking, obsidian, permanent-note, perplexity, pipeline, planning, project-management, prompt-engineering, prompting, reasoning, research, research-methodology, research-tools, semantic-scholar, slr, software-engineering, template, triage, vault, workflow, zero-shot, zettelkasten, zotero]
 created: 2026-03-01
 ---
 

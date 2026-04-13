@@ -2,7 +2,7 @@
 id: PR-PUMA-Ch3-Methods
 title: "Chapter 3 — Materials & Methods"
 type: project-note
-tags: [project, chapter, methods, dsr, experiment-design, puma]
+tags: [project, chapter, methods, dsr, experiment-design, puma, agile, api, architecture, artefact, baseline, benchmark, carbon-footprint, chain-of-thought, checklist, code-review, codecarbon, cornell-notes, cot, dataset, devops, docker, effect-size, effort-estimation, evaluation, few-shot, finer, github, hypothesis, issue-triage, jira, literature-review, llama, llm, local-llm, meta, metrics, mistral, moc, navigation, non-parametric, note-taking, ollama, pec, precision-recall, prisma, project-management, project-note, python, quantitative-research, reasoning, research-methodology, sdd, semantic-search, slr, spec-driven-development, statistics, story-points, sustainability, tawos, triage, wilcoxon, zero-shot]
 status: in-progress
 deadline: 2026-05-10
 pec: PEC3

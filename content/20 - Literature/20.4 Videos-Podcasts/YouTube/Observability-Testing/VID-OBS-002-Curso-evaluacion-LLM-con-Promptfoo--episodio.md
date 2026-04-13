@@ -6,7 +6,7 @@ channel: "La Hora Maker"
 url: "https://www.youtube.com/watch?v=nGaHoH9HHu0"
 year: 2025
 status: to-watch
-tags: [video, promptfoo, evaluation, llm, spanish]
+tags: [video, promptfoo, evaluation, llm, spanish, data-formats, hypothesis, issue-triage, jira, json, llama, local-llm, meta, metrics, moc, ollama, precision-recall, research-methodology, testing, triage, video-note]
 phase: ['F3', 'F4']
 rating: 5
 created: 2026-04-06

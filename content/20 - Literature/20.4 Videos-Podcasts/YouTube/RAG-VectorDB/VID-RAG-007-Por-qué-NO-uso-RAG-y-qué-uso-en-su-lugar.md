@@ -6,7 +6,7 @@ channel: "Ruben Loan"
 url: "https://www.youtube.com/watch?v=5xZxgqif-qg"
 year: 2025
 status: to-watch
-tags: [video, rag, alternatives, context-engineering]
+tags: [video, rag, alternatives, context-engineering, baseline, chain-of-thought, cot, embeddings, evaluation, few-shot, hypothesis, llm, metrics, moc, precision-recall, project-management, research-methodology, retrieval, vector-db, video-note, zero-shot]
 phase: ['F1']
 rating: 3
 created: 2026-04-06

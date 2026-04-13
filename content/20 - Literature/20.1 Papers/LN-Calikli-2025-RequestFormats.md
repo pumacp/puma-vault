@@ -10,7 +10,7 @@ relevance: 5
 citekey: "@Calikli2025RequestFormats"
 venue: "ACM Transactions on Software Engineering and Methodology"
 doi: "10.1145/3715771"
-tags: [literature, effort-estimation, prompting, llm, puma-core]
+tags: [literature, effort-estimation, prompting, llm, puma-core, academic-writing, baseline, benchmark, bibliography, chain-of-thought, citation, code-review, cot, dataset, evaluation, few-shot, github, hypothesis, jira, keshav, literature-note, moc, permanent-note, project-management, reading-method, research, research-methodology, software-engineering, story-points, tawos, zero-shot]
 created: 2026-03-08
 updated: 2026-04-06
 keshav-pass: 3

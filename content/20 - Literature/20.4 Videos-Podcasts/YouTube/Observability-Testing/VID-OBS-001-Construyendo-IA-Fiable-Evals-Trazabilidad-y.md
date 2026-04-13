@@ -6,7 +6,7 @@ channel: "LambdaLoopers"
 url: "https://www.youtube.com/watch?v=qZ2Eu3kqA_g"
 year: 2025
 status: to-watch
-tags: [video, observability, evals, arize, traceability]
+tags: [video, observability, evals, arize, traceability, effort-estimation, evaluation, hypothesis, llm, moc, promptfoo, research-methodology, story-points, testing, video-note]
 phase: ['F3', 'F4']
 rating: 5
 created: 2026-04-06

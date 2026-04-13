@@ -7,7 +7,7 @@ year: 2025
 venue: "arXiv preprint"
 arxiv: "2509.06580"
 doi: "10.48550/arXiv.2509.06580"
-tags: [literature-note, ai-science, social-problem, governance, reproducibility, puma, pec2]
+tags: [literature-note, ai-science, social-problem, governance, reproducibility, puma, pec2, academic-writing, ai-ethics, architecture, bibliography, citation, dataset, effort-estimation, ethics, human-in-the-loop, jira, moc, pec, project-management, research, sprint, story-points, tawos, thesis]
 status: verified
 created: 2026-04-07
 updated: 2026-04-07

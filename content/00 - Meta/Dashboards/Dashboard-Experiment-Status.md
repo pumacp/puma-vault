@@ -2,7 +2,7 @@
 id: Dashboard-Experiment-Status
 title: "🔬 Dashboard — Experiment Status"
 type: dashboard
-tags: [dashboard, experiments, puma, dataview]
+tags: [dashboard, experiments, puma, dataview, baseline, carbon-footprint, chain-of-thought, codecarbon, cot, effort-estimation, evaluation, few-shot, gpt, issue-triage, llama, llm, meta, metrics, mistral, openai, pec, precision-recall, software-engineering, story-points, sustainability, triage, zero-shot]
 created: 2026-03-01
 updated: 2026-04-06
 ---

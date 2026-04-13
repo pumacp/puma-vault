@@ -6,7 +6,7 @@ channel: "AI Coding Daily"
 url: "https://www.youtube.com/watch?v=d3Glwdf_xA8"
 year: 2025
 status: to-watch
-tags: [video, sdd, puma]
+tags: [video, sdd, puma, api, benchmark, bmad, metrics, moc, multi-agent, openspec, precision-recall, pydantic, python, spec-driven-development, spec-kit, video-note]
 phase: ['F1']
 rating: 4
 created: 2026-04-06

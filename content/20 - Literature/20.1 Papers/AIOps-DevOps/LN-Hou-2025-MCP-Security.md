@@ -12,7 +12,7 @@ venue: "arXiv preprint"
 arxiv: "2503.23278"
 doi: "10.48550/arXiv.2503.23278"
 url: "https://arxiv.org/abs/2503.23278"
-tags: [literature, mcp, model-context-protocol, security, agentic-ai, standards]
+tags: [literature, mcp, model-context-protocol, security, agentic-ai, standards, academic-writing, ai-ethics, api, architecture, bibliography, citation, ethics, github, jira, keshav, literature-note, mcp-security, moc, protocol, reading-method, research, smart-pmo]
 created: 2026-04-06
 updated: 2026-04-06
 keshav-pass: 1

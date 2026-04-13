@@ -2,7 +2,7 @@
 id: PROJECTS-Master
 title: "📋 Projects Master List"
 type: gtd-projects
-tags: [gtd, projects, master]
+tags: [gtd, projects, master, code-review, dev-tools, devops, docker, effort-estimation, github, issue-triage, literature-review, local-llm, mistral, obsidian, ollama, opencode, research-tools, slr, story-points, template, triage, vault, zotero]
 created: 2026-03-01
 ---
 

@@ -2,7 +2,7 @@
 id: "STR-{{theme}}"
 title: "{{theme}} — Structure Note"
 type: structure-note
-tags: [zettelkasten, structure-note]
+tags: [zettelkasten, structure-note, moc, template]
 created: "{{date}}"
 ---
 

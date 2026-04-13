@@ -3,7 +3,7 @@ id: MOC-Prompts-Library
 title: "💬 MOC — Prompts Library"
 type: moc
 version: 1.0
-tags: [moc, prompts, ai-tools, rcoif, few-shot, cot, research-workflow, puma, tools]
+tags: [moc, prompts, ai-tools, rcoif, few-shot, cot, research-workflow, puma, tools, academic-writing, ami, anthropic, anythingllm, architecture, artefact, automation, bdd, benchmark, bibliography, bmad, carbon-footprint, chain-of-thought, citation, claude, codecarbon, connected-papers, context-engineering, contextual-anchoring, critical-thinking, dataset, dev-tools, drca, dsr, effort-estimation, egi, elicit, gemini, github, google, gpt, grounded-theory, hypothesis, ide, iipr, index, issue-triage, jira, keshav, literature-review, llm, local-llm, metrics, multi-agent, navigation, non-parametric, notebooklm, ollama, openai, opencode, openhands, openspec, perplexity, pipeline, precision-recall, prisma, project-management, prompt-engineering, prompting, rag, reading-method, reasoning, red-teaming, refactoring, research, research-methodology, research-rabbit, research-tools, retrieval, sdd, semantic-scholar, semantic-search, slr, spec-driven-development, statistics, story-points, sustainability, tawos, thesis, triage, wilcoxon, workflow, zero-shot, zettelkasten, zotero]
 created: 2026-03-01
 updated: 2026-03-01
 ---

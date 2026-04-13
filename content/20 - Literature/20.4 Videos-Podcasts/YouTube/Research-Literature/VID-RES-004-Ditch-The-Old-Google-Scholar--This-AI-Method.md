@@ -6,7 +6,7 @@ channel: "Andy Stapleton"
 url: "https://www.youtube.com/watch?v=qP7ukloRLCk"
 year: 2025
 status: to-watch
-tags: [video, research, google-scholar, semantic-scholar, discovery]
+tags: [video, research, google-scholar, semantic-scholar, discovery, bibliography, citation, literature-review, llm, metagpt, moc, navigation, pipeline, prisma, project-management, react, reasoning-action, research-tools, semantic-search, slr, video-note]
 phase: ['F0']
 rating: 4
 created: 2026-04-06

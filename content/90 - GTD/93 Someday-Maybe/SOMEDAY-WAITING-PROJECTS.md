@@ -2,7 +2,7 @@
 id: SOMEDAY-Ideas
 title: "🌱 Someday / Maybe — PUMA & Beyond"
 type: gtd-someday
-tags: [gtd, someday, ideas, future]
+tags: [gtd, someday, ideas, future, academic-writing, aiops, api, architecture, backlog, benchmark, bias, chain-of-thought, code-review, cot, crewai, dataset, dev-tools, devops, effort-estimation, ethics, fairness, fine-tuning, github, issue-triage, jira, langgraph, literature-review, llama, llm, local-llm, mas, meta, mistral, multi-agent, obsidian, ollama, opencode, project-management, projects, pydantic, python, rag, research, research-tools, retrieval, sdd, slr, smart-pmo, spec-driven-development, story-points, tawos, triage, vault, zero-shot, zotero]
 created: 2026-03-01
 ---
 

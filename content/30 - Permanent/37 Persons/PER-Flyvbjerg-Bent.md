@@ -6,7 +6,7 @@ role: "Professor, Infrastructure Policy"
 affiliation: "Oxford / IT University of Copenhagen / Harvard"
 field: "Megaproject management, planning fallacy, forecasting"
 known-for: "Uniqueness Trap, Reference Class Forecasting, 'How Big Things Get Done' (2023)"
-tags: [person-note, flyvbjerg, project-management, uniqueness-trap]
+tags: [person-note, flyvbjerg, project-management, uniqueness-trap, baseline, bias, chain-of-thought, code-review, cot, critical-thinking, effort-estimation, ethics, evaluation, few-shot, github, hypothesis, llm, moc, person, planning, rag, red-teaming, research-methodology, retrieval, smart-pmo, story-points]
 created: 2026-04-06
 ---
 

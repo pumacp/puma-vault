@@ -2,7 +2,7 @@
 id: MOC-Zettelkasten-PUMA
 title: "🗃️ MOC — Zettelkasten PUMA Knowledge Graph"
 type: moc
-tags: [moc, zettelkasten, knowledge-graph, puma]
+tags: [moc, zettelkasten, knowledge-graph, puma, agentic-science, ai-science, ami, bmad, chain-of-thought, cornell-notes, cot, critical-thinking, drca, dsr, egi, embeddings, few-shot, finer, fleeting-note, github, graph-rag, gtd, iipr, index, keshav, literature-note, literature-review, llm, metagpt, mit-ai-lab, multi-agent, navigation, non-parametric, note-taking, obsidian, openspec, para, permanent-note, prisma, project-management, prompting, rag, rcoif, react, reading-method, reasoning, reasoning-action, red-teaming, research-methodology, retrieval, scientific-knowledge, sdd, slr, smart-pmo, software-engineering, spec-driven-development, spec-kit, statistics, tree-of-thoughts, vault, vector-db, wilcoxon, wp316]
 created: 2026-04-06
 updated: 2026-04-06
 ---

@@ -2,7 +2,7 @@
 id: Quick-Capture-Log
 title: "⚡ Quick Capture Log"
 type: capture-log
-tags: [inbox, capture, quick]
+tags: [inbox, capture, quick, academic-writing, fleeting-note, gtd, literature-note, literature-review, mistral, obsidian, permanent-note, research, slr, template, vault]
 created: 2026-03-01
 ---
 

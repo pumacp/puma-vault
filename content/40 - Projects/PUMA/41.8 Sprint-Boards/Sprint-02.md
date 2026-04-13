@@ -14,6 +14,45 @@ tags:
   - agile
   - puma
   - pec2
+  - architecture
+  - backlog
+  - baseline
+  - benchmark
+  - carbon-footprint
+  - chain-of-thought
+  - codecarbon
+  - cot
+  - dataset
+  - effect-size
+  - effort-estimation
+  - evaluation
+  - falsifiability
+  - few-shot
+  - github
+  - hypothesis
+  - issue-triage
+  - jira
+  - literature-review
+  - llama
+  - local-llm
+  - meta
+  - metrics
+  - mistral
+  - non-parametric
+  - ollama
+  - pec
+  - popper
+  - precision-recall
+  - qualitative-research
+  - research-methodology
+  - slr
+  - statistics
+  - story-points
+  - sustainability
+  - template
+  - triage
+  - wilcoxon
+  - zero-shot
 created: 2026-03-29
 ---
 

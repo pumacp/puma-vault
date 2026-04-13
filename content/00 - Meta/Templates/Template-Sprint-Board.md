@@ -7,7 +7,7 @@ pec: "{{pec}}"
 start-date: "{{date}}"
 end-date: ""
 goal: ""
-tags: [sprint, kanban, gtd, agile]
+tags: [sprint, kanban, gtd, agile, backlog, pec, puma, template]
 created: "{{date}}"
 ---
 

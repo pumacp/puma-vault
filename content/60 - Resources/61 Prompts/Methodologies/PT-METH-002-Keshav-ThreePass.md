@@ -6,7 +6,7 @@ tool: notebooklm-claude
 phase: Phase1-Research
 step: "03-Structured-Extraction"
 methodology: [Keshav-Three-Pass, Critical-Reading]
-tags: [prompt, keshav, three-pass, reading, puma]
+tags: [prompt, keshav, three-pass, reading, puma, academic-writing, accuracy, anthropic, baseline, benchmark, claude, dataset, dsr, evaluation, hypothesis, jira, literature-note, literature-review, metrics, moc, non-parametric, notebooklm, permanent-note, precision-recall, prompt-template, quantitative-research, reading-method, research, research-methodology, research-tools, slr, statistics, tawos, validity, wilcoxon, zettelkasten]
 rating: 5
 created: 2026-04-07
 updated: 2026-04-07

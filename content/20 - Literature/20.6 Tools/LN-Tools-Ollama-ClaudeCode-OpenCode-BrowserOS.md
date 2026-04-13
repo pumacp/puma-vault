@@ -3,7 +3,7 @@ id: LN-Tool-Ollama
 title: "Ollama — Local LLM Inference Engine"
 type: literature-note
 subtype: tool
-tags: [tool, ollama, local-llm, inference, reproducibility]
+tags: [tool, ollama, local-llm, inference, reproducibility, academic-writing, anthropic, api, architecture, automation, bdd, benchmark, bibliography, checklist, citation, claude, data-formats, dataset, dev-tools, effort-estimation, github, ict, ide, issue-triage, json, literature-note, llama, llm, meta, metrics, mistral, non-parametric, opencode, precision-recall, project-management, python, reasoning, refactoring, research, research-tools, rest-api, sdd, semantic-scholar, software-engineering, spec-driven-development, statistics, story-points, testing, triage, wilcoxon]
 url: "https://ollama.ai"
 github: "https://github.com/ollama/ollama"
 license: MIT

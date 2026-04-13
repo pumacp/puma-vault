@@ -6,7 +6,7 @@ channel: "Fazt"
 url: "https://www.youtube.com/watch?v=2gO8WyctqMk"
 year: 2025
 status: to-watch
-tags: [video, opencode, open-source, coding, terminal]
+tags: [video, opencode, open-source, coding, terminal, dev-tools, effort-estimation, human-in-the-loop, local-llm, moc, ollama, para, story-points, video-note]
 phase: ['F2', 'F3']
 rating: 4
 created: 2026-04-06

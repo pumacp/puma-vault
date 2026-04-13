@@ -4,7 +4,7 @@ title: "RAG, embeddings, and vector databases enable LLMs to query external know
 type: permanent
 created: 2026-03-20
 updated: 2026-04-06
-tags: [permanent-note, rag, embeddings, vector-database, llm, puma]
+tags: [permanent-note, rag, embeddings, vector-database, llm, puma, architecture, chain-of-thought, cot, critical-thinking, dataset, effort-estimation, few-shot, fine-tuning, issue-triage, jira, llama, local-llm, memory, meta, metrics, moc, nlp, ollama, pipeline, precision-recall, project-management, react, reasoning-action, red-teaming, retrieval, story-points, triage, vector-db]
 ---
 
 # RAG, embeddings, and vector databases enable LLMs to query external knowledge without fine-tuning

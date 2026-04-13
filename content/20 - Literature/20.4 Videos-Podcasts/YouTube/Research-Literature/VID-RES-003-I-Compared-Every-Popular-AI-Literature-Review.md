@@ -6,7 +6,7 @@ channel: "Andy Stapleton"
 url: "https://www.youtube.com/watch?v=Ki2OBrW1HFU"
 year: 2025
 status: to-watch
-tags: [video, research, tools, comparison, slr]
+tags: [video, research, tools, comparison, slr, accuracy, ai-tools, bibliography, citation, elicit, literature-review, metrics, moc, perplexity, pipeline, research-tools, semantic-scholar, video-note]
 phase: ['F0']
 rating: 5
 created: 2026-04-06

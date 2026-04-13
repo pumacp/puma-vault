@@ -2,7 +2,7 @@
 id: LN-Videos-Research-Literature
 title: "🎬 Videos — Academic Research, Literature Review & AI Research Tools"
 type: literature-videos
-tags: [videos, research, literature-review, semantic-scholar, consensus, research-rabbit, puma]
+tags: [videos, research, literature-review, semantic-scholar, consensus, research-rabbit, puma, academic-writing, anthropic, claude, dev-tools, gpt, ide, literature-note, llm, metrics, moc, openai, para, pipeline, precision-recall, prisma, research-tools, slr, thesis, workflow]
 created: 2026-04-06
 updated: 2026-04-06
 total-videos: 42

@@ -6,7 +6,7 @@ role: "Research Scientist"
 affiliation: "Princeton University / OpenAI"
 field: "LLM agents, reasoning, planning"
 known-for: "ReAct (2022), Tree of Thoughts (2023)"
-tags: [person-note, yao, react, tree-of-thoughts, llm-agents]
+tags: [person-note, yao, react, tree-of-thoughts, llm-agents, academic-writing, architecture, backlog, chain-of-thought, cot, issue-triage, llm, moc, person, planning, project-management, rag, reasoning, reasoning-action, research, retrieval, triage]
 created: 2026-04-06
 ---
 

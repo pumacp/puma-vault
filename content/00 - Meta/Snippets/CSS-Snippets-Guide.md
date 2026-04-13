@@ -2,7 +2,7 @@
 id: CSS-Snippets-Guide
 title: "🎨 CSS Snippets & Obsidian Styling Guide"
 type: meta
-tags: [meta, css, snippets, obsidian, styling]
+tags: [meta, css, snippets, obsidian, styling, bdd, critical-thinking, fleeting-note, gtd, hypothesis, literature-note, metrics, moc, permanent-note, precision-recall, red-teaming, research-methodology, vault]
 created: 2026-03-01
 ---
 

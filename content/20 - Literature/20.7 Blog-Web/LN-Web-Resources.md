@@ -3,7 +3,7 @@ id: LN-Web-Resources
 title: "🌐 Web Resources — Blogs, Docs & Key Links"
 type: literature-note
 subtype: web
-tags: [literature, web, blog, docs, links]
+tags: [literature, web, blog, docs, links, academic-writing, anthropic, api, bibliography, carbon-footprint, citation, claude, codecarbon, critical-thinking, dataset, dev-tools, fleeting-note, github, hypothesis, ide, jira, langchain, langgraph, literature-note, llm, local-llm, metrics, multi-agent, obsidian, ollama, permanent-note, precision-recall, pydantic, python, red-teaming, research, research-methodology, research-tools, semantic-scholar, software-engineering, sustainability, tawos, template, vault, zettelkasten]
 created: 2026-03-01
 ---
 

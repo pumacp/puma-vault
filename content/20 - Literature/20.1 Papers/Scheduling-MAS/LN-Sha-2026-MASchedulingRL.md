@@ -11,7 +11,7 @@ citekey: "@Sha2026MASchedulingRL"
 venue: "Scientific Reports"
 doi: "10.1038/s41598-026-35004-8"
 url: "https://www.nature.com/articles/s41598-026-35004-8"
-tags: [literature, scheduling, multi-agent, reinforcement-learning, state-graph, task-graph]
+tags: [literature, scheduling, multi-agent, reinforcement-learning, state-graph, task-graph, academic-writing, backlog, bibliography, citation, dataset, graph-rag, keshav, knowledge-graph, literature-note, llm, mas, moc, neural-network, project-management, reading-method, research, smart-pmo, sprint]
 created: 2026-04-06
 updated: 2026-04-06
 keshav-pass: 1

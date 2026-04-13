@@ -6,7 +6,7 @@ channel: "AI Engineer"
 url: "https://www.youtube.com/watch?v=8kMaTybvDUw"
 year: 2025
 status: to-watch
-tags: [video, agents, reliability, design-patterns]
+tags: [video, agents, reliability, design-patterns, checklist, effort-estimation, human-in-the-loop, langgraph, llm, moc, project-management, pydantic, python, story-points, video-note]
 phase: ['F2', 'F3']
 rating: 5
 created: 2026-04-06

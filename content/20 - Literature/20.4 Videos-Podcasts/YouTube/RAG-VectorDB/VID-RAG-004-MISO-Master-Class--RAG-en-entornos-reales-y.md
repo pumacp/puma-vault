@@ -6,7 +6,7 @@ channel: "Universidad de los Andes"
 url: "https://www.youtube.com/watch?v=CwWEOIc2hmg"
 year: 2025
 status: to-watch
-tags: [video, rag, academic, challenges, production]
+tags: [video, rag, academic, challenges, production, code-review, embeddings, github, hypothesis, llama, meta, metrics, moc, precision-recall, research-methodology, retrieval, vector-db, video-note]
 phase: ['F0', 'F1']
 rating: 5
 created: 2026-04-06

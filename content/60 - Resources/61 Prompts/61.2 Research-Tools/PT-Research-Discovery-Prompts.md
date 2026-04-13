@@ -2,7 +2,7 @@
 id: PT-Perplexity-State-of-Art
 title: "Prompt: Perplexity AI — State of the Art Discovery"
 type: prompt-template
-tags: [prompt, perplexity, research, slr, state-of-art]
+tags: [prompt, perplexity, research, slr, state-of-art, academic-writing, agile, ai-tools, api, backlog, benchmark, bibliography, chain-of-thought, citation, code-review, cot, data-formats, dataset, effort-estimation, elicit, few-shot, github, gpt, issue-triage, jira, json, literature-review, llm, local-llm, openai, planning, prisma, project-management, prompt-template, prompting, python, quantitative-research, rcoif, research-tools, semantic-scholar, software-engineering, sprint, story-points, template, triage, workflow, zero-shot, zotero]
 tool: perplexity
 methodology: rcoif
 use_case: research

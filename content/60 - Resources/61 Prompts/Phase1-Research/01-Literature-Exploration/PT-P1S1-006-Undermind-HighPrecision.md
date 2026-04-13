@@ -6,7 +6,7 @@ tool: undermind
 phase: Phase1-Research
 step: "01-Literature-Exploration"
 methodology: [SLR, DSR, RCOIF]
-tags: [prompt, undermind, deep-research, puma, rcoif]
+tags: [prompt, undermind, deep-research, puma, rcoif, ai-ethics, automation, baseline, benchmark, bias, carbon-footprint, code-review, codecarbon, dataset, dsr, effort-estimation, ethics, evaluation, finer, github, human-in-the-loop, ict, issue-triage, jira, langgraph, literature-review, llama, llm, local-llm, meta, metrics, mistral, moc, multi-agent, ollama, orchestration, pipeline, planning, precision-recall, project-management, prompt-template, prompting, pydantic, python, rag, research-methodology, retrieval, slr, software-engineering, story-points, sustainability, tawos, tfg, thesis, triage]
 rating: 5
 created: 2026-04-07
 updated: 2026-04-07

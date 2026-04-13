@@ -6,7 +6,7 @@ channel: "Sebastian Raschka"
 url: "https://www.youtube.com/watch?v=CepbWmGie0E"
 year: 2025
 status: to-watch
-tags: [video, llm, architecture, transformer, theory]
+tags: [video, llm, architecture, transformer, theory, attention, chain-of-thought, cot, few-shot, fine-tuning, gpt, llama, meta, metrics, mistral, moc, openai, precision-recall, project-management, video-note]
 phase: ['F0', 'F1']
 rating: 4
 created: 2026-04-06

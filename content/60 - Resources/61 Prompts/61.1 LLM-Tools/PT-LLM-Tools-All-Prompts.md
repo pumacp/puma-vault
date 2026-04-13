@@ -2,7 +2,7 @@
 id: PT-Claude-EGI-Exploration
 title: "Prompt: Claude — EGI Guided Exploration"
 type: prompt-template
-tags: [prompt, claude, egi, exploration, panoramic-mapping]
+tags: [prompt, claude, egi, exploration, panoramic-mapping, academic-writing, ami, anthropic, baseline, benchmark, bibliography, carbon-footprint, chain-of-thought, checklist, citation, codecarbon, cot, critical-thinking, dataset, drca, dsr, effort-estimation, evaluation, falsifiability, few-shot, gpt, hypothesis, ict, iipr, issue-triage, jira, literature-review, llama, llm, local-llm, meta, metrics, mistral, nlp, non-parametric, notebooklm, ollama, openai, permanent-note, planning, popper, precision-recall, project-management, prompt-template, prompting, rag, rcoif, reasoning, red-teaming, research, research-methodology, research-tools, retrieval, slr, software-engineering, statistics, story-points, sustainability, tawos, template, thesis, triage, validity, wilcoxon, zero-shot, zettelkasten]
 tool: claude
 methodology: egi
 use_case: research

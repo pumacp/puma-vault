@@ -2,7 +2,7 @@
 id: WF-SLR-Pipeline
 title: "Workflow: SLR + PRISMA Pipeline"
 type: workflow
-tags: [workflow, slr, prisma, literature-review, ebse]
+tags: [workflow, slr, prisma, literature-review, ebse, academic-writing, ai-tools, api, baseline, bias, code-review, dsr, elicit, ethics, evaluation, github, issue-triage, llm, local-llm, perplexity, pipeline, planning, project-management, python, quantitative-research, research, research-methodology, research-tools, semantic-scholar, software-engineering, triage, zotero]
 created: 2026-03-01
 ---
 

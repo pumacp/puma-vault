@@ -12,7 +12,7 @@ venue: "arXiv preprint"
 arxiv: "2408.02920"
 doi: "10.48550/arXiv.2408.02920"
 url: "https://arxiv.org/abs/2408.02920"
-tags: [literature, taxonomy, agent-architectures, foundation-models, decision-model, puma-core]
+tags: [literature, taxonomy, agent-architectures, foundation-models, decision-model, puma-core, academic-writing, agents, architecture, bibliography, citation, keshav, literature-note, llm, llm-agents, memory, moc, multi-agent, project-management, reading-method, research]
 created: 2026-04-06
 updated: 2026-04-06
 keshav-pass: 1

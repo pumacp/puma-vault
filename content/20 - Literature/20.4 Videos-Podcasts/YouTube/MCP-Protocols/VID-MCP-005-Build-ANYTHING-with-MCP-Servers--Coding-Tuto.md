@@ -6,7 +6,7 @@ channel: "Better Stack"
 url: "https://www.youtube.com/watch?v=sMqlObpNz64"
 year: 2025
 status: to-watch
-tags: [video, mcp, tutorial, build, coding]
+tags: [video, mcp, tutorial, build, coding, accuracy, architecture, effort-estimation, issue-triage, jira, metrics, moc, precision-recall, protocol, python, story-points, triage, video-note]
 phase: ['F2', 'F3']
 rating: 4
 created: 2026-04-06

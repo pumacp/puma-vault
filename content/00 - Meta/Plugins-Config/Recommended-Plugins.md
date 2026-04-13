@@ -2,7 +2,7 @@
 id: Recommended-Plugins
 title: "Recommended Obsidian Plugins — PUMA Vault"
 type: meta
-tags: [meta, plugins, obsidian, setup]
+tags: [meta, plugins, obsidian, setup, academic-writing, api, architecture, backlog, baseline, bibliography, checklist, citation, dashboard, data-formats, dataset, devops, docker, evaluation, fleeting-note, github, gtd, jira, json, kanban, literature-note, navigation, permanent-note, research, research-tools, tawos, template, vault, workflow, zettelkasten, zotero]
 created: 2026-03-01
 ---
 

@@ -6,7 +6,7 @@ channel: "Código Espinoza"
 url: "https://www.youtube.com/watch?v=FPQpVGoj0rI"
 year: 2025
 status: to-watch
-tags: [video, agents, langgraph, enterprise, cost]
+tags: [video, agents, langgraph, enterprise, cost, api, automation, code-review, github, issue-triage, llm, metrics, moc, orchestration, precision-recall, project-management, triage, video-note]
 phase: ['F1', 'F2']
 rating: 4
 created: 2026-04-06

@@ -6,7 +6,7 @@ channel: "Joaquín Ruiz Lite"
 url: "https://www.youtube.com/watch?v=dJ6D_krxpX0"
 year: 2025
 status: to-watch
-tags: [video, rag, graphrag, neo4j, ollama]
+tags: [video, rag, graphrag, neo4j, ollama, embeddings, graph-rag, knowledge-graph, local-llm, moc, para, planning, retrieval, smart-pmo, sprint, vector-db, video-note]
 phase: ['F4', 'F5']
 rating: 5
 created: 2026-04-06

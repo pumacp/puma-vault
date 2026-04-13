@@ -2,7 +2,7 @@
 id: PN-PUMA-within-AgenticScience-Trajectory
 title: "PUMA is an applied Agentic Science system positioned at LeCun's Level 2 of AI scientific capability"
 type: permanent-note
-tags: [permanent-note, puma, agentic-science, positioning, lecun, pec2]
+tags: [permanent-note, puma, agentic-science, positioning, lecun, pec2, academic-writing, ai-ethics, ai-science, ai-scientist, alphafold, anthropic, automation, baseline, claude, code-review, ethics, evaluation, github, gnome, graphcast, hypothesis, issue-triage, jira, literature-review, llm, materials-science, moc, multi-agent, notebooklm, orchestration, pec, project-management, protein-folding, research-methodology, research-tools, slr, smart-pmo, thesis, triage, weather-prediction, workflow]
 created: 2026-04-07
 updated: 2026-04-07
 ---

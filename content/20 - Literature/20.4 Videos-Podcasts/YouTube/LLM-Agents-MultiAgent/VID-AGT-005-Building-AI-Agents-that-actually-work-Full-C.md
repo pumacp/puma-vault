@@ -6,7 +6,7 @@ channel: "Greg Isenberg"
 url: "https://www.youtube.com/watch?v=eA9Zf2-qYYM"
 year: 2025
 status: to-watch
-tags: [video, agents, course, practical]
+tags: [video, agents, course, practical, api, autogen, crewai, jira, langgraph, llm, metrics, moc, non-parametric, precision-recall, project-management, pydantic, python, statistics, video-note, wilcoxon]
 phase: ['F1', 'F2']
 rating: 4
 created: 2026-04-06

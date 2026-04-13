@@ -4,7 +4,7 @@ title: "The ReAct pattern reduces LLM hallucination by grounding each reasoning 
 type: permanent
 created: 2026-04-06
 updated: 2026-04-06
-tags: [permanent-note, react, hallucination, grounding, agent-pattern, reasoning]
+tags: [permanent-note, react, hallucination, grounding, agent-pattern, reasoning, api, chain-of-thought, cot, effort-estimation, embeddings, few-shot, hypothesis, issue-triage, llm, metrics, moc, multi-agent, precision-recall, project-management, rag, reasoning-action, research-methodology, retrieval, story-points, triage, vector-db, zettelkasten]
 ---
 
 # The ReAct pattern reduces LLM hallucination by grounding each reasoning step in observable external evidence

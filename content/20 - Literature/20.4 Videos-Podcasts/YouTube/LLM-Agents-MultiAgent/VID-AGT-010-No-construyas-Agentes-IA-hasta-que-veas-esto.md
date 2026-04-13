@@ -6,7 +6,7 @@ channel: "Ro Analytics"
 url: "https://www.youtube.com/watch?v=3kzen1qCMBY"
 year: 2025
 status: to-watch
-tags: [video, agents, anthropic, design-principles]
+tags: [video, agents, anthropic, design-principles, effort-estimation, human-in-the-loop, llm, metrics, moc, precision-recall, project-management, pydantic, python, story-points, video-note]
 phase: ['F1', 'F2']
 rating: 5
 created: 2026-04-06

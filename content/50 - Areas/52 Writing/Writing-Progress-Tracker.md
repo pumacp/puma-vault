@@ -2,7 +2,7 @@
 id: Writing-Progress-Tracker
 title: "Writing Progress Tracker"
 type: tracker
-tags: [writing, progress, thesis, chapters]
+tags: [writing, progress, thesis, chapters, academic-writing, bibliography, citation, code-review, github, glossary, gtd, moc, navigation, sprint]
 created: 2026-03-01
 ---
 

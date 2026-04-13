@@ -6,7 +6,7 @@ channel: "Cole Medin"
 url: "https://www.youtube.com/watch?v=_R-ff4ZMLC8"
 year: 2025
 status: to-watch
-tags: [video, rag, agentic, strategy]
+tags: [video, rag, agentic, strategy, embeddings, issue-triage, llm, moc, pipeline, project-management, react, reasoning-action, retrieval, triage, vector-db, video-note]
 phase: ['F3', 'F4']
 rating: 4
 created: 2026-04-06

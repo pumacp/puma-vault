@@ -6,7 +6,7 @@ channel: "Gentleman Programming"
 url: "https://www.youtube.com/watch?v=c5Gwx0RcxNE"
 year: 2025
 status: to-watch
-tags: [video, sdd, puma]
+tags: [video, sdd, puma, architecture, langgraph, memory, moc, pipeline, smart-pmo, spec-driven-development, video-note, workflow]
 phase: ['F2', 'F3']
 rating: 4
 created: 2026-04-06

@@ -4,7 +4,7 @@ title: "PUMA tool selection follows a hierarchy: reproducibility first, then cap
 type: permanent
 created: 2026-04-06
 updated: 2026-04-06
-tags: [permanent-note, tool-selection, reproducibility, local-inference, puma-design]
+tags: [permanent-note, tool-selection, reproducibility, local-inference, puma-design, api, architecture, autogen, code-review, effort-estimation, embeddings, github, gpt, langgraph, llama, llm, lm-studio, local-llm, meta, metrics, mistral, moc, ollama, openai, precision-recall, pydantic, python, rag, retrieval, story-points, vector-db]
 ---
 
 # PUMA tool selection follows a hierarchy: reproducibility first, then capability, then convenience

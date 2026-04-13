@@ -4,7 +4,7 @@ title: "Keshav Three-Pass Method: a verified academic paper-reading framework"
 type: permanent
 created: 2026-03-01
 updated: 2026-04-06
-tags: [permanent-note, keshav, paper-reading, methodology, literature]
+tags: [permanent-note, keshav, paper-reading, methodology, literature, academic-writing, ami, drca, egi, fleeting-note, iipr, literature-note, literature-review, mit-ai-lab, moc, obsidian, pipeline, prompting, rcoif, reading-method, research, slr, template, vault, wp316, zettelkasten]
 ---
 
 # Keshav Three-Pass Method: a academic paper-reading framework

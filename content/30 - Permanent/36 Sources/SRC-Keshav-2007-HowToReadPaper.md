@@ -7,7 +7,7 @@ year: 2007
 citekey: "@Keshav2007HowToReadPaper"
 venue: "ACM SIGCOMM Computer Communication Review"
 doi: "10.1145/1273445.1273458"
-tags: [source-note, keshav, reading-method, research-methodology]
+tags: [source-note, keshav, reading-method, research-methodology, academic-writing, research]
 created: 2026-04-06
 ---
 

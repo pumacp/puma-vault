@@ -2,7 +2,7 @@
 id: Git-GitHub-Setup
 title: "⚙️ Git & GitHub Setup Guide — PUMA Vault"
 type: meta
-tags: [meta, git, github, setup, obsidian-git]
+tags: [meta, git, github, setup, obsidian-git, academic-writing, issue-triage, literature-note, moc, obsidian, pec, permanent-note, prompting, puma, rcoif, thesis, triage, vault, workflow]
 created: 2026-03-01
 ---
 

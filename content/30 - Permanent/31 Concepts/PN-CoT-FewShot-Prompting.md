@@ -3,7 +3,7 @@ id: PN-Chain-of-Thought
 title: "Chain-of-Thought (CoT) Prompting"
 type: permanent-note
 category: concept
-tags: [permanent, concept, prompting, cot, reasoning, llm]
+tags: [permanent, concept, prompting, cot, reasoning, llm, academic-writing, api, baseline, bias, chain-of-thought, dashboard, dataset, effort-estimation, ethics, evaluation, few-shot, hypothesis, issue-triage, jira, llama, meta, metrics, mistral, moc, permanent-note, precision-recall, project-management, rcoif, react, reasoning-action, research, research-methodology, story-points, tawos, template, triage, zero-shot, zettelkasten]
 aliases: ["CoT", "Chain of Thought", "Zero-Shot CoT", "Step-by-step reasoning"]
 created: 2026-03-01
 maturity: evergreen

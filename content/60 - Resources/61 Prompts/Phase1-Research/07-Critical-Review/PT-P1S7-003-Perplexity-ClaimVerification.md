@@ -6,7 +6,7 @@ tool: perplexity
 phase: Phase1-Research
 step: "07-Critical-Review"
 methodology: [Marco-Veritas, Evidence-Checking]
-tags: [prompt, perplexity, fact-checking, verification, puma, marco-veritas]
+tags: [prompt, perplexity, fact-checking, verification, puma, marco-veritas, academic-writing, ai-tools, bibliography, citation, code-review, dataset, effect-size, github, jira, llm, metrics, moc, non-parametric, pec, precision-recall, prompt-template, quantitative-research, reasoning, research, software-engineering, statistics, tawos, thesis, wilcoxon]
 rating: 4
 created: 2026-04-07
 updated: 2026-04-07

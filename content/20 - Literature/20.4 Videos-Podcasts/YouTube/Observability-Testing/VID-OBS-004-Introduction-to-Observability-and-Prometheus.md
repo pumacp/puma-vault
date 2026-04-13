@@ -6,7 +6,7 @@ channel: "NullSafe Architect"
 url: "https://www.youtube.com/watch?v=sNk9NkgTOLs"
 year: 2024
 status: to-watch
-tags: [video, observability, prometheus, monitoring, metrics]
+tags: [video, observability, prometheus, monitoring, metrics, devops, docker, moc, precision-recall, video-note]
 phase: ['F4', 'F5']
 rating: 3
 created: 2026-04-06

@@ -12,7 +12,7 @@ venue: "arXiv preprint"
 arxiv: "2402.14034"
 doi: "10.48550/arXiv.2402.14034"
 url: "https://arxiv.org/abs/2402.14034"
-tags: [literature, multi-agent, agentscope, alibaba, platform, framework, puma-core]
+tags: [literature, multi-agent, agentscope, alibaba, platform, framework, puma-core, api, autogen, backlog, bibliography, citation, dev-tools, issue-triage, keshav, langgraph, literature-note, llm, local-llm, mas, moc, ollama, opencode, orchestration, pipeline, project-management, reading-method, rest-api, smart-pmo, triage]
 created: 2026-04-06
 updated: 2026-04-06
 keshav-pass: 2

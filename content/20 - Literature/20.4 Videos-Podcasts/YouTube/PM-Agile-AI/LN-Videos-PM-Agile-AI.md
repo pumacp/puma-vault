@@ -2,7 +2,7 @@
 id: LN-Videos-PM-Agile-AI
 title: "🎬 Videos — AI in Project Management, Agile & Scrum Evolution"
 type: literature-videos
-tags: [videos, project-management, agile, scrum, pm-ai, puma]
+tags: [videos, project-management, agile, scrum, pm-ai, puma, academic-writing, aiops, anthropic, automation, cicd, claude, dev-tools, devops, fine-tuning, gemini, google, ide, knowledge-management, literature-note, llm, mcp, metrics, moc, monitoring, observability, obsidian, para, pkm, precision-recall, protocol, rag, retrieval, second-brain, smart-pmo, software-engineering, sprint, thesis, vault, workflow]
 created: 2026-04-06
 updated: 2026-04-06
 total-videos: 22

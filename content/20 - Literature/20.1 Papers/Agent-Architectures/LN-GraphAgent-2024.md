@@ -12,7 +12,7 @@ venue: "EMNLP 2025"
 arxiv: "2412.17029"
 doi: "10.48550/arXiv.2412.17029"
 url: "https://arxiv.org/abs/2412.17029"
-tags: [literature, graph-agent, knowledge-graph, agentic-ai, language-assistant]
+tags: [literature, graph-agent, knowledge-graph, agentic-ai, language-assistant, academic-writing, agents, bibliography, citation, graph-rag, keshav, literature-note, llm, llm-agents, moc, project-management, reading-method, research, sprint]
 created: 2026-04-06
 updated: 2026-04-06
 keshav-pass: 1

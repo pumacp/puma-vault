@@ -2,7 +2,7 @@
 id: PR-PUMA-Ch1-Introduction
 title: "Chapter 1 — Introduction (PUMA Project)"
 type: project-note
-tags: [project, chapter, introduction, puma]
+tags: [project, chapter, introduction, puma, academic-writing, ai-tools, anthropic, anythingllm, architecture, backlog, baseline, bias, bmad, carbon-footprint, checklist, claude, code-review, codecarbon, cornell-notes, critical-thinking, dataset, dev-tools, dsr, effect-size, effort-estimation, ethics, evaluation, few-shot, finer, gemini, github, google, hypothesis, ict, ide, issue-triage, jira, literature-review, llama, llm, local-llm, meta, metrics, mistral, moc, multi-agent, navigation, non-parametric, note-taking, notebooklm, ollama, opencode, openhands, pec, perplexity, precision-recall, prisma, project-management, project-note, red-teaming, research-methodology, research-tools, slr, sprint, statistics, story-points, sustainability, tawos, thesis, triage, wilcoxon]
 status: complete
 deadline: 2026-03-08
 pec: PEC1

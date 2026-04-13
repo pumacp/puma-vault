@@ -3,7 +3,7 @@ id: MOC-AI-Knowledge-Generation
 title: "MOC — AI and New Scientific Knowledge Generation"
 type: moc
 version: 1.0
-tags: [moc, ai-science, agentic-science, knowledge-generation, pec2, puma]
+tags: [moc, ai-science, agentic-science, knowledge-generation, pec2, puma, ai-scientist, alphafold, anthropic, automation, bibliography, citation, claude, critical-thinking, effort-estimation, gemini, gnome, google, gpt, graphcast, issue-triage, jira, llm, materials-science, notebooklm, openai, orchestration, pec, pipeline, plasma-physics, project-management, protein-folding, red-teaming, reinforcement-learning, research-tools, scientific-knowledge, smart-pmo, story-points, triage, weather-prediction, zettelkasten]
 created: 2026-04-07
 updated: 2026-04-07
 ---

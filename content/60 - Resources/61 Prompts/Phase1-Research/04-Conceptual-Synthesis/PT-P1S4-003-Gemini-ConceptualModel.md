@@ -6,7 +6,7 @@ tool: gemini
 phase: Phase1-Research
 step: "04-Conceptual-Synthesis"
 methodology: [DSR, Conceptual-Modeling]
-tags: [prompt, gemini, conceptual-model, dsr, puma]
+tags: [prompt, gemini, conceptual-model, dsr, puma, academic-writing, artefact, benchmark, clustering, dataset, few-shot, fine-tuning, google, hypothesis, keshav, literature-review, moc, multi-agent, obsidian, planning, project-management, prompt-template, reading-method, research, research-methodology, slr, sprint, tfg, thesis, vault]
 rating: 4
 created: 2026-04-07
 updated: 2026-04-07

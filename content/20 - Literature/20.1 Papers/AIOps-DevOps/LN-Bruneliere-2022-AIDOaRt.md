@@ -11,7 +11,7 @@ citekey: "@Bruneliere2022AIDOaRt"
 venue: "Microprocessors and Microsystems"
 doi: "10.1016/j.micpro.2022.104672"
 url: "https://www.sciencedirect.com/science/article/pii/S0141933122002022"
-tags: [literature, aiops, devops, model-based, automation, cyber-physical]
+tags: [literature, aiops, devops, model-based, automation, cyber-physical, academic-writing, bibliography, cicd, citation, issue-triage, keshav, literature-note, llm, moc, pipeline, project-management, reading-method, research, software-engineering, triage]
 created: 2026-04-06
 updated: 2026-04-06
 keshav-pass: 2

@@ -7,6 +7,72 @@ tags:
   - vault
   - obsidian
   - methodology
+  - academic-writing
+  - agile
+  - ai-ethics
+  - architecture
+  - benchmark
+  - bibliography
+  - bmad
+  - carbon-footprint
+  - checklist
+  - citation
+  - code-review
+  - codecarbon
+  - dashboard
+  - dsr
+  - effort-estimation
+  - embeddings
+  - ethics
+  - fleeting-note
+  - github
+  - glossary
+  - gtd
+  - hypothesis
+  - ict
+  - index
+  - issue-triage
+  - johnny-decimal
+  - kanban
+  - keshav
+  - knowledge-management
+  - literature-note
+  - literature-review
+  - llm
+  - local-llm
+  - metrics
+  - moc
+  - multi-agent
+  - navigation
+  - openspec
+  - para
+  - pec
+  - permanent-note
+  - pipeline
+  - precision-recall
+  - prompt-engineering
+  - prompting
+  - puma
+  - rag
+  - rcoif
+  - reading-method
+  - research
+  - research-methodology
+  - research-tools
+  - retrieval
+  - sdd
+  - slr
+  - spec-driven-development
+  - spec-kit
+  - sprint
+  - story-points
+  - sustainability
+  - template
+  - triage
+  - vector-db
+  - workflow
+  - zettelkasten
+  - zotero
 created: 2026-03-01
 updated: 2026-04-12
 ---

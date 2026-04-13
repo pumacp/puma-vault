@@ -6,7 +6,7 @@ tool: semantic-scholar
 phase: Phase1-Research
 step: "01-Literature-Exploration"
 methodology: [SLR, PRISMA]
-tags: [prompt, semantic-scholar, literature-exploration, puma, slr]
+tags: [prompt, semantic-scholar, literature-exploration, puma, slr, baseline, benchmark, bibliography, citation, dataset, effort-estimation, evaluation, ict, issue-triage, jira, literature-review, llm, metrics, moc, multi-agent, pipeline, precision-recall, prisma, project-management, prompt-template, research-tools, software-engineering, story-points, tawos, triage, zotero]
 rating: 5
 created: 2026-04-07
 updated: 2026-04-07

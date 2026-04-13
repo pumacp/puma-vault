@@ -9,7 +9,7 @@ citekey: ""
 status: pass-1  # pass-1 | pass-2 | pass-3 | archived
 relevance: 3    # 1-5
 topic: ""
-tags: [literature, keshav]
+tags: [literature, keshav, academic-writing, bibliography, citation, dataset, permanent-note, pipeline, reading-method, research, template]
 created: "{{date}}"
 updated: "{{date}}"
 ---

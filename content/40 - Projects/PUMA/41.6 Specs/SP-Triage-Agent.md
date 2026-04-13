@@ -10,6 +10,33 @@ tags:
   - sdd
   - bdd
   - puma
+  - api
+  - architecture
+  - artefact
+  - benchmark
+  - carbon-footprint
+  - chain-of-thought
+  - codecarbon
+  - cot
+  - data-formats
+  - dsr
+  - effort-estimation
+  - few-shot
+  - hypothesis
+  - issue-triage
+  - jira
+  - json
+  - llm
+  - local-llm
+  - mistral
+  - ollama
+  - python
+  - reasoning
+  - research-methodology
+  - spec-driven-development
+  - story-points
+  - sustainability
+  - zero-shot
 version: "1.0"
 status: approved
 created: 2026-03-18

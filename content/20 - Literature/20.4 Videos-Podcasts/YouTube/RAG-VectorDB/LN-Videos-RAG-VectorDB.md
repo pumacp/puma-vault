@@ -2,7 +2,7 @@
 id: LN-Videos-RAG-VectorDB
 title: "🎬 Videos — RAG, Vector Databases & Knowledge Systems"
 type: literature-videos
-tags: [videos, rag, vector-database, qdrant, llamaindex, embeddings, puma]
+tags: [videos, rag, vector-database, qdrant, llamaindex, embeddings, puma, academic-writing, ai-tools, anthropic, anythingllm, architecture, claude, database, dev-tools, dify, gemini, google, graph-rag, ide, issue-triage, knowledge-graph, langchain, literature-note, llm, lm-studio, local-llm, mas, memory, metrics, moc, multi-agent, notebooklm, ollama, para, precision-recall, project-management, prompt-engineering, python, research, research-tools, retrieval, semantic-search, supabase, template, triage, vector-db]
 created: 2026-04-06
 updated: 2026-04-06
 total-videos: 35

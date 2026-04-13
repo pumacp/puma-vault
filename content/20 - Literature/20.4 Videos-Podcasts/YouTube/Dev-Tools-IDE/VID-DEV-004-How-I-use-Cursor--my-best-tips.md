@@ -6,7 +6,7 @@ channel: "Steve Builder.io"
 url: "https://www.youtube.com/watch?v=uJimjSDio_Y"
 year: 2025
 status: to-watch
-tags: [video, cursor, tips, workflow, ai-ide]
+tags: [video, cursor, tips, workflow, ai-ide, anthropic, architecture, claude, dev-tools, ide, moc, video-note]
 phase: ['F2', 'F3']
 rating: 4
 created: 2026-04-06

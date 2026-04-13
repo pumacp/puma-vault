@@ -6,7 +6,7 @@ tool: perplexity
 phase: Phase1-Research
 step: "02-Scientific-Mapping"
 methodology: [Evidence-Mapping]
-tags: [prompt, perplexity, evidence-map, scientific-mapping, puma]
+tags: [prompt, perplexity, evidence-map, scientific-mapping, puma, academic-writing, ai-tools, anthropic, benchmark, bibliography, citation, claude, dataset, effort-estimation, issue-triage, jira, llama, llm, meta, metrics, moc, multi-agent, orchestration, precision-recall, project-management, prompt-template, prompting, rcoif, research, research-tools, software-engineering, story-points, triage, zotero]
 rating: 4
 created: 2026-04-07
 updated: 2026-04-07

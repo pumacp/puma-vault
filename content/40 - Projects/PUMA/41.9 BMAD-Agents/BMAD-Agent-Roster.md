@@ -2,7 +2,7 @@
 id: BMAD-Agent-Roster
 title: "🤖 BMAD Agent Roster — PUMA Project"
 type: bmad-roster
-tags: [bmad, agents, agentic, multi-agent, puma]
+tags: [bmad, agents, agentic, multi-agent, puma, agile, ai-ethics, ai-tools, anthropic, architecture, backlog, benchmark, bias, carbon-footprint, checklist, claude, codecarbon, cornell-notes, critical-thinking, dataset, dev-tools, effort-estimation, ethics, falsifiability, finer, github, human-in-the-loop, hypothesis, ide, issue-triage, jira, keshav, langgraph, literature-review, local-llm, mas, metrics, moc, non-parametric, note-taking, obsidian, ollama, openhands, openspec, orchestration, pec, perplexity, planning, popper, precision-recall, prisma, project-management, python, reading-method, red-teaming, research-methodology, research-tools, scrum, sdd, semantic-scholar, slr, smart-pmo, software-engineering, spec-driven-development, spec-kit, sprint, statistics, story-points, sustainability, tawos, triage, vault, wilcoxon, workflow]
 created: 2026-03-15
 updated: 2026-04-06
 ---

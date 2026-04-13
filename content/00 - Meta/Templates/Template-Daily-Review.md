@@ -2,7 +2,7 @@
 id: "GT-Daily-{{date}}"
 title: "Daily Review — {{date}}"
 type: gtd-daily
-tags: [gtd, daily-review, tasks]
+tags: [gtd, daily-review, tasks, academic-writing, ai-tools, anthropic, claude, dataset, hypothesis, metrics, perplexity, precision-recall, research, research-methodology, research-tools, template, zotero]
 date: "{{date}}"
 created: "{{date}}"
 ---

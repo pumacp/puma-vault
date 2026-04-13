@@ -2,7 +2,7 @@
 id: README-Methods
 title: "📐 Methods — Guide"
 type: readme
-tags: [readme, methods, guide]
+tags: [readme, methods, guide, cornell-notes, dataset, dsr, finer, literature-review, non-parametric, note-taking, prisma, research-methodology, slr, software-engineering, statistics, wilcoxon]
 created: 2026-03-01
 ---
 

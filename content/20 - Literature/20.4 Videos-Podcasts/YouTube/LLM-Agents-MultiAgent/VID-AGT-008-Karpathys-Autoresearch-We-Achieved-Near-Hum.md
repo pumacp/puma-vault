@@ -6,7 +6,7 @@ channel: "Onchain AI Garage"
 url: "https://www.youtube.com/watch?v=9jxrmk_Xses"
 year: 2025
 status: to-watch
-tags: [video, agents, karpathy, autoresearch, benchmark]
+tags: [video, agents, karpathy, autoresearch, benchmark, anthropic, claude, dev-tools, ide, llm, metrics, moc, obsidian, precision-recall, project-management, rag, retrieval, vault, video-note, workflow]
 phase: ['F0', 'F1']
 rating: 4
 created: 2026-04-06

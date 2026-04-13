@@ -6,7 +6,7 @@ channel: "Pocho Costa"
 url: "https://www.youtube.com/watch?v=Tbfc2lQzfAU"
 year: 2025
 status: to-watch
-tags: [video, context-engineering, agents, key-skill]
+tags: [video, context-engineering, agents, key-skill, architecture, chain-of-thought, code-review, cot, few-shot, github, issue-triage, llama, meta, metrics, moc, para, precision-recall, project-management, triage, video-note]
 phase: ['F1', 'F2']
 rating: 4
 created: 2026-04-06

@@ -6,7 +6,7 @@ channel: "AppyDave"
 url: "https://www.youtube.com/watch?v=-GKpGdonMbg"
 year: 2025
 status: to-watch
-tags: [video, bmad, puma]
+tags: [video, bmad, puma, moc, multi-agent, project-management, sdd, spec-driven-development, video-note]
 phase: ['F2']
 rating: 4
 created: 2026-04-06

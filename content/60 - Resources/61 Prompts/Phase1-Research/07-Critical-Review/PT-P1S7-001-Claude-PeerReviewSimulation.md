@@ -6,7 +6,7 @@ tool: claude
 phase: Phase1-Research
 step: "07-Critical-Review"
 methodology: [RCOIF, Peer-Review-Simulation, AMI]
-tags: [prompt, claude, peer-review, academic-writing, puma]
+tags: [prompt, claude, peer-review, academic-writing, puma, ami, anthropic, carbon-footprint, code-review, codecarbon, dataset, dsr, effort-estimation, few-shot, github, issue-triage, jira, llm, local-llm, metrics, moc, non-parametric, pec, precision-recall, project-management, prompt-template, prompting, rcoif, research, research-methodology, software-engineering, sprint, statistics, story-points, sustainability, tawos, tfg, thesis, triage, wilcoxon, workflow, zero-shot]
 rating: 5
 created: 2026-04-07
 updated: 2026-04-07

@@ -12,7 +12,7 @@ venue: "arXiv preprint"
 arxiv: "2601.14053"
 doi: "10.48550/arXiv.2601.14053"
 url: "https://arxiv.org/abs/2601.14053"
-tags: [literature, taxonomy, llm, scaling, agentic-ai, survey]
+tags: [literature, taxonomy, llm, scaling, agentic-ai, survey, academic-writing, bibliography, chain-of-thought, citation, cot, few-shot, keshav, literature-note, llama, meta, mistral, moc, project-management, reading-method, research, zero-shot]
 created: 2026-04-06
 updated: 2026-04-06
 keshav-pass: 1

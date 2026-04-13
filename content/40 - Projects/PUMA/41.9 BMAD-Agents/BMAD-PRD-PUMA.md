@@ -5,7 +5,7 @@ type: bmad-prd
 version: "1.2"
 phase: planning
 status: approved
-tags: [bmad, prd, requirements, puma, sdd]
+tags: [bmad, prd, requirements, puma, sdd, anthropic, api, architecture, artefact, benchmark, bias, carbon-footprint, chain-of-thought, claude, codecarbon, cot, critical-thinking, dataset, dsr, effect-size, effort-estimation, ethics, falsifiability, fine-tuning, github, gpt, hypothesis, ict, issue-triage, jira, literature-review, llama, llm, local-llm, meta, metrics, mistral, moc, multi-agent, non-parametric, ollama, openai, pec, planning, popper, precision-recall, project-management, python, rag, red-teaming, research-methodology, retrieval, slr, smart-pmo, software-engineering, spec-driven-development, sprint, statistics, story-points, sustainability, tawos, triage, wilcoxon]
 created: 2026-03-01
 updated: 2026-04-06
 ---

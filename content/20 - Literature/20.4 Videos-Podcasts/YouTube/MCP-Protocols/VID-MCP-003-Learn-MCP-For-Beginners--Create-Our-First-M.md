@@ -6,7 +6,7 @@ channel: "midudev"
 url: "https://www.youtube.com/watch?v=wnHczxwukYY"
 year: 2025
 status: to-watch
-tags: [video, mcp, tutorial, python, spanish]
+tags: [video, mcp, tutorial, python, spanish, anthropic, api, architecture, claude, effort-estimation, jira, moc, protocol, rest-api, story-points, video-note]
 phase: ['F2', 'F3']
 rating: 4
 created: 2026-04-06

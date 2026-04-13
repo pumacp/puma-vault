@@ -6,7 +6,7 @@ channel: "AB Automation Hub"
 url: "https://www.youtube.com/watch?v=vfHu2-YLBWE"
 year: 2025
 status: to-watch
-tags: [video, promptfoo, testing, evaluation, llm]
+tags: [video, promptfoo, testing, evaluation, llm, anthropic, automation, claude, data-formats, gpt, hypothesis, issue-triage, json, llama, meta, moc, openai, research-methodology, triage, video-note]
 phase: ['F3', 'F4']
 rating: 5
 created: 2026-04-06

@@ -6,7 +6,7 @@ channel: "Cole Medin"
 url: "https://www.youtube.com/watch?v=v_6EXt6T83I"
 year: 2025
 status: to-watch
-tags: [video, mcp, claude, impact, ecosystem]
+tags: [video, mcp, claude, impact, ecosystem, aiops, anthropic, api, devops, github, jira, metrics, moc, precision-recall, protocol, security, smart-pmo, video-note]
 phase: ['F1', 'F2']
 rating: 4
 created: 2026-04-06

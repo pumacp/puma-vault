@@ -6,7 +6,7 @@ channel: "Javier Garzás"
 url: "https://www.youtube.com/watch?v=nOtaMh2yRfI"
 year: 2025
 status: to-watch
-tags: [video, sprint, agile, velocity, ai]
+tags: [video, sprint, agile, velocity, ai, automation, code-review, github, issue-triage, metrics, moc, precision-recall, project-management, scrum, triage, video-note]
 phase: ['F0', 'F1']
 rating: 5
 created: 2026-04-06

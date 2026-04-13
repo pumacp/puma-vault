@@ -2,7 +2,7 @@
 title: "{{ title }}"
 author: Shuvangkar Das
 date: ", {{time:HH:mm}}"
-tags: [permanent]
+tags: [permanent, knowledge-management, second-brain, template]
 aliases: []
 ---
 ___

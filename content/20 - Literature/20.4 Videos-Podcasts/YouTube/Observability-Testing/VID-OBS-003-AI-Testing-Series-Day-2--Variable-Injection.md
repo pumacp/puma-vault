@@ -6,7 +6,7 @@ channel: "AB Automation Hub"
 url: "https://www.youtube.com/watch?v=9S9UbvxO60c"
 year: 2025
 status: to-watch
-tags: [video, promptfoo, testing, assertions, variables]
+tags: [video, promptfoo, testing, assertions, variables, automation, data-formats, dataset, evaluation, hypothesis, jira, json, metrics, moc, precision-recall, research-methodology, tawos, template, video-note]
 phase: ['F3', 'F4']
 rating: 4
 created: 2026-04-06

@@ -12,7 +12,7 @@ venue: "ICSE 2026 (AGENT Workshop)"
 arxiv: "2601.16392"
 doi: "10.48550/arXiv.2601.16392"
 url: "https://arxiv.org/abs/2601.16392"
-tags: [literature, agentic-pm, software-project-management, multi-agent, vision, puma-core]
+tags: [literature, agentic-pm, software-project-management, multi-agent, vision, puma-core, academic-writing, benchmark, bibliography, bmad, citation, code-review, github, human-in-the-loop, hypothesis, keshav, literature-note, llm, moc, project-management, reading-method, research, research-methodology, sdd, smart-pmo, spec-driven-development]
 created: 2026-04-06
 updated: 2026-04-06
 keshav-pass: 3

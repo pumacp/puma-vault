@@ -2,7 +2,7 @@
 id: Dashboard-Research-Progress
 title: "📊 Dashboard — Research Progress"
 type: dashboard
-tags: [dashboard, research, progress, puma, dataview]
+tags: [dashboard, research, progress, puma, dataview, bibliography, citation, code-review, github, glossary, gtd, literature-review, moc, navigation, obsidian, pec, pipeline, prisma, slr, template, vault]
 created: 2026-03-01
 updated: 2026-04-06
 ---

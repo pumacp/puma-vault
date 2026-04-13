@@ -7,7 +7,7 @@ year: 2025
 venue: "arXiv preprint"
 arxiv: "2508.14111"
 doi: "10.48550/arXiv.2508.14111"
-tags: [literature-note, agentic-science, survey, ai-discovery, puma, pec2]
+tags: [literature-note, agentic-science, survey, ai-discovery, puma, pec2, academic-writing, benchmark, bibliography, citation, code-review, dataset, github, hypothesis, jira, moc, pec, permanent-note, planning, project-management, research, research-methodology, smart-pmo, tawos, workflow]
 status: verified
 created: 2026-04-07
 updated: 2026-04-07

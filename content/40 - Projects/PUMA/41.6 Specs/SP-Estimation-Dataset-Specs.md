@@ -11,6 +11,33 @@ tags:
   - bdd
   - puma
   - story-points
+  - agile
+  - architecture
+  - carbon-footprint
+  - chain-of-thought
+  - codecarbon
+  - cot
+  - data-formats
+  - dataset
+  - effort-estimation
+  - few-shot
+  - github
+  - index
+  - issue-triage
+  - jira
+  - json
+  - llm
+  - local-llm
+  - mistral
+  - ollama
+  - pipeline
+  - python
+  - reasoning
+  - spec-driven-development
+  - sustainability
+  - tawos
+  - triage
+  - zero-shot
 version: "1.0"
 status: draft
 created: 2026-04-10

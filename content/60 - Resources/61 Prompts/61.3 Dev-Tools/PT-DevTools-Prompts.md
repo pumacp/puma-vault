@@ -2,7 +2,7 @@
 id: PT-ClaudeCode-Agent-Triage
 title: "Prompt: Claude Code — Triage Agent Implementation"
 type: prompt-template
-tags: [prompt, claude-code, coding, triage-agent, sdd, implementation]
+tags: [prompt, claude-code, coding, triage-agent, sdd, implementation, anthropic, api, architecture, baseline, benchmark, carbon-footprint, chain-of-thought, claude, codecarbon, cot, data-formats, dataset, dev-tools, effect-size, effort-estimation, evaluation, few-shot, github, ide, issue-triage, jira, json, llm, local-llm, metrics, mistral, non-parametric, obsidian, ollama, precision-recall, prompt-template, prompting, python, spec-driven-development, statistics, story-points, sustainability, template, triage, wilcoxon, zero-shot]
 tool: claude-code
 methodology: sdd
 use_case: coding

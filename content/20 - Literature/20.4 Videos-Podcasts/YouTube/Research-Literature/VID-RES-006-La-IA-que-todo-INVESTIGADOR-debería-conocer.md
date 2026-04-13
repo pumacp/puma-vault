@@ -6,7 +6,7 @@ channel: "Ph.D. Alejandro Medina Sandín"
 url: "https://www.youtube.com/watch?v=tCrw2p19Xj4"
 year: 2024
 status: to-watch
-tags: [video, research, consensus, evidence, spanish]
+tags: [video, research, consensus, evidence, spanish, literature-review, moc, pipeline, prisma, project-management, slr, tfg, thesis, video-note]
 phase: ['F0']
 rating: 4
 created: 2026-04-06

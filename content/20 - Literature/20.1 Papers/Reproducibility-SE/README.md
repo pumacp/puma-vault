@@ -1,6 +1,6 @@
 ---
 type: readme
-tags: [readme, papers]
+tags: [readme, papers, academic-writing, moc, research, software-engineering, template]
 ---
 # Reproducibility-SE — Papers
 

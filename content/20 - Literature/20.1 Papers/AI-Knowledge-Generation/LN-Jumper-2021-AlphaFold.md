@@ -6,7 +6,7 @@ authors: ["Jumper, J.", "Evans, R.", "Pritzel, A.", "et al."]
 year: 2021
 venue: "Nature"
 doi: "10.1038/s41586-021-03819-2"
-tags: [literature-note, alphafold, protein, ai-discovery, deepmind, puma, pec2]
+tags: [literature-note, alphafold, protein, ai-discovery, deepmind, puma, pec2, academic-writing, accuracy, agentic-science, ai-science, architecture, attention, bibliography, citation, gnome, graphcast, hypothesis, issue-triage, llm, materials-science, metrics, moc, pec, permanent-note, project-management, protein-folding, research, research-methodology, transformer, triage, weather-prediction]
 status: verified
 created: 2026-04-07
 updated: 2026-04-07

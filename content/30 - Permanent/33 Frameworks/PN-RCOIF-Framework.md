@@ -3,7 +3,7 @@ id: PN-RCOIF-Framework
 title: "RCOIF — Role·Context·Objective·Instructions·Format"
 type: permanent-note
 category: framework
-tags: [permanent, framework, prompting, rcoif, rcof, methodology]
+tags: [permanent, framework, prompting, rcoif, rcof, methodology, accuracy, ai-tools, ami, anthropic, benchmark, chain-of-thought, claude, code-review, cot, dataset, drca, egi, github, hypothesis, iipr, issue-triage, llm, local-llm, metrics, moc, ollama, one-shot, permanent-note, perplexity, reasoning, research-methodology, software-engineering, template, triage, zero-shot]
 aliases: ["RCOIF", "RCOF", "structured prompting"]
 created: 2026-03-01
 updated: 2026-03-01

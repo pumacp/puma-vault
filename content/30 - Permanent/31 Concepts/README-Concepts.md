@@ -2,7 +2,7 @@
 id: README-Concepts
 title: "🧠 Concepts — Zettelkasten Guide"
 type: readme
-tags: [readme, concepts, zettelkasten, permanent]
+tags: [readme, concepts, zettelkasten, permanent, agile, backlog, chain-of-thought, cot, few-shot, issue-triage, llm, project-management, rag, retrieval, sprint, template, triage]
 created: 2026-03-01
 ---
 

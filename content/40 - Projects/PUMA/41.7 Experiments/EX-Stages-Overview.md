@@ -2,7 +2,7 @@
 id: EX-Stage1-Triage-Overview
 title: "Experiment Overview — Stage 1: Issue Triage"
 type: experiment
-tags: [experiment, triage, stage1, overview, h1]
+tags: [experiment, triage, stage1, overview, h1, architecture, baseline, carbon-footprint, chain-of-thought, code-review, codecarbon, cot, dataset, effort-estimation, evaluation, few-shot, github, gpt, hypothesis, issue-triage, jira, llm, local-llm, metrics, mistral, moc, navigation, non-parametric, ollama, openai, precision-recall, project-management, puma, research-methodology, software-engineering, statistics, story-points, sustainability, tawos, template, wilcoxon, zero-shot]
 stage: "1-triage"
 status: planned
 created: 2026-03-01

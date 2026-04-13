@@ -6,7 +6,7 @@ channel: "Fazt Code"
 url: "https://www.youtube.com/watch?v=nNdPT-FhlLU"
 year: 2025
 status: to-watch
-tags: [video, supabase, mcp, backend, database]
+tags: [video, supabase, mcp, backend, database, anthropic, api, claude, dev-tools, devops, docker, ide, moc, protocol, video-note]
 phase: ['F3', 'F4']
 rating: 3
 created: 2026-04-06

@@ -6,7 +6,7 @@ channel: "Javier Garzás"
 url: "https://www.youtube.com/watch?v=8Rcnj_JsZ84"
 year: 2025
 status: to-watch
-tags: [video, pm, product-manager, ai, agile]
+tags: [video, pm, product-manager, ai, agile, academic-writing, backlog, code-review, github, issue-triage, llm, moc, planning, project-management, smart-pmo, sprint, thesis, triage, video-note]
 phase: ['F0', 'F5']
 rating: 5
 created: 2026-04-06

@@ -8,6 +8,53 @@ tags:
   - navigation
   - puma
   - dashboard
+  - academic-writing
+  - ai-ethics
+  - ami
+  - baseline
+  - benchmark
+  - bibliography
+  - bmad
+  - chain-of-thought
+  - citation
+  - cot
+  - dataset
+  - effort-estimation
+  - egi
+  - ethics
+  - evaluation
+  - fleeting-note
+  - glossary
+  - gtd
+  - ict
+  - index
+  - issue-triage
+  - jira
+  - johnny-decimal
+  - keshav
+  - llm
+  - local-llm
+  - multi-agent
+  - obsidian
+  - openspec
+  - para
+  - pipeline
+  - project-management
+  - prompting
+  - rcoif
+  - reading-method
+  - research
+  - sdd
+  - spec-driven-development
+  - spec-kit
+  - sprint
+  - story-points
+  - tawos
+  - template
+  - triage
+  - vault
+  - workflow
+  - zettelkasten
 created: 2026-03-01
 updated: 2026-04-12
 methodology:

@@ -6,7 +6,7 @@ channel: "Gentleman Programming"
 url: "https://www.youtube.com/watch?v=UoS_LP-PCG8"
 year: 2025
 status: to-watch
-tags: [video, sdd, puma]
+tags: [video, sdd, puma, anthropic, architecture, claude, dev-tools, ide, langgraph, memory, moc, orchestration, smart-pmo, spec-driven-development, video-note]
 phase: ['F2', 'F3']
 rating: 4
 created: 2026-04-06

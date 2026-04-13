@@ -2,7 +2,7 @@
 id: README-Videos
 title: "🎬 Videos & Podcasts — Guide"
 type: readme
-tags: [readme, videos, podcasts, guide]
+tags: [readme, videos, podcasts, guide, literature-review, slr, template]
 created: 2026-03-01
 ---
 

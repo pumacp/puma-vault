@@ -6,7 +6,7 @@ channel: "CodelyTV"
 url: "https://www.youtube.com/watch?v=934BLPv15UI"
 year: 2025
 status: to-watch
-tags: [video, ollama, lm-studio, comparison, inference]
+tags: [video, ollama, lm-studio, comparison, inference, api, devops, docker, effort-estimation, langgraph, local-llm, metrics, moc, precision-recall, rest-api, story-points, video-note]
 phase: ['F1']
 rating: 5
 created: 2026-04-06

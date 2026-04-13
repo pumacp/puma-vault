@@ -11,7 +11,7 @@ citekey: "@Li2018MultiProjectScheduling"
 venue: "PLOS ONE"
 doi: "10.1371/journal.pone.0205445"
 url: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0205445"
-tags: [literature, scheduling, multi-agent, multi-project, resource-allocation, distributed]
+tags: [literature, scheduling, multi-agent, multi-project, resource-allocation, distributed, academic-writing, architecture, backlog, bibliography, citation, issue-triage, keshav, literature-note, llm, mas, moc, orchestration, project-management, reading-method, research, smart-pmo, triage]
 created: 2026-04-06
 updated: 2026-04-06
 keshav-pass: 1

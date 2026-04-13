@@ -6,7 +6,7 @@ channel: "AI Stack Studio"
 url: "https://www.youtube.com/watch?v=wZFOW89Lsc0"
 year: 2025
 status: to-watch
-tags: [video, openspec, puma]
+tags: [video, openspec, puma, bmad, effort-estimation, issue-triage, metrics, moc, multi-agent, precision-recall, sdd, spec-driven-development, story-points, triage, video-note, workflow]
 phase: ['F1', 'F2']
 rating: 4
 created: 2026-04-06

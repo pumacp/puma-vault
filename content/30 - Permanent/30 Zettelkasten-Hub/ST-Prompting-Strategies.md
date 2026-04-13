@@ -2,7 +2,7 @@
 id: ST-Prompting-Strategies
 title: "ST: Prompting Strategies — Structure Note"
 type: structure-note
-tags: [zettelkasten, structure-note, prompting, llm, puma]
+tags: [zettelkasten, structure-note, prompting, llm, puma, ami, chain-of-thought, cot, dataset, drca, egi, few-shot, hypothesis, iipr, jira, moc, project-management, rcoif, research-methodology, tawos, zero-shot]
 created: 2026-04-06
 ---
 

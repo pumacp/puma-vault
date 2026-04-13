@@ -6,7 +6,7 @@ channel: "GuideToEverything"
 url: "https://www.youtube.com/watch?v=kVqk_eCEOns"
 year: 2026
 status: to-watch
-tags: [video, crewai, autogen, langgraph, comparison]
+tags: [video, crewai, autogen, langgraph, comparison, human-in-the-loop, llm, metrics, moc, multi-agent, precision-recall, project-management, pydantic, python, video-note]
 phase: ['F1', 'F2']
 rating: 5
 created: 2026-04-06

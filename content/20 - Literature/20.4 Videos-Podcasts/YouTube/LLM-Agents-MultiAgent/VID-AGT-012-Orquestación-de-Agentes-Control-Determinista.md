@@ -6,7 +6,7 @@ channel: "DevExpert"
 url: "https://www.youtube.com/watch?v=vCA2jBthyhA"
 year: 2025
 status: to-watch
-tags: [video, agents, orchestration, determinism, hooks]
+tags: [video, agents, orchestration, determinism, hooks, effort-estimation, llm, moc, pydantic, python, story-points, video-note]
 phase: ['F2', 'F3']
 rating: 4
 created: 2026-04-06

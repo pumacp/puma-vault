@@ -6,7 +6,7 @@ tool: claude-elicit-zotero
 phase: Phase1-Research
 step: "All-Steps"
 methodology: [PRISMA, SLR, Kitchenham]
-tags: [prompt, prisma, slr, methodology, puma]
+tags: [prompt, prisma, slr, methodology, puma, academic-writing, anthropic, benchmark, claude, dsr, elicit, ict, issue-triage, literature-review, llm, metrics, moc, multi-agent, pipeline, planning, precision-recall, project-management, prompt-template, quantitative-research, research, research-methodology, research-tools, semantic-scholar, triage, workflow, zotero]
 rating: 5
 created: 2026-04-07
 updated: 2026-04-07

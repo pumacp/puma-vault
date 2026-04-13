@@ -1,6 +1,6 @@
 ---
 type: readme
-tags: [readme, experiments, triage]
+tags: [readme, experiments, triage, issue-triage, template]
 ---
 # Stage 1 Triage — Individual Experiment Notes
 

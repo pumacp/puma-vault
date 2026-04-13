@@ -12,7 +12,7 @@ venue: "arXiv preprint"
 arxiv: "2404.11584"
 doi: "10.48550/arXiv.2404.11584"
 url: "https://arxiv.org/abs/2404.11584"
-tags: [literature, survey, agent-architectures, reasoning, planning, tool-calling, puma-core]
+tags: [literature, survey, agent-architectures, reasoning, planning, tool-calling, puma-core, academic-writing, agents, architecture, benchmark, bibliography, chain-of-thought, citation, cot, critical-thinking, effort-estimation, gpt, keshav, literature-note, llm, llm-agents, local-llm, masai, metagpt, moc, multi-agent, ollama, openai, orchestration, project-management, rag, react, reading-method, reasoning-action, red-teaming, research, retrieval, story-points, tool-use, tree-of-thoughts]
 created: 2026-04-06
 updated: 2026-04-06
 keshav-pass: 2

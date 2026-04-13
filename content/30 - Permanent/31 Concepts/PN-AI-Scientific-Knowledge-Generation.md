@@ -2,7 +2,7 @@
 id: PN-AI-Scientific-Knowledge-Generation
 title: "AI systems can generate new scientific knowledge, but only within human-defined research frameworks"
 type: permanent-note
-tags: [permanent-note, ai-science, knowledge-generation, puma, agentic-science, pec2]
+tags: [permanent-note, ai-science, knowledge-generation, puma, agentic-science, pec2, academic-writing, accuracy, ai-scientist, alphafold, anthropic, claude, code-review, critical-thinking, gemini, github, gnome, google, gpt, graphcast, hypothesis, llm, materials-science, metrics, moc, multi-agent, notebooklm, openai, pec, pipeline, plasma-physics, project-management, protein-folding, red-teaming, reinforcement-learning, research, research-methodology, research-tools, scientific-knowledge, smart-pmo, weather-prediction]
 created: 2026-04-07
 updated: 2026-04-07
 ---

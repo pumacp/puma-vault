@@ -6,7 +6,7 @@ channel: "Cole Medin"
 url: "https://www.youtube.com/watch?v=p0FERNkpyHE"
 year: 2025
 status: to-watch
-tags: [video, rag, agentic-rag, knowledge-graph]
+tags: [video, rag, agentic-rag, knowledge-graph, graph-rag, llm, moc, project-management, retrieval, smart-pmo, sprint, template, video-note]
 phase: ['F3', 'F4', 'F5']
 rating: 5
 created: 2026-04-06

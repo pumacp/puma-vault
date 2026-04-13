@@ -2,7 +2,7 @@
 id: README-Repos
 title: "💻 Code Repositories — Guide"
 type: readme
-tags: [readme, repos, code, guide]
+tags: [readme, repos, code, guide, architecture, github, langgraph, obsidian, project-management, scrum, template, vault, zettelkasten]
 created: 2026-03-01
 ---
 

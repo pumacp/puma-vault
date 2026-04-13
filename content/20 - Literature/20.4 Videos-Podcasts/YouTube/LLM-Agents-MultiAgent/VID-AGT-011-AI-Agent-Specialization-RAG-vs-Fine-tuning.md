@@ -6,7 +6,7 @@ channel: "T3chFest"
 url: "https://www.youtube.com/watch?v=weNLIRJutC8"
 year: 2026
 status: to-watch
-tags: [video, agents, rag, fine-tuning, specialisation]
+tags: [video, agents, rag, fine-tuning, specialisation, academic-writing, benchmark, embeddings, issue-triage, jira, llm, metrics, moc, precision-recall, project-management, research, retrieval, swe-bench, triage, vector-db, video-note]
 phase: ['F1', 'F4']
 rating: 4
 created: 2026-04-06

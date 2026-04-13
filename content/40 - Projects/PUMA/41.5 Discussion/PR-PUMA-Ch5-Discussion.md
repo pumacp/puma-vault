@@ -2,7 +2,7 @@
 id: PR-PUMA-Ch5-Discussion
 title: "Chapter 5 — Discussion & Conclusions"
 type: project-note
-tags: [project, chapter, discussion, conclusions, limitations, future-work]
+tags: [project, chapter, discussion, conclusions, limitations, future-work, academic-writing, accuracy, api, backlog, benchmark, bias, bmad, chain-of-thought, code-review, cot, critical-thinking, dataset, effort-estimation, embeddings, ethics, fairness, fine-tuning, github, gpt, gtd, hypothesis, ict, iipr, issue-triage, jira, llama, llm, local-llm, meta, metrics, moc, multi-agent, navigation, non-parametric, openai, pec, precision-recall, project-management, project-note, prompting, puma, rag, red-teaming, research, research-methodology, retrieval, smart-pmo, statistics, story-points, tawos, triage, validity, vector-db, wilcoxon]
 status: pending
 deadline: 2026-06-07
 pec: PEC4

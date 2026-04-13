@@ -6,7 +6,7 @@ channel: "LIDR"
 url: "https://www.youtube.com/watch?v=dkzOe2TwD_Q"
 year: 2025
 status: to-watch
-tags: [video, cursor, ticket, pr, workflow]
+tags: [video, cursor, ticket, pr, workflow, baseline, code-review, dev-tools, effort-estimation, evaluation, github, ide, issue-triage, jira, moc, planning, project-management, story-points, triage, video-note]
 phase: ['F2', 'F3']
 rating: 5
 created: 2026-04-06

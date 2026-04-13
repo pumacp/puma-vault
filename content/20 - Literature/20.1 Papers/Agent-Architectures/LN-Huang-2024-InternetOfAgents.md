@@ -12,7 +12,7 @@ venue: "EMNLP 2024"
 arxiv: "2407.07061"
 doi: "10.48550/arXiv.2407.07061"
 url: "https://arxiv.org/abs/2407.07061"
-tags: [literature, multi-agent, heterogeneous-agents, collaboration, internet-of-agents]
+tags: [literature, multi-agent, heterogeneous-agents, collaboration, internet-of-agents, architecture, bibliography, citation, issue-triage, keshav, literature-note, llm, local-llm, mas, moc, ollama, planning, project-management, reading-method, triage]
 created: 2026-04-06
 updated: 2026-04-06
 keshav-pass: 1

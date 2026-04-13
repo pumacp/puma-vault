@@ -3,7 +3,7 @@ id: PN-Wilcoxon-FINER-Cornell
 title: "Methods: Wilcoxon · FINER · Cornell"
 type: permanent-note
 category: method
-tags: [permanent, method, wilcoxon, statistics, finer, cornell, research-quality]
+tags: [permanent, method, wilcoxon, statistics, finer, cornell, research-quality, academic-writing, ai-tools, anthropic, baseline, benchmark, bias, carbon-footprint, chain-of-thought, claude, code-review, codecarbon, contextual-anchoring, cornell-notes, cot, dsr, effect-size, egi, elicit, ethics, evaluation, fairness, falsifiability, github, human-in-the-loop, hypothesis, ict, iipr, issue-triage, literature-review, llm, metrics, non-parametric, note-taking, obsidian, permanent-note, perplexity, pipeline, popper, precision-recall, prisma, privacy, project-management, prompting, python, rcoif, reasoning, research, research-methodology, research-tools, slr, software-engineering, sustainability, template, transformer, triage, vault, zotero]
 created: 2026-03-01
 maturity: evergreen
 ---

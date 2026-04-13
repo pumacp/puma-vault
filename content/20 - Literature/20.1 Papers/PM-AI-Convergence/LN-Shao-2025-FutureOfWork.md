@@ -12,7 +12,7 @@ venue: "arXiv preprint"
 arxiv: "2506.06576"
 doi: "10.48550/arXiv.2506.06576"
 url: "https://arxiv.org/abs/2506.06576"
-tags: [literature, future-of-work, ai-agents, automation, augmentation, workforce]
+tags: [literature, future-of-work, ai-agents, automation, augmentation, workforce, ai-ethics, bibliography, citation, ethics, issue-triage, keshav, literature-note, llm, moc, project-management, reading-method, triage]
 created: 2026-04-06
 updated: 2026-04-06
 keshav-pass: 1

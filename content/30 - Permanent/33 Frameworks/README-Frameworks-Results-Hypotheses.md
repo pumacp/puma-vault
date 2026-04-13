@@ -2,7 +2,7 @@
 id: README-Frameworks
 title: "🔧 Frameworks — Guide"
 type: readme
-tags: [readme, frameworks, guide]
+tags: [readme, frameworks, guide, ami, baseline, bdd, bmad, chain-of-thought, cornell-notes, cot, drca, dsr, effort-estimation, egi, evaluation, falsifiability, few-shot, finer, gpt, hypothesis, iipr, issue-triage, literature-review, llm, metrics, mistral, multi-agent, non-parametric, note-taking, openai, orchestration, popper, precision-recall, prisma, prompting, qualitative-research, rcoif, research-methodology, sdd, slr, software-engineering, spec-driven-development, statistics, story-points, triage, wilcoxon, zero-shot]
 created: 2026-03-01
 ---
 

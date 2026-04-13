@@ -8,7 +8,7 @@ citekey: ""
 venue: ""
 doi: ""
 url: ""
-tags: [source-note]
+tags: [source-note, literature-note, template]
 created: "{{date}}"
 ---
 

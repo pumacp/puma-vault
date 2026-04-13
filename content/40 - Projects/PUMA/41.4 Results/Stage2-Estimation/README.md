@@ -1,6 +1,6 @@
 ---
 type: readme
-tags: [readme, results]
+tags: [readme, results, code-review, data-formats, github, json]
 ---
 # Stage 2 — Estimation Results Files
 

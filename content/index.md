@@ -1,11 +1,25 @@
 ---
 id: MOC-Home
-title: "PUMA Vault"
+title: PUMA Vault
 type: home
-tags: [home, moc, navigation, puma, dashboard]
+tags:
 created: 2026-03-01
 updated: 2026-04-12
-methodology: [PARA, GTD, Zettelkasten, JohnnyDecimal, SDD, BMAD, CDD, KeshavThreePass]
+methodology:
+  - PARA
+  - GTD
+  - Zettelkasten
+  - JohnnyDecimal
+  - SDD
+  - BMAD
+  - CDD
+  - KeshavThreePass
+  - PRISMA
+  - OpenSpec
+  - ContextEngineering
+  - Marco-Veritas
+  - TDD
+  - Popper-Falsifiability
 ---
 
 <p align="center">
@@ -24,6 +38,7 @@ methodology: [PARA, GTD, Zettelkasten, JohnnyDecimal, SDD, BMAD, CDD, KeshavThre
 
 <h2 align="center">Benchmark - Local LLM Evaluation Framework</h2>
 
+<br>
 <p align="center">
   <a href="https://github.com/pumacp/puma" rel="noopener noreferrer">
     <img alt="PUMA Repo"
@@ -73,6 +88,10 @@ PUMA (**PUMA Understanding & Management w Agents**) is a research project invest
 
 The project is conducted as a project in ICT Engineering and uses a multi-stage empirical pipeline: systematic literature review → artifact design → LLM-based agent construction → experiment on real-world datasets (TAWOS, Jira SR) → statistical validation and replication package publication.
 
+<p align="center">
+  <img src="00%20-%20Meta/Assets/obsidian.png" alt="Obsidian" width="509" />
+</p>
+
 ### Core Mission
 Design, implement, and empirically evaluate a multi-agent LLM system — the PUMA platform — that autonomously triages software issues (classifying type, priority, and component) and estimates story-point effort from issue text. The platform is benchmarked against human-annotated ground truth using standard SE metrics (accuracy, F1, MAE, MRE) and statistical tests (Wilcoxon, ANOVA).
 
@@ -89,7 +108,7 @@ Design, implement, and empirically evaluate a multi-agent LLM system — the PUM
 
 ---
 
-### 1.1PUMA - Tools, Platforms, and Public Profiles
+### 1.1 PUMA - Tools, Platforms, and Public Profiles
 
 > [!ABSTRACT] Purpose
 > This README systematically documents and provides traceability for the entire ecosystem of tools, digital platforms, and public profiles utilized in the development of the **PUMA Project**. Transparency in the use of research and development tools is a primary ethical and methodological requirement, especially when employing Generative AI systems as epistemic partners in the research process.
@@ -212,6 +231,10 @@ Curated collections for specific project domains.
 
 <a name="methodologies"></a>
 ## 2. Knowledge Management Methodologies
+
+<p align="center">
+  <img src="00%20-%20Meta/Assets/research_pipeline.svg" alt="Obsidian" width="509" />
+</p>
 
 The vault fuses six complementary knowledge management systems into a single coherent workspace. Each system is not used in isolation — they reinforce each other, each covering a different dimension of the research lifecycle.
 

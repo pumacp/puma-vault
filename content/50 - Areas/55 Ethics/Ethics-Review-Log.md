@@ -2,7 +2,7 @@
 id: Ethics-Review-Log
 title: "Ethics Review Log — PUMA"
 type: log
-tags: [ethics, review, ai-use, responsibility]
+tags: [ethics, review, ai-use, responsibility, ai-ethics, api, bias, carbon-footprint, code-review, codecarbon, critical-thinking, dataset, effort-estimation, github, issue-triage, jira, moc, navigation, privacy, project-management, red-teaming, story-points, sustainability, triage]
 created: 2026-03-01
 ---
 

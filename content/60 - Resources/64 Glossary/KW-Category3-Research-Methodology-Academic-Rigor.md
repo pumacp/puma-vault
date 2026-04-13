@@ -3,7 +3,7 @@ id: KW-CAT3
 title: "Keywords — Category 3: Research Methodology and Academic Rigor"
 type: keyword-glossary
 category: "Research-Methodology-Academic-Rigor"
-tags: [keywords, research-methodology, slr, dsr, prisma, puma, glossary]
+tags: [keywords, research-methodology, slr, dsr, prisma, puma, glossary, academic-writing, anthropic, artefact, benchmark, bibliography, checklist, citation, claude, cornell-notes, dataset, effect-size, effort-estimation, embeddings, falsifiability, finer, grounded-theory, hypothesis, index, issue-triage, jira, keshav, literature-review, llm, metrics, moc, non-parametric, note-taking, pec, pipeline, popper, precision-recall, project-management, qualitative-research, reading-method, research, research-tools, semantic-scholar, semantic-search, smart-pmo, software-engineering, sprint, statistics, story-points, tawos, triage, vector-db, wilcoxon]
 created: 2026-04-07
 updated: 2026-04-07
 ---

@@ -10,7 +10,7 @@ relevance: 5
 citekey: "@Angermeir2025Reproducibility"
 venue: "ICSE 2026 (preprint)"
 arxiv: "2510.25506"
-tags: [literature, reproducibility, llm, se, benchmark, puma-core]
+tags: [literature, reproducibility, llm, se, benchmark, puma-core, academic-writing, api, architecture, bibliography, citation, code-review, critical-thinking, effort-estimation, github, keshav, literature-note, literature-review, moc, obsidian, permanent-note, reading-method, red-teaming, research, slr, software-engineering, story-points, vault, zettelkasten]
 created: 2026-03-05
 updated: 2026-04-06
 keshav-pass: 3

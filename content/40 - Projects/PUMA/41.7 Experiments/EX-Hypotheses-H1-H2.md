@@ -2,7 +2,7 @@
 id: EX-Hypotheses-H1-H2
 title: "PUMA Research Hypotheses — H1 (Triage) & H2 (Estimation)"
 type: experiment
-tags: [experiment, hypothesis, h1, h2, falsifiability, wilcoxon]
+tags: [experiment, hypothesis, h1, h2, falsifiability, wilcoxon, baseline, chain-of-thought, code-review, cornell-notes, cot, dataset, effect-size, effort-estimation, evaluation, few-shot, finer, github, gpt, ict, issue-triage, jira, llm, local-llm, metrics, mistral, moc, navigation, non-parametric, note-taking, openai, popper, precision-recall, prisma, project-management, puma, python, research-methodology, security, slr, software-engineering, statistics, story-points, tawos, triage, zero-shot, zettelkasten]
 stage: "both"
 status: planned
 created: 2026-03-01

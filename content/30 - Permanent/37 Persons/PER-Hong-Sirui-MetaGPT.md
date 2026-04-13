@@ -6,7 +6,7 @@ role: "Research Scientist"
 affiliation: "DeepWisdom AI"
 field: "Multi-agent systems, software engineering agents"
 known-for: "MetaGPT (2023) — role-based multi-agent framework"
-tags: [person-note, hong, metagpt, multi-agent]
+tags: [person-note, hong, metagpt, multi-agent, bmad, llm, prompt-template, software-engineering, workflow]
 created: 2026-04-06
 ---
 

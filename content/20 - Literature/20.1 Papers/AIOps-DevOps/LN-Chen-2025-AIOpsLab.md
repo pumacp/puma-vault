@@ -13,7 +13,7 @@ arxiv: "2501.06706"
 doi: "10.48550/arXiv.2501.06706"
 url: "https://arxiv.org/abs/2501.06706"
 github: "https://github.com/microsoft/AIOpsLab"
-tags: [literature, aiops, benchmark, autonomous-cloud, microsoft, evaluation, puma-core]
+tags: [literature, aiops, benchmark, autonomous-cloud, microsoft, evaluation, puma-core, agentscope, aiopslabs, architecture, baseline, bibliography, citation, devops, github, issue-triage, jira, keshav, literature-note, literature-review, llm, moc, multi-agent, orchestration, pipeline, project-management, reading-method, slr, triage]
 created: 2026-04-06
 updated: 2026-04-06
 keshav-pass: 2

@@ -2,7 +2,7 @@
 id: "FL-{{date}}-{{keyword}}"
 title: "Fleeting Note — {{date}} — {{keyword}}"
 type: fleeting-note
-tags: [fleeting, inbox, to-process]
+tags: [fleeting, inbox, to-process, academic-writing, architecture, backlog, bias, chain-of-thought, contextual-anchoring, cot, devops, docker, effort-estimation, ethics, few-shot, fleeting-note, github, glossary, gpt, issue-triage, literature-note, local-llm, mistral, ollama, openai, permanent-note, prompting, research, research-methodology, story-points, template, triage, validity]
 created: {{date}}
 process_by: {{date+2days}}
 source: "{{where this came from: paper/conversation/idea/podcast}}"

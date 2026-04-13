@@ -6,7 +6,7 @@ tool: semantic-scholar
 phase: Phase1-Research
 step: "01-Literature-Exploration"
 methodology: [SLR, PRISMA]
-tags: [prompt, semantic-scholar, triage, effort-estimation, puma]
+tags: [prompt, semantic-scholar, triage, effort-estimation, puma, agile, backlog, benchmark, dataset, github, hypothesis, issue-triage, jira, literature-review, llm, metrics, moc, neural-network, precision-recall, prisma, project-management, prompt-template, research-methodology, research-tools, scrum, slr, software-engineering, sprint, story-points, tawos, transformer]
 rating: 5
 created: 2026-04-07
 updated: 2026-04-07

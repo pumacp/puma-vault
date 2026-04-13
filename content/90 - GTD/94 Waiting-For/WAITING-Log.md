@@ -2,7 +2,7 @@
 id: WAITING-Log
 title: "⏳ Waiting For Log"
 type: gtd-waiting
-tags: [gtd, waiting, blocked]
+tags: [gtd, waiting, blocked, dataset, github, jira, local-llm, ollama, tawos, template]
 created: 2026-03-01
 ---
 

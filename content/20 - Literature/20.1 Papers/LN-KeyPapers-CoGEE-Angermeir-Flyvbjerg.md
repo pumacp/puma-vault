@@ -3,7 +3,7 @@ id: LN-Tawosi2024-CoGEE
 title: "CoGEE: Search-Based Optimisation of LLM Learning Shots for Story Point Estimation"
 type: literature-note
 subtype: paper
-tags: [literature, paper, story-points, estimation, llm, cogee, gpt4, few-shot]
+tags: [literature, paper, story-points, estimation, llm, cogee, gpt4, few-shot, academic-writing, api, architecture, baseline, benchmark, carbon-footprint, chain-of-thought, code-review, codecarbon, cornell-notes, cot, critical-thinking, dataset, devops, docker, drca, effort-estimation, evaluation, github, gpt, hypothesis, issue-triage, jira, literature-note, llama, meta, mistral, note-taking, openai, planning, project-management, prompting, red-teaming, research, research-methodology, software-engineering, sustainability, tawos, triage, zettelkasten]
 authors: ["Tawosi, Vali", "Alamir, Serena", "Liu, Xiaomo"]
 year: 2024
 venue: "SSBSE 2023 / EASE 2024"

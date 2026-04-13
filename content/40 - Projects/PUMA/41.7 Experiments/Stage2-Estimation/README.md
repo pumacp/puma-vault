@@ -1,6 +1,6 @@
 ---
 type: readme
-tags: [readme, experiments, estimation]
+tags: [readme, experiments, estimation, template]
 ---
 # Stage 2 Estimation — Individual Experiment Notes
 

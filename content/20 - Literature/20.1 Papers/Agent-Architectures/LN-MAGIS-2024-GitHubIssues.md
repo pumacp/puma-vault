@@ -12,7 +12,7 @@ venue: "arXiv preprint"
 arxiv: "2403.17927"
 doi: "10.48550/arXiv.2403.17927"
 url: "https://arxiv.org/abs/2403.17927"
-tags: [literature, multi-agent, github-issues, software-engineering, issue-resolution, puma-core]
+tags: [literature, multi-agent, github-issues, software-engineering, issue-resolution, puma-core, academic-writing, agents, benchmark, bibliography, citation, github, issue-triage, keshav, literature-note, llm, llm-agents, moc, pipeline, project-management, reading-method, research, swe-bench, triage]
 created: 2026-04-06
 updated: 2026-04-06
 keshav-pass: 1

@@ -2,7 +2,7 @@
 id: Keshav-Reading-Log
 title: "📖 Keshav Three-Pass Reading Log"
 type: reading-log
-tags: [keshav, literature, reading, systematic]
+tags: [keshav, literature, reading, systematic, academic-writing, agile, benchmark, chain-of-thought, cornell-notes, cot, critical-thinking, dataset, dsr, effort-estimation, few-shot, finer, jira, literature-review, llm, mit-ai-lab, non-parametric, note-taking, permanent-note, prisma, project-management, reading-method, red-teaming, research, research-methodology, slr, software-engineering, sprint, statistics, story-points, tawos, template, wilcoxon, wp316]
 created: 2026-03-01
 updated: 2026-04-06
 ---

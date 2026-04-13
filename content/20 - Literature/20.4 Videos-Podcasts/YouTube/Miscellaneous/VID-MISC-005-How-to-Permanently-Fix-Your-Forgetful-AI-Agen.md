@@ -6,7 +6,7 @@ channel: "Arseny Shatokhin"
 url: "https://www.youtube.com/watch?v=ZcWMSVGcZio"
 year: 2025
 status: to-watch
-tags: [video, agents, memory, persistence, langgraph]
+tags: [video, agents, memory, persistence, langgraph, architecture, effort-estimation, embeddings, issue-triage, moc, rag, retrieval, semantic-search, sprint, story-points, triage, vector-db, video-note]
 phase: ['F3', 'F4']
 rating: 4
 created: 2026-04-06

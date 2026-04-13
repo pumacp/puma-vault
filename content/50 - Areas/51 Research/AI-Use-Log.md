@@ -2,7 +2,7 @@
 id: AI-Use-Log
 title: "AI Use Log — PUMA Project (PRISMA-trAIce Compliance)"
 type: log
-tags: [ai-use, prisma-traice, ethics, transparency, marco-veritas]
+tags: [ai-use, prisma-traice, ethics, transparency, marco-veritas, academic-writing, ai-ethics, ai-tools, ai-use-log, anthropic, anythingllm, automation, bdd, claude, code-review, data-formats, dataset, dev-tools, effort-estimation, egi, elicit, gemini, github, google, gpt, ide, issue-triage, jira, json, literature-review, llama, llm, local-llm, meta, metrics, mistral, moc, navigation, notebooklm, ollama, openai, opencode, openhands, openspec, perplexity, pipeline, precision-recall, prisma, project-management, prompting, puma, rag, rcoif, reasoning, research, research-tools, retrieval, sdd, slr, software-engineering, spec-driven-development, story-points, tawos, template, triage, zotero]
 created: 2026-03-01
 updated: 2026-03-01
 ---

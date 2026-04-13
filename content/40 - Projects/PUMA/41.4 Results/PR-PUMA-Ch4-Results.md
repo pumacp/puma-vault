@@ -2,7 +2,7 @@
 id: PR-PUMA-Ch4-Results
 title: "Chapter 4 — Results"
 type: project-note
-tags: [project, chapter, results, puma]
+tags: [project, chapter, results, puma, baseline, carbon-footprint, chain-of-thought, code-review, codecarbon, cornell-notes, cot, dashboard, dataset, effort-estimation, evaluation, few-shot, finer, github, gpt, hypothesis, issue-triage, jira, llm, metrics, mistral, moc, navigation, non-parametric, note-taking, openai, pec, precision-recall, prisma, project-management, project-note, research-methodology, slr, software-engineering, statistics, story-points, sustainability, tawos, triage, wilcoxon, zero-shot]
 status: pending
 deadline: 2026-06-07
 pec: PEC4

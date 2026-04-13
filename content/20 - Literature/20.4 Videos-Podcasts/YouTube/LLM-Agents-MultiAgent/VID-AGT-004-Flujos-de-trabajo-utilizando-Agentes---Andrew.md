@@ -6,7 +6,7 @@ channel: "La Hora Maker"
 url: "https://www.youtube.com/watch?v=YIcFlsIez_Q"
 year: 2025
 status: to-watch
-tags: [video, agents, andrew-ng, workflows]
+tags: [video, agents, andrew-ng, workflows, few-shot, hypothesis, llm, metrics, moc, multi-agent, planning, precision-recall, project-management, rag, react, reasoning-action, research-methodology, retrieval, tool-use, video-note, workflow]
 phase: ['F0', 'F1']
 rating: 5
 created: 2026-04-06

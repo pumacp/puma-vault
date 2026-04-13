@@ -6,7 +6,7 @@ tool: claude
 phase: Phase1-Research
 step: "06-Experimental-Design"
 methodology: [DSR, Hevner, Peffers]
-tags: [prompt, dsr, hevner, peffers, artifact-design, puma]
+tags: [prompt, dsr, hevner, peffers, artifact-design, puma, anthropic, artefact, baseline, benchmark, bias, carbon-footprint, claude, code-review, codecarbon, dataset, effort-estimation, ethics, evaluation, github, issue-triage, jira, literature-review, llm, local-llm, metrics, moc, non-parametric, pipeline, planning, precision-recall, project-management, prompt-template, pydantic, python, research-methodology, slr, statistics, story-points, sustainability, tawos, triage, wilcoxon]
 rating: 5
 created: 2026-04-07
 updated: 2026-04-07

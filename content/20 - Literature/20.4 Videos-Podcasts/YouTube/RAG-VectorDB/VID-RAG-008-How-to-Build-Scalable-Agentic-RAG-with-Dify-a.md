@@ -6,7 +6,7 @@ channel: "Dify"
 url: "https://www.youtube.com/watch?v=ZhNjf08TfOE"
 year: 2025
 status: to-watch
-tags: [video, rag, qdrant, dify, agentic]
+tags: [video, rag, qdrant, dify, agentic, ai-tools, embeddings, issue-triage, moc, retrieval, semantic-search, triage, vector-db, video-note]
 phase: ['F2', 'F3']
 rating: 4
 created: 2026-04-06

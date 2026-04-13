@@ -4,7 +4,7 @@ title: "AI Use Log — PEC2 Research Session: AI and Scientific Knowledge"
 type: ai-use-log-entry
 date: 2026-04-07
 tools: ["Claude", "NotebookLM", "Perplexity", "Gemini"]
-tags: [ai-use-log, pec2, marco-veritas, puma]
+tags: [ai-use-log, pec2, marco-veritas, puma, academic-writing, ai-ethics, ai-science, ai-scientist, ai-tools, alphafold, anthropic, bibliography, citation, claude, ethics, gemini, gnome, google, graphcast, literature-note, materials-science, moc, navigation, notebooklm, obsidian, pec, permanent-note, perplexity, prisma-traice, protein-folding, research, research-tools, scientific-knowledge, smart-pmo, swarm-intelligence, vault, weather-prediction, zettelkasten]
 created: 2026-04-07
 updated: 2026-04-07
 ---

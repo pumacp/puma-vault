@@ -2,7 +2,7 @@
 id: Carbon-Tracking-Log
 title: "Carbon Tracking Log — PUMA Experiments"
 type: log
-tags: [sustainability, carbon, codecarbon, co2, green-ai]
+tags: [sustainability, carbon, codecarbon, co2, green-ai, academic-writing, api, architecture, benchmark, carbon-footprint, chain-of-thought, code-review, cot, critical-thinking, dataset, effort-estimation, elicit, few-shot, github, gpt, hypothesis, issue-triage, jira, literature-review, llm, local-llm, metrics, mistral, moc, openai, precision-recall, prisma, project-management, python, red-teaming, research, research-methodology, research-tools, semantic-scholar, slr, software-engineering, story-points, tawos, triage, zero-shot, zotero]
 created: 2026-03-01
 updated: 2026-03-01
 ---

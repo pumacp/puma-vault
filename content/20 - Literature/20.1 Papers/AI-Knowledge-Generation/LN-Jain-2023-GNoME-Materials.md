@@ -6,7 +6,7 @@ authors: ["Jain, A.", "et al."]
 year: 2023
 venue: "Nature"
 doi: "10.1038/s41586-023-06735-9"
-tags: [literature-note, materials-science, gnome, deepmind, ai-discovery, puma, pec2]
+tags: [literature-note, materials-science, gnome, deepmind, ai-discovery, puma, pec2, academic-writing, ai-science, alphafold, bibliography, citation, graph-rag, issue-triage, knowledge-graph, moc, neural-network, pec, project-management, protein-folding, quantitative-research, research, scientific-knowledge, triage]
 status: verified
 created: 2026-04-07
 updated: 2026-04-07

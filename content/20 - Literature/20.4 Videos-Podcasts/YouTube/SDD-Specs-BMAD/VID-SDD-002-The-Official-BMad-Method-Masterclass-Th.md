@@ -6,7 +6,7 @@ channel: "BMad Code"
 url: "https://www.youtube.com/watch?v=LorEJPrALcg"
 year: 2025
 status: to-watch
-tags: [video, bmad, puma]
+tags: [video, bmad, puma, agile, architecture, metrics, moc, multi-agent, precision-recall, sdd, spec-driven-development, video-note, workflow]
 phase: ['F1', 'F2', 'F3']
 rating: 5
 created: 2026-04-06

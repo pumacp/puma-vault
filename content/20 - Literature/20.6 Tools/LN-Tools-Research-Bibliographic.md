@@ -2,7 +2,7 @@
 id: LN-Tools-Research-Bibliographic
 title: "🔍 Tools — Research Discovery & Bibliographic Management"
 type: literature-tools
-tags: [tools, research, bibliography, slr, zotero, semantic-scholar, puma]
+tags: [tools, research, bibliography, slr, zotero, semantic-scholar, puma, academic-writing, ai-tools, aiops, autogen, chain-of-thought, citation, connected-papers, cot, dataset, devops, elicit, gpt, ict, index, jira, keshav, langgraph, literature-note, literature-review, llama, llm, local-llm, mas, meta, metagpt, metrics, mistral, moc, multi-agent, obsidian, ollama, openai, perplexity, pipeline, precision-recall, prisma, project-management, react, reading-method, reasoning-action, research-tools, root-cause-analysis, semantic-search, software-engineering, tawos, vault]
 created: 2026-04-06
 updated: 2026-04-06
 phase: [F0, F1, F5]

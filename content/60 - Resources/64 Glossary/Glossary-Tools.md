@@ -2,7 +2,7 @@
 id: Glossary-Tools-v4
 title: "📖 Glossary — Tools & Platforms (Supplement v4)"
 type: glossary
-tags: [glossary, tools, platforms, supplement]
+tags: [glossary, tools, platforms, supplement, academic-writing, ai-tools, anythingllm, api, architecture, automation, bibliography, carbon-footprint, chain-of-thought, cicd, citation, codecarbon, cornell-notes, cot, crewai, dataset, dev-tools, devops, docker, elicit, embeddings, github, human-in-the-loop, ide, index, issue-triage, jira, keshav, knowledge-management, langchain, langgraph, literature-review, llama, llm, lm-studio, local-llm, mas, meta, metrics, mistral, multi-agent, note-taking, notebooklm, obsidian, ollama, opencode, openhands, openspec, orchestration, perplexity, pipeline, planning, precision-recall, project-management, pydantic, python, rag, react, reading-method, reasoning, reasoning-action, research, research-tools, rest-api, retrieval, sdd, semantic-scholar, semantic-search, slr, spec-driven-development, sprint, sustainability, tawos, tfg, thesis, triage, vector-db, zotero]
 created: 2026-04-06
 updated: 2026-04-06
 source: "Anexo C — Catálogo de Herramientas (TFG PUMA v5.0)"

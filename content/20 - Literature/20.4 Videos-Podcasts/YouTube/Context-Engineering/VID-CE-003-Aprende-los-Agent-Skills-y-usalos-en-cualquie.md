@@ -6,7 +6,7 @@ channel: "Fazt"
 url: "https://www.youtube.com/watch?v=_iVeYCRpH7w"
 year: 2025
 status: to-watch
-tags: [video, skills, agents, tools, context]
+tags: [video, skills, agents, tools, context, anthropic, chain-of-thought, claude, cot, dev-tools, few-shot, ide, issue-triage, llm, moc, opencode, reasoning, triage, video-note, zero-shot]
 phase: ['F2', 'F3']
 rating: 4
 created: 2026-04-06

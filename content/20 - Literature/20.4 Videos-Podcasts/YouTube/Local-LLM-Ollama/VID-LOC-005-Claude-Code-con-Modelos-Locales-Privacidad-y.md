@@ -6,7 +6,7 @@ channel: "DevExpert"
 url: "https://www.youtube.com/watch?v=pZ56M-sjmyo"
 year: 2025
 status: to-watch
-tags: [video, claude-code, ollama, privacy, local]
+tags: [video, claude-code, ollama, privacy, local, anthropic, api, claude, dev-tools, ide, langgraph, local-llm, moc, opencode, video-note, workflow]
 phase: ['F2', 'F3']
 rating: 4
 created: 2026-04-06

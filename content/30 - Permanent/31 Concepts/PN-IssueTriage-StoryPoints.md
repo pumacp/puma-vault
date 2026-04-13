@@ -3,7 +3,7 @@ id: PN-Issue-Triage
 title: "Issue Triage in Software Project Management"
 type: permanent-note
 category: concept
-tags: [permanent, concept, triage, project-management, jira, priority, classification]
+tags: [permanent, concept, triage, project-management, jira, priority, classification, academic-writing, agile, automation, baseline, bias, chain-of-thought, code-review, cot, critical-thinking, dataset, effort-estimation, ethics, evaluation, few-shot, github, glossary, gpt, hypothesis, ict, issue-triage, llm, metrics, moc, openai, permanent-note, planning, precision-recall, red-teaming, research, research-methodology, security, software-engineering, sprint, story-points, tawos]
 aliases: ["Issue Triage", "Bug Triage", "Ticket Triage", "Defect Triage"]
 created: 2026-03-01
 maturity: evergreen

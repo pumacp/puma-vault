@@ -6,7 +6,7 @@ channel: "DevHack"
 url: "https://www.youtube.com/watch?v=4l0bYXTtDIs"
 year: 2025
 status: to-watch
-tags: [video, agents, multi-agent, multimodal, evidence]
+tags: [video, agents, multi-agent, multimodal, evidence, architecture, benchmark, github, jira, langgraph, llm, mas, masai, moc, para, project-management, smart-pmo, sprint, video-note]
 phase: ['F2', 'F3']
 rating: 4
 created: 2026-04-06

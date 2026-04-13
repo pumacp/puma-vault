@@ -10,7 +10,7 @@ relevance: 5
 citekey: "@Spichkova2025CognitiveAgents"
 venue: "EASE 2025"
 arxiv: "2508.16678"
-tags: [literature, llm-agents, agile, project-management, benchmark, puma-core]
+tags: [literature, llm-agents, agile, project-management, benchmark, puma-core, academic-writing, api, bibliography, carbon-footprint, chain-of-thought, citation, code-review, codecarbon, cot, critical-thinking, dataset, effort-estimation, github, gpt, hypothesis, issue-triage, jira, keshav, literature-note, literature-review, llm, metrics, moc, openai, permanent-note, planning, precision-recall, reading-method, red-teaming, research, research-methodology, slr, sprint, story-points, sustainability, tawos, triage]
 created: 2026-03-10
 updated: 2026-04-06
 keshav-pass: 2

@@ -6,7 +6,7 @@ tool: grok
 phase: Phase1-Research
 step: "07-Critical-Review"
 methodology: [Adversarial-Review, Falsification, Stress-Testing]
-tags: [prompt, grok, adversarial, critique, stress-test, puma]
+tags: [prompt, grok, adversarial, critique, stress-test, puma, academic-writing, anthropic, baseline, benchmark, bias, checklist, claude, code-review, dataset, effort-estimation, ethics, evaluation, falsifiability, few-shot, github, hypothesis, issue-triage, jira, llama, llm, local-llm, meta, metrics, moc, popper, precision-recall, project-management, prompt-template, research, research-methodology, story-points, tawos, tfg, thesis, triage, zero-shot]
 rating: 4
 created: 2026-04-07
 updated: 2026-04-07

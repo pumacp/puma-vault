@@ -2,7 +2,7 @@
 id: Weekly-Review-Template
 title: "📆 Weekly Review Template"
 type: gtd-weekly-template
-tags: [gtd, weekly-review, template]
+tags: [gtd, weekly-review, template, github, research-tools, zotero]
 created: 2026-03-01
 ---
 

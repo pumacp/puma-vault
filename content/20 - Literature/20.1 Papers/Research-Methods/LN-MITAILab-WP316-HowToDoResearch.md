@@ -10,7 +10,7 @@ relevance: 5
 citekey: "@MITAILab1988HowToDoResearch"
 venue: "MIT AI Lab Working Paper 316"
 url: "http://www.ai.mit.edu/lab/howto.html"
-tags: [literature, research-methodology, mit-ai-lab, keshav, reading-method, puma-core]
+tags: [literature, research-methodology, mit-ai-lab, keshav, reading-method, puma-core, academic-writing, ami, bibliography, chain-of-thought, checklist, citation, cot, dataset, drca, egi, falsifiability, literature-note, literature-review, obsidian, permanent-note, popper, project-management, prompting, qualitative-research, rcoif, reasoning, research, slr, thesis, vault, wp316]
 created: 2026-04-06
 updated: 2026-04-06
 keshav-pass: 3

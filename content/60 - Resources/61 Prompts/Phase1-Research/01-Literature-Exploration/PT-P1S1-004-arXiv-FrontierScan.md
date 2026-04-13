@@ -6,7 +6,7 @@ tool: arxiv
 phase: Phase1-Research
 step: "01-Literature-Exploration"
 methodology: [SLR]
-tags: [prompt, arxiv, preprints, literature-exploration, puma]
+tags: [prompt, arxiv, preprints, literature-exploration, puma, academic-writing, aiops, automation, benchmark, bibliography, citation, dataset, devops, human-in-the-loop, literature-review, llm, moc, multi-agent, prisma, project-management, prompt-template, research, research-tools, semantic-scholar, slr, software-engineering, workflow]
 rating: 5
 created: 2026-04-07
 updated: 2026-04-07

@@ -6,7 +6,7 @@ channel: "La Hora Maker"
 url: "https://www.youtube.com/watch?v=ODSqFVW_46A"
 year: 2024
 status: to-watch
-tags: [video, ollama, mac-mini, hardware, benchmark]
+tags: [video, ollama, mac-mini, hardware, benchmark, effort-estimation, issue-triage, llama, llm, local-llm, memory, meta, metrics, mistral, moc, para, precision-recall, reasoning, story-points, triage, video-note]
 phase: ['F1', 'F2']
 rating: 5
 created: 2026-04-06

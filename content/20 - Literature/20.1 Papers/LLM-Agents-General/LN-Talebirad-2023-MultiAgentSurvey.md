@@ -12,7 +12,7 @@ venue: "arXiv preprint"
 arxiv: "2306.03314"
 doi: "10.48550/arXiv.2306.03314"
 url: "https://arxiv.org/abs/2306.03314"
-tags: [literature, multi-agent, survey, collaboration, llm, puma-core]
+tags: [literature, multi-agent, survey, collaboration, llm, puma-core, academic-writing, architecture, autogen, bibliography, citation, keshav, literature-note, mas, metagpt, moc, orchestration, project-management, reading-method, research, research-tools, semantic-scholar]
 created: 2026-04-06
 updated: 2026-04-06
 keshav-pass: 1

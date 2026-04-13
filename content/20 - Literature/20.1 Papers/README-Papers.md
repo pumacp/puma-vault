@@ -2,7 +2,7 @@
 id: README-Papers-Subfolders
 title: "📄 Papers Sub-folders Guide"
 type: readme
-tags: [readme, papers, guide, slr]
+tags: [readme, papers, guide, slr, academic-writing, data-formats, gpt, issue-triage, jira, json, literature-review, llm, openai, project-management, prompt-engineering, research, software-engineering, template, triage]
 created: 2026-03-01
 ---
 

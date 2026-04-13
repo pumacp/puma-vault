@@ -2,7 +2,7 @@
 id: MOC-PUMA-Master
 title: "🗺️ MOC — PUMA Master Map"
 type: moc
-tags: [moc, puma, master, navigation]
+tags: [moc, puma, master, navigation, academic-writing, agentic-science, ai-science, ami, architecture, backlog, bdd, benchmark, bibliography, bmad, chain-of-thought, citation, code-review, cornell-notes, cot, critical-thinking, dashboard, dataset, drca, dsr, effort-estimation, egi, embeddings, few-shot, finer, github, glossary, gtd, hypothesis, ict, iipr, index, issue-triage, jira, keshav, literature-review, llama, llm, meta, metagpt, metrics, mistral, mit-ai-lab, multi-agent, non-parametric, note-taking, obsidian, para, pec, pipeline, planning, precision-recall, prisma, project-management, prompting, rag, rcoif, react, reading-method, reasoning, reasoning-action, red-teaming, research, research-methodology, retrieval, scientific-knowledge, sdd, slr, smart-pmo, spec-driven-development, statistics, story-points, tawos, tree-of-thoughts, triage, vault, vector-db, wilcoxon, workflow, wp316, zero-shot, zettelkasten]
 created: 2026-03-01
 updated: 2026-04-06
 ---

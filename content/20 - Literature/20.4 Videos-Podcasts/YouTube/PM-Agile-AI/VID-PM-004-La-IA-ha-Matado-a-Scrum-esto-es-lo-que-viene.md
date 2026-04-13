@@ -6,7 +6,7 @@ channel: "Javier Garzás"
 url: "https://www.youtube.com/watch?v=jrTrihcZZlc"
 year: 2025
 status: to-watch
-tags: [video, scrum, agile, ai, future]
+tags: [video, scrum, agile, ai, future, backlog, code-review, effort-estimation, github, moc, project-management, sprint, story-points, video-note]
 phase: ['F0']
 rating: 4
 created: 2026-04-06

@@ -12,7 +12,7 @@ venue: "arXiv preprint"
 arxiv: "2501.07834"
 doi: "10.48550/arXiv.2501.07834"
 url: "https://arxiv.org/abs/2501.07834"
-tags: [literature, agentic-workflow, modular, automation, workflow, puma-core]
+tags: [literature, agentic-workflow, modular, automation, workflow, puma-core, academic-writing, architecture, benchmark, bibliography, citation, issue-triage, keshav, literature-note, llm, moc, pipeline, planning, project-management, reading-method, research, triage]
 created: 2026-04-06
 updated: 2026-04-06
 keshav-pass: 1

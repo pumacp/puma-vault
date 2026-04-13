@@ -2,7 +2,7 @@
 id: JD-Master-Index
 title: "🔢 Johnny Decimal Master Index — PUMA Vault"
 type: jd-index
-tags: [johnny-decimal, index, navigation, structure]
+tags: [johnny-decimal, index, navigation, structure, academic-writing, ai-ethics, ami, anthropic, architecture, bibliography, bmad, chain-of-thought, citation, claude, code-review, cornell-notes, cot, critical-thinking, dashboard, dataset, dev-tools, drca, dsr, effort-estimation, egi, embeddings, ethics, few-shot, finer, fleeting-note, github, glossary, gtd, hypothesis, iipr, issue-triage, jira, kanban, keshav, literature-note, literature-review, llm, local-llm, moc, multi-agent, non-parametric, note-taking, obsidian, ollama, opencode, openspec, para, pec, permanent-note, pipeline, prisma, project-management, prompting, puma, rag, rcoif, reading-method, red-teaming, research, research-methodology, retrieval, sdd, slr, smart-pmo, software-engineering, spec-driven-development, spec-kit, sprint, statistics, story-points, tawos, template, triage, vault, vector-db, wilcoxon, workflow, zettelkasten]
 created: 2026-03-01
 updated: 2026-04-06
 ---

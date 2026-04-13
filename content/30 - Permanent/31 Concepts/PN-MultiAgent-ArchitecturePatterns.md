@@ -4,7 +4,7 @@ title: "Multi-agent systems outperform single agents on PM tasks when agent role
 type: permanent
 created: 2026-04-06
 updated: 2026-04-06
-tags: [permanent-note, multi-agent, architecture, specialisation, pm-agents, masai, metagpt]
+tags: [permanent-note, multi-agent, architecture, specialisation, pm-agents, masai, metagpt, artefact, backlog, baseline, benchmark, bmad, critical-thinking, dsr, effort-estimation, evaluation, gpt, human-in-the-loop, hypothesis, issue-triage, llm, moc, openai, orchestration, planning, project-management, react, reasoning, reasoning-action, red-teaming, research-methodology, sdd, smart-pmo, spec-driven-development, story-points, swe-bench, triage]
 ---
 
 # Multi-agent systems outperform single agents on PM tasks when agent roles match task specialisation boundaries

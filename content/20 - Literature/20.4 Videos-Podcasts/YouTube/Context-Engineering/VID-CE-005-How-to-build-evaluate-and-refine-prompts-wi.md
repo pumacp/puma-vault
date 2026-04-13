@@ -6,7 +6,7 @@ channel: "Latitude"
 url: "https://www.youtube.com/watch?v=G-0Kq9Dt-8c"
 year: 2025
 status: to-watch
-tags: [video, prompting, evaluation, refinement, workflow]
+tags: [video, prompting, evaluation, refinement, workflow, accuracy, hypothesis, metrics, moc, precision-recall, promptfoo, pydantic, python, research-methodology, testing, video-note]
 phase: ['F3', 'F4']
 rating: 4
 created: 2026-04-06

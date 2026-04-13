@@ -1,6 +1,6 @@
 ---
 type: readme
-tags: [readme, papers]
+tags: [readme, papers, academic-writing, moc, project-management, research, template]
 ---
 # PM-AI-Convergence — Papers
 

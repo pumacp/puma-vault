@@ -6,7 +6,7 @@ channel: "Paul O'Malley"
 url: "https://www.youtube.com/watch?v=g8hmAjogElQ"
 year: 2025
 status: to-watch
-tags: [video, obsidian, second-brain, para, zettelkasten]
+tags: [video, obsidian, second-brain, para, zettelkasten, anthropic, claude, dev-tools, graph-rag, ide, index, knowledge-graph, knowledge-management, metrics, moc, pipeline, precision-recall, project-management, vault, video-note]
 phase: ['F0', 'F1']
 rating: 5
 created: 2026-04-06

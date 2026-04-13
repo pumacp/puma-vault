@@ -3,7 +3,7 @@ id: LN-Jira-Social-Repository
 title: "Jira Social Repository (Jira SR)"
 type: literature-note
 subtype: dataset
-tags: [literature, dataset, jira, triage, classification, apache]
+tags: [literature, dataset, jira, triage, classification, apache, academic-writing, agile, baseline, benchmark, code-review, effort-estimation, evaluation, github, gpt, hypothesis, issue-triage, literature-note, llm, moc, navigation, openai, python, research, research-methodology, software-engineering, story-points, tawos, workflow]
 authors: ["Ortu, Marco", "Adams, Bram", "Murgia, Alessandro", "Bhatt, Reem"]
 year: 2015
 venue: "MSR 2015 (Mining Software Repositories)"

@@ -6,7 +6,7 @@ channel: "ByteMonk"
 url: "https://www.youtube.com/watch?v=4KiiKQ9RVvA"
 year: 2025
 status: to-watch
-tags: [video, rag, architecture, scalable]
+tags: [video, rag, architecture, scalable, devops, docker, embeddings, jira, llm, moc, pipeline, project-management, retrieval, vector-db, video-note]
 phase: ['F2', 'F3', 'F4']
 rating: 5
 created: 2026-04-06

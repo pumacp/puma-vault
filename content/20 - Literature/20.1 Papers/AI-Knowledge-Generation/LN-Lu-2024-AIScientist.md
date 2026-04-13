@@ -7,7 +7,7 @@ year: 2024
 venue: "arXiv preprint"
 arxiv: "2408.06292"
 doi: "10.48550/arXiv.2408.06292"
-tags: [literature-note, ai-scientist, agentic-science, automated-research, puma, pec2]
+tags: [literature-note, ai-scientist, agentic-science, automated-research, puma, pec2, academic-writing, architecture, automation, benchmark, dataset, issue-triage, jira, llm, moc, multi-agent, pec, pipeline, project-management, research, smart-pmo, sprint, tawos, triage]
 status: verified
 created: 2026-04-07
 updated: 2026-04-07

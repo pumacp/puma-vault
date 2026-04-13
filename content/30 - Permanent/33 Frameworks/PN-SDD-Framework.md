@@ -3,7 +3,7 @@ id: PN-SDD-Framework
 title: "Spec-Driven Development (SDD) + BDD + BMAD"
 type: permanent-note
 category: framework
-tags: [permanent, framework, sdd, bdd, tdd, bmad, specification, engineering]
+tags: [permanent, framework, sdd, bdd, tdd, bmad, specification, engineering, anthropic, architecture, artefact, carbon-footprint, claude, code-review, codecarbon, critical-thinking, data-formats, dataset, dev-tools, dsr, effort-estimation, few-shot, github, ide, issue-triage, jira, json, literature-review, local-llm, metrics, multi-agent, ollama, openspec, permanent-note, precision-recall, prompt-engineering, prompting, rcoif, reasoning, red-teaming, research-methodology, slr, spec-driven-development, spec-kit, story-points, sustainability, template, triage, workflow]
 aliases: ["SDD", "Spec-First", "Spec-Driven", "BMAD"]
 created: 2026-03-01
 updated: 2026-03-01

@@ -6,7 +6,7 @@ role: "Professor, Computer Networking"
 affiliation: "University of Waterloo → Cambridge"
 field: "Computer networks, energy systems, research methodology"
 known-for: "Three-Pass Method for reading papers (2007)"
-tags: [person-note, keshav, research-methodology]
+tags: [person-note, keshav, research-methodology, academic-writing, literature-review, moc, person, pipeline, reading-method, research, slr]
 created: 2026-04-06
 ---
 

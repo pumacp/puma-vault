@@ -2,7 +2,7 @@
 id: Daily-Review-Template
 title: "📅 Daily Review Template"
 type: gtd-daily-template
-tags: [gtd, daily-review, template]
+tags: [gtd, daily-review, template, academic-writing, research]
 created: 2026-03-01
 ---
 

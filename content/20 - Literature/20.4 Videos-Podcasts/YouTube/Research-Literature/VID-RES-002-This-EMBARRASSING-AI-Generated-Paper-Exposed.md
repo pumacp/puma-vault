@@ -6,7 +6,7 @@ channel: "Andy Stapleton"
 url: "https://www.youtube.com/watch?v=DujMeMHHfDc"
 year: 2025
 status: to-watch
-tags: [video, research, hallucinations, integrity, marco-veritas]
+tags: [video, research, hallucinations, integrity, marco-veritas, academic-writing, bibliography, citation, code-review, gemini, github, google, gpt, moc, openai, pipeline, video-note]
 phase: ['F0']
 rating: 5
 created: 2026-04-06

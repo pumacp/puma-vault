@@ -2,7 +2,7 @@
 id: MOC-Literature-Review
 title: "📖 MOC — Literature Review (SLR)"
 type: moc
-tags: [moc, literature, slr, prisma, state-of-art]
+tags: [moc, literature, slr, prisma, state-of-art, academic-writing, agile, aiops, aiopslabs, benchmark, carbon-footprint, chain-of-thought, code-review, codecarbon, cot, dataset, devops, dsr, effort-estimation, few-shot, gaia, github, gpt, issue-triage, jira, literature-review, llm, mas, masai, metagpt, metrics, mit-ai-lab, multi-agent, openai, openhands, pipeline, precision-recall, project-management, react, reasoning, reasoning-action, research, research-methodology, scheduling, software-engineering, story-points, sustainability, swe-bench, tawos, triage, workflow, wp316]
 created: 2026-03-01
 updated: 2026-03-01
 ---

@@ -2,7 +2,7 @@
 id: PR-PUMA-Ch2-Literature
 title: "Chapter 2 — Literature Review (State of the Art)"
 type: project-note
-tags: [project, chapter, literature-review, slr, state-of-art]
+tags: [project, chapter, literature-review, slr, state-of-art, academic-writing, agile, artefact, baseline, benchmark, carbon-footprint, chain-of-thought, code-review, codecarbon, cornell-notes, cot, dataset, devops, docker, dsr, effect-size, effort-estimation, evaluation, few-shot, finer, github, gpt, hypothesis, issue-triage, jira, llama, llm, local-llm, meta, metrics, mistral, moc, navigation, non-parametric, note-taking, ollama, openai, pec, pipeline, precision-recall, prisma, project-management, project-note, puma, python, reasoning, research, research-methodology, software-engineering, statistics, story-points, sustainability, swe-bench, tawos, triage, wilcoxon, workflow, zero-shot]
 status: in-progress
 deadline: 2026-04-08
 pec: PEC2

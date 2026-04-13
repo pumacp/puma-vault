@@ -12,7 +12,7 @@ venue: "ICLR 2024"
 arxiv: "2310.06770"
 doi: "10.48550/arXiv.2310.06770"
 url: "https://arxiv.org/abs/2310.06770"
-tags: [literature, benchmark, swe-bench, github, software-engineering, puma-core]
+tags: [literature, benchmark, swe-bench, github, software-engineering, puma-core, academic-writing, bibliography, citation, dataset, jira, keshav, literature-note, llm, masai, moc, project-management, reading-method, research, tawos]
 created: 2026-04-06
 updated: 2026-04-06
 keshav-pass: 2
