@@ -10,7 +10,7 @@ total-verified: 30
 
 # 📚 Bibliography Supplement v3 — Verified New References
 
-> **Supplement to**: [[60 - Resources/65 Bibliographies/BIB-Master-APA7]] + [[60 - Resources/65 Bibliographies/BIB-Supplement-v2]]
+> **Supplement to**: [[60 - Resources/65 Bibliographies/BIB-Master-APA7]] + [[BIB-Supplement]]
 > All 30 references verified in arXiv, PLOS ONE, ScienceDirect, Nature, or GitHub before inclusion.
 > References with corrected author/ID errors are noted.
 

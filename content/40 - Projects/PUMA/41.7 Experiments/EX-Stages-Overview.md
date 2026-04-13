@@ -22,14 +22,14 @@ updated: 2026-03-01
 |-----------|-------|---------|--------|------|
 | **B1** | Heuristic keywords | — | ⏳ | Baseline 1 |
 | **B2** | TF-IDF + SVM | — | ⏳ | Baseline 2 |
-| **C1** | llama3.2:8b | zero-shot | ⏳ | [[EX-Llama32-ZeroShot-Triage]] |
-| **C2** | llama3.2:8b | few-shot-3 | ⏳ | [[EX-Llama32-FewShot3-Triage]] |
-| **C3** | llama3.2:8b | few-shot-6 | ⏳ | [[EX-Llama32-FewShot6-Triage]] |
-| **C4** | llama3.2:8b | cot | ⏳ | [[EX-Llama32-CoT-Triage]] |
-| **C5** | mistral:7b | zero-shot | ⏳ | [[EX-Mistral7B-ZeroShot-Triage]] |
-| **C6** | mistral:7b | few-shot-3 | ⏳ | [[EX-Mistral7B-FewShot3-Triage]] |
-| **C7** | mistral:7b | few-shot-6 | ⏳ | [[EX-Mistral7B-FewShot6-Triage]] |
-| **C8** | mistral:7b | cot | ⏳ | [[EX-Mistral7B-CoT-Triage]] |
+| **C1** | llama3.2:8b | zero-shot | ⏳ | EX-Llama32-ZeroShot-Triage |
+| **C2** | llama3.2:8b | few-shot-3 | ⏳ | EX-Llama32-FewShot3-Triage |
+| **C3** | llama3.2:8b | few-shot-6 | ⏳ | EX-Llama32-FewShot6-Triage |
+| **C4** | llama3.2:8b | cot | ⏳ | EX-Llama32-CoT-Triage |
+| **C5** | mistral:7b | zero-shot | ⏳ | EX-Mistral7B-ZeroShot-Triage |
+| **C6** | mistral:7b | few-shot-3 | ⏳ | EX-Mistral7B-FewShot3-Triage |
+| **C7** | mistral:7b | few-shot-6 | ⏳ | EX-Mistral7B-FewShot6-Triage |
+| **C8** | mistral:7b | cot | ⏳ | EX-Mistral7B-CoT-Triage |
 
 **Total conditions:** 10 (8 LLM + 2 baseline)
 **Total inferences:** 10 × 200 issues = **2,000 calls**
@@ -131,7 +131,7 @@ created: 2026-04-10
 # Experiment Overview — Stage 2: Effort Estimation
 
 > **Tests H2.** Six LLM conditions + three baselines.
-> Depends on [[EX-Stage1-Triage-Overview]] being complete (MVP validated).
+> Depends on EX-Stage1-Triage-Overview being complete (MVP validated).
 
 ---
 

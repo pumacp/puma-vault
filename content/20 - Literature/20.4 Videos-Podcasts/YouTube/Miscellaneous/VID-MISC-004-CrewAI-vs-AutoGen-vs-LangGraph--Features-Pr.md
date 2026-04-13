@@ -41,4 +41,4 @@ Critical reference for PUMA's framework choice justification (Section 1.4 — ap
 ## MOCs
 
 - [[80 - MOC/81 Topic-Maps/MOC-Tools-Stack]]
-- [[80 - MOC/81 Topic-Maps/MOC-LLM-Benchmarks-PM-AI-v2]]
+- [[MOC-LLM-Benchmarks-PM-AI]]

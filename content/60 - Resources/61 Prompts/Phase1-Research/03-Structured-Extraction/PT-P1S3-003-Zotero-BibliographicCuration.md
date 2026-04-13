@@ -105,7 +105,7 @@ Zotero is the single source of truth for PUMA's bibliography. The Marco Veritas 
 ## Related Notes
 
 - [[60 - Resources/65 Bibliographies/BIB-Master-APA7]]
-- [[60 - Resources/65 Bibliographies/BIB-Supplement-v3]]
+- [[BIB-Supplement]]
 - [[50 - Areas/51 Research/AI-Use-Log]]
 
 ## MOCs

@@ -304,7 +304,7 @@ created: 2026-03-01
 
 # Prompt: Claude — Red Team Analysis
 
-> [[30 - Permanent/33 Frameworks/PN-Red-Teaming]]
+> 30 - Permanent/33 Frameworks/PN-Red-Teaming
 
 ---
 

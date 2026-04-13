@@ -40,4 +40,4 @@ The multi-agent evidence analysis architecture closely mirrors PUMA's Smart PMO 
 
 ## MOCs
 
-- [[80 - MOC/81 Topic-Maps/MOC-LLM-Benchmarks-PM-AI-v2]]
+- [[MOC-LLM-Benchmarks-PM-AI]]

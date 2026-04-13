@@ -95,10 +95,15 @@ The MIT Student Method operates at three levels in PUMA:
 | **Red Teaming** | Rival hypotheses, counter-evidence search | [[30 - Permanent/31 Concepts/PN-KeyConcepts-Agents-Reproducibility-RedTeam]] |
 
 **Key notes:**
-- [[30 - Permanent/33 Frameworks/PN-MIT-Student-Method]] — Full method (Cornell + Red Teaming)
+- [[30 - Permanent/33 Frameworks/PN-MIT-Student-Method]] — Summary method (Cornell + Red Teaming)
+- [[30 - Permanent/33 Frameworks/PN-MIT-Student-Method-Complete]] — Complete Q1/Q2/Q3 + Keshav integration
+- [[30 - Permanent/36 Sources/SRC-MITAILab-WP316]] — Original MIT AI Lab WP316 source
+- [[30 - Permanent/36 Sources/SRC-Keshav-2007-HowToReadPaper]] — Keshav 2007 source
 - [[30 - Permanent/33 Frameworks/PN-EGI-Framework]] — Guided Interactive Exploration
 - [[30 - Permanent/33 Frameworks/PN-AMI-DRCA-IIPR-Frameworks]] — AMI + DRCA + IIPR
 - [[30 - Permanent/31 Concepts/PN-KeyConcepts-Agents-Reproducibility-RedTeam]] — Red Teaming practice
+- [[60 - Resources/62 Workflows/WF-MIT-AILab-Reading-Workflow]] — Reading workflow
+- [[60 - Resources/62 Workflows/WF-Research-Experiment-Routines]] — Experiment routines
 
 ---
 

@@ -95,7 +95,7 @@ Flyvbjerg & Gardner analyse thousands of large projects and find systematic fail
 
 ## 🔗 Connections
 
-**Permanent note:** [[30 - Permanent/31 Concepts/PN-Uniqueness-Trap]]
+**Permanent note:** 30 - Permanent/31 Concepts/PN-Uniqueness-Trap
 **Cited in:** [[40 - Projects/PUMA/41.1 Introduction/PR-PUMA-Ch1-Introduction]] (context)
 **Supports hypothesis:** [[40 - Projects/PUMA/41.7 Experiments/EX-Hypotheses-H1-H2]] (H2 rationale)
 
@@ -132,7 +132,7 @@ created: 2026-03-01
 
 ## 🔗 Connections
 **Implemented in:** [[90 - GTD/]] (entire folder) · [[00 - Home]] (daily access)
-**Related:** [[20 - Literature/20.2 Books/LN-Book-Ahrens-Zettelkasten]]
+**Related:** 20 - Literature/20.2 Books/LN-Book-Ahrens-Zettelkasten
 
 ---
 ---
@@ -161,10 +161,10 @@ created: 2026-03-01
 |-----------|--------------|
 | **Atomic notes** | Each `PN-` note = exactly one idea |
 | **Own words only** | Never copy quotes into permanent notes |
-| **Links over folders** | Connections via `[[wikilinks]]`, not hierarchy |
+| **Links over folders** | Connections via `wikilinks`, not hierarchy |
 | **Evergreen notes** | Notes improve over time with maturity levels |
 | **Fleeting → Literature → Permanent** | Three-stage pipeline in vault structure |
 
 ## 🔗 Connections
 **Implemented in:** [[30 - Permanent/]] (entire folder) · [[00 - Meta/Templates/Template-Permanent-Note]]
-**Related:** [[20 - Literature/20.2 Books/LN-Book-Allen2001-GTD]]
+**Related:** 20 - Literature/20.2 Books/LN-Book-Allen2001-GTD

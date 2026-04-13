@@ -7,7 +7,7 @@ aliases: []
 ____
 ## 🚀Quick Notes
 ---
-- [[Idea of MOC Books]]
+- Idea of MOC Books
 - [[Tasks of MOC Books]]
 
 ## 📝 All Notes

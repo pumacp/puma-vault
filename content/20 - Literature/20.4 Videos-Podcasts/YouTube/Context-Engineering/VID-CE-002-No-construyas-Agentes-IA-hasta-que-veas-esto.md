@@ -36,7 +36,7 @@ Directly informs PUMA's prompt engineering approach. Insight 2 (system prompt > 
 ## Related Notes
 
 - [[30 - Permanent/31 Concepts/PN-CoT-FewShot-Prompting]]
-- [[40 - Projects/PUMA/41.3 Methods/Prompting-Strategies]]
+- 40 - Projects/PUMA/41.3 Methods/Prompting-Strategies
 - [[SP-Triage-Agent]]
 
 ## MOCs

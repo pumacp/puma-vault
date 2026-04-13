@@ -52,13 +52,13 @@ updated: 2026-04-06
 | Model                  | Phase   | Strength / Best for                     | Note / Prompt |
 |------------------------|---------|-----------------------------------------|---------------|
 | Claude (claude.ai)     | F0+     | Long-context synthesis, structured reasoning, research synthesis, writing | [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-RCOIF-Research]] |
-| ChatGPT GPT-4o         | F0–F2   | Cross-validation / Contrasting perspective | [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-ChatGPT-SLR-Synthesis]] |
-| Gemini 1.5 Flash       | F0–F1   | Exploration + free API / Multimodal, long context | [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Gemini-Multimodal]] |
-| DeepSeek-R1            | F1–F4   | Explicit CoT reasoning / Technical stats | [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-DeepSeek-Reasoning]] |
+| ChatGPT GPT-4o         | F0–F2   | Cross-validation / Contrasting perspective | 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-ChatGPT-SLR-Synthesis |
+| Gemini 1.5 Flash       | F0–F1   | Exploration + free API / Multimodal, long context | 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Gemini-Multimodal |
+| DeepSeek-R1            | F1–F4   | Explicit CoT reasoning / Technical stats | 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-DeepSeek-Reasoning |
 | Microsoft Copilot      | —       | Minor doc tasks                         | — |
-| NotebookLM             | F0–F1   | Private document RAG / Multi-paper corpus Q&A | [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-NotebookLM-Paper-Corpus]] |
+| NotebookLM             | F0–F1   | Private document RAG / Multi-paper corpus Q&A | 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-NotebookLM-Paper-Corpus |
 | Jenni AI               | F3–F5   | Academic writing structure              | — |
-| AnythingLLM            | F0–F1   | Local RAG                               | [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-AnythingLLM-Local-RAG]] |
+| AnythingLLM            | F0–F1   | Local RAG                               | 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-AnythingLLM-Local-RAG |
 
 ### Role B — Experiment Models (Objects of Study)
 | Model                  | Quantisation | RAM    | Phase   | Status              | Note |

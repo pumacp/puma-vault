@@ -41,5 +41,5 @@ Core reference for PUMA's agent architecture design. Pattern 1 (ReAct) = PUMA St
 
 ## MOCs
 
-- [[80 - MOC/81 Topic-Maps/MOC-LLM-Benchmarks-PM-AI-v2]]
+- [[MOC-LLM-Benchmarks-PM-AI]]
 - [[80 - MOC/81 Topic-Maps/MOC-Methods-Frameworks]]

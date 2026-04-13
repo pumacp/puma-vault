@@ -40,7 +40,7 @@ for a 6-month MSc thesis with local compute?"
 
 ## 🧩 Application to PUMA
 
-Used in F0 (Initiation) to map: LLM benchmarks landscape, PM+AI literature, prompting strategies for classification tasks. See: [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-EGI-Exploration]]
+Used in F0 (Initiation) to map: LLM benchmarks landscape, PM+AI literature, prompting strategies for classification tasks. See: 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-EGI-Exploration
 
 ## 🔗 Connected Ideas
-**Part of:** [[PN-MIT-Student-Method]] | **Uses:** [[PN-RCOIF-Framework]] | **Followed by:** [[PN-AMI-Framework]]
+**Part of:** [[PN-MIT-Student-Method]] | **Uses:** [[PN-RCOIF-Framework]] | **Followed by:** PN-AMI-Framework

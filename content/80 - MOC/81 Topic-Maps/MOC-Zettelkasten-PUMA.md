@@ -35,19 +35,29 @@ updated: 2026-04-06
 - [[30 - Permanent/31 Concepts/PN-KeyConcepts-Agents-Reproducibility-RedTeam]] — agents + reproducibility
 - [[30 - Permanent/31 Concepts/PN-LLM-Local-vs-Cloud]] — local vs cloud tradeoffs
 - [[30 - Permanent/31 Concepts/PN-RAG-Embeddings-VectorDB]] — retrieval-augmented generation
-- [[30 - Permanent/31 Concepts/PN-ActiveReading-CognitivePractice]] — active reading methodology *(new)*
+- [[30 - Permanent/31 Concepts/PN-ActiveReading-CognitivePractice]] — active reading methodology
+- [[30 - Permanent/31 Concepts/PN-MultiAgent-ArchitecturePatterns]] — multi-agent patterns (→ Smart PMO)
+- [[30 - Permanent/31 Concepts/PN-ReAct-AgentPattern]] — ReAct reasoning + action loop
+- [[30 - Permanent/31 Concepts/PN-Agentic-Science-Paradigm]] — AI as active scientific agent
+- [[30 - Permanent/31 Concepts/PN-AI-Scientific-Knowledge-Generation]] — AI-generated scientific knowledge
+- [[30 - Permanent/31 Concepts/PN-PUMA-within-AgenticScience-Trajectory]] — PUMA's trajectory in agentic science
+- [[30 - Permanent/31 Concepts/PN-ToolSelection-PUMA]] — PUMA tool selection rationale
 
 ### 🔬 Research Methods (32 Methods)
 - [[30 - Permanent/32 Methods/PN-DSR-SLR-Methods]] — DSR + SLR paradigms
 - [[30 - Permanent/32 Methods/PN-Wilcoxon-FINER-Cornell-PRISMA]] — statistical methods
 
 ### 🧠 Frameworks (33 Frameworks)
-- [[30 - Permanent/33 Frameworks/PN-MIT-Student-Method-Complete]] — MIT AI Lab Q1/Q2/Q3 + Keshav *(new)*
+- [[30 - Permanent/33 Frameworks/PN-MIT-Student-Method]] — MIT AI Lab active reading method (summary)
+- [[30 - Permanent/33 Frameworks/PN-MIT-Student-Method-Complete]] — MIT AI Lab Q1/Q2/Q3 + Keshav (full)
 - [[30 - Permanent/33 Frameworks/PN-SDD-Framework]] — SDD + OpenSpec + SpecKit + BMAD
 - [[30 - Permanent/33 Frameworks/PN-RCOIF-Framework]] — RCOIF prompting
 - [[30 - Permanent/33 Frameworks/PN-EGI-Framework]] — exploratory guided interaction
 - [[30 - Permanent/33 Frameworks/PN-AMI-DRCA-IIPR-Frameworks]] — AMI + DRCA + IIPR
 - [[30 - Permanent/33 Frameworks/PN-PARA-GTD-Zettelkasten]] — PARA + GTD + Zettelkasten integration
+
+### 📊 Results (34 Results)
+- [[RES-Results-Placeholders]] — experiment results placeholders (Stage 1 & 2)
 
 ---
 

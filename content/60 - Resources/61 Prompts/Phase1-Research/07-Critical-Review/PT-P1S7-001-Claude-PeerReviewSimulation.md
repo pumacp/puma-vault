@@ -83,7 +83,7 @@ For each concern: (a) is it a real threat?, (b) what would be the ideal mitigati
 
 ## PUMA Relevance
 
-The peer review simulation identifies weaknesses before the actual TFG submission to UOC. The AMI cycle generates the revision plan that feeds the PEC workflow. This is the final quality gate before the experimental results section. Output feeds [[40 - Projects/PUMA/41.4 Results/PR-PUMA-Ch4-Results]] and [[40 - Projects/PUMA/41.5 Planning/PL-Sprint-Plan]].
+The peer review simulation identifies weaknesses before the actual TFG submission to UOC. The AMI cycle generates the revision plan that feeds the PEC workflow. This is the final quality gate before the experimental results section. Output feeds [[40 - Projects/PUMA/41.4 Results/PR-PUMA-Ch4-Results]] and [[Sprint-02]].
 
 ---
 

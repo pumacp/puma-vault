@@ -12,7 +12,7 @@ phase: [F0, F1, F2, F3, F4, F5]
 # 🎬 Videos — LLM Agents, Multi-Agent Systems & Agentic AI
 
 > Core theory and practice videos for PUMA's agent architecture.
-> See also: [[80 - MOC/81 Topic-Maps/MOC-LLM-Benchmarks-PM-AI-v2]]
+> See also: [[MOC-LLM-Benchmarks-PM-AI]]
 
 ---
 
@@ -122,5 +122,5 @@ phase: [F0, F1, F2, F3, F4, F5]
 
 ## MOCs
 
-- [[80 - MOC/81 Topic-Maps/MOC-LLM-Benchmarks-PM-AI-v2]]
+- [[MOC-LLM-Benchmarks-PM-AI]]
 - [[80 - MOC/81 Topic-Maps/MOC-Tools-Stack]]

@@ -9,7 +9,7 @@ created: 2026-03-01
 # 🎨 CSS Snippets & Obsidian Styling Guide
 
 > Custom visual styles for the PUMA vault.
-[[|> Main stylesheet: [[00 - Meta/Snippets/puma-styles.css]]
+[[|> Main stylesheet: 00 - Meta/Snippets/puma-styles.css
 
 ## Activating the Stylesheet
 

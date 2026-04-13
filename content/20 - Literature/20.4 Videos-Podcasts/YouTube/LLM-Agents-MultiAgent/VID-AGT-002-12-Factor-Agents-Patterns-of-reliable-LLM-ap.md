@@ -40,5 +40,5 @@ The 12 factors provide a design checklist for PUMA's Stage 4–5 agents. Factors
 
 ## MOCs
 
-- [[80 - MOC/81 Topic-Maps/MOC-LLM-Benchmarks-PM-AI-v2]]
+- [[MOC-LLM-Benchmarks-PM-AI]]
 - [[80 - MOC/81 Topic-Maps/MOC-Methods-Frameworks]]

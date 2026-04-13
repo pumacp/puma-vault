@@ -9,7 +9,7 @@ created: 2026-03-01
 # PRISMA Screening Log
 
 > See [[60 - Resources/62 Workflows/WF-SLR-Pipeline]] for full protocol.
-> See [[50 - Areas/54 Sustainability/Carbon-Tracking-Log.md]] for carbon tracking.
+> See [[50 - Areas/54 Sustainability/Carbon-Tracking-Log]] for carbon tracking.
 
 ## Identification Summary
 | Database | Date | String | N |

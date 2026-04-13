@@ -155,6 +155,6 @@ Studies included in synthesis: [N]
 
 ## 🔗 Related Notes
 
-[[30 - Permanent/32 Methods/PN-DSR-SLR-Methods]] | [[40 - Projects/PUMA/41.2 Literature-Review/PR-PUMA-Ch2-Literature]]
+[[30 - Permanent/32 Methods/PN-DSR-SLR-Methods]] | [[PR-PUMA-Ch2-Ch3-Ch4-Ch5]]
 [[60 - Resources/61 Prompts/61.2 Research-Tools/PT-Research-Discovery-Prompts]]
-[[60 - Resources/63 Checklists/CL-SLR-Quality-Criteria]]
+60 - Resources/63 Checklists/CL-SLR-Quality-Criteria

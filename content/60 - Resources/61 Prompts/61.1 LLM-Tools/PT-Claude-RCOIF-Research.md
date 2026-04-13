@@ -164,7 +164,7 @@ increasing scope beyond what a single researcher can complete in 6 months.
 
 ## 🔗 Related Prompts
 
-- **For paper deconstruction:** [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-DRCA-Paper]]
-- **For iterative improvement:** [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-AMI-Review]]
-- **For exploration:** [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-EGI-Exploration]]
-- **For prompt refinement:** [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-IIPR-Prompt-Refinement]]
+- **For paper deconstruction:** 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-DRCA-Paper
+- **For iterative improvement:** 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-AMI-Review
+- **For exploration:** 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-EGI-Exploration
+- **For prompt refinement:** 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-IIPR-Prompt-Refinement

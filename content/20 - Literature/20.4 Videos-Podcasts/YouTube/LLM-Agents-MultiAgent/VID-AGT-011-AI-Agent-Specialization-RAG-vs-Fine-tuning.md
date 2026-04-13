@@ -41,4 +41,4 @@ Directly supports PUMA's decision to use RAG (Stage 4) rather than fine-tuning f
 
 ## MOCs
 
-- [[80 - MOC/81 Topic-Maps/MOC-LLM-Benchmarks-PM-AI-v2]]
+- [[MOC-LLM-Benchmarks-PM-AI]]

@@ -116,4 +116,4 @@ Li, J., et al. (2024). *Artificial intelligence, scientific discovery, and produ
 
 All references above have been verified at primary source level (arXiv DOI or journal DOI). References marked [UNVERIFIED] should not be cited until primary source is confirmed.
 
-This supplement integrates with [[60 - Resources/65 Bibliographies/BIB-Master-APA7]] and [[60 - Resources/65 Bibliographies/BIB-Supplement-v3]].
+This supplement integrates with [[60 - Resources/65 Bibliographies/BIB-Master-APA7]] and [[BIB-Supplement]].

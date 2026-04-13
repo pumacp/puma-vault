@@ -42,4 +42,4 @@ Primary reference for PUMA Stage 4 RAG pipeline design. The chunking strategy se
 ## MOCs
 
 - [[80 - MOC/81 Topic-Maps/MOC-Tools-Stack]]
-- [[80 - MOC/81 Topic-Maps/MOC-LLM-Benchmarks-PM-AI-v2]]
+- [[MOC-LLM-Benchmarks-PM-AI]]

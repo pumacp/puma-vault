@@ -48,13 +48,13 @@ I am moving from PUMA's literature phase to benchmark specification. Build a sta
 
 ## PUMA Relevance
 
-The conceptual model generated here provides the visual/structural argument for PUMA Section 2. The theory comparison matrix justifies the DSR paradigm choice. The roadmap feeds directly into [[40 - Projects/PUMA/41.5 Planning/PL-Sprint-Plan]].
+The conceptual model generated here provides the visual/structural argument for PUMA Section 2. The theory comparison matrix justifies the DSR paradigm choice. The roadmap feeds directly into [[Sprint-02]].
 
 ---
 
 ## Related Notes
 
-- [[40 - Projects/PUMA/41.5 Planning/PL-Sprint-Plan]]
+- [[Sprint-02]]
 - [[30 - Permanent/32 Methods/PN-DSR-SLR-Methods]]
 
 ## MOCs

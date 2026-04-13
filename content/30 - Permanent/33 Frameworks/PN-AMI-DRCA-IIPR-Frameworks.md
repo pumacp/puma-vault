@@ -44,10 +44,10 @@ What problems remain from your previous diagnosis?"
 ```
 
 ## 🧩 Application to PUMA
-Used to refine: research hypotheses H1/H2, prompt templates for experiments, Chapter 1 argumentation. See: [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-AMI-Review]]
+Used to refine: research hypotheses H1/H2, prompt templates for experiments, Chapter 1 argumentation. See: 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-AMI-Review
 
 ## 🔗 Connected Ideas
-**Part of:** [[PN-MIT-Student-Method]] | **Pairs with:** [[PN-IIPR-Framework]]
+**Part of:** [[PN-MIT-Student-Method]] | **Pairs with:** PN-IIPR-Framework
 
 ---
 ---
@@ -69,7 +69,7 @@ title: "DRCA — Deconstrucción y Reconstrucción Conceptual Avanzada"
 | **A**dvance | What new permanent note, hypothesis, or design decision does this generate? | Zettelkasten atom |
 
 ## 🧩 Application to PUMA
-Every paper in the SLR goes through DRCA. The "Advance" step produces the permanent notes in `30 - Permanent/`. See: [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-DRCA-Paper]]
+Every paper in the SLR goes through DRCA. The "Advance" step produces the permanent notes in `30 - Permanent/`. See: 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-DRCA-Paper
 
 ## 🔗 Connected Ideas
 **Part of:** [[PN-MIT-Student-Method]] | **Produces:** [[00 - Meta/Templates/Template-Permanent-Note]]

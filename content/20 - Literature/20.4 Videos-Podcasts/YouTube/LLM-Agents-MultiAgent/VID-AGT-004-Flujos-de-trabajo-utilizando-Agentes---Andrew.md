@@ -40,4 +40,4 @@ Foundational theoretical grounding for PUMA's experimental design. Ng's 'agentic
 
 ## MOCs
 
-- [[80 - MOC/81 Topic-Maps/MOC-LLM-Benchmarks-PM-AI-v2]]
+- [[MOC-LLM-Benchmarks-PM-AI]]

@@ -69,7 +69,7 @@ created: 2026-03-01
 - **Model:** Sonar (web-grounded)
 - **Best for:** Current state-of-the-art queries, quick paper discovery with citations
 - **PUMA use:** F0 panoramic mapping of PM+LLM landscape
-- **Key prompt:** [[60 - Resources/61 Prompts/61.2 Research-Tools/PT-Perplexity-State-of-Art]]
+- **Key prompt:** 60 - Resources/61 Prompts/61.2 Research-Tools/PT-Perplexity-State-of-Art
 - **⚠️ Validation rule:** Every citation from Perplexity MUST be verified in primary source before use
 
 ### Perplexity Comet
@@ -80,13 +80,13 @@ created: 2026-03-01
 - **URL:** consensus.app
 - **Best for:** Evidence-based questions ("Does few-shot prompting improve classification?")
 - **PUMA use:** Validating assumptions about CoT and few-shot effectiveness
-- **Key prompt:** [[60 - Resources/61 Prompts/61.2 Research-Tools/PT-Consensus-Evidence]]
+- **Key prompt:** 60 - Resources/61 Prompts/61.2 Research-Tools/PT-Consensus-Evidence
 
 ### Elicit
 - **URL:** elicit.com
 - **Best for:** SLR screening, structured paper analysis, data extraction
 - **PUMA use:** PRISMA abstract screening, extracting metrics from papers
-- **Key prompt:** [[60 - Resources/61 Prompts/61.2 Research-Tools/PT-Elicit-SLR-Screening]]
+- **Key prompt:** 60 - Resources/61 Prompts/61.2 Research-Tools/PT-Elicit-SLR-Screening
 
 ---
 
@@ -119,7 +119,7 @@ created: 2026-03-01
   - Tags: `#puma-include`, `#puma-exclude`, `#puma-pending`, `#seminal`, `#dataset`
   - Better BibTeX plugin for APA 7th export
   - Zotero → Obsidian integration via citation plugin
-- **Organisation strategy:** [[60 - Resources/61 Prompts/61.2 Research-Tools/PT-Zotero-Organisation]]
+- **Organisation strategy:** 60 - Resources/61 Prompts/61.2 Research-Tools/PT-Zotero-Organisation
 
 ### Mendeley
 - **URL:** mendeley.com
@@ -134,18 +134,18 @@ created: 2026-03-01
 - **Best for:** Multi-paper knowledge base, Q&A over uploaded PDFs
 - **PUMA use:** Upload core 10-15 papers, query for cross-paper synthesis
 - **⚠️ Validation rule:** Every relationship NotebookLM identifies must be verified in source papers
-- **Key prompt:** [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-NotebookLM-Paper-Corpus]]
+- **Key prompt:** 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-NotebookLM-Paper-Corpus
 
 ### AnythingLLM
 - **URL:** anythingllm.com (local deployment)
 - **Best for:** Local RAG over personal document collection
 - **PUMA use:** Local knowledge base with Qdrant or ChromaDB backend
-- **Key prompt:** [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-AnythingLLM-Local-RAG]]
+- **Key prompt:** 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-AnythingLLM-Local-RAG
 
 ---
 
 ## 🔗 Related Notes
 
-[[60 - Resources/61 Prompts/61.2 Research-Tools/PT-AcademicDB-Search-Strings]]
+60 - Resources/61 Prompts/61.2 Research-Tools/PT-AcademicDB-Search-Strings
 [[60 - Resources/62 Workflows/WF-SLR-Pipeline]]
 [[30 - Permanent/32 Methods/PN-DSR-SLR-Methods]]

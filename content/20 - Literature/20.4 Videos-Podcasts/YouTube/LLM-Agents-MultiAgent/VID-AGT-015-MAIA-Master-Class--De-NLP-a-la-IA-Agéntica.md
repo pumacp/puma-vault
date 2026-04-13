@@ -40,4 +40,4 @@ Provides the academic theoretical framing for PUMA's background (Section 2 — E
 
 ## MOCs
 
-- [[80 - MOC/81 Topic-Maps/MOC-LLM-Benchmarks-PM-AI-v2]]
+- [[MOC-LLM-Benchmarks-PM-AI]]

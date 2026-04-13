@@ -63,8 +63,8 @@ def call_ollama(prompt: str, model: str = "llama3.2:8b") -> str:
 | Phi-3.5 Mini | `phi3.5:3.8b` | ~2.5GB | ~6-15s/query | Fallback (latency) |
 
 ## 🔗 Related Notes
-[[30 - Permanent/31 Concepts/PN-LLM-Agents]] | [[SP-Architecture]]
-[[60 - Resources/61 Prompts/PT-PUMA-Triage-ZeroShot]]
+30 - Permanent/31 Concepts/PN-LLM-Agents | [[SP-Architecture]]
+60 - Resources/61 Prompts/PT-PUMA-Triage-ZeroShot
 
 ---
 ---
@@ -126,7 +126,7 @@ Report findings as a checklist. Do not make changes yet."
 ```
 
 ## 🔗 Related Notes
-[[LN-Tool-OpenCode]] | [[60 - Resources/61 Prompts/61.3 Dev-Tools/PT-ClaudeCode-Agent-Triage]]
+LN-Tool-OpenCode | 60 - Resources/61 Prompts/61.3 Dev-Tools/PT-ClaudeCode-Agent-Triage
 
 ---
 ---
@@ -185,7 +185,7 @@ src/metrics/classification.py
 ```
 
 ## 🔗 Related Notes
-[[LN-Tool-ClaudeCode]] | [[60 - Resources/61 Prompts/61.3 Dev-Tools/PT-OpenCode-Refactor]]
+LN-Tool-ClaudeCode | 60 - Resources/61 Prompts/61.3 Dev-Tools/PT-OpenCode-Refactor
 
 ---
 ---
@@ -227,4 +227,4 @@ FORMAT: Markdown table with 5 columns: Title | Authors | Date | arXiv | GitHub
 ```
 
 ## 🔗 Related Notes
-[[60 - Resources/61 Prompts/61.3 Dev-Tools/PT-BrowserOS-Web-Agent]]
+60 - Resources/61 Prompts/61.3 Dev-Tools/PT-BrowserOS-Web-Agent

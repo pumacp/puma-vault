@@ -82,11 +82,16 @@ updated: 2026-04-06
 - [[30 - Permanent/31 Concepts/PN-CoT-FewShot-Prompting]] — Prompting strategies (S1–S4)
 - [[30 - Permanent/31 Concepts/PN-LLM-Local-vs-Cloud]] — Why local inference
 - [[30 - Permanent/31 Concepts/PN-RAG-Embeddings-VectorDB]] — RAG for Stage 4
+- [[30 - Permanent/31 Concepts/PN-ToolSelection-PUMA]] — Tool selection rationale for PUMA
 
-**Agent patterns:**
+**Agent patterns & AI science:**
 - [[30 - Permanent/31 Concepts/PN-KeyConcepts-Agents-Reproducibility-RedTeam]] — Agents, Reproducibility, Uniqueness Trap, Red Teaming
 - [[30 - Permanent/31 Concepts/PN-MultiAgent-ArchitecturePatterns]] — Specialisation (→ Smart PMO)
 - [[30 - Permanent/31 Concepts/PN-ReAct-AgentPattern]] — Stage 4 reasoning pattern
+- [[30 - Permanent/31 Concepts/PN-Agentic-Science-Paradigm]] — AI as active scientific agent
+- [[30 - Permanent/31 Concepts/PN-AI-Scientific-Knowledge-Generation]] — AI-generated scientific knowledge
+- [[30 - Permanent/31 Concepts/PN-PUMA-within-AgenticScience-Trajectory]] — PUMA's place in the agentic science trajectory
+- [[30 - Permanent/31 Concepts/PN-ActiveReading-CognitivePractice]] — Active reading as cognitive practice
 
 **Research methods:**
 - [[30 - Permanent/32 Methods/PN-DSR-SLR-Methods]] — DSR + PRISMA
@@ -95,9 +100,28 @@ updated: 2026-04-06
 **Frameworks:**
 - [[30 - Permanent/33 Frameworks/PN-SDD-Framework]] — SDD + BDD + BMAD
 - [[30 - Permanent/33 Frameworks/PN-RCOIF-Framework]] — Structured prompting
+- [[30 - Permanent/33 Frameworks/PN-EGI-Framework]] — Exploratory guided interaction
+- [[30 - Permanent/33 Frameworks/PN-AMI-DRCA-IIPR-Frameworks]] — AMI + DRCA + IIPR advanced prompting
+- [[30 - Permanent/33 Frameworks/PN-MIT-Student-Method]] — MIT AI Lab active reading method
+- [[30 - Permanent/33 Frameworks/PN-MIT-Student-Method-Complete]] — MIT AI Lab full Q1/Q2/Q3 + Keshav
+- [[30 - Permanent/33 Frameworks/PN-PARA-GTD-Zettelkasten]] — PARA + GTD + Zettelkasten integration
 
-**Knowledge hub:**
+**Knowledge hub & Structure notes:**
 - [[30 - Permanent/30 Zettelkasten-Hub/ZK-Hub-PUMA]] — Full Zettelkasten index
+- [[30 - Permanent/30 Zettelkasten-Hub/ST-Prompting-Strategies]] — Prompting strategies thematic cluster
+- [[30 - Permanent/30 Zettelkasten-Hub/ST-Reproducibility-Cluster]] — Reproducibility crisis cluster
+
+**Sources & Persons:**
+- [[30 - Permanent/36 Sources/SRC-Keshav-2007-HowToReadPaper]] — Keshav 2007 Three-Pass paper
+- [[30 - Permanent/36 Sources/SRC-MITAILab-WP316]] — MIT AI Lab Working Paper 316
+- [[30 - Permanent/37 Persons/PER-Keshav-Srinivasan]] — Three-Pass Method author
+- [[30 - Permanent/37 Persons/PER-Flyvbjerg-Bent]] — Uniqueness Trap / Reference Class Forecasting
+- [[30 - Permanent/37 Persons/PER-Yao-Shunyu]] — ReAct + Tree of Thoughts
+- [[30 - Permanent/37 Persons/PER-Hong-Sirui-MetaGPT]] — MetaGPT multi-agent framework
+- [[30 - Permanent/37 Persons/PER-Assalaarachchi-Nuwan]] — Agentic SPM vision
+
+**Results:**
+- [[RES-Results-Placeholders]] — Experiment results placeholders (Stage 1 & 2)
 
 ---
 

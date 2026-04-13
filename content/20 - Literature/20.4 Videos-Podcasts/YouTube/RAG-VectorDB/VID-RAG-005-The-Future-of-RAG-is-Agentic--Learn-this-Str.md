@@ -40,4 +40,4 @@ The adaptive RAG pattern is PUMA Stage 4's north star: the triage agent should e
 
 ## MOCs
 
-- [[80 - MOC/81 Topic-Maps/MOC-LLM-Benchmarks-PM-AI-v2]]
+- [[MOC-LLM-Benchmarks-PM-AI]]

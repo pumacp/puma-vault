@@ -40,5 +40,5 @@ Provides the engineering discipline framework for PUMA's implementation phase (F
 
 ## MOCs
 
-- [[80 - MOC/81 Topic-Maps/MOC-LLM-Benchmarks-PM-AI-v2]]
+- [[MOC-LLM-Benchmarks-PM-AI]]
 - [[80 - MOC/81 Topic-Maps/MOC-Tools-Stack]]

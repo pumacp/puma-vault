@@ -58,18 +58,18 @@ updated: 2026-03-01
 | 20.13 | [[20 - Literature/20.3 Datasets/LN-Datasets-JiraSR-TAWOS]] (Jira SR section) | Ortu et al. | 2015 | Dataset H1 |
 | 20.14 | [[20 - Literature/20.1 Papers/LN-Angermeir-2025-Reproducibility]] | Angermeir et al. | 2025 | Gap 1 |
 | 20.15 | [[20 - Literature/20.1 Papers/LN-Calikli-2025-RequestFormats]] | Calikli & Alhamed | 2025 | Gap 2 |
-| 20.16 | [[20 - Literature/20.1 Papers/LN-Strubell2019-EnergyNLP]] | Strubell et al. | 2019 | Gap 3 |
-| 20.17 | [[20 - Literature/20.1 Papers/LN-Manzoor2025-AI-PM]] | Manzoor et al. | 2025 | Context |
+| 20.16 | 20 - Literature/20.1 Papers/LN-Strubell2019-EnergyNLP | Strubell et al. | 2019 | Gap 3 |
+| 20.17 | 20 - Literature/20.1 Papers/LN-Manzoor2025-AI-PM | Manzoor et al. | 2025 | Context |
 | 20.18 | [[30 - Permanent/31 Concepts/PN-CoT-FewShot-Prompting]] (CoT section — Wei et al. 2022) | Wei et al. | 2022 | Methods |
 | 20.19 | [[30 - Permanent/31 Concepts/PN-CoT-FewShot-Prompting]] (Few-Shot section — Brown et al. 2020) | Brown et al. | 2020 | Methods |
 | 20.20 | [[30 - Permanent/32 Methods/PN-DSR-SLR-Methods]] (DSR section — Hevner 2004) | Hevner et al. | 2004 | DSR |
 | 20.21 | [[30 - Permanent/32 Methods/PN-DSR-SLR-Methods]] (DSR section — Peffers 2007) | Peffers et al. | 2007 | DSR |
 | 20.22 | [[30 - Permanent/32 Methods/PN-Wilcoxon-FINER-Cornell-PRISMA]] (Wilcoxon — Wohlin 2012) | Wohlin et al. | 2012 | Methods |
 | 20.23 | [[20 - Literature/20.1 Papers/LN-Spichkova-2025-CognitiveAgents]] | Spichkova et al. | 2025 | Context |
-| 20.24 | [[20 - Literature/20.1 Papers/LN-Yonathan2025-LocalLLMs]] | Yonathan | 2025 | Context |
-| 20.25 | [[20 - Literature/20.1 Papers/LN-Berti2024-PM-LLM-Benchmark]] | Berti et al. | 2024 | Context |
-| 20.26 | [[20 - Literature/20.1 Papers/LN-Page2021-PRISMA2020]] | Page et al. | 2021 | Methods |
-| 20.27 | [[20 - Literature/20.1 Papers/LN-Kitchenham2007-SLR]] | Kitchenham & Charters | 2007 | Methods |
+| 20.24 | 20 - Literature/20.1 Papers/LN-Yonathan2025-LocalLLMs | Yonathan | 2025 | Context |
+| 20.25 | 20 - Literature/20.1 Papers/LN-Berti2024-PM-LLM-Benchmark | Berti et al. | 2024 | Context |
+| 20.26 | 20 - Literature/20.1 Papers/LN-Page2021-PRISMA2020 | Page et al. | 2021 | Methods |
+| 20.27 | 20 - Literature/20.1 Papers/LN-Kitchenham2007-SLR | Kitchenham & Charters | 2007 | Methods |
 
 ### 20.2 Books
 

@@ -84,7 +84,7 @@ NotebookLM is PUMA's private RAG system over the paper corpus. Unlike general LL
 
 - [[50 - Areas/51 Research/AI-Use-Log]]
 - [[40 - Projects/PUMA/41.1 Introduction/PR-PUMA-Ch1-Introduction]]
-- [[60 - Resources/65 Bibliographies/BIB-Supplement-v3]]
+- [[BIB-Supplement]]
 
 ## MOCs
 

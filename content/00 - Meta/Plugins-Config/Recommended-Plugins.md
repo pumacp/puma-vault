@@ -210,7 +210,7 @@ git push -u origin main
 Default new note location: 10 - Inbox
 New note template: (handled by Templater + QuickAdd)
 Attachments folder: 00 - Meta/Attachments
-[[|Use [[Wikilinks]]: ON (not Markdown links)
+[[|Use Wikilinks: ON (not Markdown links)
 Always update internal links: ON
 ```
 

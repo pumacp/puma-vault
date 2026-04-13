@@ -24,7 +24,7 @@ keshav-pass: 3
 
 **Important note**: The bibliography entry lists "Spichkova, M., Georgievski, I., & Čizmić, B." as the author list. The **verified** first author is **Konrad Cinkusz**. Spichkova is the last author. Georgievski and Čizmić do not appear in the verified paper.
 
-*(Also exists in vault as [[20 - Literature/20.1 Papers/LN-Spichkova-2025-CognitiveAgents.md]] — this note supersedes with corrected author metadata.)*
+*(Also exists in vault as [[20 - Literature/20.1 Papers/LN-Spichkova-2025-CognitiveAgents]] — this note supersedes with corrected author metadata.)*
 
 ---
 

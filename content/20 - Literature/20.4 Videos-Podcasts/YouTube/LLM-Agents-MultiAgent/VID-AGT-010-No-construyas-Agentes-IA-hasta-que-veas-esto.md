@@ -40,5 +40,5 @@ Anthropic's design principles are directly encoded in PUMA's Constitution (Artic
 
 ## MOCs
 
-- [[80 - MOC/81 Topic-Maps/MOC-LLM-Benchmarks-PM-AI-v2]]
+- [[MOC-LLM-Benchmarks-PM-AI]]
 - [[80 - MOC/81 Topic-Maps/MOC-Methods-Frameworks]]

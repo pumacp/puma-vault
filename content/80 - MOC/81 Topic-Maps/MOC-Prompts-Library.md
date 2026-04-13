@@ -18,82 +18,82 @@ updated: 2026-03-01
 
 ### Claude (Anthropic) — claude.ai
 - [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-RCOIF-Research]] — Academic research assistant
-- [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-DRCA-Paper]] — Paper deconstruction
-- [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-EGI-Exploration]] — Guided concept exploration
-- [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-AMI-Review]] — Iterative self-improvement
-- [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-Red-Team]] — Rival hypothesis generation
-- [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-IIPR-Prompt-Refinement]] — Prompt reverse engineering
+- 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-DRCA-Paper — Paper deconstruction
+- 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-EGI-Exploration — Guided concept exploration
+- 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-AMI-Review — Iterative self-improvement
+- 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-Red-Team — Rival hypothesis generation
+- 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-IIPR-Prompt-Refinement — Prompt reverse engineering
 
 ### ChatGPT (OpenAI)
-- [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-ChatGPT-SLR-Synthesis]] — Literature synthesis
-- [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-ChatGPT-CoT-Analysis]] — Chain-of-thought analysis
-- [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-ChatGPT-BDD-Stories]] — BDD scenario generation
+- 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-ChatGPT-SLR-Synthesis — Literature synthesis
+- 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-ChatGPT-CoT-Analysis — Chain-of-thought analysis
+- 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-ChatGPT-BDD-Stories — BDD scenario generation
 
 ### Perplexity AI
-- [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Perplexity-State-of-Art]] — Current state of the art search
-- [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Perplexity-Dataset-Discovery]] — Dataset search
+- 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Perplexity-State-of-Art — Current state of the art search
+- 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Perplexity-Dataset-Discovery — Dataset search
 
 ### DeepSeek-R1
-- [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-DeepSeek-Reasoning]] — Complex reasoning tasks
-- [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-DeepSeek-Code-Review]] — Code analysis
+- 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-DeepSeek-Reasoning — Complex reasoning tasks
+- 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-DeepSeek-Code-Review — Code analysis
 
 ### Google Gemini
-- [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Gemini-Multimodal]] — Diagram and figure analysis
-- [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Gemini-Long-Context]] — Long document processing
+- 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Gemini-Multimodal — Diagram and figure analysis
+- 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Gemini-Long-Context — Long document processing
 
 ### NotebookLM (Google)
-- [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-NotebookLM-Paper-Corpus]] — Multi-paper knowledge base
+- 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-NotebookLM-Paper-Corpus — Multi-paper knowledge base
 
 ### AnythingLLM
-- [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-AnythingLLM-Local-RAG]] — Local RAG setup
+- 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-AnythingLLM-Local-RAG — Local RAG setup
 
 ---
 
 ## 🔍 Research Tools
 
 ### Consensus
-- [[60 - Resources/61 Prompts/61.2 Research-Tools/PT-Consensus-Evidence]] — Evidence-based queries
+- 60 - Resources/61 Prompts/61.2 Research-Tools/PT-Consensus-Evidence — Evidence-based queries
 
 ### Elicit
-- [[60 - Resources/61 Prompts/61.2 Research-Tools/PT-Elicit-SLR-Screening]] — Paper screening
+- 60 - Resources/61 Prompts/61.2 Research-Tools/PT-Elicit-SLR-Screening — Paper screening
 
 ### Semantic Scholar
-- [[60 - Resources/61 Prompts/61.2 Research-Tools/PT-SemanticScholar-Search]] — Semantic search strategies
+- 60 - Resources/61 Prompts/61.2 Research-Tools/PT-SemanticScholar-Search — Semantic search strategies
 
 ### Google Scholar / arXiv / IEEE / ACM
-- [[60 - Resources/61 Prompts/61.2 Research-Tools/PT-AcademicDB-Search-Strings]] — Boolean search strings
+- 60 - Resources/61 Prompts/61.2 Research-Tools/PT-AcademicDB-Search-Strings — Boolean search strings
 
 ### Connected Papers / Research Rabbit / Litmaps
-- [[60 - Resources/61 Prompts/61.2 Research-Tools/PT-CitationNetwork-Strategy]] — Citation network exploration
+- 60 - Resources/61 Prompts/61.2 Research-Tools/PT-CitationNetwork-Strategy — Citation network exploration
 
 ### Zotero
-- [[60 - Resources/61 Prompts/61.2 Research-Tools/PT-Zotero-Organisation]] — Library organisation strategy
+- 60 - Resources/61 Prompts/61.2 Research-Tools/PT-Zotero-Organisation — Library organisation strategy
 
 ---
 
 ## 💻 Development Tools
 
 ### Claude Code
-- [[60 - Resources/61 Prompts/61.3 Dev-Tools/PT-ClaudeCode-Agent-Triage]] — Triage agent implementation
-- [[60 - Resources/61 Prompts/61.3 Dev-Tools/PT-ClaudeCode-Benchmark-Pipeline]] — Benchmark pipeline
-- [[60 - Resources/61 Prompts/61.3 Dev-Tools/PT-ClaudeCode-Dataset-Prep]] — Dataset preparation
+- 60 - Resources/61 Prompts/61.3 Dev-Tools/PT-ClaudeCode-Agent-Triage — Triage agent implementation
+- 60 - Resources/61 Prompts/61.3 Dev-Tools/PT-ClaudeCode-Benchmark-Pipeline — Benchmark pipeline
+- 60 - Resources/61 Prompts/61.3 Dev-Tools/PT-ClaudeCode-Dataset-Prep — Dataset preparation
 
 ### OpenCode
-- [[60 - Resources/61 Prompts/61.3 Dev-Tools/PT-OpenCode-Refactor]] — Code refactoring
-- [[60 - Resources/61 Prompts/61.3 Dev-Tools/PT-OpenCode-Test-Gen]] — Test generation
+- 60 - Resources/61 Prompts/61.3 Dev-Tools/PT-OpenCode-Refactor — Code refactoring
+- 60 - Resources/61 Prompts/61.3 Dev-Tools/PT-OpenCode-Test-Gen — Test generation
 
 ### GitHub Copilot / Cursor AI
-- [[60 - Resources/61 Prompts/61.3 Dev-Tools/PT-Copilot-Scaffolding]] — Project scaffolding
-- [[60 - Resources/61 Prompts/61.3 Dev-Tools/PT-Cursor-Context-Dev]] — Context-driven development
+- 60 - Resources/61 Prompts/61.3 Dev-Tools/PT-Copilot-Scaffolding — Project scaffolding
+- 60 - Resources/61 Prompts/61.3 Dev-Tools/PT-Cursor-Context-Dev — Context-driven development
 
 ### OpenHands (All-Hands-AI)
-- [[60 - Resources/61 Prompts/61.3 Dev-Tools/PT-OpenHands-Autonomous]] — Autonomous agent tasks
+- 60 - Resources/61 Prompts/61.3 Dev-Tools/PT-OpenHands-Autonomous — Autonomous agent tasks
 
 ### Warp AI Terminal
-- [[60 - Resources/61 Prompts/61.3 Dev-Tools/PT-Warp-CLI-Workflow]] — Terminal workflow automation
+- 60 - Resources/61 Prompts/61.3 Dev-Tools/PT-Warp-CLI-Workflow — Terminal workflow automation
 
 ### Browser OS
-- [[60 - Resources/61 Prompts/61.3 Dev-Tools/PT-BrowserOS-Web-Agent]] — Web browsing agent
+- 60 - Resources/61 Prompts/61.3 Dev-Tools/PT-BrowserOS-Web-Agent — Web browsing agent
 
 ---
 
@@ -255,7 +255,7 @@ All prompts follow the **RCOIF framework** (Role, Context, Objective, Instructio
 ## Related MOCs
 
 - [[80 - MOC/81 Topic-Maps/MOC-Research-Pipeline]]
-- [[80 - MOC/81 Topic-Maps/MOC-LLM-Benchmarks-PM-AI-v2]]
+- [[MOC-LLM-Benchmarks-PM-AI]]
 - [[80 - MOC/81 Topic-Maps/MOC-Tools-Stack]]
 - [[80 - MOC/81 Topic-Maps/MOC-Methods-Frameworks]]
 - [[80 - MOC/81 Topic-Maps/MOC-PUMA-Master]]
@@ -265,15 +265,15 @@ All prompts follow the **RCOIF framework** (Role, Context, Objective, Instructio
 ## 🧪 PUMA Experiment Prompts (Ollama)
 
 ### Issue Triage Prompts (Jira SR)
-- [[60 - Resources/61 Prompts/PT-PUMA-Triage-ZeroShot]] — Zero-shot triage
-- [[60 - Resources/61 Prompts/PT-PUMA-Triage-FewShot3]] — 3-shot triage
-- [[60 - Resources/61 Prompts/PT-PUMA-Triage-FewShot6]] — 6-shot triage
-- [[60 - Resources/61 Prompts/PT-PUMA-Triage-CoT]] — Chain-of-thought triage
+- 60 - Resources/61 Prompts/PT-PUMA-Triage-ZeroShot — Zero-shot triage
+- 60 - Resources/61 Prompts/PT-PUMA-Triage-FewShot3 — 3-shot triage
+- 60 - Resources/61 Prompts/PT-PUMA-Triage-FewShot6 — 6-shot triage
+- 60 - Resources/61 Prompts/PT-PUMA-Triage-CoT — Chain-of-thought triage
 
 ### Effort Estimation Prompts (TAWOS)
-- [[60 - Resources/61 Prompts/PT-PUMA-Estimation-ZeroShot]] — Zero-shot estimation
-- [[60 - Resources/61 Prompts/PT-PUMA-Estimation-FewShot]] — Few-shot estimation
-- [[60 - Resources/61 Prompts/PT-PUMA-Estimation-CoT]] — CoT estimation
+- 60 - Resources/61 Prompts/PT-PUMA-Estimation-ZeroShot — Zero-shot estimation
+- 60 - Resources/61 Prompts/PT-PUMA-Estimation-FewShot — Few-shot estimation
+- 60 - Resources/61 Prompts/PT-PUMA-Estimation-CoT — CoT estimation
 
 ---
 
@@ -282,10 +282,10 @@ All prompts follow the **RCOIF framework** (Role, Context, Objective, Instructio
 | Methodology | Notes | Example Prompt |
 |-------------|-------|---------------|
 | RCOIF | [[30 - Permanent/33 Frameworks/PN-RCOIF-Framework]] | [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-RCOIF-Research]] |
-| Zero-Shot CoT | [[30 - Permanent/31 Concepts/PN-Chain-of-Thought]] | [[60 - Resources/61 Prompts/PT-PUMA-Triage-CoT]] |
-| Few-Shot | [[30 - Permanent/31 Concepts/PN-Few-Shot-Prompting]] | [[60 - Resources/61 Prompts/PT-PUMA-Triage-FewShot3]] |
-| EGI | [[30 - Permanent/33 Frameworks/PN-EGI-Framework]] | [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-EGI-Exploration]] |
-| AMI | [[30 - Permanent/33 Frameworks/PN-AMI-Framework]] | [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-AMI-Review]] |
-| DRCA | [[30 - Permanent/33 Frameworks/PN-DRCA-Framework]] | [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-DRCA-Paper]] |
-| IIPR | [[30 - Permanent/33 Frameworks/PN-IIPR-Framework]] | [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-IIPR-Prompt-Refinement]] |
-| Contextual Anchoring | [[30 - Permanent/33 Frameworks/PN-Contextual-Anchoring]] | Multiple |
+| Zero-Shot CoT | 30 - Permanent/31 Concepts/PN-Chain-of-Thought | 60 - Resources/61 Prompts/PT-PUMA-Triage-CoT |
+| Few-Shot | 30 - Permanent/31 Concepts/PN-Few-Shot-Prompting | 60 - Resources/61 Prompts/PT-PUMA-Triage-FewShot3 |
+| EGI | [[30 - Permanent/33 Frameworks/PN-EGI-Framework]] | 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-EGI-Exploration |
+| AMI | 30 - Permanent/33 Frameworks/PN-AMI-Framework | 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-AMI-Review |
+| DRCA | 30 - Permanent/33 Frameworks/PN-DRCA-Framework | 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-DRCA-Paper |
+| IIPR | 30 - Permanent/33 Frameworks/PN-IIPR-Framework | 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-IIPR-Prompt-Refinement |
+| Contextual Anchoring | 30 - Permanent/33 Frameworks/PN-Contextual-Anchoring | Multiple |

@@ -29,13 +29,13 @@ Andy Stapleton analyses a publicly embarrassing case where a major AI company's 
 
 ## PUMA Relevance
 
-This video is the practical justification for PUMA's Marco Veritas protocol (Section 1.8: AI use declaration). Every bibliography entry in PUMA must be verified in primary source precisely because AI-generated citations are indistinguishable from real ones at first glance. The video also supports the bibliography verification work done in [[60 - Resources/65 Bibliographies/BIB-Supplement-v3]].
+This video is the practical justification for PUMA's Marco Veritas protocol (Section 1.8: AI use declaration). Every bibliography entry in PUMA must be verified in primary source precisely because AI-generated citations are indistinguishable from real ones at first glance. The video also supports the bibliography verification work done in [[BIB-Supplement]].
 
 ---
 
 ## Related Notes
 
-- [[60 - Resources/65 Bibliographies/BIB-Supplement-v3]]
+- [[BIB-Supplement]]
 - [[50 - Areas/51 Research/AI-Use-Log]]
 - [[40 - Projects/PUMA/41.1 Introduction/PR-PUMA-Ch1-Introduction]]
 

@@ -1,5 +1,5 @@
 
-[[20 - Literature/20.4 Videos-Podcasts/YouTube/! MOC YouTube]]
+[[MOC YouTube]]
 
 [[20 - Literature/20.4 Videos-Podcasts/LN-Videos-Repos-Community]]
 [[20 - Literature/20.4 Videos-Podcasts/MOC Podcast, Video and Seminar]]

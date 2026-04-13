@@ -42,4 +42,4 @@ This video is the practitioner-level validation of PUMA's thesis: the shift from
 ## MOCs
 
 - [[80 - MOC/81 Topic-Maps/MOC-PUMA-Master]]
-- [[80 - MOC/81 Topic-Maps/MOC-LLM-Benchmarks-PM-AI-v2]]
+- [[MOC-LLM-Benchmarks-PM-AI]]

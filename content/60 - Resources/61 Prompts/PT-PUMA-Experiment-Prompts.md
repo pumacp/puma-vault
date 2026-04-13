@@ -243,9 +243,9 @@ See [[PT-P2-003-PromptEngineering-AgentPrompts]] for the complete prompt text fo
 
 | Prompt | Stage | Strategy | Notes |
 |--------|-------|---------|-------|
-| [[PT-PUMA-Triage-ZeroShot]] | 1 | Zero-shot | Baseline condition |
-| [[PT-PUMA-Triage-FewShot3]] | 1 | Few-shot k=3 | 1 example per class |
+| PT-PUMA-Triage-ZeroShot | 1 | Zero-shot | Baseline condition |
+| PT-PUMA-Triage-FewShot3 | 1 | Few-shot k=3 | 1 example per class |
 | PT-PUMA-Triage-FewShot6 | 1 | Few-shot k=6 | 2 examples per critical classes |
-| [[PT-PUMA-Triage-CoT]] | 1 | Chain-of-Thought | Zero-shot + reasoning |
-| [[PT-PUMA-Estimation-FewShot]] | 2 | Few-shot | 3 examples across scale |
+| PT-PUMA-Triage-CoT | 1 | Chain-of-Thought | Zero-shot + reasoning |
+| PT-PUMA-Estimation-FewShot | 2 | Few-shot | 3 examples across scale |
 | PT-PUMA-Estimation-CoT | 2 | CoT | Structured reasoning |

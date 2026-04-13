@@ -88,7 +88,7 @@ In PUMA, RCOIF is used at two levels:
 **Level 2 — Experiment prompts** (Ollama Llama3.2, Mistral7B)
 - These are the prompts the *benchmark itself* uses for triage and estimation
 - The prompting strategy IS the independent variable being tested
-- See: [[60 - Resources/61 Prompts/PT-PUMA-Triage-ZeroShot]]
+- See: 60 - Resources/61 Prompts/PT-PUMA-Triage-ZeroShot
 
 ---
 

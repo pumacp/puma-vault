@@ -29,7 +29,7 @@ updated: 2026-04-06
 
 | ID | Template | Link |
 |----|----------|------|
-| 00.10 | Fleeting Note | [[00 - Meta/Templates/Template-Fleeting-Note]] |
+| 00.10 | Fleeting Note | [[Template-Fleeting-Note]] |
 | 00.11 | Literature Note (Paper) | [[00 - Meta/Templates/Template-Literature-Note-Paper]] |
 | 00.12 | Permanent Note | [[00 - Meta/Templates/Template-Permanent-Note]] |
 | 00.13 | Experiment Note | [[00 - Meta/Templates/Template-Experiment-Note]] |

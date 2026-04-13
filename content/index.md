@@ -38,7 +38,8 @@ methodology: [PARA, GTD, Zettelkasten, JohnnyDecimal, SDD, BMAD, CDD, KeshavThre
 
 > **Platform for Understanding and Management with Agents — Empirical Benchmark for LLM-Assisted ICT Project Management**
 
-A unified, multi-methodology knowledge system for research on autonomous AI agents applied to software project management. This vault integrates six knowledge management paradigms, multiple research methodologies, a rich prompt library, and a custom Claude AI skill system — all organized under the Johnny Decimal numbering scheme.
+> [!ABSTRACT] 
+> A unified, multi-methodology knowledge system for research on autonomous AI agents applied to software project management. This vault integrates six knowledge management paradigms, multiple research methodologies, a rich prompt library, and a custom Claude AI skill system — all organized under the Johnny Decimal numbering scheme.
 
 ---
 
@@ -85,6 +86,127 @@ Design, implement, and empirically evaluate a multi-agent LLM system — the PUM
 
 ### Technology Stack
 `Claude (Anthropic)` `GPT-4o (OpenAI)` `Llama 3 (local)` `Ollama` `Python` `Zotero` `Obsidian` `GitHub Actions` `Semantic Scholar` `Google Scholar` `Consensus` `arXiv` `IEEE Xplore` `Docker` `Git` `GitHub Pages` `BrowserOS` `Opencode`"
+
+---
+
+### 1.1PUMA - Tools, Platforms, and Public Profiles
+
+> [!ABSTRACT] Purpose
+> This README systematically documents and provides traceability for the entire ecosystem of tools, digital platforms, and public profiles utilized in the development of the **PUMA Project**. Transparency in the use of research and development tools is a primary ethical and methodological requirement, especially when employing Generative AI systems as epistemic partners in the research process.
+
+---
+
+#### 1.1. Primary Access Points & Repositories
+
+> [!INFO] Code & Documentation Hubs
+> All technical artifacts, specifications, and the research vault are hosted on GitHub under the **pumacp** organization.
+
+| Resource | Description | URL |
+| :--- | :--- | :--- |
+| **GitHub Organization** | Main project hub | [https://github.com/pumacp](https://github.com/pumacp) |
+| **PUMA Vault (Source)** | Obsidian Vault source files | [https://github.com/pumacp/puma-vault](https://github.com/pumacp/puma-vault) |
+| **PUMA Vault (Web)** | Live web version of the Vault | [https://pumacp.github.io/puma-vault/](https://pumacp.github.io/puma-vault/) |
+| **GitHub Vault Wiki** | Project documentation wiki | [https://github.com/pumacp/puma-vault/wiki](https://github.com/pumacp/puma-vault/wiki) |
+| **PUMA Code Repo** | Main application source code | [https://github.com/pumacp/puma](https://github.com/pumacp/puma) |
+| **YouTube Playlist** | Demonstrations & Video logs | [https://www.youtube.com/feed/playlists](https://www.youtube.com/feed/playlists) |
+
+---
+
+#### 1.2. AI-Powered Research Platforms
+
+##### 1.2.1 NotebookLM Research Notebooks
+The following notebooks represent specialized AI contexts trained on the project's specific bibliographic corpus for synthesis and deep analysis.
+
+- [ ] **PUMA - 1. AI Agents & Swarm Intelligence** | [Access Notebook](https://notebooklm.google.com/notebook/07a22c3a-f60a-4a82-8260-bf8236ca6855)
+- [ ] **PUMA - 1. Scientific Ideation** | [Access Notebook (Preview)](https://notebooklm.google.com/notebook/7cf6498c-223f-424e-8fe5-39c31a235f23/preview)
+- [ ] **PUMA - 2. Literature Discovery** | [Access Notebook](https://notebooklm.google.com/notebook/88c75743-be48-4432-9934-d1f8098dc4c5)
+- [ ] **PUMA - 3. Systematic Review** | [Access Notebook](https://notebooklm.google.com/notebook/9c7aa64a-99ae-46af-bc41-edf67adb7be6)
+- [ ] **PUMA - 4. Theoretical Framework** | [Access Notebook](https://notebooklm.google.com/notebook/8e45222e-8b9a-4ab7-a7c2-c2dbcc855676)
+- [ ] **PUMA - 5. Hypothesis Generation** | [Access Notebook](https://notebooklm.google.com/notebook/f11eac9d-71d2-49a9-8a85-15a2831692f5)
+- [ ] **PUMA - 6. Experimental Design** | [Access Notebook](https://notebooklm.google.com/notebook/6828418c-32ec-4e30-9fe7-1050d4246b9e)
+- [ ] **PUMA - 7. Critical Analysis** | [Access Notebook](https://notebooklm.google.com/notebook/f59a9677-a0d0-4928-b8ad-39bf248f35f9)
+- [ ] **PUMA - 8. Scientific Writing** | [Access Notebook](https://notebooklm.google.com/notebook/737b8d23-5601-4920-bbc0-f4de281d3be1)
+- [ ] **PUMA - 9. Review Output** | [Access Notebook](https://notebooklm.google.com/notebook/87deeb50-8e16-41c0-bc13-b4ea7243d752)
+
+##### 1.2.2 Consensus Academic Search Profiles
+Publicly shared searches and bibliographies focused on evidence-based AI research.
+
+* **Advanced Academic Research Prompt:** [View Search](https://consensus.app/search/prompt-for-advanced-academic-research/YolH5kQSRyA1AaoHwNFyw/?utm_source=share&utm_medium=clipboard)
+* **Master Bibliography:** [View Search](https://consensus.app/search/bibliography/YolH5kQSRyA1AaoHwNFyw/)
+* **Step-by-Step Research Methodology:**
+    1. [Scientific Ideation](https://consensus.app/search/1-scientific-ideation/pJTBL6n8TZCgCQGiUHGAZg/)
+    2. [Literature Discovery](https://consensus.app/search/2-literature-discovery/4yrbLFpnQ-61Mj9i4gB7Dw/)
+    3. [Systematic Review](https://consensus.app/search/3-systematic-review/YpjtsXl6Sy-cYE661R4u6g/)
+    4. [Theoretical Framework](https://consensus.app/search/4-theoretical-framework/b3upmKAwQA6CZ6HXmnpNfw/)
+    5. [Hypothesis Generation](https://consensus.app/search/5-hypothesis-generation/Gwo-Sjy2RvOg_XfBoY-f1w/)
+    6. [Experimental Design](https://consensus.app/search/6-experimental-design/tJxdutFISF6pDGt3cdLbVA/)
+    7. [Critical Analysis](https://consensus.app/search/7-critical-analysis/zlVwmALzTd-Q7czMSNX7iQ/)
+    8. [Scientific Writing](https://consensus.app/search/8-scientific-writing/Qyc5eFXUR7qdTlc_Gol2Xw/)
+    9. [Review Output](https://consensus.app/search/9-review-output/ayaH1XacQ1ehkroUsF9XwQ/)
+
+---
+
+#### 1.3. Knowledge & Bibliographic Management
+
+##### 1.3.1 Zotero Public Library
+Centralized metadata and PDF management for all project citations.
+> [!LINK] [PUMA Public Library (Zotero)](https://www.zotero.org/pumacp/library)
+> *RSS/API Access:* [JSON/Atom Feed](https://api.zotero.org/users/20166221/items/top?direction=asc&format=atom&sort=title&key=LJRpz6CWHKqns1k1fgbZylhL)
+
+##### 1.3.2 Researcher.Discovery Reading Lists
+Curated collections for specific project domains.
+
+| Collection Name | Link |
+| :--- | :--- |
+| **Main PUMA Library** | [Access List](https://discovery.researcher.life/my-library/reading-list/1815730) |
+| **LLM Benchmark Core** | [Access List](https://discovery.researcher.life/my-library/reading-list/1815726) |
+| **Project Management Benchmarks** | [Access List](https://discovery.researcher.life/my-library/reading-list/1811429) |
+| **Local LLM Benchmarking** | [Access List](https://discovery.researcher.life/my-library/reading-list/1811261) |
+| **LLM Based Agents** | [Access List](https://discovery.researcher.life/my-library/reading-list/1815722) |
+| **Phase 1: Scientific Ideation** | [Access List](https://discovery.researcher.life/my-library/reading-list/1815872) |
+| **Phase 2: Literature Discovery** | [Access List](https://discovery.researcher.life/my-library/reading-list/1815877) |
+| **Phase 3: Systematic Review** | [Access List](https://discovery.researcher.life/my-library/reading-list/1815881) |
+| **Phase 4: Theoretical Framework** | [Access List](https://discovery.researcher.life/my-library/reading-list/1815884) |
+| **Phase 5: Hypothesis Generation** | [Access List](https://discovery.researcher.life/my-library/reading-list/1815888) |
+| **Phase 6: Experimental Design** | [Access List](https://discovery.researcher.life/my-library/reading-list/1815892) |
+| **Phase 7: Critical Analysis** | [Access List](https://discovery.researcher.life/my-library/reading-list/1815894) |
+| **Phase 8: Scientific Writing** | [Access List](https://discovery.researcher.life/my-library/reading-list/1815898) |
+| **Phase 9: Review Output** | [Access List](https://discovery.researcher.life/my-library/reading-list/1815901) |
+
+##### 1.3.3 ResearchRabbit & Storage
+* **ResearchRabbit Map 1:** [Folder Share 1](https://app.researchrabbit.ai/folder-shares/d8244f17-47f7-4f6c-a589-473876578b54)
+* **ResearchRabbit Map 2:** [Folder Share 2](https://app.researchrabbit.ai/folder-shares/b6c00471-2f28-4c66-85f5-ab5399470228)
+* **Google Drive (Full Papers Repo):** [Access PDF Collection](https://drive.google.com/drive/folders/1TKbYhYqLIrq7liAPISF7ztS2Bv0l7vZS?usp=sharing)
+
+---
+
+#### 1.4. Generative AI Research Partners
+
+##### 1.4.1 Custom AI Profiles & Spaces
+* **Gemini (PUMA GEM):** [Access Profile](https://gemini.google.com/gem/1h-rxrzZagTsvX59_CGfaoDHjisJ48cz7?usp=sharing)
+* **Perplexity PUMA Space:** [Access Space](https://www.perplexity.ai/spaces/puma-6IpatdqAS_yOxg9j69qvAQ)
+
+##### 1.4.2 Research Session Artifacts
+* **Claude (Scientific Ideation Session):** [View Chat Share](https://claude.ai/share/b3b80d43-d1bd-49ac-a067-53bd3d7c0f93)
+* **ChatGPT (Scientific Ideation Session):** [View Chat Share](https://chatgpt.com/share/69d689d8-2150-8389-ab5d-3500e8c0b930)
+
+---
+
+#### 1.5. Ecosystem Table
+
+| Category | Primary Tools | Methodology / Key Standard |
+| :--- | :--- | :--- |
+| **D.1 Repositories** | GitHub, Pages, Wiki | SDD, Open Source, DSR |
+| **D.2 AI Research** | NotebookLM, Consensus, R.Discovery | SLR, PRISMA, Keshav |
+| **D.3 AI Assistants** | Claude, ChatGPT, Gemini | Prompt Engineering, Chain-of-Thought |
+| **D.4 Documentation** | Obsidian, GitHub Pages | Zettelkasten, PARA, Johnny Decimal |
+
+---
+
+#### 1.6. Open Science & Reproducibility Statement
+
+> [!SUCCESS] Note
+> This ecosystem is organized into five functional categories corresponding to specific domains within the PUMA research cycle. All listed resources are **publicly accessible** and are part of the project's transparency infrastructure, aligned with the **Open Science** principles and the commitment to the **MIT License**.
 
 ---
 
@@ -321,7 +443,7 @@ All files are listed as clickable relative links, organized by folder following 
 
 <a name="idx-20"></a>
 ### 20 — Literature **~160 files**
-* [! MOC Library.md](20%20-%20Literature/!%20MOC%20Library.md)
+* [MOC Library.md](20%20-%20Literature/MOC%20Library.md)
 
 #### 20.1 Papers
 <details>
@@ -1117,11 +1239,11 @@ Design, implement, and empirically evaluate a multi-agent LLM system — the PUM
 
 | Section | Description |
 |---------|-------------|
-| [[00 - Meta\|00 - Meta]] | Templates, dashboards, plugin configuration |
+| [[MOC Meta\|00 - Meta]] | Templates, dashboards, plugin configuration |
 | [[10 - Inbox/README-Inbox\|10 - Inbox]] | GTD capture point — fleeting notes and quick capture |
-| [[20 - Literature/! MOC Library\|20 - Literature]] | Papers, books, videos, tools, datasets |
+| [[MOC Library\|20 - Literature]] | Papers, books, videos, tools, datasets |
 | [[30 - Permanent/31 Concepts/README-Concepts\|30 - Permanent]] | Zettelkasten — concepts, methods, frameworks, results |
-| [[40 - Projects/PUMA\|40 - Projects]] | Active project work — chapters, specs, experiments, BMAD |
+| [[MOC Projects\|40 - Projects]] | Active project work — chapters, specs, experiments, BMAD |
 | [[50 - Areas/51 Research/Keshav-ThreePass/Keshav-Reading-Log\|50 - Areas]] | Ongoing responsibilities — research, writing, code, ethics |
 | [[60 - Resources/64 Glossary/Glossary-Master\|60 - Resources]] | Prompts, workflows, checklists, glossary, bibliography |
 | [[70 - Archive/72 Completed/README\|70 - Archive]] | Completed and deprecated material |
@@ -1141,7 +1263,7 @@ The vault fuses six complementary knowledge management systems into a single coh
 | **PARA** — Projects · Areas · Resources · Archive | Macro-level organizational skeleton. Every note has a home and homes decay gracefully as work evolves. | All sections |
 | **Zettelkasten** | Generates atomic, permanent, densely-linked knowledge notes. The intellectual core of the vault — where literature notes are distilled into original insights. | [[30 - Permanent/31 Concepts/README-Concepts\|30 - Permanent]] |
 | **Johnny Decimal** | Numeric address system assigning a unique two-digit code to every area (00–90) and a decimal sub-code to every sub-area. Prevents folder sprawl and makes every file findable by address alone. | [[60 - Resources/64 Glossary/Glossary-Master\|60 - Resources]] |
-| **SDD / BMAD** | *Spec-Driven Development* treats formal specifications as the source of truth. *BMAD* orchestrates specialized AI agents (Analyst, Architect, QA) using structured PRDs and sprint boards. | [[40 - Projects/PUMA\|40 - Projects]] |
+| **SDD / BMAD** | *Spec-Driven Development* treats formal specifications as the source of truth. *BMAD* orchestrates specialized AI agents (Analyst, Architect, QA) using structured PRDs and sprint boards. | [[MOC Projects\|40 - Projects]] |
 
 ---
 
@@ -1302,6 +1424,11 @@ New idea / paper / observation
 | Paper Reading | Keshav Three-Pass | Systematic literature processing | [[30 - Permanent/33 Frameworks/PN-MIT-Student-Method]] |
 | AI Prompting | CDD + RCOIF + CoT + AMI + EGI | Context-driven AI assistance | [[30 - Permanent/33 Frameworks/PN-RCOIF-Framework]] |
 | Navigation | MOCs | Hub notes for complex topics | [[80 - MOC/81 Topic-Maps/MOC-PUMA-Master]] |
+
+---
+
+> [!QUOTE] Update Log
+> This annex reflects the ecosystem status as of **April, 2026)**. In accordance with the *Veritas Framework* proactive disclosure principle, this will be updated in each partial delivery to reflect new tools or public profile updates.
 
 ---
 

@@ -67,7 +67,7 @@ Perplexity serves as the real-time fact-checker for PUMA's claims. Every quantit
 ## Related Notes
 
 - [[50 - Areas/51 Research/AI-Use-Log]]
-- [[60 - Resources/65 Bibliographies/BIB-Supplement-v3]]
+- [[BIB-Supplement]]
 - [[40 - Projects/PUMA/41.1 Introduction/PR-PUMA-Ch1-Introduction]]
 
 ## MOCs

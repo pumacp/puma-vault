@@ -91,7 +91,7 @@ ChatGPT's strength in structured output generation makes it ideal for populating
 
 - [[30 - Permanent/30 Zettelkasten-Hub/ZK-Hub-PUMA]]
 - [[60 - Resources/66 Johnny-Decimal-Index/JD-Master-Index]]
-- [[20 - Inbox/GTD-Inbox]]
+- [[MOC Inbox]]
 
 ## MOCs
 

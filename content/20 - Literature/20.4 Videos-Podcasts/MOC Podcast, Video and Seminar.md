@@ -7,7 +7,7 @@ aliases: []
 ____
 ## 🚀Quick Notes
 ---
-- [[Idea of MOC Podcast, Video and Seminar]]
+- Idea of MOC Podcast, Video and Seminar
 - [[Tasks of MOC Podcast, Video and Seminar]]
 
 ## 📝 All Notes

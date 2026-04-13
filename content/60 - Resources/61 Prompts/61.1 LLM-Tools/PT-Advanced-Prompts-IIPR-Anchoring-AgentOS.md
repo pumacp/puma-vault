@@ -187,7 +187,7 @@ created: 2026-03-01
 # Prompt: Agent OS — PUMA Orchestrator System Prompt
 
 > **For Stage 4+ (optional).** System-level prompt that governs how agents operate within PUMA.
-> [[30 - Permanent/33 Frameworks/PN-Agent-Prompt-Engineering]]
+> 30 - Permanent/33 Frameworks/PN-Agent-Prompt-Engineering
 
 ---
 

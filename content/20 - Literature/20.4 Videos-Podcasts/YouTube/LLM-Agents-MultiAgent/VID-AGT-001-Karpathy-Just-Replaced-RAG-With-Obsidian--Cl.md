@@ -41,5 +41,5 @@ Directly validates PUMA's choice of Obsidian as the knowledge management system.
 
 ## MOCs
 
-- [[80 - MOC/81 Topic-Maps/MOC-LLM-Benchmarks-PM-AI-v2]]
+- [[MOC-LLM-Benchmarks-PM-AI]]
 - [[80 - MOC/81 Topic-Maps/MOC-Tools-Stack]]

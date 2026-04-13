@@ -27,11 +27,11 @@ Version 1.0 · Updated April 2026
 
 | Section | Description |
 |---------|-------------|
-| [[00 - Meta\|00 - Meta]] | Templates, dashboards, plugin configuration |
+| [[MOC Meta\|00 - Meta]] | Templates, dashboards, plugin configuration |
 | [[10 - Inbox/README-Inbox\|10 - Inbox]] | GTD capture point — fleeting notes and quick capture |
-| [[20 - Literature/! MOC Library\|20 - Literature]] | Papers, books, videos, tools, datasets |
+| [[MOC Library\|20 - Literature]] | Papers, books, videos, tools, datasets |
 | [[30 - Permanent/31 Concepts/README-Concepts\|30 - Permanent]] | Zettelkasten — concepts, methods, frameworks, results |
-| [[40 - Projects/PUMA\|40 - Projects]] | Active project work — chapters, specs, experiments, BMAD |
+| [[MOC Projects\|40 - Projects]] | Active project work — chapters, specs, experiments, BMAD |
 | [[50 - Areas/51 Research/Keshav-ThreePass/Keshav-Reading-Log\|50 - Areas]] | Ongoing responsibilities — research, writing, code, ethics |
 | [[60 - Resources/64 Glossary/Glossary-Master\|60 - Resources]] | Prompts, workflows, checklists, glossary, bibliography |
 | [[70 - Archive/72 Completed/README\|70 - Archive]] | Completed and deprecated material |

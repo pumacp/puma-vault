@@ -40,4 +40,4 @@ Essential background for understanding why PUMA's local models (Llama 3.2 8B, Mi
 
 ## MOCs
 
-- [[80 - MOC/81 Topic-Maps/MOC-LLM-Benchmarks-PM-AI-v2]]
+- [[MOC-LLM-Benchmarks-PM-AI]]

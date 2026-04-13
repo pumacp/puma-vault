@@ -91,7 +91,7 @@ tags: [permanent, concept, project-management, bias, planning-fallacy, flyvbjerg
 aliases: ["Uniqueness Trap", "Planning Fallacy", "Reference Class Forecasting"]
 created: 2026-03-01
 maturity: growing
-sources: ["[[20 - Literature/20.1 Papers/LN-Flyvbjerg2023-BigThings]]"]
+sources: ["20 - Literature/20.1 Papers/LN-Flyvbjerg2023-BigThings"]
 ---
 
 # The Uniqueness Trap in Project Management

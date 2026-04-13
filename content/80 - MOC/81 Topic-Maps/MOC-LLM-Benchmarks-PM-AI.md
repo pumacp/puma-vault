@@ -82,7 +82,7 @@ updated: 2026-04-06
 ### AIOps & DevOps
 - [[20 - Literature/20.1 Papers/AIOps-DevOps/LN-Chen-2025-AIOpsLab]] — AIOpsLab: AIOps benchmark (PUMA analogue)
 - [[20 - Literature/20.1 Papers/AIOps-DevOps/LN-Bruneliere-2022-AIDOaRt]] — AIDOaRt: AI-augmented DevOps framework
-- [[20 - Literature/20.1 Papers/AIOps-DevOps/LN-Chen-2024-RootCauseAnalysis]] — Root cause analysis via LLMs (Microsoft production)
+- [[LN-Chen-2024-RootCauseAnalysis]] — Root cause analysis via LLMs (Microsoft production)
 
 ---
 

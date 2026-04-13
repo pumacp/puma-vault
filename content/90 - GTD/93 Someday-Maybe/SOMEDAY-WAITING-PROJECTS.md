@@ -84,6 +84,6 @@ created: 2026-03-01
 |---------|-----------|---------|------|
 | PUMA Project — Ch.2 Literature | Run SLR search on arXiv | 2026-04-08 | [[40 - Projects/PUMA/41.2 Literature-Review/PR-PUMA-Ch2-Ch3-Ch4-Ch5]] |
 | PUMA Project — Triage Module | Write SP-Triage-Agent-v1 spec | 2026-04-08 | [[SP-Architecture]] |
-| PUMA Vault — GitHub | Set up git remote | 2026-03-06 | [[README.md]] |
-| Zotero Library | Import 6 verified papers | 2026-03-08 | [[20 - Literature]] |
+| PUMA Vault — GitHub | Set up git remote | 2026-03-06 | [[README]] |
+| Zotero Library | Import 6 verified papers | 2026-03-08 | 20 - Literature |
 | Ollama Environment | Pull Mistral 7B + verify | 2026-03-05 | [[20 - Literature/20.6 Tools/LN-Tools-Ollama-ClaudeCode-OpenCode-BrowserOS]] |

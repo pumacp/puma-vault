@@ -18,6 +18,7 @@ updated: 2026-04-06
 ### Design Science Research (DSR)
 - [[30 - Permanent/32 Methods/PN-DSR-SLR-Methods]] — DSR paradigm explanation
 - Core idea: research must produce and evaluate useful artefacts. PUMA artefact = benchmark framework.
+- [[30 - Permanent/36 Sources/SRC-MITAILab-WP316]] — MIT AI Lab WP316 (active research methods)
 - Reference: Hevner et al. (2004), Peffers et al. (2007)
 
 ### Systematic Literature Review (SLR + PRISMA)
@@ -87,7 +88,10 @@ updated: 2026-04-06
 ## 🤖 AI Prompting Methodologies
 
 ### Keshav Three-Pass Method
-- [[30 - Permanent/33 Frameworks/PN-MIT-Student-Method]] — Full explanation
+- [[30 - Permanent/33 Frameworks/PN-MIT-Student-Method]] — Summary explanation
+- [[30 - Permanent/33 Frameworks/PN-MIT-Student-Method-Complete]] — Complete Q1/Q2/Q3 + Keshav integration
+- [[30 - Permanent/36 Sources/SRC-Keshav-2007-HowToReadPaper]] — Source: Keshav (2007)
+- [[30 - Permanent/37 Persons/PER-Keshav-Srinivasan]] — Author profile
 - [[50 - Areas/51 Research/Keshav-ThreePass/Keshav-Reading-Log]] — Reading log
 - [[00 - Meta/Templates/Template-Keshav-ThreePass]] — Per-paper template
 

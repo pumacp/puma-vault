@@ -40,4 +40,4 @@ Important counterpoint for PUMA's RAG justification. For PUMA Stage 1–3 (zero-
 
 ## MOCs
 
-- [[80 - MOC/81 Topic-Maps/MOC-LLM-Benchmarks-PM-AI-v2]]
+- [[MOC-LLM-Benchmarks-PM-AI]]

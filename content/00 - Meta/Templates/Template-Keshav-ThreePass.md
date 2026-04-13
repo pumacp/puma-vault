@@ -78,7 +78,7 @@ updated: "{{date}}"
 ### How PUMA Would Extend or Challenge This
 
 ### Permanent Note Created?
-- [ ][[| Yes — [[30 - Permanent/31 Concepts/PN-...]]
+- [ ][[| Yes — 30 - Permanent/31 Concepts/PN-...
 
 ---
 

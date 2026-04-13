@@ -78,7 +78,7 @@ Research Rabbit revealed 12 papers that keyword search missed in the initial PUM
 
 - [[50 - Areas/51 Research/SLR-PRISMA/PRISMA-Log]]
 - [[20 - Literature/20.1 Papers/PM-AI-Convergence/LN-Assalaarachchi-2026-AgenticSPM]]
-- [[60 - Resources/65 Bibliographies/BIB-Supplement-v3]]
+- [[BIB-Supplement]]
 
 ## MOCs
 

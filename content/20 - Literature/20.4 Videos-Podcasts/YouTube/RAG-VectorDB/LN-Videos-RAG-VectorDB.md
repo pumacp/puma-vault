@@ -117,4 +117,4 @@ phase: [F0, F1, F2, F3, F4]
 ## MOCs
 
 - [[80 - MOC/81 Topic-Maps/MOC-Tools-Stack]]
-- [[80 - MOC/81 Topic-Maps/MOC-LLM-Benchmarks-PM-AI-v2]]
+- [[MOC-LLM-Benchmarks-PM-AI]]

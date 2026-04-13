@@ -140,7 +140,7 @@ For each AI-assisted screening decision:
 - Reason for exclusion: [specific criterion from PRISMA protocol]
 ```
 
-Log all decisions in [[40 - Projects/PUMA/41.2 Literature-Review/PR-PUMA-PRISMA-Log]]
+Log all decisions in 40 - Projects/PUMA/41.2 Literature-Review/PR-PUMA-PRISMA-Log
 
 ---
 ---
@@ -243,4 +243,4 @@ After date filter: [N]
 Forwarded to screening: [N]
 ```
 
-Record all sessions in [[40 - Projects/PUMA/41.2 Literature-Review/PR-PUMA-PRISMA-Log]]
+Record all sessions in 40 - Projects/PUMA/41.2 Literature-Review/PR-PUMA-PRISMA-Log

@@ -93,7 +93,7 @@ This prompt generates the intellectual backbone of PUMA Section 2 (Materials and
 
 - [[30 - Permanent/31 Concepts/PN-KeyConcepts-Agents-Reproducibility-RedTeam]]
 - [[40 - Projects/PUMA/41.3 Methods/PR-PUMA-Ch3-Methods]]
-- [[80 - MOC/81 Topic-Maps/MOC-LLM-Benchmarks-PM-AI-v2]]
+- [[MOC-LLM-Benchmarks-PM-AI]]
 
 ## MOCs
 

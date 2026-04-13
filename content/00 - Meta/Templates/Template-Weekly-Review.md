@@ -38,8 +38,8 @@ SORT deadline ASC
 ```
 
 - [ ][[| PUMA Ch1 Introduction → [[40 - Projects/PUMA/41.1 Introduction/PR-PUMA-Ch1-Introduction]]
-- [ ][[| PUMA Ch2 Literature → [[40 - Projects/PUMA/41.2 Literature-Review/PR-PUMA-Ch2-Literature]]
-- [ ][[| PUMA Triage Module → [[40 - Projects/PUMA/41.7 Experiments/EX-Stage1-Triage-Overview]]
+- [ ][[| PUMA Ch2 Literature → [[PR-PUMA-Ch2-Ch3-Ch4-Ch5]]
+- [ ][[| PUMA Triage Module → [[EX-Stages-Overview]]
 
 ### Next Actions Review
 

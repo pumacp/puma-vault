@@ -80,7 +80,7 @@ Settings → Appearance → CSS Snippets
 → Toggle ON: puma-styles
 ```
 
-The main stylesheet: [[00 - Meta/Snippets/puma-styles.css]]
+The main stylesheet: 00 - Meta/Snippets/puma-styles.css
 
 ## Custom Callout Usage
 
