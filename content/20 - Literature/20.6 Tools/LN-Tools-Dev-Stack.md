@@ -189,6 +189,29 @@ created: 2026-03-01
 
 ---
 
+## 📊 Data Analysis Libraries
+
+### pandas (McKinney)
+- **URL**: https://pandas.pydata.org
+- **Reference**: McKinney, W. (2022). *Python for data analysis* (3rd ed.). O'Reilly. https://wesmckinney.com/book/
+- **Purpose**: Core data manipulation library for PUMA experiment results
+- **PUMA use**: Loading Jira SR and TAWOS CSV datasets; computing F1-macro, MAE, class distributions; exporting results to Excel/CSV for thesis tables
+- **Key methods used**:
+  ```python
+  import pandas as pd
+
+  # Load and stratify dataset
+  df = pd.read_csv("jira_sr.csv")
+  subset = df.groupby('priority').apply(lambda x: x.sample(n=50, random_state=42))
+
+  # Compute results
+  results = pd.DataFrame(experiment_log)
+  results.groupby(['model', 'strategy'])['f1_macro'].describe()
+  ```
+- **Justification**: Industry-standard Python data manipulation; native integration with scikit-learn metrics and matplotlib/seaborn visualisation
+
+---
+
 ## 🔗 Reference Templates & Repositories
 
 | Repository | Purpose | PUMA use |

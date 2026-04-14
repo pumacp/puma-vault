@@ -12,9 +12,9 @@ venue: "Independently published / Self-published"
 arxiv: ""
 doi: ""
 url: ""
-tags: [literature, prompting, prompt-engineering, costar, chain-of-thought, few-shot, zero-shot, structured-output, puma-core, book, methodology, research, literature-note, keshav, moc, llm, agents]
+tags: [literature, prompting, prompt-engineering, costar, chain-of-thought, few-shot, zero-shot, structured-output, puma-core, book, methodology, research, literature-note, keshav, moc, llm, agents, human-ai-co-creation, generative-cognition, spanish]
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-04-14
 keshav-pass: 2
 ---
 
@@ -22,6 +22,10 @@ keshav-pass: 2
 
 > [!cite] Bibliographic Reference
 > **Citation**: Shum, J. (2025). *Pensar con prompts: La guía definitiva de la ingeniería de prompts*. Independently published.
+> **Note**: Independently published in 2025; available via major online book retailers. No official author website confirmed at time of writing. Verify current availability via retailer search.
+
+> [!warning] Metadata Note
+> This book is self-published. Author details and edition information reflect vault metadata. The Spanish-language original title is preserved; the summary below is in English per PUMA convention.
 
 ---
 
@@ -89,19 +93,49 @@ Shum operationalizes CO-STAR as a six-section prompt template:
 
 ---
 
+### Human-AI Co-Creation and Generative Cognition
+
+Beyond the technical taxonomy, *Pensar con Prompts* advances a broader thesis about what prompting represents epistemologically: it is a form of **generative cognition** — thinking *through* and *with* an AI system rather than simply instructing it.
+
+Key claims:
+- Prompts are not commands to a tool; they are the articulation of thought in a form that another mind (the model) can extend
+- The act of writing a good prompt requires the human to clarify their own thinking: vague prompts reflect vague intentions
+- The output of a well-designed prompt session is not just the AI's response — it is the human's clarified understanding plus the AI's contribution
+
+This framing positions prompt engineering as a **cognitive practice**, not merely a technical skill. The quality of human-AI interaction depends as much on the human's ability to think clearly as on the model's capability.
+
+### Implications for Human-AI Collaboration
+
+Shum argues that the most valuable prompt engineers are not those who memorise technique lists — they are those who develop a genuine understanding of how language models "think" (statistically, contextually, pattern-matching on training distributions). This understanding enables:
+- Anticipating model failure modes before they occur
+- Diagnosing why a prompt produces poor results
+- Iterating deliberately rather than randomly
+- Designing prompts that surface the model's genuine capabilities rather than averaging over its patterns
+
+### Generative AI and Cognitive Extension
+
+The book closes with a philosophical claim: LLMs are the first general-purpose cognitive extension tools available to everyone. Unlike calculators (which extend numerical cognition) or search engines (which extend memory), LLMs extend the full range of linguistic-reasoning cognition. The implications are systemic: how humans think, write, and decide will change fundamentally in a world where generative AI is ubiquitous.
+
+---
+
 ## PUMA Integration
 
 - **Prompt design**: CO-STAR structure is the template for all PUMA H1/H2 prompts
 - **Technique selection**: Shum's taxonomy provides vocabulary for PUMA's experimental conditions
 - **Anti-pattern checklist**: Review all PUMA prompts against Shum's anti-pattern list before experiment execution
 - **Spanish-language resource**: Relevant for PUMA academic context (Spanish university TFG)
+- **Generative cognition framing**: Supports PUMA's claim that prompt engineering is a methodology, not just a parameter
 
 ## Related Notes
 
 - [[30 - Permanent/31 Concepts/PN-COSTAR-SelfConsistency]] — permanent note on these techniques
 - [[40 - Projects/PUMA/41.7 Experiments/EX-Hypotheses-H1-H2]] — where these techniques are applied
+- [[30 - Permanent/31 Concepts/PN-CoT-FewShot-Prompting]] — CoT and few-shot prompting techniques
+- [[30 - Permanent/31 Concepts/PN-ActiveReading-CognitivePractice]] — cognitive offloading; prompt engineering as cognitive practice
+- [[30 - Permanent/33 Frameworks/PN-RCOIF-Framework]] — RCOIF as a complementary Spanish-language prompting framework
 
 ## MOCs
 
+- [[20 - Literature/20.2 Books/MOC Books]]
 - [[80 - MOC/81 Topic-Maps/MOC-Methods-Frameworks]]
 - [[80 - MOC/81 Topic-Maps/MOC-PUMA-Master]]

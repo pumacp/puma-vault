@@ -213,6 +213,8 @@ $$y = \sum_{i \in \text{Top-k}} g_i \cdot E_i(x)$$
 - [[30 - Permanent/31 Concepts/PN-FineTuning-LoRA-Quantization]] — fine-tuning approaches
 - [[20 - Literature/20.1 Papers/LLM-Agents-General/LN-Liu-2023-AgentBench]] — benchmark showing model capability gaps
 - [[40 - Projects/PUMA/41.7 Experiments/EX-Hypotheses-H1-H2]] — experimental design using these models
+- [[20 - Literature/20.1 Papers/LLM-Agents-General/LN-Vaswani-2017-AttentionIsAllYouNeed]] — Transformer architecture: the foundation of all PUMA models
+- [[20 - Literature/20.1 Papers/LLM-Agents-General/LN-Fedus-2022-SwitchTransformers]] — MoE: DeepSeek-V3 and Mixtral architectural lineage
 
 ## MOCs
 

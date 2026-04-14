@@ -83,6 +83,7 @@ The PUMA vault implements all four engines:
 - [[30 - Permanent/33 Frameworks/PN-SDD-Framework]]
 - [[80 - MOC/81 Topic-Maps/MOC-PUMA-Master]]
 - [[60 - Resources/66 Johnny-Decimal-Index/JD-Master-Index]]
+- [[20 - Literature/20.2 Books/LN-Ahrens-2017-SmartNotes]] — Ahrens (2017): original three-tier system; atomic notes; slip-box as thinking partner; the theoretical basis for this vault's structure
 
 ## MOCs
 

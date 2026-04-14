@@ -74,6 +74,22 @@ updated: 2026-04-06
 - [[20 - Literature/20.3 Datasets/LN-Datasets-JiraSR-TAWOS]] — Datasets
 - [[60 - Resources/65 Bibliographies/BIB-Master-APA7]] — Full bibliography (42 refs)
 
+**Books — AI & Society:**
+- [[20 - Literature/20.2 Books/LN-Lawrence-2024-AtomicHuman]] — The Atomic Human: embodied intelligence, HITL theoretical basis
+- [[20 - Literature/20.2 Books/LN-Suleiman-2023-ComingWave]] — The Coming Wave: AI governance and containment context
+- [[20 - Literature/20.2 Books/LN-Shum-2025-PensarConPrompts]] — Pensar con Prompts: CO-STAR, prompt engineering taxonomy
+
+**Books — Agile & PM:**
+- [[20 - Literature/20.2 Books/LN-Beck-1999-XPExplained]] — XP Explained (2nd ed.): story points origin, TDD, adaptive development
+- [[20 - Literature/20.2 Books/LN-Goldratt-2004-TheGoal]] — The Goal: Theory of Constraints; issue backlog as constraint system
+
+**Books — Business Systems (SmartPMO context):**
+- [[20 - Literature/20.2 Books/LN-Carpenter-2025-WorkTheSystem]] — Work the System: SOP documentation; systems mindset
+- [[20 - Literature/20.2 Books/LN-Gerber-2009-EMythRevisited]] — The E-Myth Revisited: franchise prototype; working ON the business
+- [[20 - Literature/20.2 Books/LN-Wickman-2012-Traction]] — Traction / EOS: execution operating system; Rocks; scorecard
+- [[20 - Literature/20.2 Books/LN-Harnish-2022-ScalingUp]] — Scaling Up: Rockefeller Habits; Four Decisions framework
+- [[20 - Literature/20.2 Books/LN-Price-2022-Frictionless]] — Frictionless Organization: CES; friction-free PM design
+
 ---
 
 ## 🧠 Key Permanent Notes

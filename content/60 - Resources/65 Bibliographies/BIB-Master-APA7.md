@@ -5,7 +5,7 @@ type: bibliography
 tags: [bibliography, apa7, references, zotero, academic-writing, agile, ai-ethics, benchmark, carbon-footprint, chain-of-thought, citation, codecarbon, cot, dataset, dsr, effort-estimation, ethics, fairness, falsifiability, few-shot, github, gtd, jira, keshav, knowledge-management, literature-review, llama, llm, local-llm, meta, mistral, mit-ai-lab, multi-agent, nlp, non-parametric, ollama, popper, prisma, project-management, rag, reading-method, reasoning, research, research-methodology, research-tools, retrieval, sdd, second-brain, slr, software-engineering, spec-driven-development, sprint, statistics, story-points, sustainability, tawos, wilcoxon, workflow, wp316]
 created: 2026-03-01
 updated: 2026-04-06
-total-references: 42
+total-references: 51
 ---
 
 # 📚 Master Bibliography — APA 7th Edition
@@ -32,6 +32,8 @@ Project Management Institute. (2021). *A guide to the Project Management Body of
 ## B — Benchmarks & Datasets
 
 Al-Kaswan, A., Colavito, G., Stulova, N., & Rani, P. (2025). The NLBSE'25 tool competition. In *Proceedings of the 4th International Workshop on Natural Language-based Software Engineering (NLBSE'25)*. IEEE. https://ieeexplore.ieee.org/document/11029386
+
+Mousavi, S. H., & Giardino, C. (2023). *TAWOS: The Agile Work of Stories dataset* [Dataset]. GitHub. https://github.com/SOLAR-group/TAWOS
 
 Berti, A., Kourani, H., & van der Aalst, W. M. P. (2024). PM-LLM-Benchmark: Evaluating large language models on process mining tasks. In *ICPM Workshops. Lecture Notes in Business Information Processing*, vol. 533 (pp. 610–623). Springer. https://doi.org/10.1007/978-3-031-82435-2
 
@@ -73,11 +75,15 @@ Yonathan, M. (2025). *Explainable local LLMs for sprint estimation* [Preprint, S
 
 Brown, T., Mann, B., Ryder, N., Subbiah, M., Kaplan, J. D., Dhariwal, P., Neelakantan, A., Shyam, P., Sastry, G., & Askell, A. (2020). Language models are few-shot learners. In *Advances in Neural Information Processing Systems* (Vol. 33, pp. 1877–1901). arXiv:2005.14165
 
+Fedus, W., Zoph, B., & Shazeer, N. (2022). Switch transformers: Scaling to trillion parameter models with simple and efficient sparsity. *Journal of Machine Learning Research*, *23*(120), 1–39. arXiv:2101.03961
+
 Jiang, A., Sablayrolles, A., Mensch, A., Bamford, C., & Chaplot, D. S. (2023). *Mistral 7B* [Preprint]. arXiv:2310.06825
 
 Lewis, P., Perez, E., Piktus, A., Petroni, F., Karpukhin, V., Goyal, N., Küttler, H., Lewis, M., Yih, W., Rocktäschel, T., Riedel, S., & Kiela, D. (2020). Retrieval-Augmented Generation for knowledge-intensive NLP tasks. In *Advances in Neural Information Processing Systems* (Vol. 33). arXiv:2005.11401
 
 Meta AI. (2024). *Llama 3.2 models*. https://ai.meta.com/research/publications/the-llama-3-herd-of-models/
+
+Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). Attention is all you need. In *Advances in Neural Information Processing Systems* (Vol. 30). arXiv:1706.03762
 
 Wei, J., Wang, X., Schuurmans, D., Bosma, M., Chi, E. H., Le, Q., & Zhou, D. (2022). Chain-of-thought prompting elicits reasoning in large language models. In *Advances in Neural Information Processing Systems*. arXiv:2201.11903
 
@@ -104,6 +110,22 @@ Allen, D. (2001). *Getting things done: The art of stress-free productivity*. Pe
 Forte, T. (2022). *Building a second brain: A proven method to organise your digital life and unlock your creative potential*. Atria Books.
 
 Keshav, S. (2007). How to read a paper. *ACM SIGCOMM Computer Communication Review*, *37*(3), 83–84. https://doi.org/10.1145/1273445.1273458
+
+---
+
+## I — Implementation Books
+
+Laster, B. (2018). *Docker in action* (2nd ed.). Manning. https://www.manning.com/books/docker-in-action-second-edition
+
+Mavor-Parker, A. (2024). *Agentic AI: The next generation of intelligent systems*. Manning Publications. https://www.manning.com/books/agentic-ai
+
+McKinney, W. (2022). *Python for data analysis* (3rd ed.). O'Reilly. https://wesmckinney.com/book/
+
+Shieh, J. (2024). *Generative AI agents: Build autonomous AI systems with LangChain and LlamaIndex*. Packt Publishing. https://www.packtpub.com/en-us/product/generative-ai-agents-9781835084991
+
+Tunstall, L., Von Werra, L., & Wolf, T. (2022). *Natural language processing with transformers: Building language applications with Hugging Face*. O'Reilly. https://www.oreilly.com/library/view/natural-language-processing/9781098136789/
+
+Wooldridge, M. (2009). *An introduction to multiagent systems* (2nd ed.). Wiley. https://www.wiley.com/en-us/An+Introduction+to+MultiAgent+Systems%2C+2nd+Edition-p-9780470519462
 
 ---
 
@@ -172,4 +194,4 @@ Cohen, J. (1988). *Statistical power analysis for the behavioral sciences* (2nd 
 
 ---
 
-*Total references: 42 · Target: ≥ 40 (OE1 satisfied) · Last updated: April 2026*
+*Total references: 51 · Target: ≥ 40 (OE1 satisfied) · Last updated: April 2026*

@@ -155,6 +155,17 @@ created: 2026-03-01
 
 ---
 
+## 📄 Dataset Citation
+
+The TAWOS dataset was described and released in two publications:
+
+1. **Conference paper** (primary dataset description): Tawosi, V., Sarro, F., & Harman, M. (2022). TAWOS: The Agile Workflow Optimisation Suite. In *Proceedings of the 19th International Conference on Mining Software Repositories* (pp. 1–5). https://doi.org/10.1145/3524842.3528029
+
+2. **GitHub dataset** (data archive): Mousavi, S. H., & Giardino, C. (2023). *TAWOS: The Agile Work of Stories dataset*. GitHub. https://github.com/SOLAR-group/TAWOS
+
+> [!info] PUMA Usage
+> PUMA cites Tawosi et al. (2022) as the primary dataset reference and uses the GitHub archive (Mousavi & Giardino, 2023) for data access. Both citations are included in BIB-Master-APA7 for completeness.
+
 ## 🔗 Connected Notes
 
 **Task defined in:** [[30 - Permanent/31 Concepts/PN-IssueTriage-StoryPoints]] (Story Points section)

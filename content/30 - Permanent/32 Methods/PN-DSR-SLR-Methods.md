@@ -108,3 +108,6 @@ For AI-assisted screening, document for each AI tool used:
 ## 🔗 Connected Ideas
 **Guides:** [[40 - Projects/PUMA/41.2 Literature-Review/PR-PUMA-Ch2-Ch3-Ch4-Ch5]] | **Uses:** [[30 - Permanent/32 Methods/PN-Wilcoxon-FINER-Cornell-PRISMA]] (FINER + PRISMA) | **Workflow:** [[60 - Resources/62 Workflows/WF-SLR-Pipeline]]
 **Active log:** [[50 - Areas/51 Research/SLR-PRISMA/PRISMA-Log]] | **MOC:** [[80 - MOC/81 Topic-Maps/MOC-Methods-Frameworks]]
+**DSR source:** [[20 - Literature/20.1 Papers/Research-Methods/LN-Hevner-2004-DSR]] — Hevner et al. (2004): 7 guidelines, 3 research cycles
+**SLR source:** [[20 - Literature/20.1 Papers/Research-Methods/LN-Kitchenham-2007-SLR]] — Kitchenham (2007): 3-phase SLR protocol, PICO
+**PRISMA source:** [[20 - Literature/20.1 Papers/Research-Methods/LN-Page-2021-PRISMA2020]] — Page et al. (2021): PRISMA 2020, 27-item checklist

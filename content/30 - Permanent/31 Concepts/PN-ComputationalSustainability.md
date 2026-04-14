@@ -172,6 +172,7 @@ Include a sustainability table in each experiment report:
 - [[50 - Areas/55 Ethics/Ethics-Review-Log]] — sustainability in PUMA ethics chapter
 - [[30 - Permanent/31 Concepts/PN-LLM-Models-PUMA]] — energy profiles of each model
 - [[40 - Projects/PUMA/41.7 Experiments/EX-Hypotheses-H1-H2]] — where CodeCarbon tracking is applied
+- [[20 - Literature/20.1 Papers/AI-Knowledge-Generation/LN-Strubell-2019-EnergyNLP]] — Strubell et al. (2019): foundational energy/CO₂ methodology for NLP; CO₂eq = E × CI × PUE formula
 
 ## MOCs
 

@@ -218,6 +218,7 @@ Multiple comparison correction (BH-FDR) → Report W, p, effect size, CI
 - [[30 - Permanent/31 Concepts/PN-Evaluation-Metrics-Comprehensive]] — full metric reference
 - [[40 - Projects/PUMA/41.7 Experiments/EX-Hypotheses-H1-H2]] — where these tests are applied
 - [[40 - Projects/PUMA/41.2 Literature-Review/PR-PUMA-Ch2-Ch3-Ch4-Ch5]] — methodology chapter
+- [[20 - Literature/20.2 Books/LN-Wohlin-2012-ExperimentationSE]] — source for Wilcoxon test selection rationale, SE validity threat framework
 
 ## MOCs
 

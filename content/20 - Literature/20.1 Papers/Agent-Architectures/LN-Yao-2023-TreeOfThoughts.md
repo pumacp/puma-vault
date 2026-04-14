@@ -4,7 +4,7 @@ title: "Tree of Thoughts: Deliberate Problem Solving with Large Language Models"
 authors: ["Yao, Shunyu", "Yu, Dian", "Zhao, Jeffrey", "Shafran, Izhak", "Griffiths, Thomas L.", "Cao, Yuan", "Narasimhan, Karthik"]
 first-author: "Yao"
 year: 2023
-status: reading
+status: reviewed
 topic: llm-reasoning
 relevance: 3
 citekey: "@Yao2023TreeOfThoughts"

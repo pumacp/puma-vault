@@ -142,6 +142,33 @@ updated: 2026-04-06
 - [[30 - Permanent/31 Concepts/PN-Reflexion-SelfCritique]] — Architecture + PUMA implementation (Stage 4 iterative triage)
 - [[20 - Literature/20.1 Papers/LLM-Agents-General/LN-Shinn-2023-Reflexion]] — Source: Shinn et al. (NeurIPS 2023)
 
+### Marco Veritas (AI Transparency & Academic Integrity)
+- [[30 - Permanent/33 Frameworks/PN-Veritas-Framework]] — Full framework: proactive disclosure, primary source verification, no delegation of judgement
+- [[50 - Areas/51 Research/AI-Use-Log]] — PUMA AI use log (PRISMA-trAIce compliance)
+- **Author**: Codina (2024) · **Applied in**: PUMA Constitution §7, BMAD QA Agent audit
+
+### AI Code Quality (Empirical Evidence)
+- [[20 - Literature/20.7 Blog-Web/LN-CodeRabbit-2025-AIvsHumanCode]] — CodeRabbit (2025): 470 PRs, AI 1.7× more issues, 2.74× security, 3× readability; 7 mitigation strategies mapped to PUMA design
+
+---
+
+## 🏢 Business Systems & Operations Management
+
+### Systems Thinking & Process Documentation
+- [[20 - Literature/20.2 Books/LN-Carpenter-2025-WorkTheSystem]] — Work the System (Carpenter, 2025): systems mindset, SOP documentation, working ON vs. IN the business
+- [[20 - Literature/20.2 Books/LN-Gerber-2009-EMythRevisited]] — The E-Myth Revisited (Gerber, 2009): franchise prototype model, Technician/Manager/Entrepreneur trichotomy
+
+### Business Operating Systems
+- [[20 - Literature/20.2 Books/LN-Wickman-2012-Traction]] — Traction / EOS (Wickman, 2012): 6-component operating system (Vision, People, Data, Issues, Process, Traction)
+- [[20 - Literature/20.2 Books/LN-Harnish-2022-ScalingUp]] — Scaling Up (Harnish, 2022): Rockefeller Habits, Four Decisions, One-Page Strategic Plan
+
+### Theory of Constraints (TOC)
+- [[20 - Literature/20.2 Books/LN-Goldratt-2004-TheGoal]] — The Goal (Goldratt & Cox, 2004): TOC, Five Focusing Steps, Drum-Buffer-Rope, throughput accounting
+- Core concept: identify bottleneck → exploit → subordinate → elevate → repeat
+
+### Customer Experience & Frictionless Design
+- [[20 - Literature/20.2 Books/LN-Price-2022-Frictionless]] — The Frictionless Organization (Price & Jaffe, 2022): Customer Effort Score, friction mapping, DIRTFT, five demand types
+
 ---
 
 ## 🔗 Orphan Check

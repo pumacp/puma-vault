@@ -147,3 +147,4 @@ Priority:
 **PM application:** [[30 - Permanent/31 Concepts/PN-IssueTriage-StoryPoints]] | **Framework:** [[30 - Permanent/33 Frameworks/PN-RCOIF-Framework]]
 **Datasets:** [[20 - Literature/20.3 Datasets/LN-Datasets-JiraSR-TAWOS]] | **Structure:** [[30 - Permanent/30 Zettelkasten-Hub/ST-Prompting-Strategies]]
 **MOC:** [[80 - MOC/81 Topic-Maps/MOC-Methods-Frameworks]]
+**Foundational paper:** [[20 - Literature/20.1 Papers/LLM-Agents-General/LN-Wei-2022-ChainOfThought]] — Wei et al. (2022): original CoT paper, scaling analysis, zero-shot CoT

@@ -28,6 +28,14 @@ updated: 2026-04-06
 
 ---
 
+## 🏗️ Foundational LLM Architecture
+
+- [[20 - Literature/20.1 Papers/LLM-Agents-General/LN-Vaswani-2017-AttentionIsAllYouNeed]] — Transformer architecture: attention mechanism, the backbone of all modern LLMs (NeurIPS 2017)
+- [[20 - Literature/20.1 Papers/LLM-Agents-General/LN-Fedus-2022-SwitchTransformers]] — MoE: sparse routing, expert capacity, DeepSeek-V3/Mixtral lineage (JMLR 2022)
+- [[20 - Literature/20.1 Papers/LLM-Agents-General/LN-Wei-2022-ChainOfThought]] — CoT prompting: reasoning chains emerge at scale >100B parameters (NeurIPS 2022)
+
+---
+
 ## 🤖 Agent Architectures
 
 ### Foundation Papers
@@ -106,6 +114,12 @@ updated: 2026-04-06
 - [[20 - Literature/20.1 Papers/Agent-Architectures/LN-Jimenez-2023-SWEbench]] — SWE-bench (code fixing baseline)
 - [[20 - Literature/20.1 Papers/LLM-Agents-General/LN-Mialon-2023-GAIA]] — GAIA (general AI assistant benchmark)
 - [[20 - Literature/20.1 Papers/AIOps-DevOps/LN-Chen-2025-AIOpsLab]] — AIOpsLab (AIOps benchmark)
+
+---
+
+## 🔍 AI Code Quality & Code Review
+
+- [[20 - Literature/20.7 Blog-Web/LN-CodeRabbit-2025-AIvsHumanCode]] — ⭐ CodeRabbit (2025): AI vs Human PRs — 470 PRs, 1.7× more issues, 2.74× security CVEs, 3× readability deficit, 7 mitigation strategies
 
 ---
 

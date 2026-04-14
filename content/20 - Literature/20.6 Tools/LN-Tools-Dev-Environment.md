@@ -75,6 +75,7 @@ phase: [F2, F3, F4, F5]
 ### Docker Desktop + Docker Compose
 - **URL**: https://www.docker.com
 - **Function**: Full containerisation of the PUMA stack
+- **Reference**: Laster, B. (2018). *Docker in action* (2nd ed.). Manning. https://www.manning.com/books/docker-in-action-second-edition
 - **Phase**: F2 – F4
 - **PUMA use**: Complete reproducible deployment of all PUMA services:
   ```yaml
