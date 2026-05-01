@@ -4,7 +4,7 @@ title: "Knowledge Coverage Report — PUMA Vault Expansion (April 2026)"
 topic: vault-management
 tags: [report, knowledge-coverage, vault-expansion, literature-review, gaps, puma-core, research, zettelkasten, bibliography, moc, permanent, literature-note, keshav]
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-05-01
 ---
 
 # Knowledge Coverage Report — PUMA Vault Expansion (April 2026)
@@ -16,12 +16,15 @@ updated: 2026-04-13
 
 ## Executive Summary
 
-| Metric | Before Expansion | After Expansion | Delta |
-|--------|-----------------|-----------------|-------|
-| Literature notes (LN-) | ~95 | **105** | +10 |
-| Permanent notes (PN-) | ~15 | **26** | +11 |
-| Book notes | 0 | **4** | +4 |
-| MOC entries updated | — | **2** | — |
+| Metric | Before Expansion | After Expansion (Apr) | After Expansion (May) | Delta Total |
+|--------|-----------------|----------------------|----------------------|-------------|
+| Literature notes (LN-) | ~95 | **105** | 105 | +10 |
+| Permanent notes (PN-) | ~15 | **26** | **31** | +16 |
+| Book notes | 0 | **4** | 4 | +4 |
+| MOC entries updated | — | **2** | **3** | — |
+
+> [!note] May 2026 Update
+> 5 high-priority permanent notes created (May 2026): `PN-ContextEngineering`, `PN-MCP-ModelContextProtocol`, `PN-TreeOfThoughts-Deliberate`, `PN-RLHF-Constitutional`, `PN-Transformer-MoE`. MOC-Methods-Frameworks updated with all 5 entries.
 
 ---
 
@@ -109,13 +112,15 @@ updated: 2026-04-13
 
 ### High Priority (Required for PUMA thesis)
 
-| Gap | Impact | Suggested Action |
-|-----|--------|-----------------|
-| `PN-ContextEngineering` | Missing synthesis of context window as primary design space | Create from existing notes |
-| `PN-MCP-ModelContextProtocol` | MCP used in PUMA Stage 5 but not documented | Create from Hou et al. + MCP docs |
-| `PN-TreeOfThoughts-Deliberate` | ToT referenced but no standalone permanent note | Create from `LN-Yao-2023-TreeOfThoughts` |
-| `PN-RLHF-Constitutional` | Training paradigms referenced but not documented | Create from public sources |
-| `PN-Transformer-MoE` | Architecture basis for all models; no dedicated note | Create as technical reference |
+> [!success] All High Priority Gaps Resolved — May 2026
+
+| Gap | Status | Created |
+|-----|--------|---------|
+| `PN-ContextEngineering` | ✅ Done | 2026-05-01 |
+| `PN-MCP-ModelContextProtocol` | ✅ Done | 2026-05-01 |
+| `PN-TreeOfThoughts-Deliberate` | ✅ Done | 2026-05-01 |
+| `PN-RLHF-Constitutional` | ✅ Done | 2026-05-01 |
+| `PN-Transformer-MoE` | ✅ Done | 2026-05-01 |
 
 ### Medium Priority (Enriches thesis)
 

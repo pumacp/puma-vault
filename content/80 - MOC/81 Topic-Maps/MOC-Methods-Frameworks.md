@@ -4,7 +4,7 @@ title: "🧠 MOC — Methods & Frameworks"
 type: moc
 tags: [moc, methods, frameworks, methodology, academic-writing, ami, architecture, artefact, benchmark, bmad, chain-of-thought, contextual-anchoring, cornell-notes, cot, drca, dsr, effect-size, effort-estimation, egi, few-shot, finer, github, gtd, iipr, index, issue-triage, johnny-decimal, keshav, knowledge-management, literature-review, llm, mit-ai-lab, multi-agent, non-parametric, note-taking, obsidian, one-shot, openspec, para, permanent-note, pipeline, prisma, prompting, rcoif, reading-method, research, research-methodology, sdd, slr, spec-driven-development, spec-kit, statistics, story-points, template, triage, vault, wilcoxon, workflow, wp316, zero-shot, zettelkasten]
 created: 2026-03-01
-updated: 2026-04-06
+updated: 2026-05-01
 ---
 
 # 🧠 MOC — Methods & Frameworks
@@ -141,6 +141,30 @@ updated: 2026-04-06
 ### Reflexion (Verbal Self-Reflection Loop)
 - [[30 - Permanent/31 Concepts/PN-Reflexion-SelfCritique]] — Architecture + PUMA implementation (Stage 4 iterative triage)
 - [[20 - Literature/20.1 Papers/LLM-Agents-General/LN-Shinn-2023-Reflexion]] — Source: Shinn et al. (NeurIPS 2023)
+
+### Tree of Thoughts (ToT)
+- [[30 - Permanent/31 Concepts/PN-TreeOfThoughts-Deliberate]] — BFS/DFS search over reasoning steps; PUMA Stage 3 sprint planning
+- [[20 - Literature/20.1 Papers/Agent-Architectures/LN-Yao-2023-TreeOfThoughts]] — Source: Yao et al. (NeurIPS 2023)
+- Key distinction from CoT: supports backtracking; 18.5× improvement on multi-step problems; 50–200× compute cost
+
+### Context Engineering (CE)
+- [[30 - Permanent/31 Concepts/PN-ContextEngineering]] — Six-slot context pipeline; token budget allocation; context pollution mitigation
+- [[20 - Literature/20.4 Videos-Podcasts/YouTube/Context-Engineering/LN-Videos-Context-Engineering]] — Video references
+- CE = 2026 successor to Prompt Engineering: design the *information system* that fills the context, not just the prompt text
+
+### RLHF and Constitutional AI
+- [[30 - Permanent/31 Concepts/PN-RLHF-Constitutional]] — RLHF pipeline, DPO, Constitutional AI, RLAIF; alignment method per PUMA model
+- Alignment training paradigm for all PUMA models (Llama-Instruct, Claude Sonnet, DeepSeek-R1)
+
+### Model Context Protocol (MCP)
+- [[30 - Permanent/31 Concepts/PN-MCP-ModelContextProtocol]] — Architecture, security threats, PUMA Stage 5 integration
+- [[20 - Literature/20.1 Papers/AIOps-DevOps/LN-Hou-2025-MCP-Security]] — Source: Hou et al. (2025)
+- [[20 - Literature/20.4 Videos-Podcasts/YouTube/MCP-Protocols/LN-Videos-MCP-Protocols]] — Video references
+
+### Transformer Architecture and MoE
+- [[30 - Permanent/31 Concepts/PN-Transformer-MoE]] — Self-attention, GQA, RoPE, SwiGLU, MoE routing, KV cache; PUMA model technical reference
+- [[20 - Literature/20.1 Papers/LLM-Agents-General/LN-Fedus-2022-SwitchTransformers]] — MoE source: Fedus et al. (JMLR 2022)
+- Foundation for understanding DeepSeek-V3 MoE efficiency rationale (671B total / 37B active)
 
 ### Marco Veritas (AI Transparency & Academic Integrity)
 - [[30 - Permanent/33 Frameworks/PN-Veritas-Framework]] — Full framework: proactive disclosure, primary source verification, no delegation of judgement
