@@ -6,7 +6,7 @@ channel: "NetworkChuck"
 url: "https://www.youtube.com/watch?v=GuTcle5edjk"
 year: 2025
 status: to-watch
-tags: [video, mcp, protocol, fundamentals, aiops, anthropic, api, claude, devops, github, jira, moc, python, security, smart-pmo, video-note]
+tags: [video, mcp, protocol, fundamentals, aiops, anthropic, api, devops, github, jira, moc, python, security, smart-pmo, video-note]
 phase: ['F2', 'F3']
 rating: 5
 created: 2026-04-06

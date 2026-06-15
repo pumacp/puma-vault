@@ -3,7 +3,7 @@ id: PN-EGI-Framework
 title: "EGI — Exploración Guiada Interactiva (Guided Interactive Exploration)"
 type: permanent-note
 category: framework
-tags: [permanent, framework, prompting, egi, exploration, methodology, academic-writing, ami, anthropic, claude, llm, permanent-note, project-management, rcoif, thesis]
+tags: [permanent, framework, prompting, egi, exploration, methodology, academic-writing, ami, anthropic, llm, permanent-note, project-management, rcoif]
 aliases: ["EGI", "Guided Interactive Exploration"]
 created: 2026-03-01
 maturity: evergreen
@@ -38,12 +38,12 @@ key metric, and whether it is reproducible."
 ```
 "Based on what you've described, what are the most significant 
 gaps in the literature on [X]? Which gaps are most tractable 
-for a 6-month MSc thesis with local compute?"
+for a 6-month research project with local compute?"
 ```
 
 ## 🧩 Application to PUMA
 
-Used in F0 (Initiation) to map: LLM benchmarks landscape, PM+AI literature, prompting strategies for classification tasks. See: 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-EGI-Exploration
+Used in F0 (Initiation) to map: LLM benchmarks landscape, PM+AI literature, prompting strategies for classification tasks. See: 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-OpenCode-EGI-Exploration
 
 ## 🔗 Connected Ideas
 **Part of:** [[PN-MIT-Student-Method]] | **Uses:** [[PN-RCOIF-Framework]] | **Followed by:** PN-AMI-Framework

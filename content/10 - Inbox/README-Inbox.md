@@ -22,7 +22,7 @@ created: 2026-03-01
 
 > [!tip] Decision Tree
 > Ask: *Is this from an external source?*
-> - **Yes** → Literature Note in `[[20 - Literature/]]`
-> - **No, own insight** → Permanent Note in `[[30 - Permanent/]]`
+> - **Yes** → Literature Note in `20 - Literature/`
+> - **No, own insight** → Permanent Note in `30 - Permanent/`
 > - **No, a task** → `[[90 - GTD/91 Tasks/TASKS-Active]]`
 > - **Neither** → Delete

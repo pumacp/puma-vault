@@ -2,7 +2,7 @@
 id: WF-Daily-Research-Routine
 title: "Workflow: Daily Research Routine"
 type: workflow
-tags: [workflow, gtd, daily, routine, mit-student-method, academic-writing, ai-tools, anthropic, baseline, bdd, benchmark, carbon-footprint, checklist, claude, code-review, codecarbon, cornell-notes, data-formats, dataset, dev-tools, drca, effect-size, evaluation, falsifiability, github, ide, index, json, literature-note, literature-review, local-llm, metrics, moc, non-parametric, note-taking, obsidian, ollama, permanent-note, perplexity, pipeline, planning, popper, precision-recall, prisma, prompt-engineering, prompting, python, rcoif, research, research-tools, rest-api, semantic-scholar, slr, statistics, sustainability, tdd, template, vault, wilcoxon, zotero]
+tags: [workflow, gtd, daily, routine, mit-student-method, academic-writing, ai-tools, anthropic, baseline, bdd, benchmark, carbon-footprint, checklist, code-review, codecarbon, cornell-notes, data-formats, dataset, dev-tools, drca, effect-size, evaluation, falsifiability, github, ide, index, json, literature-note, literature-review, local-llm, metrics, moc, non-parametric, note-taking, obsidian, ollama, permanent-note, perplexity, pipeline, planning, popper, precision-recall, prisma, prompt-engineering, prompting, python, rcoif, research, research-tools, rest-api, semantic-scholar, slr, statistics, sustainability, tdd, template, vault, wilcoxon, zotero]
 created: 2026-03-01
 ---
 
@@ -81,7 +81,7 @@ Step 6 — AI CHECK (optional, 5–10 min)
 
 ```
 Step 1 — Review spec (5 min)
-  Open relevant spec: [[40 - Projects/PUMA/41.6 Specs/]]
+  Open relevant spec: 40 - Projects/PUMA/41.6 Specs/
   Review BDD scenarios for today's component
 
 Step 2 — Write tests first (15 min) [BDD/TDD]
@@ -89,7 +89,7 @@ Step 2 — Write tests first (15 min) [BDD/TDD]
   Tests must match BDD scenarios
 
 Step 3 — Implement (30–60 min)
-  Use Claude Code or Cursor AI for scaffolding
+  Use OpenCode or Cursor AI for scaffolding
   Review ALL generated code line by line
   Ensure you can explain every function
 

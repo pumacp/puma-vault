@@ -2,7 +2,7 @@
 id: MOC-Tools-Stack
 title: "🔧 MOC — PUMA Full Technology Stack"
 type: moc
-tags: [moc, tools, stack, technology, puma, ollama, claude, perplexity, zotero, academic-writing, ai-tools, anthropic, anythingllm, api, architecture, automation, benchmark, bibliography, chain-of-thought, cicd, citation, cot, crewai, dashboard, dataset, dev-tools, devops, docker, effort-estimation, elicit, embeddings, gemini, github, google, gpt, human-in-the-loop, ide, jira, knowledge-management, langgraph, literature-review, llama, llm, lm-studio, local-llm, meta, metrics, mistral, multi-agent, nlp, notebooklm, obsidian, openai, opencode, openhands, openspec, orchestration, pipeline, precision-recall, project-management, prompting, pydantic, python, rag, rcoif, react, reasoning, reasoning-action, research, research-tools, rest-api, retrieval, scrum, sdd, semantic-scholar, slr, software-engineering, spec-driven-development, story-points, swe-bench, tawos, template, vault, vector-db]
+tags: [moc, tools, stack, technology, puma, ollama, perplexity, zotero, academic-writing, ai-tools, anthropic, anythingllm, api, architecture, automation, benchmark, bibliography, chain-of-thought, cicd, citation, cot, crewai, dashboard, dataset, dev-tools, devops, docker, effort-estimation, elicit, embeddings, gemini, github, google, gpt, human-in-the-loop, ide, jira, knowledge-management, langgraph, literature-review, llama, llm, lm-studio, local-llm, meta, metrics, mistral, multi-agent, nlp, notebooklm, obsidian, openai, opencode, openhands, openspec, orchestration, pipeline, precision-recall, project-management, prompting, pydantic, python, rag, rcoif, react, reasoning, reasoning-action, research, research-tools, rest-api, retrieval, scrum, sdd, semantic-scholar, slr, software-engineering, spec-driven-development, story-points, swe-bench, tawos, template, vault, vector-db]
 created: 2026-04-06
 updated: 2026-04-06
 ---
@@ -52,7 +52,7 @@ updated: 2026-04-06
 ### Role A — Research Assistance & Conversational Tools
 | Model                  | Phase   | Strength / Best for                     | Note / Prompt |
 |------------------------|---------|-----------------------------------------|---------------|
-| Claude (claude.ai)     | F0+     | Long-context synthesis, structured reasoning, research synthesis, writing | [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-RCOIF-Research]] |
+| Claude     | F0+     | Long-context synthesis, structured reasoning, research synthesis, writing | [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-OpenCode-RCOIF-Research]] |
 | ChatGPT GPT-4o         | F0–F2   | Cross-validation / Contrasting perspective | 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-ChatGPT-SLR-Synthesis |
 | Gemini 1.5 Flash       | F0–F1   | Exploration + free API / Multimodal, long context | 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Gemini-Multimodal |
 | DeepSeek-R1            | F1–F4   | Explicit CoT reasoning / Technical stats | 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-DeepSeek-Reasoning |
@@ -99,7 +99,7 @@ updated: 2026-04-06
 | VS Code + Python ext  | F2–F4   | Primary IDE                       | — |
 | GitHub Copilot        | F2–F4   | Inline completion / Code assistance (declared) | [[60 - Resources/61 Prompts/61.3 Dev-Tools/PT-DevTools-Prompts]] |
 | Cursor AI             | F2–F3   | Context-aware editor / Multi-file refactoring | [[60 - Resources/61 Prompts/61.3 Dev-Tools/PT-DevTools-Prompts]] |
-| Claude Code (CLI)     | F2–F4   | AI coding agent                   | [[20 - Literature/20.6 Tools/LN-Tools-Ollama-ClaudeCode-OpenCode-BrowserOS]] |
+| OpenCode (CLI)     | F2–F4   | AI coding agent                   | [[20 - Literature/20.6 Tools/LN-Tools-Ollama-ClaudeCode-OpenCode-BrowserOS]] |
 | OpenCode              | F2–F3   | Open-source coding agent          | [[20 - Literature/20.6 Tools/LN-Tools-Ollama-ClaudeCode-OpenCode-BrowserOS]] |
 | OpenHands             | F2–F3   | Autonomous / Agentic scaffolding  | — |
 | Warp AI Terminal      | F2–F4   | Smart terminal / CLI AI           | [[60 - Resources/61 Prompts/61.3 Dev-Tools/PT-DevTools-Prompts]] |
@@ -199,7 +199,7 @@ updated: 2026-04-06
 - [[30 - Permanent/31 Concepts/PN-LLM-Local-vs-Cloud]] — Why local inference
 - [[30 - Permanent/31 Concepts/PN-RAG-Embeddings-VectorDB]] — RAG technical foundations
 - [[40 - Projects/PUMA/41.6 Specs/SP-PUMA-Constitution]] — Tool constraints (Articles 1–7)
-- [[20 - Literature/20.6 Tools/LN-Tools-Ollama-ClaudeCode-OpenCode-BrowserOS]] — Ollama + Claude Code + OpenCode + BrowserOS
+- [[20 - Literature/20.6 Tools/LN-Tools-Ollama-ClaudeCode-OpenCode-BrowserOS]] — Ollama + OpenCode + OpenCode + BrowserOS
 - [[SP-Architecture]] — Python + Ollama architecture
 
 **Reddit Communities (Informal sources)**

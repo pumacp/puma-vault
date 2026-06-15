@@ -2,7 +2,7 @@
 id: LN-Videos-Research-Literature
 title: "🎬 Videos — Academic Research, Literature Review & AI Research Tools"
 type: literature-videos
-tags: [videos, research, literature-review, semantic-scholar, consensus, research-rabbit, puma, academic-writing, anthropic, claude, dev-tools, gpt, ide, literature-note, llm, metrics, moc, openai, para, pipeline, precision-recall, prisma, research-tools, slr, thesis, workflow]
+tags: [videos, research, literature-review, semantic-scholar, consensus, research-rabbit, puma, academic-writing, anthropic, dev-tools, gpt, ide, literature-note, llm, metrics, moc, openai, para, pipeline, precision-recall, prisma, research-tools, slr, workflow]
 created: 2026-04-06
 updated: 2026-04-06
 total-videos: 42
@@ -68,7 +68,7 @@ phase: [F0, F1]
 | 31 | This AI Generates Research Papers in Minutes \| Should Academics Be Worried? | Andy Stapleton | https://www.youtube.com/watch?v=dBQtLiL4ooE | AI paper generation concerns |
 | 32 | Las IA que Uso para Publicar Papers (Y Las Que Evito) | Ph.D. Alejandro Medina | https://www.youtube.com/watch?v=XLmaQcDVi8E | PhD perspective on AI for papers |
 | 33 | 8 formas de usar DeepSeek en tu INVESTIGACIÓN \| IA AVANZADA para Doctorandos | Ph.D. Alejandro Medina | https://www.youtube.com/watch?v=g9rkARGW1wo | DeepSeek for research |
-| 34 | Cómo usar la Inteligencia Artificial para encontrar ARTÍCULOS académicos en tu TESIS | Ph.D. Alejandro Medina | https://www.youtube.com/watch?v=xJw0Vw1UCh8 | AI for thesis article discovery |
+| 34 | Cómo usar la Inteligencia Artificial para encontrar ARTÍCULOS académicos en tu TESIS | Ph.D. Alejandro Medina | https://www.youtube.com/watch?v=xJw0Vw1UCh8 | AI for the project report article discovery |
 
 ---
 

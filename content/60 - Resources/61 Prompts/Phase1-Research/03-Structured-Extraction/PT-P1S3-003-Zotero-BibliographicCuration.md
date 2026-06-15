@@ -6,7 +6,7 @@ tool: zotero
 phase: Phase1-Research
 step: "03-Structured-Extraction"
 methodology: [PRISMA, Marco-Veritas, APA7]
-tags: [prompt, zotero, bibliography, curation, puma, apa7, academic-writing, aiops, benchmark, citation, dataset, devops, effort-estimation, issue-triage, literature-review, llm, moc, obsidian, prisma, project-management, prompt-template, research, research-tools, slr, story-points, thesis, triage, vault]
+tags: [prompt, zotero, bibliography, curation, puma, apa7, academic-writing, aiops, benchmark, citation, dataset, devops, effort-estimation, issue-triage, literature-review, llm, moc, obsidian, prisma, project-management, prompt-template, research, research-tools, slr, story-points, triage, vault]
 rating: 5
 created: 2026-04-07
 updated: 2026-04-07
@@ -25,7 +25,7 @@ updated: 2026-04-07
 
 ```
 PUMA-Literature-2026/
-├── 01-Core-Papers/          # Directly cited in thesis
+├── 01-Core-Papers/          # Directly cited in the project
 │   ├── LLM-Agents-General/
 │   ├── Agent-Architectures/
 │   ├── PM-AI-Convergence/
@@ -39,7 +39,7 @@ PUMA-Literature-2026/
 ## Tag System
 
 ```
-#core-citation      — directly cited in PUMA thesis
+#core-citation      — directly cited in PUMA project
 #to-verify          — Marco Veritas: DOI/source not yet checked
 #verified           — primary source confirmed
 #excluded-EC1       — excluded: not empirical

@@ -5,7 +5,7 @@ type: bmad-prd
 version: "1.2"
 phase: planning
 status: approved
-tags: [bmad, prd, requirements, puma, sdd, anthropic, api, architecture, artefact, benchmark, bias, carbon-footprint, chain-of-thought, claude, codecarbon, cot, critical-thinking, dataset, dsr, effect-size, effort-estimation, ethics, falsifiability, fine-tuning, github, gpt, hypothesis, ict, issue-triage, jira, literature-review, llama, llm, local-llm, meta, metrics, mistral, moc, multi-agent, non-parametric, ollama, openai, pec, planning, popper, precision-recall, project-management, python, rag, red-teaming, research-methodology, retrieval, slr, smart-pmo, software-engineering, spec-driven-development, sprint, statistics, story-points, sustainability, tawos, triage, wilcoxon]
+tags: [bmad, prd, requirements, puma, sdd, anthropic, api, architecture, artefact, benchmark, bias, carbon-footprint, chain-of-thought, codecarbon, cot, critical-thinking, dataset, dsr, effect-size, effort-estimation, ethics, falsifiability, fine-tuning, github, gpt, hypothesis, ict, issue-triage, jira, literature-review, llama, llm, local-llm, meta, metrics, mistral, moc, multi-agent, non-parametric, ollama, openai, planning, popper, precision-recall, project-management, python, rag, red-teaming, research-methodology, retrieval, slr, smart-pmo, software-engineering, spec-driven-development, sprint, statistics, story-points, sustainability, tawos, triage, wilcoxon]
 created: 2026-03-01
 updated: 2026-04-06
 ---
@@ -54,14 +54,14 @@ No existing solution combines: (1) reproducible local LLM evaluation, (2) system
 
 | ID | Objective | Metric | Deadline |
 |----|-----------|--------|----------|
-| OE1 | SLR: ≥40 references, comparative table | Table with gap mapping | PEC1 ✅ |
-| OE2 | Define H1 + H2 with full operationalisation | Falsifiable hypotheses | PEC1 ✅ |
-| OE3 | Download + prepare Jira SR + TAWOS datasets | Reproducible scripts, bias doc | PEC2 |
-| OE4 | Triage module: 4 strategies × 2 models | F1-macro table + Wilcoxon | PEC2 |
-| OE5 | Estimation module: TAWOS + baselines | MAE vs Deep-SE / CoGEE | PEC3 |
-| OE6 | Full experiment: stats + CodeCarbon | p-values, CI, gCO₂eq table | PEC4 |
-| OE7 | Discuss results vs H1/H2 + limitations | Discussion chapter | PEC4 |
-| OE8 | Publish GitHub MIT repo with docs | README + notebook + v1.0 tag | PEC5 |
+| OE1 | SLR: ≥40 references, comparative table | Table with gap mapping | Milestone 1 ✅ |
+| OE2 | Define H1 + H2 with full operationalisation | Falsifiable hypotheses | Milestone 1 ✅ |
+| OE3 | Download + prepare Jira SR + TAWOS datasets | Reproducible scripts, bias doc | Milestone 2 |
+| OE4 | Triage module: 4 strategies × 2 models | F1-macro table + Wilcoxon | Milestone 2 |
+| OE5 | Estimation module: TAWOS + baselines | MAE vs Deep-SE / CoGEE | Milestone 3 |
+| OE6 | Full experiment: stats + CodeCarbon | p-values, CI, gCO₂eq table | Milestone 4 |
+| OE7 | Discuss results vs H1/H2 + limitations | Discussion chapter | Milestone 4 |
+| OE8 | Publish GitHub MIT repo with docs | README + notebook + v1.0 tag | Milestone 5 |
 
 ---
 
@@ -144,4 +144,4 @@ From this PRD:
 
 ---
 
-*PRD v1.2 — Approved 2026-04-01 — Next review: PEC2 delivery*
+*PRD v1.2 — Approved 2026-04-01 — Next review: Milestone 2 delivery*

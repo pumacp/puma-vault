@@ -2,7 +2,7 @@
 id: CL-SLR-Quality-Criteria
 title: "Checklist: SLR Quality Assessment Criteria"
 type: checklist
-tags: [checklist, slr, quality, prisma, ebse, academic-writing, ai-ethics, anthropic, api, baseline, bibliography, carbon-footprint, citation, claude, codecarbon, data-formats, dataset, dev-tools, ethics, evaluation, ide, json, literature-review, local-llm, non-parametric, obsidian, ollama, prompting, python, rcoif, research, research-methodology, research-tools, statistics, sustainability, thesis, validity, wilcoxon, zotero]
+tags: [checklist, slr, quality, prisma, ebse, academic-writing, ai-ethics, anthropic, api, baseline, bibliography, carbon-footprint, citation, codecarbon, data-formats, dataset, dev-tools, ethics, evaluation, ide, json, literature-review, local-llm, non-parametric, obsidian, ollama, prompting, python, rcoif, research, research-methodology, research-tools, statistics, sustainability, validity, wilcoxon, zotero]
 created: 2026-03-01
 ---
 
@@ -131,7 +131,7 @@ created: 2026-03-01
 
 # Checklist: AI Output Validation (Marco Veritas)
 
-> Apply whenever AI output is being considered for incorporation into thesis or research decisions.
+> Apply whenever AI output is being considered for incorporation into the project or research decisions.
 
 ## Before Using AI Output
 
@@ -153,7 +153,7 @@ created: 2026-03-01
 - [ ] Discrepancies investigated before accepting AI version
 - [ ] AI output rewritten entirely in my own words before incorporation
 
-### For code outputs (Claude Code, Copilot, Cursor):
+### For code outputs (OpenCode, Copilot, Cursor):
 - [ ] I understand every line of generated code
 - [ ] I can explain what the code does and why
 - [ ] Tests written for generated code

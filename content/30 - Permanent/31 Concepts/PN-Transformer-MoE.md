@@ -193,7 +193,7 @@ For PUMA local deployment: **Q4_K_M is the recommended compromise** (acceptable 
 
 ## Ch.3 Methods Reference
 
-For PUMA thesis Chapter 3 (Methodology), reference this note when:
+For PUMA project Chapter 3 (Methodology), reference this note when:
 - Explaining the model selection rationale (MoE efficiency → DeepSeek-V3 as API baseline)
 - Justifying context window choices (RoPE-extended 128k → sufficient for issue + few-shot examples)
 - Describing inference setup (quantisation level, KV cache overhead, batch size)

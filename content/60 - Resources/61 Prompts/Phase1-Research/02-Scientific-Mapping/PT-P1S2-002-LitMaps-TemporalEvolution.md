@@ -6,7 +6,7 @@ tool: litmaps
 phase: Phase1-Research
 step: "02-Scientific-Mapping"
 methodology: [Bibliometrics, Timeline-Analysis]
-tags: [prompt, litmaps, timeline, temporal-analysis, puma, academic-writing, automation, benchmark, bibliography, carbon-footprint, citation, code-review, codecarbon, connected-papers, effort-estimation, github, human-in-the-loop, issue-triage, llm, local-llm, moc, multi-agent, observability, orchestration, project-management, prompt-template, react, reasoning-action, research-tools, story-points, sustainability, thesis, tracing, triage, zotero]
+tags: [prompt, litmaps, timeline, temporal-analysis, puma, academic-writing, automation, benchmark, bibliography, carbon-footprint, citation, code-review, codecarbon, connected-papers, effort-estimation, github, human-in-the-loop, issue-triage, llm, local-llm, moc, multi-agent, observability, orchestration, project-management, prompt-template, react, reasoning-action, research-tools, story-points, sustainability, tracing, triage, zotero]
 rating: 5
 created: 2026-04-07
 updated: 2026-04-07
@@ -52,7 +52,7 @@ Which papers published between 2024 and 2026 on AI agents in project management 
 2. Expand to 50–80 papers using the auto-discovery feature
 3. Set timeline view: 2020–2026
 4. Export as BibTeX → Zotero
-5. Save timeline screenshot for PUMA thesis Figure 2 (literature evolution)
+5. Save timeline screenshot for PUMA project Figure 2 (literature evolution)
 
 ---
 

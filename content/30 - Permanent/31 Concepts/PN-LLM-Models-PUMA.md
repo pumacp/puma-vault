@@ -2,7 +2,7 @@
 type: permanent
 title: "LLM Models Used in PUMA — Technical Reference"
 topic: llm-models
-tags: [permanent, llm, models, llama, mistral, phi, gemma, deepseek, gpt4o, claude, qwen, moe, quantization, ollama, puma-core, research, benchmark, effort-estimation, issue-triage, agents, architecture]
+tags: [permanent, llm, models, llama, mistral, phi, gemma, deepseek, gpt4o, qwen, moe, quantization, ollama, puma-core, research, benchmark, effort-estimation, issue-triage, agents, architecture]
 created: 2026-04-13
 updated: 2026-04-13
 aliases: ["PUMA Models", "LLM Comparison", "Model Reference"]
@@ -11,7 +11,7 @@ aliases: ["PUMA Models", "LLM Comparison", "Model Reference"]
 # PN: LLM Models Used in PUMA — Technical Reference
 
 > [!abstract] Core Idea
-> PUMA experiments compare local open-source models (run via Ollama) against proprietary cloud APIs. This note catalogs each model's architecture, key specifications, Ollama identifiers, and relevance to PUMA's evaluation methodology.
+> PUMA experiments evaluate local open-weight models (run via Ollama); proprietary cloud APIs are referenced only as out-of-scope comparison points (not evaluated). This note catalogs each model's architecture, key specifications, Ollama identifiers, and relevance to PUMA's evaluation methodology.
 
 ---
 
@@ -43,13 +43,13 @@ $$y = \sum_{i \in \text{Top-k}} g_i \cdot E_i(x)$$
 - **Sparse activation**: Only 2–8 experts fire per token despite total model having many more parameters
 - **Benefit**: Larger effective capacity at lower inference cost than equivalent dense model
 - **Examples**: Mixtral 8×7B, DeepSeek-V3 (256 experts, 37B active/671B total)
-- **PUMA**: DeepSeek-V3 is the frontier MoE model tested in cloud evaluation
+- **PUMA**: DeepSeek-V3 is referenced as a frontier MoE model for comparison only — out of scope (PUMA evaluates local open-weight models)
 
 ---
 
 ## Open-Source Local Models
 
-### Llama 3.2 8B (Meta, 2024)
+### Llama 3.1 8B (Meta, 2024)
 
 | Property | Value |
 |----------|-------|
@@ -57,9 +57,9 @@ $$y = \sum_{i \in \text{Top-k}} g_i \cdot E_i(x)$$
 | **Architecture** | Transformer (dense), GQA |
 | **Context** | 128K tokens |
 | **Training tokens** | 15T |
-| **Ollama tag** | `llama3.2:8b` |
+| **Ollama tag** | `llama3.1:8b` |
 | **GGUF quantization** | Q4_K_M (~5GB VRAM) |
-| **License** | Llama 3.2 Community (commercial allowed ≤700M MAU) |
+| **License** | Llama 3.1 Community (commercial allowed ≤700M MAU) |
 
 **PUMA relevance**: Primary local baseline; strong instruction following; 128K context allows multi-shot prompting. GQA reduces KV-cache memory for long contexts.
 
@@ -147,7 +147,7 @@ $$y = \sum_{i \in \text{Top-k}} g_i \cdot E_i(x)$$
 | **Input cost** | $2.50 / 1M tokens |
 | **Output cost** | $10.00 / 1M tokens |
 
-**PUMA relevance**: Frontier cloud baseline; upper-bound reference for H1/H2 experiments. GPT-4o's JSON mode (`response_format={"type": "json_object"}`) directly supports PUMA's structured output requirements.
+**PUMA relevance**: Out-of-scope cloud model; cited only as an external reference point (not evaluated in PUMA). GPT-4o's JSON mode (`response_format={"type": "json_object"}`) directly supports PUMA's structured output requirements.
 
 ---
 
@@ -157,7 +157,7 @@ $$y = \sum_{i \in \text{Top-k}} g_i \cdot E_i(x)$$
 |----------|-------|
 | **Architecture** | Constitutional AI + RLHF; transformer-based |
 | **Context** | 200K tokens |
-| **API** | `claude-3-5-sonnet-20241022` / `claude-sonnet-4` |
+| **API** | `claude-3-5-sonnet-20241022` / `` |
 | **Strength** | Long context, structured output, careful instruction following |
 
 **PUMA relevance**: Tested as alternative cloud model; 200K context allows embedding full TAWOS dataset subsets. Strong for few-shot examples with long issue descriptions.
@@ -197,13 +197,13 @@ $$y = \sum_{i \in \text{Top-k}} g_i \cdot E_i(x)$$
 
 | Model | Track | Rationale |
 |-------|-------|-----------|
-| Llama 3.2 8B | Local (primary) | Best balance of capability and resource requirements |
+| Llama 3.1 8B | Local (primary) | Best balance of capability and resource requirements |
 | Mistral 7B | Local | Apache 2.0 license; strong JSON compliance |
 | Phi-3.5 Mini | Local (efficiency) | Tests minimum viable deployment |
 | Gemma 2 9B | Local | Google architecture variant; novel attention |
-| GPT-4o | Cloud (primary) | Performance upper bound |
+| GPT-4o | Cloud (out of scope — reference only) | Performance upper bound |
 | DeepSeek-R1 7B | Local (reasoning) | Open reasoning model; CoT alignment with PUMA |
-| DeepSeek-V3 | Cloud (open-weight) | Validates open frontier model feasibility |
+| DeepSeek-V3 | Cloud (out of scope — reference only) | Validates open frontier model feasibility |
 
 ---
 

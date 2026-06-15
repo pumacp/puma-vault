@@ -3,7 +3,7 @@ id: PN-AMI-Framework
 title: "AMI — Autodiagnóstico y Mejora Iterativa"
 type: permanent-note
 category: framework
-tags: [permanent, framework, prompting, ami, iteration, self-improvement, academic-writing, anthropic, claude, drca, falsifiability, hypothesis, iipr, issue-triage, literature-review, llm, local-llm, ollama, permanent-note, popper, prompt-engineering, rcoif, research, research-methodology, sdd, slr, spec-driven-development, template, triage, validity, zettelkasten]
+tags: [permanent, framework, prompting, ami, iteration, self-improvement, academic-writing, anthropic, drca, falsifiability, hypothesis, iipr, issue-triage, literature-review, llm, local-llm, ollama, permanent-note, popper, prompt-engineering, rcoif, research, research-methodology, sdd, slr, spec-driven-development, template, triage, validity, zettelkasten]
 aliases: ["AMI", "Autodiagnosis Iterative Improvement"]
 created: 2026-03-01
 maturity: evergreen
@@ -47,7 +47,7 @@ What problems remain from your previous diagnosis?"
 ```
 
 ## 🧩 Application to PUMA
-Used to refine: research hypotheses H1/H2, prompt templates for experiments, Chapter 1 argumentation. See: 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-AMI-Review
+Used to refine: research hypotheses H1/H2, prompt templates for experiments, Chapter 1 argumentation. See: 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-OpenCode-AMI-Review
 
 ## 🔗 Connected Ideas
 **Part of:** [[PN-MIT-Student-Method]] | **Pairs with:** PN-IIPR-Framework
@@ -73,7 +73,7 @@ title: "DRCA — Deconstrucción y Reconstrucción Conceptual Avanzada"
 | **A**dvance | What new permanent note, hypothesis, or design decision does this generate? | Zettelkasten atom |
 
 ## 🧩 Application to PUMA
-Every paper in the SLR goes through DRCA. The "Advance" step produces the permanent notes in `30 - Permanent/`. See: 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-DRCA-Paper
+Every paper in the SLR goes through DRCA. The "Advance" step produces the permanent notes in `30 - Permanent/`. See: 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-OpenCode-DRCA-Paper
 
 ## 🔗 Connected Ideas
 **Part of:** [[PN-MIT-Student-Method]] | **Produces:** [[00 - Meta/Templates/Template-Permanent-Note]]

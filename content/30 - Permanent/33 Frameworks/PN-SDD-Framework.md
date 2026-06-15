@@ -3,7 +3,7 @@ id: PN-SDD-Framework
 title: "Spec-Driven Development (SDD) + BDD + BMAD"
 type: permanent-note
 category: framework
-tags: [permanent, framework, sdd, bdd, tdd, bmad, specification, engineering, anthropic, architecture, artefact, carbon-footprint, claude, code-review, codecarbon, critical-thinking, data-formats, dataset, dev-tools, dsr, effort-estimation, few-shot, github, ide, issue-triage, jira, json, literature-review, local-llm, metrics, multi-agent, ollama, openspec, permanent-note, precision-recall, prompt-engineering, prompting, rcoif, reasoning, red-teaming, research-methodology, slr, spec-driven-development, spec-kit, story-points, sustainability, template, triage, workflow]
+tags: [permanent, framework, sdd, bdd, tdd, bmad, specification, engineering, anthropic, architecture, artefact, carbon-footprint, code-review, codecarbon, critical-thinking, data-formats, dataset, dev-tools, dsr, effort-estimation, few-shot, github, ide, issue-triage, jira, json, literature-review, local-llm, metrics, multi-agent, ollama, openspec, permanent-note, precision-recall, prompt-engineering, prompting, rcoif, reasoning, red-teaming, research-methodology, slr, spec-driven-development, spec-kit, story-points, sustainability, template, triage, workflow]
 aliases: ["SDD", "Spec-First", "Spec-Driven", "BMAD"]
 created: 2026-03-01
 updated: 2026-03-01
@@ -118,13 +118,13 @@ B: Brainstorm — What components does the triage agent need?
    Human: Selects: prompt builder + Ollama client + output parser + metric calc + CodeCarbon
 
 M: Map — How do they connect?
-   [Architecture diagram → SP-Architecture-v1]
+   [Architecture diagram → SP-Architecture]
 
 A: Architect — Write spec for each component
-   [→ SP-Triage-Agent-v1, SP-Dataset-Preparation, etc.]
+   [→ SP-Triage-Agent, SP-Dataset-Preparation, etc.]
 
 D: Develop — Generate from specs
-   [Claude Code / Cursor AI scaffold, human review]
+   [OpenCode / Cursor AI scaffold, human review]
 ```
 
 ---
@@ -143,3 +143,8 @@ D: Develop — Generate from specs
 - BDD scenarios must be written BEFORE the code — writing them after defeats the purpose
 - AI-generated specs need careful human review: the AI optimises for plausibility, not correctness
 - BMAD requires resisting the urge to jump to D (Develop) before completing A (Architect)
+
+## Related atomic notes (Phase 4.3)
+- [[PN-MEM-027]]
+- [[PH-PHASE-016]]
+- [[PH-PHASE-020]]

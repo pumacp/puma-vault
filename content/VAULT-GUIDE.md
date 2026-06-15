@@ -46,7 +46,6 @@ tags:
   - navigation
   - openspec
   - para
-  - pec
   - permanent-note
   - pipeline
   - precision-recall
@@ -157,7 +156,7 @@ This is the **PUMA Knowledge Vault** — a professional workspace for the PUMA P
 
 Every Sunday or Monday, open `90 - GTD/95 Reviews/Weekly-Review-Template`:
 1. Process Inbox to zero
-2. Review all active projects (PEC progress, sprint board)
+2. Review all active projects (milestone progress, sprint board)
 3. Convert Fleeting Notes → Literature Notes or Permanent Notes
 4. Update MOCs with new connections
 5. Review Waiting For items (advisor feedback, etc.)
@@ -242,7 +241,7 @@ Every Sunday or Monday, open `90 - GTD/95 Reviews/Weekly-Review-Template`:
 | OR Zotero citekey | `@` | `@Angermeir2025Reproducibility.md` |
 | Permanent Note | `PN-` | `PN-RAG-Embeddings-VectorDB.md` |
 | Project Note | `PR-PUMA-` | `PR-PUMA-Ch1-Introduction.md` |
-| Spec | `SP-` | `SP-Architecture-v1.md` |
+| Spec | `SP-` | `SP-Architecture.md` |
 | Experiment | `EX-` | `EX-Hypotheses-H1-H2.md` |
 | Prompt Template | `PT-` | `PT-PUMA-Experiment-Prompts.md` |
 | Workflow | `WF-` | `WF-SLR-Pipeline.md` |
@@ -336,11 +335,11 @@ Every note carries a prefix encoding its type, enabling Dataview queries, filter
 | `ST-` | Structure Note | 30 - Permanent | ST-Prompting-Strategies |
 | `SRC-` | Source Note | 30 - Permanent/36 Sources | SRC-Keshav-2007-HowToReadPaper |
 | `PER-` | Person Note | 30 - Permanent/37 Persons | PER-Yao-Shunyu |
-| `RES-` | Results Note | 30 - Permanent/34 Results | RES-Results-Placeholders |
+| `RES-` | Results Note | 30 - Permanent/34 Results | RES-Results-Index |
 | `PR-` | Project Note | 40 - Projects | PR-PUMA-Ch1-Introduction |
-| `SP-` | Spec Note | 40 - Projects/Specs | SP-Triage-Agent-v1 |
+| `SP-` | Spec Note | 40 - Projects/Specs | SP-Triage-Agent |
 | `EX-` | Experiment Note | 40 - Projects/Experiments | EX-Llama32-ZeroShot-Triage |
-| `PT-` | Prompt Template | 60 - Resources/61 Prompts | PT-Claude-RCOIF-Research |
+| `PT-` | Prompt Template | 60 - Resources/61 Prompts | PT-OpenCode-RCOIF-Research |
 | `WF-` | Workflow Note | 60 - Resources/62 Workflows | WF-SLR-Pipeline |
 | `CL-` | Checklist | 60 - Resources/63 Checklists | CL-Quality-Checklists |
 | `BIB-` | Bibliography | 60 - Resources/65 Bibliographies | BIB-Master-APA7 |
@@ -354,7 +353,7 @@ Every note carries a prefix encoding its type, enabling Dataview queries, filter
 
 ## The .claude Folder & Skills
 
-The `.claude/` folder is the AI integration layer of the vault. It contains the **PUMA skill library** (custom skills) and the **obsidian-skills plugin**. These turn Claude Code into a domain-aware research assistant that understands vault conventions and research methodologies.
+The `.claude/` folder is the AI integration layer of the vault. It contains the **PUMA skill library** (custom skills) and the **obsidian-skills plugin**. These turn OpenCode into a domain-aware research assistant that understands vault conventions and research methodologies.
 
 ### PUMA Custom Skills
 
@@ -431,7 +430,7 @@ The `.claude/` folder is the AI integration layer of the vault. It contains the 
 ### AI-Powered Research Platforms
 
 #### NotebookLM Research Notebooks
-The following notebooks represent specialized AI contexts trained on the project's specific bibliographic corpus for synthesis and deep analysis.
+The following notebooks represent specialized AI contexts trained on the project's specific bibliographic corpus for the project and deep analysis.
 
 - [ ] **PUMA - 1. AI Agents & Swarm Intelligence** | [Access Notebook](https://notebooklm.google.com/notebook/07a22c3a-f60a-4a82-8260-bf8236ca6855)
 - [ ] **PUMA - 1. Scientific Ideation** | [Access Notebook (Preview)](https://notebooklm.google.com/notebook/7cf6498c-223f-424e-8fe5-39c31a235f23/preview)
@@ -468,7 +467,7 @@ Publicly shared searches and bibliographies focused on evidence-based AI researc
 Centralized metadata and PDF management for all project citations.
 
 > [!info] [PUMA Public Library (Zotero)](https://www.zotero.org/pumacp/library)
-> *RSS/API Access:* [JSON/Atom Feed](https://api.zotero.org/users/20166221/items/top?direction=asc&format=atom&sort=title&key=LJRpz6CWHKqns1k1fgbZylhL)
+> *RSS/API Access:* [JSON/Atom Feed](https://www.zotero.org/pumacp/library)
 
 #### Researcher.Discovery Reading Lists
 Curated collections for specific project domains.
@@ -504,7 +503,7 @@ Curated collections for specific project domains.
 * **Perplexity PUMA Space:** [Access Space](https://www.perplexity.ai/spaces/puma-6IpatdqAS_yOxg9j69qvAQ)
 
 #### Research Session Artifacts
-* **Claude (Scientific Ideation Session):** [View Chat Share](https://claude.ai/share/b3b80d43-d1bd-49ac-a067-53bd3d7c0f93)
+* **Claude (Scientific Ideation Session):** [View Chat Share](https://the LLM platform/share/b3b80d43-d1bd-49ac-a067-53bd3d7c0f93)
 * **ChatGPT (Scientific Ideation Session):** [View Chat Share](https://chatgpt.com/share/69d689d8-2150-8389-ab5d-3500e8c0b930)
 
 ---
@@ -728,7 +727,7 @@ All files are listed as clickable relative links, organized by folder following 
 
 * [LN-Videos-Dev-Tools-IDE.md](20%20-%20Literature/20.4%20Videos-Podcasts/YouTube/Dev-Tools-IDE/LN-Videos-Dev-Tools-IDE.md)
 * [VID-DEV-001 · Demo De Ticket a Pull Request en 30 minutos](20%20-%20Literature/20.4%20Videos-Podcasts/YouTube/Dev-Tools-IDE/VID-DEV-001-Demo-De-Ticket-a-Pull-Request-en-30-minutos.md)
-* [VID-DEV-002 · 12 Claude Code Features Every Engineer Should Know](20%20-%20Literature/20.4%20Videos-Podcasts/YouTube/Dev-Tools-IDE/VID-DEV-002-12-Claude-Code-Features-Every-Engineer-Should.md)
+* [VID-DEV-002 · 12 OpenCode Features Every Engineer Should Know](20%20-%20Literature/20.4%20Videos-Podcasts/YouTube/Dev-Tools-IDE/VID-DEV-002-12-Claude-Code-Features-Every-Engineer-Should.md)
 * [VID-DEV-003 · AI Testing Series Day 1 — Test AI 10x Faster](20%20-%20Literature/20.4%20Videos-Podcasts/YouTube/Dev-Tools-IDE/VID-DEV-003-AI-Testing-Series-Day-1--Test-AI-10x-Faster.md)
 * [VID-DEV-004 · How I use Cursor — my best tips](20%20-%20Literature/20.4%20Videos-Podcasts/YouTube/Dev-Tools-IDE/VID-DEV-004-How-I-use-Cursor--my-best-tips.md)
 * [VID-DEV-005 · OpenCode — Probablemente la mejor herramienta](20%20-%20Literature/20.4%20Videos-Podcasts/YouTube/Dev-Tools-IDE/VID-DEV-005-OpenCode-Probablemente-la-mejor-herramienta.md)
@@ -767,7 +766,7 @@ All files are listed as clickable relative links, organized by folder following 
 * [VID-LOC-002 · Ollama vs LM Studio vs Docker Models vs Llama](20%20-%20Literature/20.4%20Videos-Podcasts/YouTube/Local-LLM-Ollama/VID-LOC-002-Ollama-vs-LM-Studio-vs-Docker-Models-vs-Llama.md)
 * [VID-LOC-003 · Run a Powerful AI Agent Locally (Hermes Agent)](20%20-%20Literature/20.4%20Videos-Podcasts/YouTube/Local-LLM-Ollama/VID-LOC-003-Run-a-Powerful-AI-Agent-Locally--Hermes-Agen.md)
 * [VID-LOC-004 · DEJA de pagar ChatGPT — Despliega tu propia IA](20%20-%20Literature/20.4%20Videos-Podcasts/YouTube/Local-LLM-Ollama/VID-LOC-004-DEJA-de-pagar-ChatGPT-Despliega-tu-propia-IA.md)
-* [VID-LOC-005 · Claude Code con Modelos Locales](20%20-%20Literature/20.4%20Videos-Podcasts/YouTube/Local-LLM-Ollama/VID-LOC-005-Claude-Code-con-Modelos-Locales-Privacidad-y.md)
+* [VID-LOC-005 · OpenCode con Modelos Locales](20%20-%20Literature/20.4%20Videos-Podcasts/YouTube/Local-LLM-Ollama/VID-LOC-005-Claude-Code-con-Modelos-Locales-Privacidad-y.md)
 
 </details>
 
@@ -963,7 +962,7 @@ All files are listed as clickable relative links, organized by folder following 
 </details>
 
 #### 34 Results
-- [RES-Results-Placeholders.md](30%20-%20Permanent/34%20Results/RES-Results-Placeholders.md)
+- [RES-Results-Index.md](30%20-%20Permanent/34%20Results/RES-Results-Index.md)
 
 #### 36 Sources
 - [SRC-Keshav-2007-HowToReadPaper.md](30%20-%20Permanent/36%20Sources/SRC-Keshav-2007-HowToReadPaper.md)
@@ -1011,10 +1010,10 @@ All files are listed as clickable relative links, organized by folder following 
 <details>
   <summary>+ Click to expand</summary>
 
-- [SP-Architecture-v1.md](40%20-%20Projects/PUMA/41.6%20Specs/SP-Architecture-v1.md)
+- [SP-Architecture.md](40%20-%20Projects/PUMA/41.6%20Specs/SP-Architecture.md)
 - [SP-Estimation-Dataset-Specs.md](40%20-%20Projects/PUMA/41.6%20Specs/SP-Estimation-Dataset-Specs.md)
 - [SP-PUMA-Constitution.md](40%20-%20Projects/PUMA/41.6%20Specs/SP-PUMA-Constitution.md)
-- [SP-Triage-Agent-v1.md](40%20-%20Projects/PUMA/41.6%20Specs/SP-Triage-Agent-v1.md)
+- [SP-Triage-Agent.md](40%20-%20Projects/PUMA/41.6%20Specs/SP-Triage-Agent.md)
 
 </details>
 
@@ -1045,7 +1044,7 @@ All files are listed as clickable relative links, organized by folder following 
   <summary>+ Click to expand</summary>
 
 - [AI-Use-Log.md](50%20-%20Areas/51%20Research/AI-Use-Log.md)
-- [AI-Use-Log-PEC2-Entry.md](50%20-%20Areas/51%20Research/AI-Use-Log-PEC2-Entry.md)
+- [AI-Use-Log-Entry.md](50%20-%20Areas/51%20Research/AI-Use-Log-Entry.md)
 - [Keshav-Reading-Log.md](50%20-%20Areas/51%20Research/Keshav-ThreePass/Keshav-Reading-Log.md)
 - [MIT-AILab-Reading-Practice.md](50%20-%20Areas/51%20Research/MIT-AILab-Method/MIT-AILab-Reading-Practice.md)
 - [PRISMA-Log.md](50%20-%20Areas/51%20Research/SLR-PRISMA/PRISMA-Log.md)
@@ -1076,7 +1075,7 @@ All files are listed as clickable relative links, organized by folder following 
 
 ##### 61.1 LLM-Tools
 - [PT-Advanced-Prompts-IIPR-Anchoring-AgentOS.md](60%20-%20Resources/61%20Prompts/61.1%20LLM-Tools/PT-Advanced-Prompts-IIPR-Anchoring-AgentOS.md)
-- [PT-Claude-RCOIF-Research.md](60%20-%20Resources/61%20Prompts/61.1%20LLM-Tools/PT-Claude-RCOIF-Research.md)
+- [PT-OpenCode-RCOIF-Research.md](60%20-%20Resources/61%20Prompts/61.1%20LLM-Tools/PT-OpenCode-RCOIF-Research.md)
 - [PT-LLM-Tools-All-Prompts.md](60%20-%20Resources/61%20Prompts/61.1%20LLM-Tools/PT-LLM-Tools-All-Prompts.md)
 
 ##### 61.2 Research-Tools
@@ -1120,7 +1119,7 @@ All files are listed as clickable relative links, organized by folder following 
 
 - [PT-P1S2-001-ConnectedPapers-CitationMap.md](60%20-%20Resources/61%20Prompts/Phase1-Research/02-Scientific-Mapping/PT-P1S2-001-ConnectedPapers-CitationMap.md)
 - [PT-P1S2-002-LitMaps-TemporalEvolution.md](60%20-%20Resources/61%20Prompts/Phase1-Research/02-Scientific-Mapping/PT-P1S2-002-LitMaps-TemporalEvolution.md)
-- [PT-P1S2-003-Claude-LiteratureSynthesis-RCOIF.md](60%20-%20Resources/61%20Prompts/Phase1-Research/02-Scientific-Mapping/PT-P1S2-003-Claude-LiteratureSynthesis-RCOIF.md)
+- [PT-P1S2-003-OpenCode-LiteratureSynthesis-RCOIF.md](60%20-%20Resources/61%20Prompts/Phase1-Research/02-Scientific-Mapping/PT-P1S2-003-OpenCode-LiteratureSynthesis-RCOIF.md)
 - [PT-P1S2-004-Perplexity-FastEvidenceMap.md](60%20-%20Resources/61%20Prompts/Phase1-Research/02-Scientific-Mapping/PT-P1S2-004-Perplexity-FastEvidenceMap.md)
 - [PT-P1S2-005-Gemini-BroadCorpusSynthesis.md](60%20-%20Resources/61%20Prompts/Phase1-Research/02-Scientific-Mapping/PT-P1S2-005-Gemini-BroadCorpusSynthesis.md)
 
@@ -1141,7 +1140,7 @@ All files are listed as clickable relative links, organized by folder following 
 <details>
   <summary>+ Click to expand</summary>
 
-- [PT-P1S4-001-Claude-TheoreticalFramework.md](60%20-%20Resources/61%20Prompts/Phase1-Research/04-Conceptual-Synthesis/PT-P1S4-001-Claude-TheoreticalFramework.md)
+- [PT-P1S4-001-OpenCode-TheoreticalFramework.md](60%20-%20Resources/61%20Prompts/Phase1-Research/04-Conceptual-Synthesis/PT-P1S4-001-OpenCode-TheoreticalFramework.md)
 - [PT-P1S4-002-ChatGPT-ZettelkastenNotes.md](60%20-%20Resources/61%20Prompts/Phase1-Research/04-Conceptual-Synthesis/PT-P1S4-002-ChatGPT-ZettelkastenNotes.md)
 - [PT-P1S4-003-Gemini-ConceptualModel.md](60%20-%20Resources/61%20Prompts/Phase1-Research/04-Conceptual-Synthesis/PT-P1S4-003-Gemini-ConceptualModel.md)
 
@@ -1151,7 +1150,7 @@ All files are listed as clickable relative links, organized by folder following 
 <details>
   <summary>+ Click to expand</summary>
 
-- [PT-P1S5-001-Claude-HypothesisFormulation.md](60%20-%20Resources/61%20Prompts/Phase1-Research/05-Hypothesis-Generation/PT-P1S5-001-Claude-HypothesisFormulation.md)
+- [PT-P1S5-001-OpenCode-HypothesisFormulation.md](60%20-%20Resources/61%20Prompts/Phase1-Research/05-Hypothesis-Generation/PT-P1S5-001-OpenCode-HypothesisFormulation.md)
 - [PT-P1S5-002-ChatGPT-RivalHypotheses.md](60%20-%20Resources/61%20Prompts/Phase1-Research/05-Hypothesis-Generation/PT-P1S5-002-ChatGPT-RivalHypotheses.md)
 
 </details>
@@ -1160,7 +1159,7 @@ All files are listed as clickable relative links, organized by folder following 
 <details>
   <summary>+ Click to expand</summary>
 
-- [PT-P1S6-001-Claude-ExperimentProtocol.md](60%20-%20Resources/61%20Prompts/Phase1-Research/06-Experimental-Design/PT-P1S6-001-Claude-ExperimentProtocol.md)
+- [PT-P1S6-001-OpenCode-ExperimentProtocol.md](60%20-%20Resources/61%20Prompts/Phase1-Research/06-Experimental-Design/PT-P1S6-001-OpenCode-ExperimentProtocol.md)
 - [PT-P1S6-002-ChatGPT-DatasetPreparation.md](60%20-%20Resources/61%20Prompts/Phase1-Research/06-Experimental-Design/PT-P1S6-002-ChatGPT-DatasetPreparation.md)
 
 </details>
@@ -1169,7 +1168,7 @@ All files are listed as clickable relative links, organized by folder following 
 <details>
   <summary>+ Click to expand</summary>
 
-- [PT-P1S7-001-Claude-PeerReviewSimulation.md](60%20-%20Resources/61%20Prompts/Phase1-Research/07-Critical-Review/PT-P1S7-001-Claude-PeerReviewSimulation.md)
+- [PT-P1S7-001-OpenCode-PeerReviewSimulation.md](60%20-%20Resources/61%20Prompts/Phase1-Research/07-Critical-Review/PT-P1S7-001-OpenCode-PeerReviewSimulation.md)
 - [PT-P1S7-002-Grok-AdversarialCritique.md](60%20-%20Resources/61%20Prompts/Phase1-Research/07-Critical-Review/PT-P1S7-002-Grok-AdversarialCritique.md)
 - [PT-P1S7-003-Perplexity-ClaimVerification.md](60%20-%20Resources/61%20Prompts/Phase1-Research/07-Critical-Review/PT-P1S7-003-Perplexity-ClaimVerification.md)
 
@@ -1179,8 +1178,8 @@ All files are listed as clickable relative links, organized by folder following 
 <details>
   <summary>+ Click to expand</summary>
 
-- [PT-P2-001-Claude-ArchitectureDesign-SDD.md](60%20-%20Resources/61%20Prompts/Phase2-Development/PT-P2-001-Claude-ArchitectureDesign-SDD.md)
-- [PT-P2-002-CursorClaudeCode-Implementation.md](60%20-%20Resources/61%20Prompts/Phase2-Development/PT-P2-002-CursorClaudeCode-Implementation.md)
+- [PT-P2-001-OpenCode-ArchitectureDesign-SDD.md](60%20-%20Resources/61%20Prompts/Phase2-Development/PT-P2-001-OpenCode-ArchitectureDesign-SDD.md)
+- [PT-P2-002-Cursor-Implementation.md](60%20-%20Resources/61%20Prompts/Phase2-Development/PT-P2-002-Cursor-Implementation.md)
 - [PT-P2-003-PromptEngineering-AgentPrompts.md](60%20-%20Resources/61%20Prompts/Phase2-Development/PT-P2-003-PromptEngineering-AgentPrompts.md)
 - [PT-P2-004-AcademicWriting-ThesisChapters.md](60%20-%20Resources/61%20Prompts/Phase2-Development/PT-P2-004-AcademicWriting-ThesisChapters.md)
 
@@ -1220,7 +1219,7 @@ All files are listed as clickable relative links, organized by folder following 
 
 - [BIB-Master-APA7.md](60%20-%20Resources/65%20Bibliographies/BIB-Master-APA7.md)
 - [BIB-Supplement.md](60%20-%20Resources/65%20Bibliographies/BIB-Supplement.md)
-- [BIB-Supplement-PEC2-AIKnowledge.md](60%20-%20Resources/65%20Bibliographies/BIB-Supplement-PEC2-AIKnowledge.md)
+- [BIB-Supplement-AIKnowledge.md](60%20-%20Resources/65%20Bibliographies/BIB-Supplement-AIKnowledge.md)
 
 </details>
 

@@ -3,7 +3,7 @@ id: LN-Video-Karpathy-Tokenization
 title: "Video: Let's build the GPT Tokenizer — Andrej Karpathy"
 type: literature-note
 subtype: video
-tags: [literature, video, youtube, karpathy, tokenization, llm-internals, academic-writing, accuracy, api, architecture, benchmark, code-review, cornell-notes, critical-thinking, dataset, devops, docker, effort-estimation, fleeting-note, github, gpt, hypothesis, issue-triage, langgraph, literature-note, literature-review, llama, llm, lm-studio, local-llm, meta, metrics, mistral, multi-agent, note-taking, ollama, openai, orchestration, pipeline, prompt-engineering, python, rag, reasoning, red-teaming, research, research-methodology, rest-api, retrieval, slr, smart-pmo, story-points, template, thesis, triage, validity, workflow]
+tags: [literature, video, youtube, karpathy, tokenization, llm-internals, academic-writing, accuracy, api, architecture, benchmark, code-review, cornell-notes, critical-thinking, dataset, devops, docker, effort-estimation, fleeting-note, github, gpt, hypothesis, issue-triage, langgraph, literature-note, literature-review, llama, llm, lm-studio, local-llm, meta, metrics, mistral, multi-agent, note-taking, ollama, openai, orchestration, pipeline, prompt-engineering, python, rag, reasoning, red-teaming, research, research-methodology, rest-api, retrieval, slr, smart-pmo, story-points, template, triage, validity, workflow]
 author: "Andrej Karpathy"
 channel: "Andrej Karpathy"
 url: "https://youtu.be/zduSFxRajkE"
@@ -103,7 +103,7 @@ created: 2026-03-01
 
 # Reddit r/LocalLlama — Benchmark Discussions
 
-> **Type:** Informal community source. Treat as exploration/hypothesis generation only. Never cite directly in academic thesis without primary source verification.
+> **Type:** Informal community source. Treat as exploration/hypothesis generation only. Never cite directly in academic project without primary source verification.
 
 ---
 

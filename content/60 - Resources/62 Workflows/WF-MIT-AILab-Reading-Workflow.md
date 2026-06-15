@@ -2,7 +2,7 @@
 id: WF-MIT-AILab-Reading-Workflow
 title: "🔄 Workflow — MIT AI Lab Q1/Q2/Q3 + Keshav Integrated Reading"
 type: workflow
-tags: [workflow, keshav, mit-ai-lab, wp316, reading, slr, puma, academic-writing, ai-tools, ami, anthropic, bibliography, citation, claude, dataset, drca, egi, elicit, fleeting-note, jira, literature-note, literature-review, moc, permanent-note, perplexity, prisma, project-management, prompting, rcoif, reading-method, research, research-methodology, research-tools, tawos, template, validity, zotero]
+tags: [workflow, keshav, mit-ai-lab, wp316, reading, slr, puma, academic-writing, ai-tools, ami, anthropic, bibliography, citation, dataset, drca, egi, elicit, fleeting-note, jira, literature-note, literature-review, moc, permanent-note, perplexity, prisma, project-management, prompting, rcoif, reading-method, research, research-methodology, research-tools, tawos, template, validity, zotero]
 created: 2026-04-06
 updated: 2026-04-06
 ---

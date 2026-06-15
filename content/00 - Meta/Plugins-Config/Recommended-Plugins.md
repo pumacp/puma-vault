@@ -104,7 +104,7 @@ kanban-plugin: board
 - [ ] Implement TriageAgent class
 
 ## ✅ Done
-- [x] PEC1 submitted
+- [x] Milestone 1 submitted
 - [x] Environment verified
 ```
 

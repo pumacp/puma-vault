@@ -149,3 +149,8 @@ updated: 2026-04-06
 - [[80 - MOC/81 Topic-Maps/MOC-PUMA-Master]]
 - [[80 - MOC/81 Topic-Maps/MOC-Literature-Review]]
 - [[80 - MOC/81 Topic-Maps/MOC-Methods-Frameworks]]
+
+## Closure: empirical results & models
+- [[MOC-Results-Empirical]]
+- [[MOC-Evaluated-Models]]
+- [[MOC-Results-Cells]]

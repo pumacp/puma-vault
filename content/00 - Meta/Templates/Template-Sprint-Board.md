@@ -1,21 +1,20 @@
 ---
 id: "SPRINT-{{sprint-number}}"
-title: "Sprint {{sprint-number}} — {{pec}}"
+title: "Sprint {{sprint-number}} — {{milestone}}"
 type: sprint-board
 sprint: "{{sprint-number}}"
-pec: "{{pec}}"
 start-date: "{{date}}"
 end-date: ""
 goal: ""
-tags: [sprint, kanban, gtd, agile, backlog, pec, puma, template]
+tags: [sprint, kanban, gtd, agile, backlog, puma, template]
 created: "{{date}}"
 ---
 
-# 🏃 Sprint "{{sprint-number}}" — "{{pec}}"
+# 🏃 Sprint "{{sprint-number}}" — "{{milestone}}"
 
 **Goal**: "{{goal}}"
 **Period**: "{{start-date}}" → "{{end-date}}"
-**PEC Deadline**: "{{pec-deadline}}"
+**milestone Deadline**: "{{milestone-deadline}}"
 
 ---
 

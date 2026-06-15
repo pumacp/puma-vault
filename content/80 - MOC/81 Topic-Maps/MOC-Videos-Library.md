@@ -2,7 +2,7 @@
 id: MOC-Videos-Library
 title: "🎬 MOC — PUMA Video Library (Master Map)"
 type: moc
-tags: [moc, videos, youtube, library, puma, academic-writing, agile, anthropic, architecture, bmad, claude, context-engineering, dev-tools, devops, docker, embeddings, evaluation, ide, issue-triage, knowledge-management, literature-review, llm, lm-studio, local-llm, mcp, mcp-security, metrics, multi-agent, navigation, obsidian, ollama, openspec, para, pipeline, pkm, precision-recall, project-management, prompt-engineering, promptfoo, protocol, rag, research, retrieval, sdd, second-brain, security, slr, smart-pmo, spec-driven-development, spec-kit, sprint, testing, thesis, triage, vault, vector-db]
+tags: [moc, videos, youtube, library, puma, academic-writing, agile, anthropic, architecture, bmad, context-engineering, dev-tools, devops, docker, embeddings, evaluation, ide, issue-triage, knowledge-management, literature-review, llm, lm-studio, local-llm, mcp, mcp-security, metrics, multi-agent, navigation, obsidian, ollama, openspec, para, pipeline, pkm, precision-recall, project-management, prompt-engineering, promptfoo, protocol, rag, research, retrieval, sdd, second-brain, security, slr, smart-pmo, spec-driven-development, spec-kit, sprint, testing, triage, vault, vector-db]
 created: 2026-04-06
 updated: 2026-04-06
 total-videos: 281
@@ -41,14 +41,14 @@ These are the highest-relevance videos, directly informing core PUMA design deci
 
 | Title | Category | Why Critical |
 |-------|---------|-------------|
-| Karpathy Just Replaced RAG With Obsidian + Claude Code | Agents | PUMA vault design + Autoresearch |
+| Karpathy Just Replaced RAG With Obsidian + OpenCode | Agents | PUMA vault design + Autoresearch |
 | The Official BMad-Method Masterclass | SDD-BMAD | PUMA's BMAD agent team foundation |
 | 12-Factor Agents: Patterns of reliable LLM applications | Agents | PUMA Constitution alignment |
 | AgentOS VS BMAD VS Spec Kit: Which Framework? | SDD-BMAD | Methodology justification |
 | How to Build a Scalable RAG System (Full Architecture) | RAG | Stage 4 architecture design |
 | 3 Advanced AI agent design patterns | Agents | Core agent design patterns |
 | Construyendo IA Fiable: Evals, Trazabilidad y Observabilidad | Observability | Evaluation framework design |
-| El viejo Product Manager ha muerto: bienvenido el IA PM | PM-Agile | PUMA's thesis validation |
+| El viejo Product Manager ha muerto: bienvenido el IA PM | PM-Agile | PUMA's project validation |
 | El clásico Sprint hoy es demasiado lento | PM-Agile | Sprint velocity; estimation context |
 | I Built a Second Brain That Organises Itself | PM-Agile | PUMA Obsidian vault design |
 | Context Engineering Clearly Explained | Context Eng | CE = new prompt engineering |

@@ -52,7 +52,7 @@ All AI tools used in the research process must be declared explicitly — in the
 ### 2. Primary Source Verification
 Every reference, fact, or claim sourced via an AI tool (ChatGPT, Perplexity, Claude, etc.) must be verified against the original primary source before inclusion in the work.
 
-> PUMA implementation: All 30 references in BIB-Supplement-PEC2 verified at primary source level; no hallucinated references accepted.
+> PUMA implementation: All 30 references in BIB-Supplement verified at primary source level; no hallucinated references accepted.
 
 ### 3. Author's Voice Rewriting
 AI-generated text may not be copy-pasted into academic submissions. Every AI-assisted passage must be substantially rewritten in the author's own voice before it appears in the final work.
@@ -62,12 +62,12 @@ AI-generated text may not be copy-pasted into academic submissions. Every AI-ass
 ### 4. Retained Intellectual Authority
 The researcher retains full intellectual responsibility for all claims, interpretations, and conclusions. AI-assisted reasoning does not transfer liability to the tool.
 
-> PUMA: Author signs off on all experiment designs, statistical interpretations, and thesis conclusions regardless of AI assistance in drafting.
+> PUMA: Author signs off on all experiment designs, statistical interpretations, and project conclusions regardless of AI assistance in drafting.
 
 ### 5. Audit Trail Availability
 All AI interactions relevant to the research must be logged and available for review by supervisors, reviewers, or ethics boards on request.
 
-> PUMA implementation: `[[50 - Areas/51 Research/AI-Use-Log]]` and `[[50 - Areas/51 Research/AI-Use-Log-PEC2-Entry]]` — full session-level logs available.
+> PUMA implementation: `[[50 - Areas/51 Research/AI-Use-Log]]` and `[[50 - Areas/51 Research/AI-Use-Log-Entry]]` — full session-level logs available.
 
 ---
 
@@ -143,7 +143,7 @@ Marco Veritas Compliance Checklist
 ## Related Notes
 
 - [[50 - Areas/51 Research/AI-Use-Log]] — PUMA AI use log (PRISMA-trAIce compliance)
-- [[50 - Areas/51 Research/AI-Use-Log-PEC2-Entry]] — PEC2 session log entry
+- [[50 - Areas/51 Research/AI-Use-Log-Entry]] — Milestone 2 session log entry
 - [[30 - Permanent/32 Methods/PN-Wilcoxon-FINER-Cornell-PRISMA]] — PRISMA-trAIce extension
 - [[40 - Projects/PUMA/41.6 Specs/SP-PUMA-Constitution]] — PUMA Constitution §7
 - [[50 - Areas/55 Ethics/Ethics-Review-Log]] — hallucination risk + ethics decisions
@@ -154,3 +154,6 @@ Marco Veritas Compliance Checklist
 
 - [[80 - MOC/81 Topic-Maps/MOC-Methods-Frameworks]]
 - [[80 - MOC/81 Topic-Maps/MOC-PUMA-Master]]
+
+## Related atomic notes (Phase 4.3)
+- [[PN-ANXAG-012]]

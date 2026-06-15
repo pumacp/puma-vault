@@ -2,7 +2,7 @@
 id: LN-Videos-PM-Agile-AI
 title: "🎬 Videos — AI in Project Management, Agile & Scrum Evolution"
 type: literature-videos
-tags: [videos, project-management, agile, scrum, pm-ai, puma, academic-writing, aiops, anthropic, automation, cicd, claude, dev-tools, devops, fine-tuning, gemini, google, ide, knowledge-management, literature-note, llm, mcp, metrics, moc, monitoring, observability, obsidian, para, pkm, precision-recall, protocol, rag, retrieval, second-brain, smart-pmo, software-engineering, sprint, thesis, vault, workflow]
+tags: [videos, project-management, agile, scrum, pm-ai, puma, academic-writing, aiops, anthropic, automation, cicd, dev-tools, devops, fine-tuning, gemini, google, ide, knowledge-management, literature-note, llm, mcp, metrics, moc, monitoring, observability, obsidian, para, pkm, precision-recall, protocol, rag, retrieval, second-brain, smart-pmo, software-engineering, sprint, vault, workflow]
 created: 2026-04-06
 updated: 2026-04-06
 total-videos: 22
@@ -21,7 +21,7 @@ phase: [F0, F1, F5]
 
 | # | Title | Channel | URL | PUMA Relevance |
 |---|-------|---------|-----|----------------|
-| 1 | El viejo Product Manager ha muerto: bienvenido el IA PM | Javier Garzás | https://www.youtube.com/watch?v=8Rcnj_JsZ84 | ⭐⭐⭐⭐⭐ Death of old PM; birth of AI PM — PUMA's thesis |
+| 1 | El viejo Product Manager ha muerto: bienvenido el IA PM | Javier Garzás | https://www.youtube.com/watch?v=8Rcnj_JsZ84 | ⭐⭐⭐⭐⭐ Death of old PM; birth of AI PM — PUMA's project |
 | 2 | La IA ha Matado a Scrum (esto es lo que viene Ahora) | Javier Garzás | https://www.youtube.com/watch?v=jrTrihcZZlc | Scrum obsolescence with AI |
 | 3 | Sin Scrum: así se organizan los equipos que usan IA | Javier Garzás | https://www.youtube.com/watch?v=eOju3Z0VnHg | Post-Scrum AI team organisation |
 | 4 | Vibe Coding: 7 Errores de Gestión al Crear Productos con IA | Javier Garzás | https://www.youtube.com/watch?v=Yn59vQQAJpI | PM mistakes with AI products |

@@ -2,7 +2,7 @@
 id: "GT-Weekly-{{year}}-W{{week}}"
 title: "Weekly Review — {{year}} W{{week}}"
 type: gtd-weekly
-tags: [gtd, weekly-review, academic-writing, ai-tools, anthropic, claude, code-review, dev-tools, github, ide, issue-triage, notebooklm, obsidian, pec, perplexity, pipeline, prisma, puma, research-tools, slr, template, thesis, triage, workflow, zotero]
+tags: [gtd, weekly-review, academic-writing, ai-tools, anthropic, code-review, dev-tools, github, ide, issue-triage, notebooklm, obsidian, perplexity, pipeline, prisma, puma, research-tools, slr, template, triage, workflow, zotero]
 week: "{{year}}-W{{week}}"
 created: "{{date}}"
 ---
@@ -52,7 +52,7 @@ SORT deadline ASC
 
 | Deadline | Task | Status |
 |----------|------|--------|
-| "{{date}}" | "{{PEC2 submission}}" | 🔄 |
+| "{{date}}" | "{{Milestone 2 submission}}" | 🔄 |
 
 ---
 
@@ -76,7 +76,7 @@ SORT deadline ASC
 | Papers read & processed | "{{N}}" | "{{N}}" | ≥40 total |
 | Permanent notes created | "{{N}}" | "{{N}}" | — |
 | Experiment runs completed | "{{N}}" | "{{N}}" | — |
-| Words written (thesis) | "{{N}}" | "{{N}}" | — |
+| Words written (project report) | "{{N}}" | "{{N}}" | — |
 | Prompts tested & logged | "{{N}}" | "{{N}}" | — |
 
 ---

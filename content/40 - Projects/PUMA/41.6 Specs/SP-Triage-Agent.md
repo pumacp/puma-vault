@@ -1,5 +1,5 @@
 ---
-id: SP-Triage-Agent-v1
+id: SP-Triage-Agent
 title: PUMA Triage Agent — OpenSpec v1.0
 type: spec
 tags:
@@ -75,7 +75,7 @@ DataLoader → [TriageAgent] → EvaluationEngine → ResultsReporter
 ## 2. OpenSpec Definition
 
 ```yaml
-spec_id: SP-Triage-Agent-v1
+spec_id: SP-Triage-Agent
 component: TriageAgent
 version: "1.0"
 status: approved
@@ -329,13 +329,13 @@ class TriageAgent:
             strategy=self.strategy,
             title=issue.get("title", ""),
             description=issue.get("description", "")[:2000]
-        )
+       )
 
         tracker = EmissionsTracker(
             project_name=f"puma-triage-{self.model}-{self.strategy}",
             log_level="error",
             save_to_file=False
-        )
+       )
         tracker.start()
         start = time.time()
 
@@ -344,7 +344,7 @@ class TriageAgent:
                 model=self.model,
                 prompt=prompt,
                 timeout=self.timeout_s
-            )
+           )
         except Exception as e:
             emissions_kg = tracker.stop() or 0.0
             return TriageResult(
@@ -357,7 +357,7 @@ class TriageAgent:
                 model=self.model,
                 strategy=self.strategy,
                 issue_id=issue.get("issue_id", "")
-            )
+           )
 
         latency = time.time() - start
         emissions_kg = tracker.stop() or 0.0
@@ -374,11 +374,11 @@ class TriageAgent:
             model=self.model,
             strategy=self.strategy,
             issue_id=issue.get("issue_id", "")
-        )
+       )
 
     def _parse_response(
         self, raw: str
-    ) -> tuple[PriorityLabel, str, str]:
+   ) -> tuple[PriorityLabel, str, str]:
         """
         Extract priority label, optional reasoning, and confidence from raw text.
         Case-insensitive. Returns ("Unknown", "", "low") if no label found.
@@ -392,7 +392,7 @@ class TriageAgent:
             match = re.search(
                 r"(?:reasoning|analysis|step[s]?):(.+?)(?:priority:|$)",
                 text, re.IGNORECASE | re.DOTALL
-            )
+           )
             if match:
                 reasoning = match.group(1).strip()[:500]
 
@@ -415,7 +415,7 @@ class TriageAgent:
 | Unit tests | `tests/test_triage_agent.py` |
 | Prompt templates | `src/prompts/templates.py` |
 | Ollama client | `src/utils/ollama_client.py` |
-| This spec | `docs/specs/SP-Triage-Agent-v1.md` |
+| This spec | `docs/specs/SP-Triage-Agent.md` |
 
 ---
 

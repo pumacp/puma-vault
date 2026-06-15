@@ -2,7 +2,7 @@
 id: LN-Videos-LLM-Agents-MultiAgent
 title: "🎬 Videos — LLM Agents, Multi-Agent Systems & Agentic AI"
 type: literature-videos
-tags: [videos, llm-agents, multi-agent, agentic-ai, autoresearch, karpathy, puma, academic-writing, anthropic, architecture, autogen, benchmark, claude, context-engineering, crewai, dev-tools, evaluation, fine-tuning, ide, langchain, langgraph, literature-note, llama, llm, local-llm, mas, mcp, meta, metrics, moc, nlp, obsidian, opencode, orchestration, para, precision-recall, project-management, protocol, python, rag, react, reasoning-action, research, retrieval, smart-pmo, testing, vault, workflow]
+tags: [videos, llm-agents, multi-agent, agentic-ai, autoresearch, karpathy, puma, academic-writing, anthropic, architecture, autogen, benchmark, context-engineering, crewai, dev-tools, evaluation, fine-tuning, ide, langchain, langgraph, literature-note, llama, llm, local-llm, mas, mcp, meta, metrics, moc, nlp, obsidian, opencode, orchestration, para, precision-recall, project-management, protocol, python, rag, react, reasoning-action, research, retrieval, smart-pmo, testing, vault, workflow]
 created: 2026-04-06
 updated: 2026-04-06
 total-videos: 55

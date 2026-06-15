@@ -1,14 +1,14 @@
 ---
-id: BIB-Supplement-PEC2
-title: "Bibliography Supplement — PEC2: AI and New Scientific Knowledge"
+id: BIB-Supplement
+title: "Bibliography Supplement — Milestone 2: AI and New Scientific Knowledge"
 type: bibliography
 version: 1.0
-tags: [bibliography, pec2, ai-science, agentic-science, apa7, verified, puma, academic-writing, ai-scientist, alphafold, automation, citation, gemini, gnome, google, gpt, graphcast, index, literature-review, materials-science, openai, pec, plasma-physics, protein-folding, quantitative-research, reasoning, reinforcement-learning, research, scientific-knowledge, slr, weather-prediction]
+tags: [bibliography, ai-science, agentic-science, apa7, verified, puma, academic-writing, ai-scientist, alphafold, automation, citation, gemini, gnome, google, gpt, graphcast, index, literature-review, materials-science, openai, plasma-physics, protein-folding, quantitative-research, reasoning, reinforcement-learning, research, scientific-knowledge, slr, weather-prediction]
 created: 2026-04-07
 updated: 2026-04-07
 ---
 
-# 📚 Bibliography Supplement — PEC2: AI and New Scientific Knowledge
+# 📚 Bibliography Supplement — Milestone 2: AI and New Scientific Knowledge
 
 All references verified via primary source (arXiv DOI, journal DOI, or official communication). Formatted in APA7. Tagged by theme for PUMA SLR integration.
 

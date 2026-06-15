@@ -64,7 +64,7 @@ updated: 2026-05-01
 | `PN-Reflexion-SelfCritique` | Agent pattern | Verbal reinforcement loop + PUMA implementation |
 | `PN-HITL-BoundedAutonomy` | Ethics/Safety | Bounded autonomy framework + EU AI Act context |
 | `PN-ComputationalSustainability` | Sustainability | CodeCarbon integration + CO₂eq reporting |
-| `PN-UniquenessTrap` | PM theory | RCF + PUMA thesis framing |
+| `PN-UniquenessTrap` | PM theory | RCF + PUMA project framing |
 | `PN-FineTuning-LoRA-Quantization` | LLM training | LoRA, QLoRA, GGUF quantization reference |
 | `PN-AlgorithmicBias` | Ethics/Fairness | Bias taxonomy + detection + mitigation for PUMA |
 | `PN-COSTAR-SelfConsistency` | Prompting | CO-STAR + CoT + Self-Consistency + SPR strategies |
@@ -89,7 +89,7 @@ updated: 2026-05-01
 → Now: `PN-COSTAR-SelfConsistency` with full CO-STAR template, CoT/Few-Shot/Self-Consistency comparison, structured output strategies, and prompt anti-pattern checklist
 
 **5. Uniqueness Trap Theory** (previously: referenced in Flyvbjerg note but no permanent synthesis)
-→ Now: `PN-UniquenessTrap` with RCF algorithm, PUMA few-shot mapping, and Ch.1 thesis framing
+→ Now: `PN-UniquenessTrap` with RCF algorithm, PUMA few-shot mapping, and Ch.1 project framing
 
 **6. AI Safety/HITL Theoretical Basis** (previously: mentioned but not formally documented)
 → Now: `PN-HITL-BoundedAutonomy` with bounded autonomy framework, mesa-optimization risk, EU AI Act mapping, and PUMA design protocol
@@ -110,7 +110,7 @@ updated: 2026-05-01
 
 ## Remaining Gaps
 
-### High Priority (Required for PUMA thesis)
+### High Priority (Required for PUMA project)
 
 > [!success] All High Priority Gaps Resolved — May 2026
 
@@ -122,7 +122,7 @@ updated: 2026-05-01
 | `PN-RLHF-Constitutional` | ✅ Done | 2026-05-01 |
 | `PN-Transformer-MoE` | ✅ Done | 2026-05-01 |
 
-### Medium Priority (Enriches thesis)
+### Medium Priority (Enriches the project)
 
 | Gap | Impact | Suggested Action |
 |-----|--------|-----------------|
@@ -152,7 +152,7 @@ Based on the knowledge expansion, these are the most promising directions not cu
 PUMA currently evaluates frozen models. The PN-FineTuning-LoRA-Quantization note lays the groundwork for a fine-tuning experiment:
 
 - **Research question**: Does domain-adapted QLoRA fine-tuning on TAWOS data improve Macro-F1 by >10% over few-shot prompting, at acceptable training cost?
-- **Feasibility**: QLoRA on 8B model requires ~1 GPU-day; within TFG scope
+- **Feasibility**: QLoRA on 8B model requires ~1 GPU-day; within project scope
 - **Metrics**: Same H1/H2 metrics + carbon cost comparison vs. prompting-only
 
 ### 2. Active Learning Loop (HITL + Label Correction)
@@ -211,7 +211,7 @@ A single source of truth for metric definitions, currently fragmented across exp
 
 ### Experiment-to-Paper Traceability Matrix
 
-A table mapping each experiment (EX-H1-ZeroShot, EX-H2-FewShot, etc.) to the thesis section it supports (Ch.3, Ch.4, Ch.5) — currently implicit.
+A table mapping each experiment (EX-H1-ZeroShot, EX-H2-FewShot, etc.) to the project section it supports (Ch.3, Ch.4, Ch.5) — currently implicit.
 
 ---
 

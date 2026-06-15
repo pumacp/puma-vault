@@ -2,7 +2,7 @@
 id: Code-Review-Log
 title: "Code Review Log — PUMA"
 type: log
-tags: [code, review, quality, development, ai-ethics, anthropic, architecture, claude, code-review, dev-tools, effort-estimation, ethics, github, ide, issue-triage, moc, navigation, story-points, triage]
+tags: [code, review, quality, development, ai-ethics, anthropic, architecture, code-review, dev-tools, effort-estimation, ethics, github, ide, issue-triage, moc, navigation, story-points, triage]
 created: 2026-03-01
 ---
 
@@ -20,7 +20,7 @@ created: 2026-03-01
 ## Review Log
 | Date | File | AI tool | Lines | Review notes | Accepted? |
 |------|------|---------|-------|-------------|---------|
-| TBD | src/agents/triage_agent.py | Claude Code | TBD | TBD | TBD |
+| TBD | src/agents/triage_agent.py | OpenCode | TBD | TBD | TBD |
 
 ---
 

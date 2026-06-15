@@ -149,7 +149,7 @@ class PMOMemoryStream:
             timestamp=timestamp,
             importance=importance,
             embedding=embedding
-        ))
+       ))
         
         self.accumulated_importance += importance
         if self.accumulated_importance >= self.importance_threshold:
@@ -176,7 +176,7 @@ class PMOMemoryStream:
         insights = self.llm.generate(
             f"Given these recent observations:\n{format_memories(recent)}\n"
             "What are the 3 most important insights about the project?"
-        )
+       )
         for insight in parse_insights(insights):
             self.add_observation(insight, datetime.now())
 ```

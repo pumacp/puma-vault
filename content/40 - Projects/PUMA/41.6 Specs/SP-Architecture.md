@@ -1,5 +1,5 @@
 ---
-id: SP-Architecture-v1
+id: SP-Architecture
 title: "PUMA Architecture Specification v1.0"
 type: spec
 tags: [spec, architecture, puma, sdd, openspec, academic-writing, agile, ai-ethics, baseline, bdd, benchmark, bmad, carbon-footprint, chain-of-thought, codecarbon, cot, critical-thinking, data-formats, dataset, dsr, effect-size, effort-estimation, ethics, evaluation, few-shot, github, hypothesis, issue-triage, jira, json, literature-review, llama, llm, local-llm, meta, metrics, mistral, moc, multi-agent, navigation, non-parametric, ollama, precision-recall, prisma, python, red-teaming, research, research-methodology, slr, spec-driven-development, statistics, story-points, sustainability, swarm-intelligence, tawos, triage, wilcoxon, zero-shot]
@@ -7,7 +7,7 @@ version: "1.0"
 status: approved
 created: 2026-03-01
 updated: 2026-03-01
-related_bdd: "41.6 Specs/SP-Triage-Agent-v1"
+related_bdd: "41.6 Specs/SP-Triage-Agent"
 ---
 
 # PUMA Architecture Specification v1.0

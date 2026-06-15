@@ -3,7 +3,7 @@ id: PN-Wilcoxon-FINER-Cornell
 title: "Methods: Wilcoxon · FINER · Cornell"
 type: permanent-note
 category: method
-tags: [permanent, method, wilcoxon, statistics, finer, cornell, research-quality, academic-writing, ai-tools, anthropic, baseline, benchmark, bias, carbon-footprint, chain-of-thought, claude, code-review, codecarbon, contextual-anchoring, cornell-notes, cot, dsr, effect-size, egi, elicit, ethics, evaluation, fairness, falsifiability, github, human-in-the-loop, hypothesis, ict, iipr, issue-triage, literature-review, llm, metrics, non-parametric, note-taking, obsidian, permanent-note, perplexity, pipeline, popper, precision-recall, prisma, privacy, project-management, prompting, python, rcoif, reasoning, research, research-methodology, research-tools, slr, software-engineering, sustainability, template, transformer, triage, vault, zotero]
+tags: [permanent, method, wilcoxon, statistics, finer, cornell, research-quality, academic-writing, ai-tools, anthropic, baseline, benchmark, bias, carbon-footprint, chain-of-thought, code-review, codecarbon, contextual-anchoring, cornell-notes, cot, dsr, effect-size, egi, elicit, ethics, evaluation, fairness, falsifiability, github, human-in-the-loop, hypothesis, ict, iipr, issue-triage, literature-review, llm, metrics, non-parametric, note-taking, obsidian, permanent-note, perplexity, pipeline, popper, precision-recall, prisma, privacy, project-management, prompting, python, rcoif, reasoning, research, research-methodology, research-tools, slr, software-engineering, sustainability, template, transformer, triage, vault, zotero]
 created: 2026-03-01
 maturity: evergreen
 ---
@@ -220,3 +220,8 @@ Before generating: Remember that your response must:
 **Prompt example:** [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Advanced-Prompts-IIPR-Anchoring-AgentOS]]
 
 **🔗** [[30 - Permanent/33 Frameworks/PN-RCOIF-Framework]] · [[30 - Permanent/31 Concepts/PN-CoT-FewShot-Prompting]]
+
+## Related atomic notes (Phase 4.3)
+- [[PN-MEM-034]]
+- [[PN-PUMA-021]]
+- [[PN-PUMA-022]]

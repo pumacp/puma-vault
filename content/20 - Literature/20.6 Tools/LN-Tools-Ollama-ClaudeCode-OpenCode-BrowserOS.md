@@ -3,7 +3,7 @@ id: LN-Tool-Ollama
 title: "Ollama — Local LLM Inference Engine"
 type: literature-note
 subtype: tool
-tags: [tool, ollama, local-llm, inference, reproducibility, academic-writing, anthropic, api, architecture, automation, bdd, benchmark, bibliography, checklist, citation, claude, data-formats, dataset, dev-tools, effort-estimation, github, ict, ide, issue-triage, json, literature-note, llama, llm, meta, metrics, mistral, non-parametric, opencode, precision-recall, project-management, python, reasoning, refactoring, research, research-tools, rest-api, sdd, semantic-scholar, software-engineering, spec-driven-development, statistics, story-points, testing, triage, wilcoxon]
+tags: [tool, ollama, local-llm, inference, reproducibility, academic-writing, anthropic, api, architecture, automation, bdd, benchmark, bibliography, checklist, citation, data-formats, dataset, dev-tools, effort-estimation, github, ict, ide, issue-triage, json, literature-note, llama, llm, meta, metrics, mistral, non-parametric, opencode, precision-recall, project-management, python, reasoning, refactoring, research, research-tools, rest-api, sdd, semantic-scholar, software-engineering, spec-driven-development, statistics, story-points, testing, triage, wilcoxon]
 url: "https://ollama.ai"
 github: "https://github.com/ollama/ollama"
 license: MIT
@@ -50,7 +50,7 @@ def call_ollama(prompt: str, model: str = "llama3.2:8b") -> str:
                 "num_predict": 512
             }
         }
-    )
+   )
     return response.json()["response"]
 ```
 
@@ -69,19 +69,19 @@ def call_ollama(prompt: str, model: str = "llama3.2:8b") -> str:
 ---
 ---
 id: LN-Tool-ClaudeCode
-title: "Claude Code — Agentic Coding CLI"
+title: "OpenCode — Agentic Coding CLI"
 type: literature-note
 subtype: tool
 tags: [tool, claude-code, coding-agent, cli, anthropic]
-url: "https://docs.claude.ai/claude-code"
+url: "https://docs.the LLM platform/claude-code"
 puma_role: "Primary AI coding assistant for implementation"
 puma_phase: "F1, F2, F3"
 created: 2026-03-01
 ---
 
-# Claude Code — Agentic Coding CLI
+# OpenCode — Agentic Coding CLI
 
-> **Purpose in PUMA:** Claude Code is used for implementing the PUMA benchmark modules (triage agent, estimation agent, metric calculator), generating test cases from BDD specs, and refactoring code to meet reproducibility standards.
+> **Purpose in PUMA:** OpenCode is used for implementing the PUMA benchmark modules (triage agent, estimation agent, metric calculator), generating test cases from BDD specs, and refactoring code to meet reproducibility standards.
 
 ## Key Capabilities
 
@@ -95,8 +95,8 @@ created: 2026-03-01
 ### Pattern 1 — Spec-to-Code Generation
 
 ```bash
-# In terminal with Claude Code active:
-claude "Read the spec at docs/specs/SP-Triage-Agent-v1.md and implement 
+# In terminal with OpenCode active:
+claude "Read the spec at docs/specs/SP-Triage-Agent.md and implement 
 the TriageAgent class in src/agents/triage_agent.py. 
 Requirements:
 - Use Ollama API at localhost:11434
@@ -126,7 +126,7 @@ Report findings as a checklist. Do not make changes yet."
 ```
 
 ## 🔗 Related Notes
-LN-Tool-OpenCode | 60 - Resources/61 Prompts/61.3 Dev-Tools/PT-ClaudeCode-Agent-Triage
+LN-Tool-OpenCode | 60 - Resources/61 Prompts/61.3 Dev-Tools/PT-OpenCode-Agent-Triage
 
 ---
 ---
@@ -136,14 +136,14 @@ type: literature-note
 subtype: tool
 tags: [tool, opencode, coding-agent, open-source]
 github: "https://github.com/opencode-ai/opencode"
-puma_role: "Open-source alternative to Claude Code for code generation"
+puma_role: "Open-source alternative to OpenCode for code generation"
 puma_phase: "F2, F3"
 created: 2026-03-01
 ---
 
 # OpenCode — Open-Source AI Coding Agent
 
-> **Purpose in PUMA:** OpenCode provides an open-source, locally-runnable alternative to Claude Code — important for the project's commitment to open-source tooling and reproducibility without API costs.
+> **Purpose in PUMA:** OpenCode provides an open-source, locally-runnable alternative to OpenCode — important for the project's commitment to open-source tooling and reproducibility without API costs.
 
 ## Configuration for PUMA
 

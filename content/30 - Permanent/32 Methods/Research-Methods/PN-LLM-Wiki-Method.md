@@ -3,7 +3,7 @@ id: PN-LLM-Wiki-Method
 title: "LLM Wiki"
 type: permanent-note
 category: method
-tags: [permanent, method, dsr, research-paradigm, hevner, peffers, academic-writing, ai-tools, anthropic, architecture, artefact, bdd, benchmark, bias, carbon-footprint, claude, code-review, codecarbon, cornell-notes, dataset, effort-estimation, elicit, ethics, finer, github, ict, issue-triage, jira, literature-review, llm, local-llm, metrics, moc, non-parametric, note-taking, ollama, permanent-note, perplexity, pipeline, precision-recall, prisma, project-management, quantitative-research, research, research-methodology, research-tools, sdd, semantic-scholar, slr, software-engineering, spec-driven-development, statistics, story-points, sustainability, tawos, triage, validity, wilcoxon, workflow, llm-wiki]
+tags: [permanent, method, dsr, research-paradigm, hevner, peffers, academic-writing, ai-tools, anthropic, architecture, artefact, bdd, benchmark, bias, carbon-footprint, code-review, codecarbon, cornell-notes, dataset, effort-estimation, elicit, ethics, finer, github, ict, issue-triage, jira, literature-review, llm, local-llm, metrics, moc, non-parametric, note-taking, ollama, permanent-note, perplexity, pipeline, precision-recall, prisma, project-management, quantitative-research, research, research-methodology, research-tools, sdd, semantic-scholar, slr, software-engineering, spec-driven-development, statistics, story-points, sustainability, tawos, triage, validity, wilcoxon, workflow, llm-wiki]
 aliases: ["LLM Wiki"]
 created: 2026-04-01
 maturity: evergreen
@@ -46,7 +46,7 @@ The second layer is the wiki itself—a directory of Markdown files that the LLM
 - **Concept pages:** broader treatments of ideas or theoretical frameworks.
 - **Topic summaries and syntheses:** pages that integrate knowledge across sources.
 - **Comparison tables and structured overviews:** generated in response to specific queries and filed back into the wiki.
-- **Cross-reference links:** using `[[double-bracket]]` syntax to create a navigable knowledge graph.
+- **Cross-reference links:** using ``[[double-bracket]]`` syntax to create a navigable knowledge graph.
 
 The choice of Markdown as the representation format is deliberate. Markdown is “the most LLM-friendly data format” (Karpathy, 2026, “The core idea” section). It is plain text, easily parsed by both humans and machines, version-controllable with Git, and renderable in a wide range of editors. Its simplicity avoids the complexity of dedicated knowledge-base systems while remaining sufficiently expressive for structured reasoning.
 
@@ -213,7 +213,7 @@ The wider “Tools for Thought” community, exemplified by tools like Obsidian,
 
 Within weeks of Karpathy’s publication, a vibrant ecosystem of implementations and extensions had emerged (Karpathy, 2026, comments). These include:
 
-- **Agent skills:** Packaging the pattern as installable modules for coding agents (Claude Code, Cursor).
+- **Agent skills:** Packaging the pattern as installable modules for coding agents (OpenCode, Cursor).
 - **Scaling solutions:** Replacing the flat `index.md` with hybrid search engines (BM25 + embeddings + RRF) such as `llmwiki` and `qmd`.
 - **Knowledge graph visualisation:** Tools that generate interactive graph views of the wiki structure.
 - **Extended link types:** Proposals for incorporating typed links with confidence levels, provenance tags, and expiration dates to add semantic richness.

@@ -45,7 +45,7 @@ keshav-pass: 2
 
 ### The Bandwidth Bottleneck
 
-Lawrence's core thesis uses Shannon information theory:
+Lawrence's core project uses Shannon information theory:
 
 - Human-to-human communication bandwidth: ~50 bits/second (speech, gesture, expression)
 - AI training data: petabytes of compressed human knowledge

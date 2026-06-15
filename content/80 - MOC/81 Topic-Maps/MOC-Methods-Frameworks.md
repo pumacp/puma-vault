@@ -203,3 +203,10 @@ FROM "30 - Permanent/33 Frameworks"
 WHERE file.name != this.file.name
 SORT file.name ASC
 ```
+
+## Closure: methods, decisions & phases
+- [[MOC-Hypotheses]]
+- [[MOC-Decisions]]
+- [[MOC-Phases-Evolution]]
+- [[PN-LLM-Wiki-Method]]
+- [[LN-Spec-Driven-Development-SDD]]

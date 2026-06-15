@@ -2,7 +2,7 @@
 id: Glossary-Supplement-v2
 title: "📖 Glossary Supplement v2 — Extended Technical Terms"
 type: glossary
-tags: [glossary, reference, definitions, supplement, academic-writing, accuracy, agentscope, ai-tools, aiops, ami, anthropic, api, architecture, auc, autogen, backlog, baseline, benchmark, bias, chain-of-thought, claude, cot, crewai, data-formats, dataset, devops, drca, effect-size, effort-estimation, egi, embeddings, ethics, evaluation, few-shot, fine-tuning, github, gpt, human-in-the-loop, hypothesis, ict, iipr, issue-triage, jira, json, keshav, langchain, langgraph, literature-review, llama, llm, lm-studio, local-llm, mas, memory, meta, metrics, mistral, mit-ai-lab, multi-agent, nlp, non-parametric, ollama, one-shot, openai, orchestration, perplexity, pipeline, planning, precision-recall, project-management, prompting, python, rag, rcoif, react, reading-method, reasoning, reasoning-action, reinforcement-learning, research, research-methodology, rest-api, retrieval, security, slr, software-engineering, sprint, statistics, story-points, supervised-learning, swarm-intelligence, swe-bench, tawos, tool-use, transformer, tree-of-thoughts, triage, validity, vector-db, wilcoxon, wp316, zero-shot]
+tags: [glossary, reference, definitions, supplement, academic-writing, accuracy, agentscope, ai-tools, aiops, ami, anthropic, api, architecture, auc, autogen, backlog, baseline, benchmark, bias, chain-of-thought, cot, crewai, data-formats, dataset, devops, drca, effect-size, effort-estimation, egi, embeddings, ethics, evaluation, few-shot, fine-tuning, github, gpt, human-in-the-loop, hypothesis, ict, iipr, issue-triage, jira, json, keshav, langchain, langgraph, literature-review, llama, llm, lm-studio, local-llm, mas, memory, meta, metrics, mistral, mit-ai-lab, multi-agent, nlp, non-parametric, ollama, one-shot, openai, orchestration, perplexity, pipeline, planning, precision-recall, project-management, prompting, python, rag, rcoif, react, reading-method, reasoning, reasoning-action, reinforcement-learning, research, research-methodology, rest-api, retrieval, security, slr, software-engineering, sprint, statistics, story-points, supervised-learning, swarm-intelligence, swe-bench, tawos, tool-use, transformer, tree-of-thoughts, triage, validity, vector-db, wilcoxon, wp316, zero-shot]
 created: 2026-04-06
 updated: 2026-04-06
 source: "PUMA Project Technical Glosary v5.0"
@@ -47,7 +47,7 @@ source: "PUMA Project Technical Glosary v5.0"
 
 **Perplexity (PPL)** — Measure of LLM uncertainty in predicting the next token. Lower perplexity = higher confidence. Used to compare base models before task-specific evaluation. Not a task evaluation metric in PUMA.
 
-**Pre-registered analysis** — Documenting experimental design, hypotheses, metrics, and analysis plan *before* seeing data. Prevents p-hacking and HARKing. In PUMA: H1 + H2 thresholds specified in PEC1 before experiments run.
+**Pre-registered analysis** — Documenting experimental design, hypotheses, metrics, and analysis plan *before* seeing data. Prevents p-hacking and HARKing. In PUMA: H1 + H2 thresholds specified in Milestone 1 before experiments run.
 
 **Recall@k** — In RAG systems: proportion of relevant documents appearing in the top-k retrieved results. Recall@1 = most similar document is relevant. Used in PUMA Stage 4 to evaluate retrieval quality.
 
@@ -147,7 +147,7 @@ source: "PUMA Project Technical Glosary v5.0"
 
 **Ground truth** — Reference labels representing the correct answer in a supervised problem. PUMA Stage 1: Jira SR priority labels assigned by Apache community. Stage 2: story points assigned by development teams during sprint planning.
 
-**Pre-registered analysis** — Documenting experimental design, hypotheses, and analysis plan before running experiments and seeing data. In PUMA: H1 + H2 with thresholds specified in PEC1. Prevents p-hacking.
+**Pre-registered analysis** — Documenting experimental design, hypotheses, and analysis plan before running experiments and seeing data. In PUMA: H1 + H2 with thresholds specified in Milestone 1. Prevents p-hacking.
 
 ---
 

@@ -2,7 +2,7 @@
 id: JD-Master-Index
 title: "🔢 Johnny Decimal Master Index — PUMA Vault"
 type: jd-index
-tags: [johnny-decimal, index, navigation, structure, academic-writing, ai-ethics, ami, anthropic, architecture, bibliography, bmad, chain-of-thought, citation, claude, code-review, cornell-notes, cot, critical-thinking, dashboard, dataset, dev-tools, drca, dsr, effort-estimation, egi, embeddings, ethics, few-shot, finer, fleeting-note, github, glossary, gtd, hypothesis, iipr, issue-triage, jira, kanban, keshav, literature-note, literature-review, llm, local-llm, moc, multi-agent, non-parametric, note-taking, obsidian, ollama, opencode, openspec, para, pec, permanent-note, pipeline, prisma, project-management, prompting, puma, rag, rcoif, reading-method, red-teaming, research, research-methodology, retrieval, sdd, slr, smart-pmo, software-engineering, spec-driven-development, spec-kit, sprint, statistics, story-points, tawos, template, triage, vault, vector-db, wilcoxon, workflow, zettelkasten]
+tags: [johnny-decimal, index, navigation, structure, academic-writing, ai-ethics, ami, anthropic, architecture, bibliography, bmad, chain-of-thought, citation, code-review, cornell-notes, cot, critical-thinking, dashboard, dataset, dev-tools, drca, dsr, effort-estimation, egi, embeddings, ethics, few-shot, finer, fleeting-note, github, glossary, gtd, hypothesis, iipr, issue-triage, jira, kanban, keshav, literature-note, literature-review, llm, local-llm, moc, multi-agent, non-parametric, note-taking, obsidian, ollama, opencode, openspec, para, permanent-note, pipeline, prisma, project-management, prompting, puma, rag, rcoif, reading-method, red-teaming, research, research-methodology, retrieval, sdd, slr, smart-pmo, software-engineering, spec-driven-development, spec-kit, sprint, statistics, story-points, tawos, template, triage, vault, vector-db, wilcoxon, workflow, zettelkasten]
 created: 2026-03-01
 updated: 2026-04-06
 ---
@@ -133,7 +133,7 @@ updated: 2026-04-06
 | 40.63 | Spec: Constitution | [[40 - Projects/PUMA/41.6 Specs/SP-PUMA-Constitution]] |
 | 40.70 | Experiments: H1 + H2 | [[40 - Projects/PUMA/41.7 Experiments/EX-Hypotheses-H1-H2]] |
 | 40.71 | Experiments: Stages Overview | [[40 - Projects/PUMA/41.7 Experiments/EX-Stages-Overview]] |
-| 40.80 | Sprint Board — PEC2 | [[Sprint-02]] |
+| 40.80 | Sprint Board — Milestone 2 | [[Sprint-02]] |
 | 40.90 | BMAD Agent Roster | [[40 - Projects/PUMA/41.9 BMAD-Agents/BMAD-Agent-Roster]] |
 | 40.91 | BMAD PRD Document | [[40 - Projects/PUMA/41.9 BMAD-Agents/BMAD-PRD-PUMA]] |
 
@@ -159,7 +159,7 @@ updated: 2026-04-06
 | ID | Name | Link |
 |----|------|------|
 | 60.10 | PUMA Experiment Prompts | [[60 - Resources/61 Prompts/PT-PUMA-Experiment-Prompts]] |
-| 60.11 | Claude RCOIF Research Prompt | [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-RCOIF-Research]] |
+| 60.11 | Claude RCOIF Research Prompt | [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-OpenCode-RCOIF-Research]] |
 | 60.12 | All LLM Tool Prompts | [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-LLM-Tools-All-Prompts]] |
 | 60.13 | Advanced Prompts (IIPR+Anchoring) | [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Advanced-Prompts-IIPR-Anchoring-AgentOS]] |
 | 60.14 | Research Discovery Prompts | [[60 - Resources/61 Prompts/61.2 Research-Tools/PT-Research-Discovery-Prompts]] |
@@ -209,8 +209,8 @@ updated: 2026-04-06
 | 90.40 | Waiting For | [[90 - GTD/94 Waiting-For/WAITING-Log]] |
 | 90.50 | Daily Review Template | [[90 - GTD/95 Reviews/Daily-Review-Template]] |
 | 90.51 | Weekly Review Template | [[90 - GTD/95 Reviews/Weekly-Review-Template]] |
-| 90.60 | Sprint Board PEC2 | [[90 - GTD/96 Kanban/Sprint-02-Board]] |
+| 90.60 | Sprint Board Milestone 2 | [[90 - GTD/96 Kanban/Sprint-02-Board]] |
 
 ---
 
-*JD Index version 2.0 — April 2026 — Updated for PEC2*
+*JD Index version 2.0 — April 2026 — Updated for Milestone 2*

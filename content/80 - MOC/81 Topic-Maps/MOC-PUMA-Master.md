@@ -2,7 +2,7 @@
 id: MOC-PUMA-Master
 title: "🗺️ MOC — PUMA Master Map"
 type: moc
-tags: [moc, puma, master, navigation, academic-writing, agentic-science, ai-science, ami, architecture, backlog, bdd, benchmark, bibliography, bmad, chain-of-thought, citation, code-review, cornell-notes, cot, critical-thinking, dashboard, dataset, drca, dsr, effort-estimation, egi, embeddings, few-shot, finer, github, glossary, gtd, hypothesis, ict, iipr, index, issue-triage, jira, keshav, literature-review, llama, llm, meta, metagpt, metrics, mistral, mit-ai-lab, multi-agent, non-parametric, note-taking, obsidian, para, pec, pipeline, planning, precision-recall, prisma, project-management, prompting, rag, rcoif, react, reading-method, reasoning, reasoning-action, red-teaming, research, research-methodology, retrieval, scientific-knowledge, sdd, slr, smart-pmo, spec-driven-development, statistics, story-points, tawos, tree-of-thoughts, triage, vault, vector-db, wilcoxon, workflow, wp316, zero-shot, zettelkasten]
+tags: [moc, puma, master, navigation, academic-writing, agentic-science, ai-science, ami, architecture, backlog, bdd, benchmark, bibliography, bmad, chain-of-thought, citation, code-review, cornell-notes, cot, critical-thinking, dashboard, dataset, drca, dsr, effort-estimation, egi, embeddings, few-shot, finer, github, glossary, gtd, hypothesis, ict, iipr, index, issue-triage, jira, keshav, literature-review, llama, llm, meta, metagpt, metrics, mistral, mit-ai-lab, multi-agent, non-parametric, note-taking, obsidian, para, pipeline, planning, precision-recall, prisma, project-management, prompting, rag, rcoif, react, reading-method, reasoning, reasoning-action, red-teaming, research, research-methodology, retrieval, scientific-knowledge, sdd, slr, smart-pmo, spec-driven-development, statistics, story-points, tawos, tree-of-thoughts, triage, vault, vector-db, wilcoxon, workflow, wp316, zero-shot, zettelkasten]
 created: 2026-03-01
 updated: 2026-04-06
 ---
@@ -38,7 +38,7 @@ updated: 2026-04-06
 | 4. Conclusions | H1/H2 decision + future work (Smart PMO) | [[40 - Projects/PUMA/41.5 Discussion/PR-PUMA-Ch5-Discussion]] |
 | 5. Glossary | All definitions | [[60 - Resources/64 Glossary/Glossary-Master]] |
 | 6. Bibliography | APA 7, ≥40 references | [[60 - Resources/65 Bibliographies/BIB-Master-APA7]] |
-| 7. Annexes | Templates, dataset prep, extended results | *in project folders* |
+| 7. Appendices | Templates, dataset prep, extended results | *in project folders* |
 
 ---
 
@@ -46,8 +46,8 @@ updated: 2026-04-06
 
 | Stage | Task | Dataset | Metric | Status |
 |-------|------|---------|--------|--------|
-| 1 (MVP) 🟢 | Issue triage | Jira SR (200 stratified) | F1-macro ≥ 0.55 | 🔄 PEC2 |
-| 2 🟢 | Effort estimation | TAWOS | MAE ≤ 3.0 SP | ⏳ PEC3 |
+| 1 (MVP) 🟢 | Issue triage | Jira SR (200 stratified) | F1-macro ≥ 0.55 | 🔄 Milestone 2 |
+| 2 🟢 | Effort estimation | TAWOS | MAE ≤ 3.0 SP | ⏳ Milestone 3 |
 | 3 🟡 | Backlog prioritisation | TAWOS | Spearman ≥ 0.50 | ⏳ Conditional |
 | 4 🔴 | RAG-enhanced triage | Jira SR | F1-macro > Stage 1 | ⏳ Optional |
 | 5 🔴 | Smart PMO multi-agent | — | MTTD -30% | 🔭 Future work |
@@ -138,14 +138,14 @@ updated: 2026-04-06
 - [[30 - Permanent/37 Persons/PER-Assalaarachchi-Nuwan]] — Agentic SPM vision
 
 **Results:**
-- [[RES-Results-Placeholders]] — Experiment results placeholders (Stage 1 & 2)
+- [[RES-Results-Index]] — Experiment results placeholders (Stage 1 & 2)
 
 ---
 
 ## 📊 Progress Dashboard
 
 ```dataview
-TABLE status AS "Status", deadline AS "Deadline", pec AS "PEC"
+TABLE status AS "Status", deadline AS "Deadline", milestone AS "milestone"
 FROM "40 - Projects/PUMA"
 WHERE type = "project-note"
 SORT deadline ASC
@@ -164,4 +164,32 @@ SORT deadline ASC
 
 ---
 
-*MOC updated: April 2026 (PEC2)*
+*MOC updated: April 2026 (Milestone 2)*
+
+## Closure: new-area maps (Phase 4.5)
+- [[MOC-Results-Empirical]]
+- [[MOC-Hypotheses]]
+- [[MOC-Results-Cells]]
+- [[MOC-Evaluated-Models]]
+- [[MOC-Sprints]]
+- [[MOC-Decisions]]
+- [[MOC-Releases]]
+- [[MOC-Technical-Debt]]
+- [[MOC-Architecture]]
+- [[MOC-Satellite-Repos]]
+- [[MOC-Dissemination-Media]]
+- [[MOC-Phases-Evolution]]
+- [[MOC-Prompting-Strategies]]
+- [[MOC-Glossary-Terms]]
+- [[MOC-Online-Presence]]
+
+## Closure: adopted notes
+- [[DEC-ANXAG-047]]
+- [[LN-Spec-Driven-Development-SDD]]
+- [[PN-ANXAG-057]]
+- [[PN-LLM-Wiki-Method]]
+- [[PN-concept]]
+- [[README]]
+- [[REL-ANXHN-028]]
+- [[REL-ANXHN-029]]
+- [[REPO-SAT-012]]

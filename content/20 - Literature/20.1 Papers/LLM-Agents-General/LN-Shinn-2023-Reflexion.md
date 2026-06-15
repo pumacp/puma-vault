@@ -98,7 +98,7 @@ for trial in range(max_trials):
     reflection = reflector_llm.generate(
         trajectory=result.trajectory,
         correct_label=ground_truth
-    )
+   )
     reflections.append(reflection)
 ```
 
@@ -108,7 +108,7 @@ for trial in range(max_trials):
 
 - **Stage 4 (RAG Triage)**: Reflexion loop for iterative self-improvement on misclassified issues in the training/validation set
 - **Stage 5 (SmartPMO)**: Manager agent can reflect on coordination failures and adjust sub-agent routing
-- **Spec**: [[40 - Projects/PUMA/41.6 Specs/SP-Triage-Agent-v1]] — add Reflexion loop to triage agent spec
+- **Spec**: [[40 - Projects/PUMA/41.6 Specs/SP-Triage-Agent]] — add Reflexion loop to triage agent spec
 - **Experiment**: [[40 - Projects/PUMA/41.7 Experiments/EX-Stages-Overview]] — consider Reflexion as Stage 4 ablation
 
 ## Related Notes

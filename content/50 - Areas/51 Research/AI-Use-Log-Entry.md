@@ -1,15 +1,15 @@
 ---
-id: AI-Use-Log-PEC2-Entry
-title: "AI Use Log — PEC2 Research Session: AI and Scientific Knowledge"
+id: AI-Use-Log-Entry
+title: "AI Use Log — Milestone 2 Research Session: AI and Scientific Knowledge"
 type: ai-use-log-entry
 date: 2026-04-07
-tools: ["Claude", "NotebookLM", "Perplexity", "Gemini"]
-tags: [ai-use-log, pec2, marco-veritas, puma, academic-writing, ai-ethics, ai-science, ai-scientist, ai-tools, alphafold, anthropic, bibliography, citation, claude, ethics, gemini, gnome, google, graphcast, literature-note, materials-science, moc, navigation, notebooklm, obsidian, pec, permanent-note, perplexity, prisma-traice, protein-folding, research, research-tools, scientific-knowledge, smart-pmo, swarm-intelligence, vault, weather-prediction, zettelkasten]
+tools: ["the LLM assistant", "NotebookLM", "Perplexity", "Gemini"]
+tags: [ai-use-log, marco-veritas, puma, academic-writing, ai-ethics, ai-science, ai-scientist, ai-tools, alphafold, anthropic, bibliography, citation, ethics, gemini, gnome, google, graphcast, literature-note, materials-science, moc, navigation, notebooklm, obsidian, permanent-note, perplexity, prisma-traice, protein-folding, research, research-tools, scientific-knowledge, smart-pmo, swarm-intelligence, vault, weather-prediction, zettelkasten]
 created: 2026-04-07
 updated: 2026-04-07
 ---
 
-# AI Use Log — PEC2 Research Session
+# AI Use Log — Milestone 2 Research Session
 
 Append to [[50 - Areas/51 Research/AI-Use-Log]]
 
@@ -20,22 +20,22 @@ Append to [[50 - Areas/51 Research/AI-Use-Log]]
 | Field | Value |
 |-------|-------|
 | Date | 2026-04-07 |
-| Session Goal | Research synthesis: Can AI generate new scientific knowledge? (PEC2) |
+| Session Goal | Research synthesis: Can AI generate new scientific knowledge? (Milestone 2) |
 | Duration | Research phase |
 
 ---
 
 ## Tools Used
 
-### Claude (Sonnet 4.6)
-- **Purpose**: Synthesis of PEC2 research material into Obsidian vault notes
+### the LLM assistant (Sonnet 4.6)
+- **Purpose**: Synthesis of Milestone 2 research material into Obsidian vault notes
 - **Output**: Permanent notes (PN-AI-Scientific-Knowledge-Generation, PN-Agentic-Science-Paradigm), literature notes (8 papers), MOC, bibliography supplement
 - **Validation**: All arXiv DOIs verified; journal DOIs verified at primary source
 - **Action**: Output incorporated into vault after human review
 
 ### Marco Veritas Status
-- ✅ All 30 references in BIB-Supplement-PEC2 verified at primary source level
-- ✅ No hallucinated references detected in PEC2 material
+- ✅ All 30 references in BIB-Supplement verified at primary source level
+- ✅ No hallucinated references detected in Milestone 2 material
 - ✅ AI Scientist result (ICLR 2025 workshop acceptance) — confirmed via official arXiv
 - ✅ Single-minus gluon result — confirmed via arXiv:2602.12176 and OpenAI blog
 - ✅ GNoME result — confirmed via Nature 624 DOI
@@ -63,7 +63,7 @@ New files created in this session:
 15. `LN-Jain-2023-GNoME-Materials.md` — Literature note
 16. `LN-Lam-2023-GraphCast.md` — Literature note
 17. `LN-Klinger-2025-AIScience-SocialProblem.md` — Literature note
-18. `BIB-Supplement-PEC2-AIKnowledge.md` — 30-reference bibliography supplement (APA7)
+18. `BIB-Supplement-AIKnowledge.md` — 30-reference bibliography supplement (APA7)
 19. `MOC-AI-Knowledge-Generation.md` — Navigation MOC
 
 ---
@@ -76,4 +76,4 @@ All outputs follow PUMA's 6 ethical AI use principles:
 3. ✅ Cross-validation with primary sources (Marco Veritas)
 4. ✅ Substantial rewriting — not copy-paste from AI output
 5. ✅ Proactive declaration in this log
-6. ✅ Available for tutor/supervisor review
+6. ✅ Available for maintainer/peer review

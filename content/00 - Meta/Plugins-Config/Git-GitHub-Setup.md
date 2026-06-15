@@ -2,13 +2,13 @@
 id: Git-GitHub-Setup
 title: "⚙️ Git & GitHub Setup Guide — PUMA Vault"
 type: meta
-tags: [meta, git, github, setup, obsidian-git, academic-writing, issue-triage, literature-note, moc, obsidian, pec, permanent-note, prompting, puma, rcoif, thesis, triage, vault, workflow]
+tags: [meta, git, github, setup, obsidian-git, academic-writing, issue-triage, literature-note, moc, obsidian, permanent-note, prompting, puma, rcoif, triage, vault, workflow]
 created: 2026-03-01
 ---
 
 # Git & GitHub Setup Guide
 
-> **How to sync this vault with GitHub** for version control, backup, and sharing with your tutor.
+> **How to sync this vault with GitHub** for version control, backup, and sharing with collaborators.
 
 ---
 
@@ -81,7 +81,7 @@ git push
 | New note | `feat: add LN-Tawosi2024-CoGEE` | New literature note |
 | Note update | `update: refine PN-RCOIF-Framework` | Permanent note edit |
 | Experiment | `exp: run-llama32-zeroshot-triage-20260401` | After experiment run |
-| Chapter | `thesis: Ch2 draft section 2.2` | Writing progress |
+| Chapter | `doc: Ch2 draft section 2.2` | Writing progress |
 | Fix | `fix: broken link in MOC-PUMA-Master` | Link repair |
 
 ---
@@ -106,8 +106,8 @@ git merge exp/stage1-triage
 # Or: generate a PDF export of any chapter using Obsidian's export
 
 # Tag major milestones for easy reference
-git tag -a PEC1-submitted -m "PEC1 submitted 2026-03-08"
-git tag -a PEC2-submitted -m "PEC2 submitted 2026-04-08"
+git tag -a Milestone 1-submitted -m "Milestone 1 submitted 2026-03-08"
+git tag -a Milestone 2-submitted -m "Milestone 2 submitted 2026-04-08"
 git push origin --tags
 ```
 

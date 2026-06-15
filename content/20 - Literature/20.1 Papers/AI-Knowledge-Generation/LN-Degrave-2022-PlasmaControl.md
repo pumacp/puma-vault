@@ -6,7 +6,7 @@ authors: ["Degrave, J.", "Felici, F.", "Buchli, J.", "et al."]
 year: 2022
 venue: "Nature"
 doi: "10.1038/s41586-021-04301-9"
-tags: [literature-note, reinforcement-learning, plasma, fusion, ai-discovery, deepmind, puma, pec2, academic-writing, ai-science, alphafold, bibliography, chain-of-thought, citation, cot, issue-triage, metrics, moc, pec, plasma-physics, precision-recall, protein-folding, reasoning, research, triage]
+tags: [literature-note, reinforcement-learning, plasma, fusion, ai-discovery, deepmind, puma, academic-writing, ai-science, alphafold, bibliography, chain-of-thought, citation, cot, issue-triage, metrics, moc, plasma-physics, precision-recall, protein-folding, reasoning, research, triage]
 status: verified
 created: 2026-04-07
 updated: 2026-04-07

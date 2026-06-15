@@ -1,9 +1,8 @@
 ---
-id: Sprint-02-PEC2
+id: Sprint-02-Milestone 2
 title: "🏃 Sprint 02: Triage Module"
 type: sprint-board
 sprint: 2
-pec: PEC2
 start-date: 2026-03-29
 end-date: 2026-04-08
 goal: Implement complete triage module (Stage 1), run benchmark with all 4 prompting strategies, generate results table with Wilcoxon analysis
@@ -13,7 +12,6 @@ tags:
   - gtd
   - agile
   - puma
-  - pec2
   - architecture
   - backlog
   - baseline
@@ -40,7 +38,6 @@ tags:
   - mistral
   - non-parametric
   - ollama
-  - pec
   - popper
   - precision-recall
   - qualitative-research
@@ -60,7 +57,7 @@ created: 2026-03-29
 
 **Goal**: Functional triage module with 4 prompting strategies evaluated on Jira SR subset (200 issues, stratified), baseline implemented, Wilcoxon test applied.
 **Period**: 2026-03-29 → 2026-04-08
-**PEC2 Deadline**: 2026-04-08
+**Milestone 2 Deadline**: 2026-04-08
 
 ---
 
@@ -81,7 +78,7 @@ created: 2026-03-29
 - [ ] Integrate CodeCarbon measurement per condition 📅 2026-04-06
 - [ ] Update Ch.2 + Ch.3 with methodology description 📅 2026-04-07
 - [ ] Commit reproducible code to GitHub with seed=42, requirements.txt fixed 📅 2026-04-07
-- [ ] Final review + PEC2 submission 📅 2026-04-08
+- [ ] Final review + Milestone 2 submission 📅 2026-04-08
 
 ---
 
@@ -93,14 +90,14 @@ created: 2026-03-29
 
 ## 👁️ Review
 
-- [ ] Architecture spec updated (SP-Architecture-v1) — awaiting advisor feedback
+- [ ] Architecture spec updated (SP-Architecture) — awaiting advisor feedback
 
 ---
 
 ## ✅ Done
 
 - [x] Environment setup: Ollama + models + test inference log ✅ 2026-03-08
-- [x] PEC1: Chapter 1 complete ✅ 2026-03-08
+- [x] Milestone 1: Chapter 1 complete ✅ 2026-03-08
 - [x] H1 + H2 hypotheses formalised ✅ 2026-03-08
 - [x] SLR initial: ≥40 references reviewed ✅ 2026-03-08
 
@@ -119,7 +116,7 @@ created: 2026-03-29
 
 ## 🔍 Sprint 1 Retrospective
 
-**What went well**: PEC1 delivered on time with strong theoretical framing. 40+ references reviewed. Hypotheses formally falsifiable.
+**What went well**: Milestone 1 delivered on time with strong theoretical framing. 40+ references reviewed. Hypotheses formally falsifiable.
 
 **What to improve**: Start coding earlier. Set up CodeCarbon before running any experiments.
 

@@ -90,7 +90,7 @@ keshav-pass: 3
 - **Threat to validity**: AgentBench's open-source capability gap must be discussed in Ch.5 Discussion
 - **Metrics**: Add "Successful Parsing Rate" metric to [[40 - Projects/PUMA/41.7 Experiments/EX-Stages-Overview]]
 - **Baseline choice**: Justifies using GPT-4o as a cloud comparison baseline in PUMA Stage 1
-- **Spec**: [[40 - Projects/PUMA/41.6 Specs/SP-Triage-Agent-v1]] — output format validation required
+- **Spec**: [[40 - Projects/PUMA/41.6 Specs/SP-Triage-Agent]] — output format validation required
 
 ## Related Notes
 

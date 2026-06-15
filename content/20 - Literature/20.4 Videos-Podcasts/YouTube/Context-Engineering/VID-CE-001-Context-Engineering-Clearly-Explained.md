@@ -6,7 +6,7 @@ channel: "Tina Huang"
 url: "https://www.youtube.com/watch?v=jLuwLJBQkIs"
 year: 2025
 status: to-watch
-tags: [video, context-engineering, prompting, fundamentals, academic-writing, chain-of-thought, code-review, cot, few-shot, github, metrics, moc, precision-recall, prompt-engineering, rcoif, reasoning, template, thesis, video-note, zero-shot]
+tags: [video, context-engineering, prompting, fundamentals, academic-writing, chain-of-thought, code-review, cot, few-shot, github, metrics, moc, precision-recall, prompt-engineering, rcoif, reasoning, template, video-note, zero-shot]
 phase: ['F1', 'F2']
 rating: 5
 created: 2026-04-06

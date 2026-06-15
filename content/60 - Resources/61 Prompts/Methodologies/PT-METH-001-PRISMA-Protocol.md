@@ -6,7 +6,7 @@ tool: claude-elicit-zotero
 phase: Phase1-Research
 step: "All-Steps"
 methodology: [PRISMA, SLR, Kitchenham]
-tags: [prompt, prisma, slr, methodology, puma, academic-writing, anthropic, benchmark, claude, dsr, elicit, ict, issue-triage, literature-review, llm, metrics, moc, multi-agent, pipeline, planning, precision-recall, project-management, prompt-template, quantitative-research, research, research-methodology, research-tools, semantic-scholar, triage, workflow, zotero]
+tags: [prompt, prisma, slr, methodology, puma, academic-writing, anthropic, benchmark, dsr, elicit, ict, issue-triage, literature-review, llm, metrics, moc, multi-agent, pipeline, planning, precision-recall, project-management, prompt-template, quantitative-research, research, research-methodology, research-tools, semantic-scholar, triage, workflow, zotero]
 rating: 5
 created: 2026-04-07
 updated: 2026-04-07
@@ -82,7 +82,7 @@ Return as: (a) Mermaid diagram code, (b) Table with N values per stage.
 
 ## PUMA Relevance
 
-The PRISMA protocol is PUMA's official SLR methodology as required by UOC's academic standards. All numbers go into [[50 - Areas/51 Research/SLR-PRISMA/PRISMA-Log]]. The flowchart appears in PUMA Section 2 as Figure 1.
+The PRISMA protocol is PUMA's official SLR methodology as required by the project's documentation standards. All numbers go into [[50 - Areas/51 Research/SLR-PRISMA/PRISMA-Log]]. The flowchart appears in PUMA Section 2 as Figure 1.
 
 ---
 

@@ -2,7 +2,7 @@
 id: TASKS-Active
 title: "✅ Active Tasks — PUMA"
 type: gtd-tasks
-tags: [gtd, tasks, active, academic-writing, ai-tools, api, architecture, baseline, bdd, benchmark, bibliography, carbon-footprint, chain-of-thought, citation, codecarbon, cot, dataset, effort-estimation, evaluation, few-shot, github, issue-triage, jira, literature-review, llama, local-llm, meta, metrics, mistral, non-parametric, obsidian, ollama, openspec, pec, perplexity, precision-recall, prompt-engineering, puma, research, research-tools, sdd, slr, statistics, story-points, sustainability, tawos, template, thesis, triage, wilcoxon, zero-shot, zotero]
+tags: [gtd, tasks, active, academic-writing, ai-tools, api, architecture, baseline, bdd, benchmark, bibliography, carbon-footprint, chain-of-thought, citation, codecarbon, cot, dataset, effort-estimation, evaluation, few-shot, github, issue-triage, jira, literature-review, llama, local-llm, meta, metrics, mistral, non-parametric, obsidian, ollama, openspec, perplexity, precision-recall, prompt-engineering, puma, research, research-tools, sdd, slr, statistics, story-points, sustainability, tawos, template, triage, wilcoxon, zero-shot, zotero]
 created: 2026-03-01
 updated: 2026-03-01
 ---
@@ -25,9 +25,9 @@ updated: 2026-03-01
 - [ ] Implement heuristic keyword baseline classifier 🔼 📅 2026-03-20
 - [ ] Implement TF-IDF + SVM baseline classifier 🔼 📅 2026-03-20
 - [ ] Define stratified sampling script for Jira SR (seed=42) 🔼 📅 2026-03-22
-- [ ] Write SP-Triage-Agent-v1 spec (OpenSpec format) [[SP-Triage-Agent]] 🔼 📅 2026-03-18
+- [ ] Write SP-Triage-Agent spec (OpenSpec format) [[SP-Triage-Agent]] 🔼 📅 2026-03-18
 - [ ] Write BDD scenarios for TriageAgent 🔼 📅 2026-03-20
-- [ ] Document architecture decisions in SP-Architecture-v1 = 📅 2026-03-25
+- [ ] Document architecture decisions in SP-Architecture = 📅 2026-03-25
 - [ ] Draft Chapter 2 structure + outline 🔼 📅 2026-03-28
 
 ## 🟡 Phase F2 — Prototype (Mar 29 – Apr 8)
@@ -39,7 +39,7 @@ updated: 2026-03-01
 - [ ] Run full benchmark: 2 models × 4 strategies × 200 issues = 📅 2026-04-05
 - [ ] Generate results table (Stage 1) = 📅 2026-04-06
 - [ ] Run Wilcoxon tests vs baselines = 📅 2026-04-06
-- [ ] Write PEC2 submission document ⏫ 📅 2026-04-08
+- [ ] Write Milestone 2 submission document ⏫ 📅 2026-04-08
 - [ ] Commit v0.1 tag to GitHub = 📅 2026-04-08
 
 ## 🟢 Phase F3 — Extension (Apr 9 – May 10)
@@ -49,7 +49,7 @@ updated: 2026-03-01
 - [ ] Implement EstimationAgent = 📅 2026-04-20
 - [ ] Run Stage 2 benchmark (MAE vs baselines) = 📅 2026-04-25
 - [ ] Write Chapter 3 (Materials & Methods) draft = 📅 2026-05-08
-- [ ] Submit PEC3 ⏫ 📅 2026-05-10
+- [ ] Submit Milestone 3 ⏫ 📅 2026-05-10
 
 ## 🔵 Phase F4 — Analysis (May 1 – Jun 7)
 
@@ -58,13 +58,13 @@ updated: 2026-03-01
 - [ ] Write Chapter 4 (Results) = 📅 2026-05-30
 - [ ] Write Chapter 5 (Conclusions) = 📅 2026-06-04
 - [ ] Final reproducibility verification (clean env) = 📅 2026-06-05
-- [ ] Submit PEC4 ⏫ 📅 2026-06-07
+- [ ] Submit Milestone 4 ⏫ 📅 2026-06-07
 
 ## ⚫ Phase F5 — Closure (Jun 8–23)
 
 - [ ] Publish GitHub repository (MIT licence, README, v1.0 tag) = 📅 2026-06-15
-- [ ] Record defence video (≤20 min) = 📅 2026-06-18
-- [ ] Final thesis document review = 📅 2026-06-20
+- [ ] Record explainer video (≤20 min) = 📅 2026-06-18
+- [ ] Final project documentation review = 📅 2026-06-20
 - [ ] Submit final PUMA Project ⏫ 📅 2026-06-23
 
 ---
@@ -94,7 +94,7 @@ updated: 2026-03-01
 
 ## ⏳ Completed
 
-- [x] PEC1 submitted ✅ 2026-03-08
+- [x] Milestone 1 submitted ✅ 2026-03-08
 - [x] Environment verified (Ollama + models running) ✅ 2026-03-06
 - [x] Chapter 1 written and reviewed ✅ 2026-03-08
 - [x] Jira SR dataset downloaded from Zenodo ✅ 2026-03-04

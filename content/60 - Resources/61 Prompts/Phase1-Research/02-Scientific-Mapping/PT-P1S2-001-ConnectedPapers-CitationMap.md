@@ -6,7 +6,7 @@ tool: connected-papers
 phase: Phase1-Research
 step: "02-Scientific-Mapping"
 methodology: [Citation-Network, Bibliometrics]
-tags: [prompt, connected-papers, citation-map, scientific-mapping, puma, academic-writing, autogen, automation, benchmark, bibliography, citation, effort-estimation, human-in-the-loop, issue-triage, literature-review, llm, masai, metagpt, moc, multi-agent, observability, orchestration, pipeline, prisma, project-management, prompt-template, react, reasoning-action, research, research-tools, slr, story-points, swe-bench, thesis, tracing, triage, zotero]
+tags: [prompt, connected-papers, citation-map, scientific-mapping, puma, academic-writing, autogen, automation, benchmark, bibliography, citation, effort-estimation, human-in-the-loop, issue-triage, literature-review, llm, masai, metagpt, moc, multi-agent, observability, orchestration, pipeline, prisma, project-management, prompt-template, react, reasoning-action, research, research-tools, slr, story-points, swe-bench, tracing, triage, zotero]
 rating: 5
 created: 2026-04-07
 updated: 2026-04-07
@@ -53,7 +53,7 @@ Identify papers in this citation map most relevant to: governance of agentic sys
 
 1. **Input**: Paste the DOI or exact title of a seed paper
 2. **Explore**: Identify hub papers (highest edge count), prior/derivative split
-3. **Export**: Download the cluster visualization → save as PNG for PUMA thesis figures
+3. **Export**: Download the cluster visualization → save as PNG for PUMA project figures
 4. **Import**: Export BibTeX → Zotero collection `PUMA-Literature-2026`
 
 ---

@@ -10,7 +10,6 @@ tags:
   - kanban
   - sprint
   - gtd
-  - pec2
   - agile
   - architecture
   - backlog
@@ -36,7 +35,6 @@ tags:
   - moc
   - non-parametric
   - ollama
-  - pec
   - precision-recall
   - prompt-engineering
   - puma
@@ -80,7 +78,7 @@ created: 2026-03-29
 - [ ] CodeCarbon report per condition 📅 2026-04-06 #puma #sustainability
 - [ ] Update Ch.3 Methods with prompting strategy descriptions 📅 2026-04-07 #puma #writing
 - [ ] Commit reproducible code to GitHub 📅 2026-04-07 #puma #code
-- [ ] PEC2 final review + submission 📅 2026-04-08 #puma
+- [ ] Milestone 2 final review + submission 📅 2026-04-08 #puma
 
 ---
 
@@ -92,14 +90,14 @@ created: 2026-03-29
 
 ## 👁️ Review / Waiting
 
-- [ ] Advisor feedback on architecture spec (SP-Architecture-v1) #waiting
+- [ ] Advisor feedback on architecture spec (SP-Architecture) #waiting
 
 ---
 
 ## ✅ Done (Sprint 1)
 
 - [x] Environment setup: Ollama + models + inference log 2026-03-08
-- [x] PEC1: Chapter 1 complete 2026-03-08  
+- [x] Milestone 1: Chapter 1 complete 2026-03-08  
 - [x] H1 + H2 hypotheses formalized 2026-03-08
 - [x] SLR: ≥40 references reviewed and tabulated 2026-03-08
 - [x] Datasets identified and DOIs verified 2026-03-08

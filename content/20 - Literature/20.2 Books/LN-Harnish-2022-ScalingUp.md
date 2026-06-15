@@ -151,7 +151,7 @@ Harnish provides a 10-item quarterly checklist — the Rockefeller Habits — as
 
 ### Scaling the PUMA Methodology
 
-Scaling Up maps directly to PUMA's evolution from TFG prototype to enterprise SmartPMO:
+Scaling Up maps directly to PUMA's evolution from early prototype to enterprise SmartPMO:
 
 | Scaling Up Decision | PUMA Stage | Application |
 |--------------------|-----------|------------|
@@ -166,7 +166,7 @@ The One-Page Strategic Plan framework can directly structure the SmartPMO busine
 - **BHAG**: All ICT projects in Spain using AI-assisted PM by 2035
 - **10-year target**: PUMA SmartPMO deployed in 100+ organisations
 - **3-year picture**: Open-source benchmark suite with 5 validated experiments
-- **Quarterly Rocks**: PEC1 → PEC2 → PEC3 milestones as 90-day Rocks
+- **Quarterly Rocks**: Milestone 1 → Milestone 2 → Milestone 3 milestones as 90-day Rocks
 
 ---
 

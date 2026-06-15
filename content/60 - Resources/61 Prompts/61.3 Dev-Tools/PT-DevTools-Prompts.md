@@ -1,8 +1,8 @@
 ---
-id: PT-ClaudeCode-Agent-Triage
-title: "Prompt: Claude Code — Triage Agent Implementation"
+id: PT-OpenCode-Agent-Triage
+title: "Prompt: OpenCode — Triage Agent Implementation"
 type: prompt-template
-tags: [prompt, claude-code, coding, triage-agent, sdd, implementation, anthropic, api, architecture, baseline, benchmark, carbon-footprint, chain-of-thought, claude, codecarbon, cot, data-formats, dataset, dev-tools, effect-size, effort-estimation, evaluation, few-shot, github, ide, issue-triage, jira, json, llm, local-llm, metrics, mistral, non-parametric, obsidian, ollama, precision-recall, prompt-template, prompting, python, spec-driven-development, statistics, story-points, sustainability, template, triage, wilcoxon, zero-shot]
+tags: [prompt, claude-code, coding, triage-agent, sdd, implementation, anthropic, api, architecture, baseline, benchmark, carbon-footprint, chain-of-thought, codecarbon, cot, data-formats, dataset, dev-tools, effect-size, effort-estimation, evaluation, few-shot, github, ide, issue-triage, jira, json, llm, local-llm, metrics, mistral, non-parametric, obsidian, ollama, precision-recall, prompt-template, prompting, python, spec-driven-development, statistics, story-points, sustainability, template, triage, wilcoxon, zero-shot]
 tool: claude-code
 methodology: sdd
 use_case: coding
@@ -13,7 +13,7 @@ effectiveness: high
 created: 2026-03-01
 ---
 
-# Prompt: Claude Code — Triage Agent Implementation
+# Prompt: OpenCode — Triage Agent Implementation
 
 > **Purpose:** Implement the TriageAgent class from spec. Use after completing [[SP-Triage-Agent]].
 
@@ -22,7 +22,7 @@ created: 2026-03-01
 ## 📋 Prompt 1 — Project Setup
 
 ```bash
-# Run in terminal with Claude Code active in project root
+# Run in terminal with OpenCode active in project root
 claude "
 Set up the PUMA benchmark project structure. 
 
@@ -56,7 +56,7 @@ puma/
     01_triage_exploration.ipynb
   docs/
     specs/
-      SP-Architecture-v1.md   ← copy from Obsidian
+      SP-Architecture.md   ← copy from Obsidian
   requirements.txt
   README.md
   .gitignore
@@ -74,7 +74,7 @@ Create proper __init__.py files with public API exports.
 claude "
 Implement the TriageAgent class in src/agents/triage_agent.py.
 
-Spec requirements (from SP-Triage-Agent-v1.md):
+Spec requirements (from SP-Triage-Agent.md):
 - Accept: model (str), strategy ('zero-shot'|'few-shot-3'|'few-shot-6'|'cot')
 - Accept: issue dict with keys 'title', 'description' (optional)
 - Return: dict with keys:
@@ -154,7 +154,7 @@ created: 2026-03-01
 
 # Prompt: GitHub Copilot / Cursor AI — Code Scaffolding
 
-> **Best for:** Generating boilerplate code quickly from a clear specification. Less effective than Claude Code for complex multi-file tasks.
+> **Best for:** Generating boilerplate code quickly from a clear specification. Less effective than OpenCode for complex multi-file tasks.
 
 ## Pattern 1 — Function from Spec Comment
 

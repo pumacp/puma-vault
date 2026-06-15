@@ -1,8 +1,8 @@
 ---
-id: PT-Claude-EGI-Exploration
+id: PT-OpenCode-EGI-Exploration
 title: "Prompt: Claude — EGI Guided Exploration"
 type: prompt-template
-tags: [prompt, claude, egi, exploration, panoramic-mapping, academic-writing, ami, anthropic, baseline, benchmark, bibliography, carbon-footprint, chain-of-thought, checklist, citation, codecarbon, cot, critical-thinking, dataset, drca, dsr, effort-estimation, evaluation, falsifiability, few-shot, gpt, hypothesis, ict, iipr, issue-triage, jira, literature-review, llama, llm, local-llm, meta, metrics, mistral, nlp, non-parametric, notebooklm, ollama, openai, permanent-note, planning, popper, precision-recall, project-management, prompt-template, prompting, rag, rcoif, reasoning, red-teaming, research, research-methodology, research-tools, retrieval, slr, software-engineering, statistics, story-points, sustainability, tawos, template, thesis, triage, validity, wilcoxon, zero-shot, zettelkasten]
+tags: [prompt, egi, exploration, panoramic-mapping, academic-writing, ami, anthropic, baseline, benchmark, bibliography, carbon-footprint, chain-of-thought, checklist, citation, codecarbon, cot, critical-thinking, dataset, drca, dsr, effort-estimation, evaluation, falsifiability, few-shot, gpt, hypothesis, ict, iipr, issue-triage, jira, literature-review, llama, llm, local-llm, meta, metrics, mistral, nlp, non-parametric, notebooklm, ollama, openai, permanent-note, planning, popper, precision-recall, project-management, prompt-template, prompting, rag, rcoif, reasoning, red-teaming, research, research-methodology, research-tools, retrieval, slr, software-engineering, statistics, story-points, sustainability, tawos, template, triage, validity, wilcoxon, zero-shot, zettelkasten]
 tool: claude
 methodology: egi
 use_case: research
@@ -28,7 +28,7 @@ You are an expert in AI for software engineering with comprehensive knowledge
 of academic literature from 2020–2026.
 
 CONTEXT:
-I am starting a Master's thesis on applying local LLMs to ICT project management tasks.
+I am starting a research project on applying local LLMs to ICT project management tasks.
 I am at the beginning of my literature review and need to map the landscape before
 drilling into specific sub-areas.
 
@@ -91,7 +91,7 @@ End with: "The most significant gap these papers leave open is..."
 ## Move 3 — Gap Identification
 
 ```
-ROLE: Senior researcher reviewing a thesis proposal
+ROLE: Senior researcher reviewing a project proposal
 
 CONTEXT:
 I am planning PUMA — a reproducible benchmark for local LLMs on PM tasks.
@@ -116,15 +116,15 @@ INSTRUCTIONS:
 FORMAT:
 Table: Gap | Evidence it's real | Does PUMA address it? | Assessment
 Followed by 2–3 sentence positioning statement.
-Be honest — I need to defend this in front of a thesis committee.
+Be honest — I need to defend this in front of a project committee.
 ```
 
 ---
 ---
-id: PT-Claude-AMI-Review
+id: PT-OpenCode-AMI-Review
 title: "Prompt: Claude — AMI Self-Improvement Review"
 type: prompt-template
-tags: [prompt, claude, ami, review, iteration, self-improvement]
+tags: [prompt, ami, review, iteration, self-improvement]
 tool: claude
 methodology: ami
 use_case: research
@@ -183,7 +183,7 @@ Most critical issue to address: [1 sentence]
 ```
 ROLE:
 You are a senior academic editor specialising in empirical CS research papers.
-You are reviewing a Master's thesis chapter.
+You are reviewing a research project chapter.
 
 CONTEXT:
 This is Section [X.Y] from a PUMA — a benchmark
@@ -199,7 +199,7 @@ Evaluate these dimensions:
 1. ARGUMENT CLARITY — Is the main point stated clearly in the first paragraph?
 2. EVIDENCE QUALITY — Are all claims supported by appropriate citations?
 3. TRANSITION LOGIC — Does each paragraph follow logically from the previous?
-4. ACADEMIC REGISTER — Is the tone appropriate for a Master's thesis?
+4. ACADEMIC REGISTER — Is the tone appropriate for a research project?
 5. UNJUSTIFIED CLAIMS — Highlight any assertions that need a citation or evidence
 6. REDUNDANCY — Identify any repeated information
 
@@ -213,10 +213,10 @@ Priority fix: [The one change that would most improve this section]
 
 ---
 ---
-id: PT-Claude-DRCA-Paper
+id: PT-OpenCode-DRCA-Paper
 title: "Prompt: Claude — DRCA Paper Deconstruction"
 type: prompt-template
-tags: [prompt, claude, drca, paper-processing, analysis]
+tags: [prompt, drca, paper-processing, analysis]
 tool: claude
 methodology: drca
 use_case: research
@@ -288,10 +288,10 @@ Keep each section concise — this is a processing tool, not a summary.
 
 ---
 ---
-id: PT-Claude-Red-Team
+id: PT-OpenCode-Red-Team
 title: "Prompt: Claude — Red Team Analysis"
 type: prompt-template
-tags: [prompt, claude, red-team, rival-hypothesis, critical-thinking]
+tags: [prompt, red-team, rival-hypothesis, critical-thinking]
 tool: claude
 methodology: red-teaming
 use_case: research
@@ -337,7 +337,7 @@ For each argument:
 4. Rate the seriousness of this challenge (Fatal / Major / Minor)
 
 Do not be diplomatic — I need the hardest critique possible.
-This is for strengthening my thesis before submission.
+This is for strengthening my project before submission.
 
 FORMAT:
 Numbered list 1–3. For Fatal challenges: explain exactly what would need to change.

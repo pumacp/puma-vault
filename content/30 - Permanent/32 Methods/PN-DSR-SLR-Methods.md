@@ -3,7 +3,7 @@ id: PN-DSR-Method
 title: "Design Science Research (DSR)"
 type: permanent-note
 category: method
-tags: [permanent, method, dsr, research-paradigm, hevner, peffers, academic-writing, ai-tools, anthropic, architecture, artefact, bdd, benchmark, bias, carbon-footprint, claude, code-review, codecarbon, cornell-notes, dataset, effort-estimation, elicit, ethics, finer, github, ict, issue-triage, jira, literature-review, llm, local-llm, metrics, moc, non-parametric, note-taking, ollama, permanent-note, perplexity, pipeline, precision-recall, prisma, project-management, quantitative-research, research, research-methodology, research-tools, sdd, semantic-scholar, slr, software-engineering, spec-driven-development, statistics, story-points, sustainability, tawos, triage, validity, wilcoxon, workflow]
+tags: [permanent, method, dsr, research-paradigm, hevner, peffers, academic-writing, ai-tools, anthropic, architecture, artefact, bdd, benchmark, bias, carbon-footprint, code-review, codecarbon, cornell-notes, dataset, effort-estimation, elicit, ethics, finer, github, ict, issue-triage, jira, literature-review, llm, local-llm, metrics, moc, non-parametric, note-taking, ollama, permanent-note, perplexity, pipeline, precision-recall, prisma, project-management, quantitative-research, research, research-methodology, research-tools, sdd, semantic-scholar, slr, software-engineering, spec-driven-development, statistics, story-points, sustainability, tawos, triage, validity, wilcoxon, workflow]
 aliases: ["DSR", "Design Science"]
 created: 2026-03-01
 maturity: evergreen

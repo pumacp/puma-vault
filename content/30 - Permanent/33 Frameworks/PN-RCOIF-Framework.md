@@ -3,7 +3,7 @@ id: PN-RCOIF-Framework
 title: "RCOIF — Role·Context·Objective·Instructions·Format"
 type: permanent-note
 category: framework
-tags: [permanent, framework, prompting, rcoif, rcof, methodology, accuracy, ai-tools, ami, anthropic, benchmark, chain-of-thought, claude, code-review, cot, dataset, drca, egi, github, hypothesis, iipr, issue-triage, llm, local-llm, metrics, moc, ollama, one-shot, permanent-note, perplexity, reasoning, research-methodology, software-engineering, template, triage, zero-shot]
+tags: [permanent, framework, prompting, rcoif, rcof, methodology, accuracy, ai-tools, ami, anthropic, benchmark, chain-of-thought, code-review, cot, dataset, drca, egi, github, hypothesis, iipr, issue-triage, llm, local-llm, metrics, moc, ollama, one-shot, permanent-note, perplexity, reasoning, research-methodology, software-engineering, template, triage, zero-shot]
 aliases: ["RCOIF", "RCOF", "structured prompting"]
 created: 2026-03-01
 updated: 2026-03-01
@@ -86,7 +86,7 @@ In PUMA, RCOIF is used at two levels:
 **Level 1 — Research assistance prompts** (Claude, Perplexity, DeepSeek)
 - Role: domain expert in software engineering / empirical research
 - Context: PUMA project specifics, dataset properties, prior findings
-- See: [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-RCOIF-Research]]
+- See: [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-OpenCode-RCOIF-Research]]
 
 **Level 2 — Experiment prompts** (Ollama Llama3.2, Mistral7B)
 - These are the prompts the *benchmark itself* uses for triage and estimation
@@ -100,7 +100,7 @@ In PUMA, RCOIF is used at two levels:
 **Extends:** [[30 - Permanent/31 Concepts/PN-CoT-FewShot-Prompting]] (CoT adds reasoning steps to the I component)
 **Used in:** [[30 - Permanent/33 Frameworks/PN-EGI-Framework]] · [[30 - Permanent/33 Frameworks/PN-AMI-DRCA-IIPR-Frameworks]]
 **Contrasts with:** Zero-shot unstructured prompting
-**Applied to PUMA prompts:** [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-RCOIF-Research]] · [[60 - Resources/61 Prompts/PT-PUMA-Experiment-Prompts]]
+**Applied to PUMA prompts:** [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-OpenCode-RCOIF-Research]] · [[60 - Resources/61 Prompts/PT-PUMA-Experiment-Prompts]]
 **Experiment context:** [[40 - Projects/PUMA/41.3 Methods/PR-PUMA-Ch3-Methods]] (§3.4) · [[40 - Projects/PUMA/41.7 Experiments/EX-Hypotheses-H1-H2]]
 **MOC:** [[80 - MOC/81 Topic-Maps/MOC-Methods-Frameworks]]
 
@@ -111,3 +111,6 @@ In PUMA, RCOIF is used at two levels:
 - RCOIF improves consistency, but does not guarantee accuracy — outputs still require human validation
 - Over-specified Format constraints can suppress creative or unexpected useful responses
 - For very simple one-shot queries, the full framework adds unnecessary friction — use RCOF
+
+## Related atomic notes (Phase 4.3)
+- [[PN-ANXAG-013]]

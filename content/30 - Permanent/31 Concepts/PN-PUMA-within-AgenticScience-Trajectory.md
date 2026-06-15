@@ -2,7 +2,7 @@
 id: PN-PUMA-within-AgenticScience-Trajectory
 title: "PUMA is an applied Agentic Science system positioned at LeCun's Level 2 of AI scientific capability"
 type: permanent-note
-tags: [permanent-note, puma, agentic-science, positioning, lecun, pec2, academic-writing, ai-ethics, ai-science, ai-scientist, alphafold, anthropic, automation, baseline, claude, code-review, ethics, evaluation, github, gnome, graphcast, hypothesis, issue-triage, jira, literature-review, llm, materials-science, moc, multi-agent, notebooklm, orchestration, pec, project-management, protein-folding, research-methodology, research-tools, slr, smart-pmo, thesis, triage, weather-prediction, workflow]
+tags: [permanent-note, puma, agentic-science, positioning, lecun, academic-writing, ai-ethics, ai-science, ai-scientist, alphafold, anthropic, automation, baseline, code-review, ethics, evaluation, github, gnome, graphcast, hypothesis, issue-triage, jira, literature-review, llm, materials-science, moc, multi-agent, notebooklm, orchestration, project-management, protein-folding, research-methodology, research-tools, slr, smart-pmo, triage, weather-prediction, workflow]
 created: 2026-04-07
 updated: 2026-04-07
 ---
@@ -19,7 +19,7 @@ LeCun (2026) identifies three levels of AI scientific capability: (1) assistant,
 
 | Level | General Science Example | PUMA PM Equivalent |
 |-------|------------------------|--------------------|
-| L1: Assistant | Claude writing literature review | PUMA using Claude/NotebookLM for SLR |
+| L1: Assistant | the LLM assistant writing literature review | PUMA using the LLM assistant/NotebookLM for SLR |
 | L2: Scientific Model | AlphaFold predicting protein structures | PUMA triage agent classifying issue priority |
 | L2: Scientific Model | GraphCast forecasting weather | PUMA estimation agent predicting story points |
 | L3: Autonomous Agent | AI Scientist generating ML papers | PUMA Stage 5 Smart PMO orchestrating sprints |
@@ -38,7 +38,7 @@ These are **prediction tasks with ground truth** — exactly the domain where Le
 
 ## Thesis Section Mapping
 
-| PUMA Section | PEC2 Connection |
+| PUMA Section | Milestone 2 Connection |
 |-------------|-----------------|
 | 1.1 Context and Justification | AI science trajectory → PM automation as same pattern |
 | 1.3 Ethical-Social Impact | Klinger (2025): social requirements for responsible AI in science |

@@ -3,7 +3,7 @@ id: LN-Web-Resources
 title: "🌐 The Evolution of Agentic Software Engineering: An Analytical Study of Spec-Driven Development (SDD) and Its Impact on TIC Project Governance"
 type: literature-note
 subtype: web
-tags: [literature, web, blog, docs, links, academic-writing, anthropic, api, bibliography, carbon-footprint, citation, claude, codecarbon, critical-thinking, dataset, dev-tools, fleeting-note, github, hypothesis, ide, jira, langchain, langgraph, literature-note, llm, local-llm, metrics, multi-agent, obsidian, ollama, permanent-note, precision-recall, pydantic, python, red-teaming, research, research-methodology, research-tools, semantic-scholar, software-engineering, sustainability, tawos, template, vault, zettelkasten, sdd, spec-driven development]
+tags: [literature, web, blog, docs, links, academic-writing, anthropic, api, bibliography, carbon-footprint, citation, codecarbon, critical-thinking, dataset, dev-tools, fleeting-note, github, hypothesis, ide, jira, langchain, langgraph, literature-note, llm, local-llm, metrics, multi-agent, obsidian, ollama, permanent-note, precision-recall, pydantic, python, red-teaming, research, research-methodology, research-tools, semantic-scholar, software-engineering, sustainability, tawos, template, vault, zettelkasten, sdd, spec-driven development]
 created: 2026-04-01
 ---
 
@@ -97,19 +97,19 @@ This structure allows agents to navigate relationships between tasks (blockers, 
 | GSD         | Environment quality (Isolation)      | TypeScript / Filesystem          | 35,000                 |
 | Beads       | Structural memory (Graphs)           | Go / Dolt (SQL+Git)              | ~91,000                |
 
-## Native Capabilities and Boundaries of Claude Code in 2026
+## Native Capabilities and Boundaries of OpenCode in 2026
 
-Claude Code has consolidated its position as the leading agentic orchestration environment by natively integrating functions that previously required complex external frameworks.
+OpenCode has consolidated its position as the leading agentic orchestration environment by natively integrating functions that previously required complex external frameworks.
 
 ### The Dichotomy Between Plan Mode and Ultraplan
 
-Claude Code’s architecture imposes a deliberate separation between the "thinking" and "doing" phases through Plan Mode. In this read-only mode, Claude analyzes the codebase, performs grep searches, and proposes a detailed approach without modifying a single file, allowing the developer to audit the strategy before committing changes.
+OpenCode’s architecture imposes a deliberate separation between the "thinking" and "doing" phases through Plan Mode. In this read-only mode, Claude analyzes the codebase, performs grep searches, and proposes a detailed approach without modifying a single file, allowing the developer to audit the strategy before committing changes.
 
 The qualitative leap occurs with **Ultraplan** (Research Preview), a cloud service that allows delegating massive planning tasks to Anthropic’s infrastructure. Ultraplan runs the Opus 4.6 model for periods of up to 30 minutes, generating plans that include automatic Mermaid diagrams to visualize structural dependencies.
 
 ### Distributed Governance: CLAUDE.md and Agent Skills
 
-Standard configuration in Claude Code is centralized in the `CLAUDE.md` file, which acts as the repository’s persistent memory. Best practices suggest keeping this file under 200 lines to optimize token consumption in each conversation turn.
+Standard configuration in OpenCode is centralized in the `CLAUDE.md` file, which acts as the repository’s persistent memory. Best practices suggest keeping this file under 200 lines to optimize token consumption in each conversation turn.
 
 ## Agentic Context Engineering: The Academic Foundation of Reliability
 

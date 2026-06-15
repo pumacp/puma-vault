@@ -3,7 +3,7 @@ id: "LN-{{AuthorYear}}-{{Keyword}}"
 title: "{{Full paper title}}"
 type: literature-note
 subtype: paper
-tags: [literature, paper, {{topic-tags}}, academic-writing, baseline, checklist, cornell-notes, dataset, drca, effort-estimation, evaluation, falsifiability, few-shot, gpt, metrics, moc, note-taking, openai, permanent-note, popper, precision-recall, prisma, prompting, research, research-tools, slr, story-points, template, thesis, zettelkasten, zotero]
+tags: [literature, paper, {{topic-tags}}, academic-writing, baseline, checklist, cornell-notes, dataset, drca, effort-estimation, evaluation, falsifiability, few-shot, gpt, metrics, moc, note-taking, openai, permanent-note, popper, precision-recall, prisma, prompting, research, research-tools, slr, story-points, template, zettelkasten, zotero]
 authors: ["{{Author1 LastName, FirstName}}", "{{Author2}}"]
 year: "{{YYYY}}"
 venue: "{{Conference/Journal name}}"

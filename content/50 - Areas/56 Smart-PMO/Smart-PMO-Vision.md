@@ -11,7 +11,7 @@ updated: 2026-04-06
 # 🏢 Smart PMO Vision — PUMA Stage 5
 
 > [!info] Overview
-> **This is aspirational scope** — beyond the MVP. Documents the long-term vision informed by the PEC1 correction feedback. Serves as the "north star" for future work section of the PUMA Project.
+> **This is aspirational scope** — beyond the MVP. Documents the long-term vision informed by the Milestone 1 correction feedback. Serves as the "north star" for future work section of the PUMA Project.
 
 ---
 
@@ -29,7 +29,7 @@ A Smart PMO (Project Management Office) is a PMO augmented by AI agents that:
 
 ## The PUMA SwarmPM Architecture (7 Layers)
 
-Based on the PEC1 correction document:
+Based on the Milestone 1 correction document:
 
 | Layer | Name | Technology | Status |
 |-------|------|-----------|--------|
@@ -58,7 +58,7 @@ Based on the PEC1 correction document:
 
 ## Why Swarm Over Single Agent?
 
-Three scientific justifications (from PEC1 correction):
+Three scientific justifications (from Milestone 1 correction):
 
 1. **Domain specialisation**: a single general LLM has systematic bias when acting as expert in telemetry, people management, and architecture simultaneously. Compartmentalisation reduces accumulated error.
 

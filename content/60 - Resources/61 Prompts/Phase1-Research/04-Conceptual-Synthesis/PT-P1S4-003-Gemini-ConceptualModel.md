@@ -6,7 +6,7 @@ tool: gemini
 phase: Phase1-Research
 step: "04-Conceptual-Synthesis"
 methodology: [DSR, Conceptual-Modeling]
-tags: [prompt, gemini, conceptual-model, dsr, puma, academic-writing, artefact, benchmark, clustering, dataset, few-shot, fine-tuning, google, hypothesis, keshav, literature-review, moc, multi-agent, obsidian, planning, project-management, prompt-template, reading-method, research, research-methodology, slr, sprint, tfg, thesis, vault]
+tags: [prompt, gemini, conceptual-model, dsr, puma, academic-writing, artefact, benchmark, clustering, dataset, few-shot, fine-tuning, google, hypothesis, keshav, literature-review, moc, multi-agent, obsidian, planning, project-management, prompt-template, reading-method, research, research-methodology, slr, sprint, vault]
 rating: 4
 created: 2026-04-07
 updated: 2026-04-07
@@ -41,7 +41,7 @@ Some papers in my PUMA corpus agree, others conflict on: (1) whether LLMs outper
 ## Prompt D — Research Roadmap Planning
 
 ```
-I am moving from PUMA's literature phase to benchmark specification. Build a staged research plan using Keshav's Three-Pass Method as the reading backbone, covering: literature exploration → thematic clustering → deep reading → note synthesis → hypothesis generation → benchmark specification. For each stage: what to produce, best tool, artifact to save in Obsidian vault, and time estimate. Make the roadmap realistic for a one-semester TFG.
+I am moving from PUMA's literature phase to benchmark specification. Build a staged research plan using Keshav's Three-Pass Method as the reading backbone, covering: literature exploration → thematic clustering → deep reading → note synthesis → hypothesis generation → benchmark specification. For each stage: what to produce, best tool, artifact to save in Obsidian vault, and time estimate. Make the roadmap realistic for a one-semester project.
 ```
 
 ---

@@ -8,7 +8,7 @@
       "source_location": null,
       "source_url": "https://github.com/pumacp/PUMA",
       "captured_at": null,
-      "author": "isiroca",
+      "author": "pumacp",
       "contributor": null
     },
     {
@@ -19,7 +19,7 @@
       "source_location": null,
       "source_url": null,
       "captured_at": null,
-      "author": "isiroca",
+      "author": "pumacp",
       "contributor": null
     },
     {
@@ -30,7 +30,7 @@
       "source_location": null,
       "source_url": null,
       "captured_at": null,
-      "author": "isiroca",
+      "author": "pumacp",
       "contributor": null
     },
     {
@@ -41,7 +41,7 @@
       "source_location": null,
       "source_url": null,
       "captured_at": null,
-      "author": "isiroca",
+      "author": "pumacp",
       "contributor": null
     },
     {
@@ -52,7 +52,7 @@
       "source_location": null,
       "source_url": null,
       "captured_at": null,
-      "author": "isiroca",
+      "author": "pumacp",
       "contributor": null
     },
     {
@@ -63,7 +63,7 @@
       "source_location": null,
       "source_url": null,
       "captured_at": null,
-      "author": "isiroca",
+      "author": "pumacp",
       "contributor": null
     },
     {
@@ -74,7 +74,7 @@
       "source_location": null,
       "source_url": null,
       "captured_at": "2026-03-01",
-      "author": "isiroca",
+      "author": "pumacp",
       "contributor": null
     },
     {
@@ -85,7 +85,7 @@
       "source_location": null,
       "source_url": null,
       "captured_at": "2026-03-01",
-      "author": "isiroca",
+      "author": "pumacp",
       "contributor": null
     },
     {
@@ -96,7 +96,7 @@
       "source_location": null,
       "source_url": null,
       "captured_at": "2026-03-01",
-      "author": "isiroca",
+      "author": "pumacp",
       "contributor": null
     },
     {
@@ -107,7 +107,7 @@
       "source_location": null,
       "source_url": null,
       "captured_at": "2026-03-01",
-      "author": "isiroca",
+      "author": "pumacp",
       "contributor": null
     },
     {
@@ -118,7 +118,7 @@
       "source_location": null,
       "source_url": null,
       "captured_at": "2026-03-01",
-      "author": "isiroca",
+      "author": "pumacp",
       "contributor": null
     },
     {
@@ -129,7 +129,7 @@
       "source_location": null,
       "source_url": null,
       "captured_at": "2026-03-01",
-      "author": "isiroca",
+      "author": "pumacp",
       "contributor": null
     },
     {
@@ -140,7 +140,7 @@
       "source_location": null,
       "source_url": null,
       "captured_at": "2026-03-29",
-      "author": "isiroca",
+      "author": "pumacp",
       "contributor": null
     },
     {
@@ -151,7 +151,7 @@
       "source_location": null,
       "source_url": null,
       "captured_at": null,
-      "author": "isiroca",
+      "author": "pumacp",
       "contributor": null
     },
     {
@@ -162,7 +162,7 @@
       "source_location": null,
       "source_url": null,
       "captured_at": "2026-04-06",
-      "author": "isiroca",
+      "author": "pumacp",
       "contributor": null
     },
     {
@@ -173,7 +173,7 @@
       "source_location": null,
       "source_url": null,
       "captured_at": "2026-04-06",
-      "author": "isiroca",
+      "author": "pumacp",
       "contributor": null
     },
     {
@@ -184,7 +184,7 @@
       "source_location": null,
       "source_url": null,
       "captured_at": "2026-04-06",
-      "author": "isiroca",
+      "author": "pumacp",
       "contributor": null
     },
     {
@@ -217,7 +217,7 @@
       "source_location": null,
       "source_url": null,
       "captured_at": "2026-04-13",
-      "author": "isiroca",
+      "author": "pumacp",
       "contributor": null
     },
     {
@@ -228,7 +228,7 @@
       "source_location": null,
       "source_url": null,
       "captured_at": "2026-04-13",
-      "author": "isiroca",
+      "author": "pumacp",
       "contributor": null
     },
     {
@@ -239,7 +239,7 @@
       "source_location": null,
       "source_url": null,
       "captured_at": "2026-03-01",
-      "author": "isiroca",
+      "author": "pumacp",
       "contributor": null
     },
     {
@@ -250,7 +250,7 @@
       "source_location": null,
       "source_url": null,
       "captured_at": "2026-04-06",
-      "author": "isiroca",
+      "author": "pumacp",
       "contributor": null
     },
     {
@@ -2965,7 +2965,7 @@
       "id": "pt_claude_rcoif_research",
       "label": "PT Claude RCOIF Research",
       "file_type": "document",
-      "source_file": "60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-RCOIF-Research.md",
+      "source_file": "60 - Resources/61 Prompts/61.1 LLM-Tools/PT-OpenCode-RCOIF-Research.md",
       "source_location": null,
       "source_url": null,
       "captured_at": null,
@@ -3260,9 +3260,9 @@
     },
     {
       "id": "bib_supplement_pec2",
-      "label": "BIB Supplement PEC2 AI Knowledge",
+      "label": "BIB Supplement AI Knowledge",
       "file_type": "document",
-      "source_file": "60 - Resources/65 Bibliographies/BIB-Supplement-PEC2-AIKnowledge.md",
+      "source_file": "60 - Resources/65 Bibliographies/BIB-Supplement-AIKnowledge.md",
       "source_location": null,
       "source_url": null,
       "captured_at": null,
@@ -6016,7 +6016,7 @@
       "id": "pt_p1s4_001_claude_theoretical_framework",
       "label": "PT-P1S4-001: Claude \u2014 Theoretical Framework Construction for PUMA",
       "file_type": "prompt-note",
-      "source_file": "60 - Resources/61 Prompts/Phase1-Research/04-Conceptual-Synthesis/PT-P1S4-001-Claude-TheoreticalFramework.md",
+      "source_file": "60 - Resources/61 Prompts/Phase1-Research/04-Conceptual-Synthesis/PT-P1S4-001-OpenCode-TheoreticalFramework.md",
       "source_location": null,
       "source_url": null,
       "captured_at": "2026-04-07",
@@ -6049,7 +6049,7 @@
       "id": "pt_p1s5_001_claude_hypothesis_formulation",
       "label": "PT-P1S5-001: Claude \u2014 Hypothesis Formulation for PUMA (RCOIF + EGI)",
       "file_type": "prompt-note",
-      "source_file": "60 - Resources/61 Prompts/Phase1-Research/05-Hypothesis-Generation/PT-P1S5-001-Claude-HypothesisFormulation.md",
+      "source_file": "60 - Resources/61 Prompts/Phase1-Research/05-Hypothesis-Generation/PT-P1S5-001-OpenCode-HypothesisFormulation.md",
       "source_location": null,
       "source_url": null,
       "captured_at": "2026-04-07",
@@ -6346,7 +6346,7 @@
       "id": "phase_conceptual_synthesis",
       "label": "Phase 1 Step 4: Conceptual Synthesis",
       "file_type": "research-phase",
-      "source_file": "60 - Resources/61 Prompts/Phase1-Research/04-Conceptual-Synthesis/PT-P1S4-001-Claude-TheoreticalFramework.md",
+      "source_file": "60 - Resources/61 Prompts/Phase1-Research/04-Conceptual-Synthesis/PT-P1S4-001-OpenCode-TheoreticalFramework.md",
       "source_location": null,
       "source_url": null,
       "captured_at": null,
@@ -6357,7 +6357,7 @@
       "id": "phase_hypothesis_generation",
       "label": "Phase 1 Step 5: Hypothesis Generation",
       "file_type": "research-phase",
-      "source_file": "60 - Resources/61 Prompts/Phase1-Research/05-Hypothesis-Generation/PT-P1S5-001-Claude-HypothesisFormulation.md",
+      "source_file": "60 - Resources/61 Prompts/Phase1-Research/05-Hypothesis-Generation/PT-P1S5-001-OpenCode-HypothesisFormulation.md",
       "source_location": null,
       "source_url": null,
       "captured_at": null,
@@ -6379,7 +6379,7 @@
       "id": "pt_p1s6_001_claude_experimentprotocol",
       "label": "Claude \u2014 Controlled Experiment Protocol Design for PUMA",
       "file_type": "document",
-      "source_file": "60 - Resources/61 Prompts/Phase1-Research/06-Experimental-Design/PT-P1S6-001-Claude-ExperimentProtocol.md",
+      "source_file": "60 - Resources/61 Prompts/Phase1-Research/06-Experimental-Design/PT-P1S6-001-OpenCode-ExperimentProtocol.md",
       "source_location": null,
       "source_url": null,
       "captured_at": "2026-04-07",
@@ -6401,7 +6401,7 @@
       "id": "pt_p1s7_001_claude_peerreviewsimulation",
       "label": "Claude \u2014 Peer Review Simulation for PUMA",
       "file_type": "document",
-      "source_file": "60 - Resources/61 Prompts/Phase1-Research/07-Critical-Review/PT-P1S7-001-Claude-PeerReviewSimulation.md",
+      "source_file": "60 - Resources/61 Prompts/Phase1-Research/07-Critical-Review/PT-P1S7-001-OpenCode-PeerReviewSimulation.md",
       "source_location": null,
       "source_url": null,
       "captured_at": "2026-04-07",
@@ -6500,7 +6500,7 @@
       "id": "pt_p1s2_003_claude_literaturesynthesis_rcoif",
       "label": "Claude \u2014 Literature Synthesis with RCOIF Framework",
       "file_type": "document",
-      "source_file": "60 - Resources/61 Prompts/Phase1-Research/02-Scientific-Mapping/PT-P1S2-003-Claude-LiteratureSynthesis-RCOIF.md",
+      "source_file": "60 - Resources/61 Prompts/Phase1-Research/02-Scientific-Mapping/PT-P1S2-003-OpenCode-LiteratureSynthesis-RCOIF.md",
       "source_location": null,
       "source_url": null,
       "captured_at": "2026-04-07",
@@ -6599,7 +6599,7 @@
       "id": "pt_p2_002_cursorclaudecode_implementation",
       "label": "Cursor / Claude Code \u2014 Implementation Prompts for PUMA",
       "file_type": "document",
-      "source_file": "60 - Resources/61 Prompts/Phase2-Development/PT-P2-002-CursorClaudeCode-Implementation.md",
+      "source_file": "60 - Resources/61 Prompts/Phase2-Development/PT-P2-002-Cursor-Implementation.md",
       "source_location": null,
       "source_url": null,
       "captured_at": "2026-04-07",
@@ -6610,7 +6610,7 @@
       "id": "pt_p2_001_claude_architecturedesign_sdd",
       "label": "Claude \u2014 Architecture Design with SDD and BMAD",
       "file_type": "document",
-      "source_file": "60 - Resources/61 Prompts/Phase2-Development/PT-P2-001-Claude-ArchitectureDesign-SDD.md",
+      "source_file": "60 - Resources/61 Prompts/Phase2-Development/PT-P2-001-OpenCode-ArchitectureDesign-SDD.md",
       "source_location": null,
       "source_url": null,
       "captured_at": "2026-04-07",
@@ -6641,8 +6641,8 @@
       "tags": [
         "prompt",
         "academic-writing",
-        "thesis",
-        "uoc",
+        "project",
+        "the-project",
         "puma",
         "rcoif",
         "imrad"
@@ -8441,7 +8441,7 @@
       "label": "BIB-Supplement-AIKnowledge",
       "type": "framework",
       "source_file": "60 - Resources/65 Bibliographies/BIB-Supplement-AIKnowledge.md",
-      "description": "Verified APA7 bibliography supplement covering AI and new scientific knowledge for PEC2, organized into 10 thematic sections."
+      "description": "Verified APA7 bibliography supplement covering AI and new scientific knowledge for Milestone 2, organized into 10 thematic sections."
     },
     {
       "id": "bib_supplement_aiknowledge_ai_scientist",
@@ -12682,7 +12682,7 @@
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
       "source_file": "30 - Permanent/33 Frameworks/PN-Veritas-Framework.md",
-      "source_location": "[[50 - Areas/51 Research/AI-Use-Log-PEC2-Entry]]",
+      "source_location": "[[50 - Areas/51 Research/AI-Use-Log-Entry]]",
       "weight": 1.0
     },
     {
@@ -15276,7 +15276,7 @@
       "relation": "related_to",
       "confidence_score": 0.7,
       "provenance": "INFERRED",
-      "note": "Daily review references PUMA project stage status; sprint board manages PEC-aligned task iteration"
+      "note": "Daily review references PUMA project stage status; sprint board manages milestone-aligned task iteration"
     },
     {
       "source": "moc_archive",
@@ -21089,7 +21089,7 @@
       "type": "EXTRACTED",
       "label": "belongs_to_phase",
       "confidence_score": 1.0,
-      "source_file": "60 - Resources/61 Prompts/Phase1-Research/04-Conceptual-Synthesis/PT-P1S4-001-Claude-TheoreticalFramework.md"
+      "source_file": "60 - Resources/61 Prompts/Phase1-Research/04-Conceptual-Synthesis/PT-P1S4-001-OpenCode-TheoreticalFramework.md"
     },
     {
       "from": "pt_p1s4_003_gemini_conceptual_model",
@@ -21105,7 +21105,7 @@
       "type": "EXTRACTED",
       "label": "belongs_to_phase",
       "confidence_score": 1.0,
-      "source_file": "60 - Resources/61 Prompts/Phase1-Research/05-Hypothesis-Generation/PT-P1S5-001-Claude-HypothesisFormulation.md"
+      "source_file": "60 - Resources/61 Prompts/Phase1-Research/05-Hypothesis-Generation/PT-P1S5-001-OpenCode-HypothesisFormulation.md"
     },
     {
       "from": "pt_p1s5_002_chatgpt_rival_hypotheses",
@@ -21129,7 +21129,7 @@
       "type": "EXTRACTED",
       "label": "applies_methodology",
       "confidence_score": 1.0,
-      "source_file": "60 - Resources/61 Prompts/Phase1-Research/04-Conceptual-Synthesis/PT-P1S4-001-Claude-TheoreticalFramework.md"
+      "source_file": "60 - Resources/61 Prompts/Phase1-Research/04-Conceptual-Synthesis/PT-P1S4-001-OpenCode-TheoreticalFramework.md"
     },
     {
       "from": "pt_p1s5_001_claude_hypothesis_formulation",
@@ -21137,7 +21137,7 @@
       "type": "EXTRACTED",
       "label": "applies_methodology",
       "confidence_score": 1.0,
-      "source_file": "60 - Resources/61 Prompts/Phase1-Research/05-Hypothesis-Generation/PT-P1S5-001-Claude-HypothesisFormulation.md"
+      "source_file": "60 - Resources/61 Prompts/Phase1-Research/05-Hypothesis-Generation/PT-P1S5-001-OpenCode-HypothesisFormulation.md"
     },
     {
       "from": "pt_p1s5_002_chatgpt_rival_hypotheses",
@@ -21273,7 +21273,7 @@
       "type": "INFERRED",
       "label": "semantically_similar_to",
       "confidence_score": 0.7,
-      "source_file": "60 - Resources/61 Prompts/Phase1-Research/04-Conceptual-Synthesis/PT-P1S4-001-Claude-TheoreticalFramework.md"
+      "source_file": "60 - Resources/61 Prompts/Phase1-Research/04-Conceptual-Synthesis/PT-P1S4-001-OpenCode-TheoreticalFramework.md"
     },
     {
       "from": "pt_p1s4_001_claude_theoretical_framework",
@@ -21281,7 +21281,7 @@
       "type": "INFERRED",
       "label": "semantically_similar_to",
       "confidence_score": 0.7,
-      "source_file": "60 - Resources/61 Prompts/Phase1-Research/04-Conceptual-Synthesis/PT-P1S4-001-Claude-TheoreticalFramework.md"
+      "source_file": "60 - Resources/61 Prompts/Phase1-Research/04-Conceptual-Synthesis/PT-P1S4-001-OpenCode-TheoreticalFramework.md"
     },
     {
       "from": "pt_p1s4_002_chatgpt_zettelkasten",
@@ -21297,7 +21297,7 @@
       "type": "INFERRED",
       "label": "semantically_similar_to",
       "confidence_score": 0.7,
-      "source_file": "60 - Resources/61 Prompts/Phase1-Research/05-Hypothesis-Generation/PT-P1S5-001-Claude-HypothesisFormulation.md"
+      "source_file": "60 - Resources/61 Prompts/Phase1-Research/05-Hypothesis-Generation/PT-P1S5-001-OpenCode-HypothesisFormulation.md"
     },
     {
       "from": "wf_mit_ailab_reading",
@@ -21337,7 +21337,7 @@
       "relation": "references",
       "provenance": "EXTRACTED",
       "confidence_score": 1.0,
-      "note": "Wikilink [[PT-P1S7-001-Claude-PeerReviewSimulation]] in related notes"
+      "note": "Wikilink [[PT-P1S7-001-OpenCode-PeerReviewSimulation]] in related notes"
     },
     {
       "source": "pt_p1s1_003_googlescholar_broadsweep",
@@ -21353,7 +21353,7 @@
       "relation": "references",
       "provenance": "EXTRACTED",
       "confidence_score": 1.0,
-      "note": "Wikilink [[PT-P1S2-003-Claude-LiteratureSynthesis-RCOIF]] in related notes"
+      "note": "Wikilink [[PT-P1S2-003-OpenCode-LiteratureSynthesis-RCOIF]] in related notes"
     },
     {
       "source": "pt_p1s2_004_perplexity_fastevidencemap",
@@ -21385,7 +21385,7 @@
       "relation": "references",
       "provenance": "EXTRACTED",
       "confidence_score": 1.0,
-      "note": "Wikilink [[PT-P1S2-003-Claude-LiteratureSynthesis-RCOIF]] in related notes"
+      "note": "Wikilink [[PT-P1S2-003-OpenCode-LiteratureSynthesis-RCOIF]] in related notes"
     },
     {
       "source": "pt_p1s2_002_litmaps_temporalevolution",
@@ -21721,7 +21721,7 @@
       "type": "EXTRACTED",
       "label": "uses_methodology",
       "confidence_score": 1.0,
-      "source_file": "60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-RCOIF-Research.md"
+      "source_file": "60 - Resources/61 Prompts/61.1 LLM-Tools/PT-OpenCode-RCOIF-Research.md"
     },
     {
       "source": "pt_llm_tools_all_prompts",
@@ -21825,7 +21825,7 @@
       "type": "INFERRED",
       "label": "related_prompt",
       "confidence_score": 0.85,
-      "source_file": "60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-RCOIF-Research.md"
+      "source_file": "60 - Resources/61 Prompts/61.1 LLM-Tools/PT-OpenCode-RCOIF-Research.md"
     },
     {
       "source": "pt_advanced_prompts_iipr",

@@ -2,7 +2,7 @@
 id: LN-Tools-Documentation-Organisation
 title: "📋 Tools — Documentation, Organisation & Productivity"
 type: literature-tools
-tags: [tools, documentation, obsidian, notion, excalidraw, grammarly, puma, academic-writing, api, architecture, automation, bibliography, citation, github, gtd, index, johnny-decimal, kanban, keshav, knowledge-management, langgraph, literature-note, literature-review, metrics, moc, multi-agent, para, pipeline, precision-recall, reading-method, research, research-tools, slr, sprint, template, tfg, thesis, vault, zettelkasten, zotero]
+tags: [tools, documentation, obsidian, notion, excalidraw, grammarly, puma, academic-writing, api, architecture, automation, bibliography, citation, github, gtd, index, johnny-decimal, kanban, keshav, knowledge-management, langgraph, literature-note, literature-review, metrics, moc, multi-agent, para, pipeline, precision-recall, reading-method, research, research-tools, slr, sprint, template, vault, zettelkasten, zotero]
 created: 2026-04-06
 updated: 2026-04-06
 phase: [F0, F1, F2, F3, F4, F5]
@@ -40,14 +40,14 @@ phase: [F0, F1, F2, F3, F4, F5]
 - **URL**: https://www.overleaf.com
 - **Function**: Collaborative online LaTeX editor
 - **Phase**: F5 (optional)
-- **PUMA use (optional)**: Final TFG memoir typesetting in LaTeX if required; UOC template import; automatic reference formatting from Zotero BibTeX export
-- **Note**: UOC template in Word is the primary format; Overleaf is optional for higher typesetting quality
+- **PUMA use (optional)**: Final project report typesetting in LaTeX if required; the project template import; automatic reference formatting from Zotero BibTeX export
+- **Note**: the project template in Word is the primary format; Overleaf is optional for higher typesetting quality
 
 ### Grammarly
 - **URL**: https://www.grammarly.com
 - **Function**: Grammar and style corrector for English text
 - **Phase**: F3 – F5
-- **PUMA use**: Reviewing Abstract and English-language sections of the TFG memoir; all Grammarly suggestions reviewed and selectively applied by author
+- **PUMA use**: Reviewing Abstract and English-language sections of the project report; all Grammarly suggestions reviewed and selectively applied by author
 - **Note**: Tool assists, author decides; no automatic acceptance of suggestions
 
 ### Jenni AI
@@ -65,8 +65,8 @@ phase: [F0, F1, F2, F3, F4, F5]
 - **URL**: https://excalidraw.com
 - **Function**: Collaborative whiteboard for architecture diagrams
 - **Phase**: F2 – F3
-- **PUMA use**: PUMA system architecture diagrams (7-layer SwarmPMO); LangGraph state machine visualisation; multi-agent communication flow diagrams for the TFG memoir
-- **Obsidian integration**: Excalidraw plugin for in-vault diagram editing → [[Excalidraw/]]
+- **PUMA use**: PUMA system architecture diagrams (7-layer SwarmPMO); LangGraph state machine visualisation; multi-agent communication flow diagrams for the project report
+- **Obsidian integration**: Excalidraw plugin for in-vault diagram editing → Excalidraw/
 - **Export format**: SVG (vector) for memoir; PNG for Obsidian preview
 
 ### draw.io (diagrams.net)

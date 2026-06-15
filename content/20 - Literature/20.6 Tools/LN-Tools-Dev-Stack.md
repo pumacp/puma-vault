@@ -43,7 +43,7 @@ created: 2026-03-01
   response = client.chat.completions.create(
       model="llama-3.2-8b-preview",
       messages=[{"role": "user", "content": "Test prompt"}]
-  )
+ )
   ```
 
 ### OpenRouter
@@ -57,7 +57,7 @@ created: 2026-03-01
       "https://openrouter.ai/api/v1/chat/completions",
       headers={"Authorization": f"Bearer {api_key}"},
       json={"model": "meta-llama/llama-3.2-8b-instruct", "messages": [...]}
-  )
+ )
   ```
 
 ---
@@ -78,7 +78,7 @@ created: 2026-03-01
       goal='Classify Jira issues by priority accurately',
       backstory='Expert PM with 10 years in software triage',
       llm=ollama_llm  # local model
-  )
+ )
   ```
 
 ### LangGraph (LangChain)
@@ -129,7 +129,7 @@ created: 2026-03-01
       project_name="puma-triage-llama32-zeroshot",
       output_dir="./results/carbon/",
       log_level="error"
-  )
+ )
   tracker.start()
   # ... run experiment ...
   emissions_kg = tracker.stop()
@@ -195,7 +195,7 @@ created: 2026-03-01
 - **URL**: https://pandas.pydata.org
 - **Reference**: McKinney, W. (2022). *Python for data analysis* (3rd ed.). O'Reilly. https://wesmckinney.com/book/
 - **Purpose**: Core data manipulation library for PUMA experiment results
-- **PUMA use**: Loading Jira SR and TAWOS CSV datasets; computing F1-macro, MAE, class distributions; exporting results to Excel/CSV for thesis tables
+- **PUMA use**: Loading Jira SR and TAWOS CSV datasets; computing F1-macro, MAE, class distributions; exporting results to Excel/CSV for the project report tables
 - **Key methods used**:
   ```python
   import pandas as pd

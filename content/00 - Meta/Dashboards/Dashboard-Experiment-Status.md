@@ -2,7 +2,7 @@
 id: Dashboard-Experiment-Status
 title: "🔬 Dashboard — Experiment Status"
 type: dashboard
-tags: [dashboard, experiments, puma, dataview, baseline, carbon-footprint, chain-of-thought, codecarbon, cot, effort-estimation, evaluation, few-shot, gpt, issue-triage, llama, llm, meta, metrics, mistral, openai, pec, precision-recall, software-engineering, story-points, sustainability, triage, zero-shot]
+tags: [dashboard, experiments, puma, dataview, baseline, carbon-footprint, chain-of-thought, codecarbon, cot, effort-estimation, evaluation, few-shot, gpt, issue-triage, llama, llm, meta, metrics, mistral, openai, precision-recall, software-engineering, story-points, sustainability, triage, zero-shot]
 created: 2026-03-01
 updated: 2026-04-06
 ---
@@ -10,7 +10,7 @@ updated: 2026-04-06
 # 🔬 Dashboard — Experiment Status
 
 > [!warning] Placeholder Data
-> Results marked **TBD** will be populated after PEC2 experiments complete. Replace each TBD with actual CodeCarbon + statistical output.
+> Results marked **TBD** will be populated after Milestone 2 experiments complete. Replace each TBD with actual CodeCarbon + statistical output.
 
 ---
 
@@ -60,7 +60,7 @@ SORT file.ctime ASC
 | Mistral 7B | Few-Shot-6 | TBD | TBD | TBD | TBD | TBD | TBD |
 | Mistral 7B | CoT | TBD | TBD | TBD | TBD | TBD | TBD |
 
-> **Update when PEC2 experiments complete. Replace TBD with actual values.**
+> **Update when Milestone 2 experiments complete. Replace TBD with actual values.**
 
 ---
 

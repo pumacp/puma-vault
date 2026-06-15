@@ -58,7 +58,7 @@ updated: 2026-04-06
 - [[30 - Permanent/33 Frameworks/PN-PARA-GTD-Zettelkasten]] — PARA + GTD + Zettelkasten integration
 
 ### 📊 Results (34 Results)
-- [[RES-Results-Placeholders]] — experiment results placeholders (Stage 1 & 2)
+- [[RES-Results-Index]] — experiment results placeholders (Stage 1 & 2)
 
 ---
 

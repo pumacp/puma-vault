@@ -4,7 +4,7 @@ title: "Active reading turns passive information into actionable knowledge throu
 type: permanent
 created: 2026-04-06
 updated: 2026-04-06
-tags: [permanent-note, reading, cognition, research-methodology, mit-ai-lab, keshav, academic-writing, ai-tools, anthropic, claude, elicit, gtd, literature-review, moc, notebooklm, para, perplexity, pipeline, reading-method, research, research-tools, slr, wp316, zettelkasten]
+tags: [permanent-note, reading, cognition, research-methodology, mit-ai-lab, keshav, academic-writing, ai-tools, anthropic, elicit, gtd, literature-review, moc, notebooklm, para, perplexity, pipeline, reading-method, research, research-tools, slr, wp316, zettelkasten]
 ---
 
 # Active reading turns passive information into actionable knowledge through deliberate questioning

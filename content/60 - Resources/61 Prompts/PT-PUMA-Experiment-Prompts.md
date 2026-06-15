@@ -53,7 +53,7 @@ def run_triage_zero_shot(issue: dict, model: str = "llama3.2:8b") -> dict:
     prompt = TRIAGE_ZERO_SHOT_TEMPLATE.format(
         issue_title=issue["title"],
         issue_description=issue.get("description", "")[:500]  # truncate
-    )
+   )
     
     tracker = EmissionsTracker(project_name=f"puma-triage-zero-{model}")
     tracker.start()
@@ -63,7 +63,7 @@ def run_triage_zero_shot(issue: dict, model: str = "llama3.2:8b") -> dict:
         "http://localhost:11434/api/generate",
         json={"model": model, "prompt": prompt, "stream": False,
               "options": {"seed": 42, "temperature": 0, "num_predict": 10}}
-    )
+   )
     latency = time.time() - start
     emissions = tracker.stop()
     

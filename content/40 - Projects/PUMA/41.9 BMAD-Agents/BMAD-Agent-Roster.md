@@ -2,7 +2,7 @@
 id: BMAD-Agent-Roster
 title: "🤖 BMAD Agent Roster — PUMA Project"
 type: bmad-roster
-tags: [bmad, agents, agentic, multi-agent, puma, agile, ai-ethics, ai-tools, anthropic, architecture, backlog, benchmark, bias, carbon-footprint, checklist, claude, codecarbon, cornell-notes, critical-thinking, dataset, dev-tools, effort-estimation, ethics, falsifiability, finer, github, human-in-the-loop, hypothesis, ide, issue-triage, jira, keshav, langgraph, literature-review, local-llm, mas, metrics, moc, non-parametric, note-taking, obsidian, ollama, openhands, openspec, orchestration, pec, perplexity, planning, popper, precision-recall, prisma, project-management, python, reading-method, red-teaming, research-methodology, research-tools, scrum, sdd, semantic-scholar, slr, smart-pmo, software-engineering, spec-driven-development, spec-kit, sprint, statistics, story-points, sustainability, tawos, triage, vault, wilcoxon, workflow]
+tags: [bmad, agents, agentic, multi-agent, puma, agile, ai-ethics, ai-tools, anthropic, architecture, backlog, benchmark, bias, carbon-footprint, checklist, codecarbon, cornell-notes, critical-thinking, dataset, dev-tools, effort-estimation, ethics, falsifiability, finer, github, human-in-the-loop, hypothesis, ide, issue-triage, jira, keshav, langgraph, literature-review, local-llm, mas, metrics, moc, non-parametric, note-taking, obsidian, ollama, openhands, openspec, orchestration, perplexity, planning, popper, precision-recall, prisma, project-management, python, reading-method, red-teaming, research-methodology, research-tools, scrum, sdd, semantic-scholar, slr, smart-pmo, software-engineering, spec-driven-development, spec-kit, sprint, statistics, story-points, sustainability, tawos, triage, vault, wilcoxon, workflow]
 created: 2026-03-15
 updated: 2026-04-06
 ---
@@ -22,7 +22,7 @@ In PUMA, BMAD maps to the academic research team structure: the student acts as 
 
 **Role**: Business Analyst + Literature Reviewer  
 **Persona**: Dr. María Santana — experienced SE researcher, EBSE specialist  
-**Primary tool**: Claude + Perplexity + Semantic Scholar  
+**Primary tool**: the LLM assistant + Perplexity + Semantic Scholar  
 
 **Responsibilities**:
 - Conduct SLR following PRISMA 2020 protocol
@@ -35,7 +35,7 @@ In PUMA, BMAD maps to the academic research team structure: the student acts as 
 - `/analyst.gap-map`: map research gap to PUMA's three contributions
 - `/analyst.evidence-table`: generate comparative evidence table
 
-**Active on**: F0 (Initiated) → ongoing through PEC4  
+**Active on**: F0 (Initiated) → ongoing through Milestone 4  
 **Output artefacts**: [[20 - Literature/20.1 Papers/LN-KeyPapers-CoGEE-Angermeir-Flyvbjerg]], PRISMA Log
 
 ---
@@ -50,7 +50,7 @@ In PUMA, BMAD maps to the academic research team structure: the student acts as 
 - Maintain the Product Requirements Document (PRD)
 - Define and prioritise objectives OE1–OE8
 - Ensure MVP definition stays coherent (Strategies C + D)
-- Track PEC milestones
+- Track milestones
 
 **Commands**:
 - `/pm.prd-update`: update the PRD with new requirements
@@ -174,7 +174,7 @@ Key principles:
 2. **Local-only inference** — no paid APIs for experiments
 3. **Falsifiability** — every claim must be testable under H₀/H₁
 4. **Human-in-the-loop** — all agent outputs require human validation
-5. **Open source** — MIT License, GitHub public before defence
+5. **Open source** — MIT License, GitHub public before release
 
 ---
 

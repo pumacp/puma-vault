@@ -2,7 +2,7 @@
 id: PT-BMAD-Agent-Prompts
 title: "🤖 BMAD Agent Prompts — PUMA Project"
 type: prompt-library
-tags: [bmad, prompts, agents, rcoif, cdd, puma, academic-writing, agile, api, architecture, baseline, benchmark, bibliography, carbon-footprint, chain-of-thought, checklist, citation, codecarbon, cot, data-formats, dataset, drca, effect-size, effort-estimation, egi, evaluation, falsifiability, few-shot, github, gtd, human-in-the-loop, ict, issue-triage, jira, json, keshav, literature-review, llama, llm, local-llm, meta, metrics, mistral, multi-agent, non-parametric, ollama, openspec, pec, planning, popper, precision-recall, project-management, prompt-template, prompting, python, reading-method, research, research-methodology, rest-api, sdd, slr, software-engineering, spec-driven-development, spec-kit, sprint, statistics, story-points, sustainability, tawos, triage, validity, wilcoxon, zero-shot]
+tags: [bmad, prompts, agents, rcoif, cdd, puma, academic-writing, agile, api, architecture, baseline, benchmark, bibliography, carbon-footprint, chain-of-thought, checklist, citation, codecarbon, cot, data-formats, dataset, drca, effect-size, effort-estimation, egi, evaluation, falsifiability, few-shot, github, gtd, human-in-the-loop, ict, issue-triage, jira, json, keshav, literature-review, llama, llm, local-llm, meta, metrics, mistral, multi-agent, non-parametric, ollama, openspec, planning, popper, precision-recall, project-management, prompt-template, prompting, python, reading-method, research, research-methodology, rest-api, sdd, slr, software-engineering, spec-driven-development, spec-kit, sprint, statistics, story-points, sustainability, tawos, triage, validity, wilcoxon, zero-shot]
 created: 2026-04-01
 updated: 2026-04-06
 ---
@@ -63,9 +63,9 @@ FORMAT: Gap matrix (Gap × Paper), narrative synthesis (200 words max), and 3 bu
 ```
 ROLE: Experienced Agile Product Manager familiar with academic research project constraints.
 
-CONTEXT: PUMA Project. Current sprint: PEC2 (deadline 2026-04-08). Completed: PEC1 (Ch.1 + environment). Remaining objectives: OE3 (datasets), OE4 (triage module + Wilcoxon). Hardware: 16GB RAM laptop, Ollama, Python 3.11. Time available: 10 days, ~3h/day.
+CONTEXT: PUMA Project. Current sprint: Milestone 2 (deadline 2026-04-08). Completed: Milestone 1 (Ch.1 + environment). Remaining objectives: OE3 (datasets), OE4 (triage module + Wilcoxon). Hardware: 16GB RAM laptop, Ollama, Python 3.11. Time available: 10 days, ~3h/day.
 
-OBJECTIVE: Generate a realistic daily sprint plan for the 10 working days before PEC2 deadline.
+OBJECTIVE: Generate a realistic daily sprint plan for the 10 working days before Milestone 2 deadline.
 
 INSTRUCTIONS:
 1. Break OE3 and OE4 into atomic tasks (≤2h each)
@@ -112,7 +112,7 @@ INSTRUCTIONS:
 1. Identify risks related to: reproducibility, latency, statistical validity, scope creep
 2. Check compliance with PUMA Constitution (esp. Articles 1–5)
 3. Propose alternative if risks are unacceptable
-4. State what would need to change in SP-Architecture-v1
+4. State what would need to change in SP-Architecture
 
 FORMAT: Risk table (Risk | Severity | Mitigation) + recommendation (APPROVE / MODIFY / REJECT).
 ```

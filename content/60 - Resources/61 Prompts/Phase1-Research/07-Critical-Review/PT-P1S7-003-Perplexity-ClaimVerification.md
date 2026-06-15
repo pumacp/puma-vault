@@ -6,7 +6,7 @@ tool: perplexity
 phase: Phase1-Research
 step: "07-Critical-Review"
 methodology: [Marco-Veritas, Evidence-Checking]
-tags: [prompt, perplexity, fact-checking, verification, puma, marco-veritas, academic-writing, ai-tools, bibliography, citation, code-review, dataset, effect-size, github, jira, llm, metrics, moc, non-parametric, pec, precision-recall, prompt-template, quantitative-research, reasoning, research, software-engineering, statistics, tawos, thesis, wilcoxon]
+tags: [prompt, perplexity, fact-checking, verification, puma, marco-veritas, academic-writing, ai-tools, bibliography, citation, code-review, dataset, effect-size, github, jira, llm, metrics, moc, non-parametric, precision-recall, prompt-template, quantitative-research, reasoning, research, software-engineering, statistics, tawos, wilcoxon]
 rating: 4
 created: 2026-04-07
 updated: 2026-04-07
@@ -24,7 +24,7 @@ updated: 2026-04-07
 ## Prompt A — Reference Verification
 
 ```
-Verify the following academic references cited in my PUMA thesis. For each reference, confirm: (1) the paper exists and was published as stated, (2) the author names are correctly spelled, (3) the year, venue, and DOI are accurate, (4) the cited claim actually appears in the paper. Flag any reference that cannot be verified with [UNVERIFIED]. Do not assume a reference is correct without evidence.
+Verify the following academic references cited in my PUMA project. For each reference, confirm: (1) the paper exists and was published as stated, (2) the author names are correctly spelled, (3) the year, venue, and DOI are accurate, (4) the cited claim actually appears in the paper. Flag any reference that cannot be verified with [UNVERIFIED]. Do not assume a reference is correct without evidence.
 
 References to verify:
 [PASTE LIST OF REFERENCES]
@@ -60,7 +60,7 @@ Use Perplexity in Academic mode for these prompts. Always click the citation lin
 
 ## PUMA Relevance
 
-Perplexity serves as the real-time fact-checker for PUMA's claims. Every quantitative claim in the thesis must pass this verification step before the PEC submission. This is directly required by PUMA's Section 1.8 (AI use declaration) — the Marco Veritas commitment.
+Perplexity serves as the real-time fact-checker for PUMA's claims. Every quantitative claim in the project must pass this verification step before the milestone submission. This is directly required by PUMA's Section 1.8 (AI use declaration) — the Marco Veritas commitment.
 
 ---
 

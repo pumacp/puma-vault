@@ -125,14 +125,14 @@ created: 2026-03-01
 
 | Principle | Implementation |
 |-----------|--------------|
-| **Capture** | [[10 - Inbox/]] — everything starts here |
+| **Capture** | 10 - Inbox/ — everything starts here |
 | **Clarify** | Daily review: what is this? What's the next action? |
 | **Organise** | [[90 - GTD/91 Tasks/TASKS-Active]] by phase and context |
-| **Reflect** | [[90 - GTD/95 Reviews/]] — daily + weekly templates |
+| **Reflect** | 90 - GTD/95 Reviews/ — daily + weekly templates |
 | **Engage** | Do the next action, not the project |
 
 ## 🔗 Connections
-**Implemented in:** [[90 - GTD/]] (entire folder) · [[00 - Home]] (daily access)
+**Implemented in:** 90 - GTD/ (entire folder) · [[00 - Home]] (daily access)
 **Related:** 20 - Literature/20.2 Books/LN-Book-Ahrens-Zettelkasten
 
 ---
@@ -167,5 +167,5 @@ created: 2026-03-01
 | **Fleeting → Literature → Permanent** | Three-stage pipeline in vault structure |
 
 ## 🔗 Connections
-**Implemented in:** [[30 - Permanent/]] (entire folder) · [[00 - Meta/Templates/Template-Permanent-Note]]
+**Implemented in:** 30 - Permanent/ (entire folder) · [[00 - Meta/Templates/Template-Permanent-Note]]
 **Related:** 20 - Literature/20.2 Books/LN-Book-Allen2001-GTD

@@ -134,7 +134,7 @@ def tot_sprint_plan(issues: list[dict], capacity: int, k: int = 3) -> list[dict]
         subset = llm.propose(
             f"Select 5 issues from {issues} for a sprint with capacity {capacity}. "
             f"Consider priority, dependencies, and team skills."
-        )
+       )
         candidates.append(subset)
     
     # State evaluation: LLM judges each subset

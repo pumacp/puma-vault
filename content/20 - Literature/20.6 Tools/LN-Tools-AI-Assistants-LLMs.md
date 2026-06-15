@@ -2,7 +2,7 @@
 id: LN-Tools-AI-Assistants-LLMs
 title: "🤖 Tools — AI Assistants & LLM Models"
 type: literature-tools
-tags: [tools, llm, ai-assistants, claude, chatgpt, ollama, puma, anthropic, api, architecture, benchmark, bias, bibliography, bmad, chain-of-thought, citation, cot, dev-tools, effort-estimation, ethics, gemini, google, gpt, issue-triage, keshav, literature-note, llama, lm-studio, local-llm, meta, metrics, mistral, moc, multi-agent, notebooklm, openai, opencode, precision-recall, project-management, prompt-engineering, prompting, rag, rcoif, reading-method, reasoning, research-tools, rest-api, retrieval, story-points, tfg, thesis, triage]
+tags: [tools, llm, ai-assistants, chatgpt, ollama, puma, anthropic, api, architecture, benchmark, bias, bibliography, bmad, chain-of-thought, citation, cot, dev-tools, effort-estimation, ethics, gemini, google, gpt, issue-triage, keshav, literature-note, llama, lm-studio, local-llm, meta, metrics, mistral, moc, multi-agent, notebooklm, openai, opencode, precision-recall, project-management, prompt-engineering, prompting, rag, rcoif, reading-method, reasoning, research-tools, rest-api, retrieval, story-points, triage]
 created: 2026-04-06
 updated: 2026-04-06
 phase: [F0, F1, F2, F3, F4, F5]
@@ -20,19 +20,19 @@ phase: [F0, F1, F2, F3, F4, F5]
 ## Role A — Research & Development Assistance
 
 ### Claude (Anthropic)
-- **URL**: https://claude.ai
-- **Model**: claude-sonnet-4-6 (primary), claude-opus-4-6 (deep analysis tasks)
+- **URL**: https://the LLM platform
+- **Model**: (primary) (deep analysis tasks)
 - **Role**: A — Research assistant and writing support
 - **Phase**: F0 – continuous
 - **PUMA use**:
   - Literature synthesis and state-of-the-art analysis
-  - Argumentative coherence review of TFG chapters
+  - Argumentative coherence review of report chapters
   - Architectural decision analysis (BMAD Agent Architect role)
   - Prompt engineering for experiment strategies
   - Code scaffolding review (always verified by author)
 - **Strengths**: 200K token context; strong reasoning over long documents; best for complex synthesis tasks
 - **Declaration**: All uses declared in Section 1.8 (AI use declaration, Marco Veritas protocol)
-- **Related**: [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-RCOIF-Research]]
+- **Related**: [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-OpenCode-RCOIF-Research]]
 
 ### ChatGPT (OpenAI)
 - **URL**: https://chatgpt.com
@@ -65,7 +65,7 @@ phase: [F0, F1, F2, F3, F4, F5]
 - **URL**: https://copilot.microsoft.com
 - **Role**: A — Microsoft environment assistant
 - **Phase**: F3 – F5
-- **PUMA use**: Writing assistance within Word/Teams environment; Spanish grammar checking for TFG sections
+- **PUMA use**: Writing assistance within Word/Teams environment; Spanish grammar checking for project sections
 
 ### NotebookLM (Google)
 - **URL**: https://notebooklm.google.com

@@ -36,7 +36,7 @@ Examples:
 
 ---
 
-*Process by: {{date+2days}} — if not processed, move to [[70 - Archive/71 Old-Notes/]]*
+*Process by: {{date+2days}} — if not processed, move to 70 - Archive/71 Old-Notes/*
 
 ---
 
@@ -80,7 +80,7 @@ Need to:
 - Consider documenting this as a limitation
 - Maybe: always use Docker to standardise hardware layer?
 
-Action: Update SP-Architecture-v1 with reproducibility caveat
+Action: Update SP-Architecture with reproducibility caveat
         Log in experiment design under "Threats to Validity"
 ```
 

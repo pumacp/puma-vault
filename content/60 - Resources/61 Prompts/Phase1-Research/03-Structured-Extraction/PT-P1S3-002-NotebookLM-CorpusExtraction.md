@@ -6,7 +6,7 @@ tool: notebooklm
 phase: Phase1-Research
 step: "03-Structured-Extraction"
 methodology: [RAG-Grounded, Keshav-Three-Pass]
-tags: [prompt, notebooklm, rag, corpus-grounded, puma, academic-writing, code-review, effort-estimation, github, issue-triage, keshav, literature-review, llm, moc, prisma, project-management, prompt-template, reading-method, research, research-tools, retrieval, slr, story-points, template, tfg, thesis, triage]
+tags: [prompt, notebooklm, rag, corpus-grounded, puma, academic-writing, code-review, effort-estimation, github, issue-triage, keshav, literature-review, llm, moc, prisma, project-management, prompt-template, reading-method, research, research-tools, retrieval, slr, story-points, template, triage]
 rating: 5
 created: 2026-04-07
 updated: 2026-04-07
@@ -25,7 +25,7 @@ updated: 2026-04-07
 
 Upload to NotebookLM workspace:
 - All SLR corpus PDFs (40+ papers)
-- PUMA project documentation (TFG merged)
+- PUMA project documentation (project merged)
 - PRISMA Log template
 
 System instruction: "Answer only from the uploaded documents. Never generate information not present in the sources. Always cite the specific document and section for each claim."

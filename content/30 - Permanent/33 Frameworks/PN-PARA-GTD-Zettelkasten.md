@@ -4,7 +4,7 @@ title: "PARA, GTD, and Zettelkasten work as complementary engines, not competing
 type: permanent
 created: 2026-04-01
 updated: 2026-04-06
-tags: [permanent-note, para, gtd, zettelkasten, johnny-decimal, methodology, knowledge-management, bibliography, citation, glossary, index, moc, obsidian, pec, pipeline, puma, sdd, second-brain, spec-driven-development, vault, workflow]
+tags: [permanent-note, para, gtd, zettelkasten, johnny-decimal, methodology, knowledge-management, bibliography, citation, glossary, index, moc, obsidian, pipeline, puma, sdd, second-brain, spec-driven-development, vault, workflow]
 ---
 
 # PARA, GTD, and Zettelkasten work as complementary engines, not competing systems
@@ -16,7 +16,7 @@ The key mistake in setting up a knowledge management system is trying to merge P
 ## The Four Engines
 
 **PARA** (Tiago Forte) = the **WHAT** — organises information by actionability:
-- Projects: specific outcomes with deadlines (PUMA chapters, PEC deliverables)
+- Projects: specific outcomes with deadlines (PUMA chapters, milestone deliverables)
 - Areas: ongoing responsibilities (research quality, writing standards)
 - Resources: reference material (papers, tools, prompts)
 - Archive: completed or inactive items
@@ -58,7 +58,7 @@ The PUMA vault implements all four engines:
 
 | Element | Implementation |
 |---------|----------------|
-| PARA Projects | `40 - Projects/PUMA/` (PEC deliverables, specs, experiments) |
+| PARA Projects | `40 - Projects/PUMA/` (milestone deliverables, specs, experiments) |
 | PARA Areas | `50 - Areas/` (research quality, writing, code, sustainability) |
 | PARA Resources | `60 - Resources/` (prompts, workflows, glossary, bibliography) |
 | PARA Archive | `70 - Archive/` (completed sprints, deprecated notes) |
@@ -88,3 +88,7 @@ The PUMA vault implements all four engines:
 ## MOCs
 
 - [[80 - MOC/81 Topic-Maps/MOC-Methods-Frameworks]]
+
+## Related atomic notes (Phase 4.3)
+- [[REPO-SAT-026]]
+- [[PN-ANXHN-042]]

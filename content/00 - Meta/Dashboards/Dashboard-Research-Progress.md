@@ -2,7 +2,7 @@
 id: Dashboard-Research-Progress
 title: "📊 Dashboard — Research Progress"
 type: dashboard
-tags: [dashboard, research, progress, puma, dataview, bibliography, citation, code-review, github, glossary, gtd, literature-review, moc, navigation, obsidian, pec, pipeline, prisma, slr, template, vault]
+tags: [dashboard, research, progress, puma, dataview, bibliography, citation, code-review, github, glossary, gtd, literature-review, moc, navigation, obsidian, pipeline, prisma, slr, template, vault]
 created: 2026-03-01
 updated: 2026-04-06
 ---
@@ -65,11 +65,11 @@ SORT file.mtime DESC
 |---------|--------|-------------|-------|
 | Ch.1 Introduction | ✅ Complete | ~4,000 | delivered |
 | Ch.2 Materials & Methods | 🔄 In progress | ~3,000 | Methods design complete |
-| Ch.3 Results | ⏳ Pending experiments | ~2,500 | Awaiting PEC2 data |
+| Ch.3 Results | ⏳ Pending experiments | ~2,500 | Awaiting Milestone 2 data |
 | Ch.4 Conclusions | ⏳ Pending | ~1,500 | After results |
 | Ch.5 Glossary | 🔄 Ongoing | — | 65 terms in vault |
 | Ch.6 Bibliography | ✅ 42 refs | — | Target ≥40 ✅ |
-| Ch.7 Annexes | 🔄 Building | — | Templates + scripts |
+| Ch.7 Appendices | 🔄 Building | — | Templates + scripts |
 
 ---
 

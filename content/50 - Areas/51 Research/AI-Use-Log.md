@@ -2,7 +2,7 @@
 id: AI-Use-Log
 title: "AI Use Log — PUMA Project (PRISMA-trAIce Compliance)"
 type: log
-tags: [ai-use, prisma-traice, ethics, transparency, marco-veritas, academic-writing, ai-ethics, ai-tools, ai-use-log, anthropic, anythingllm, automation, bdd, claude, code-review, data-formats, dataset, dev-tools, effort-estimation, egi, elicit, gemini, github, google, gpt, ide, issue-triage, jira, json, literature-review, llama, llm, local-llm, meta, metrics, mistral, moc, navigation, notebooklm, ollama, openai, opencode, openhands, openspec, perplexity, pipeline, precision-recall, prisma, project-management, prompting, puma, rag, rcoif, reasoning, research, research-tools, retrieval, sdd, slr, software-engineering, spec-driven-development, story-points, tawos, template, triage, zotero]
+tags: [ai-use, prisma-traice, ethics, transparency, marco-veritas, academic-writing, ai-ethics, ai-tools, ai-use-log, anthropic, anythingllm, automation, bdd, code-review, data-formats, dataset, dev-tools, effort-estimation, egi, elicit, gemini, github, google, gpt, ide, issue-triage, jira, json, literature-review, llama, llm, local-llm, meta, metrics, mistral, moc, navigation, notebooklm, ollama, openai, opencode, openhands, openspec, perplexity, pipeline, precision-recall, prisma, project-management, prompting, puma, rag, rcoif, reasoning, research, research-tools, retrieval, sdd, slr, software-engineering, spec-driven-development, story-points, tawos, template, triage, zotero]
 created: 2026-03-01
 updated: 2026-03-01
 ---
@@ -40,7 +40,7 @@ For every significant AI interaction (not minor autocomplete), record:
 ---
 Date: YYYY-MM-DD
 Phase: F0
-Tool: Claude (claude.ai, claude-opus-4.6)
+Tool: the LLM assistant
 Purpose: [What task]
 Input: [Brief description]
 Output: [Brief description]
@@ -57,7 +57,7 @@ Discarded: [N/A or reason]
 ```
 Date: 2026-02-24
 Phase: F0
-Tool: Claude (claude.ai)
+Tool: the LLM assistant
 Purpose: Initial state-of-the-art panoramic mapping using EGI prompting
 Input: RCOIF prompt describing PUMA project + EGI Panoramic Mapping variant
 Output: Map of 6 sub-areas in PM+LLM research with key papers per area
@@ -96,12 +96,12 @@ Discarded: Some specific percentages NotebookLM cited — not traceable to speci
 ```
 Date: {{DATE}}
 Phase: F1
-Tool: Claude Code (claude-sonnet-4.6)
+Tool: OpenCode
 Purpose: Generate SDD spec template for TriageAgent
 Input: Described TriageAgent requirements in natural language
 Output: Draft OpenSpec YAML for TriageAgent
 Validation: Reviewed against BDD requirements and PUMA specs; significant revision made
-Action: Used as starting point for SP-Triage-Agent-v1.md; 60% rewritten
+Action: Used as starting point for SP-Triage-Agent.md; 60% rewritten
 Discarded: Initial output had unrealistic latency requirements (<5s); revised to <60s
 ---
 ```
@@ -129,7 +129,7 @@ GROUP BY tool, phase
 
 | Tool | Category | Phase | PRISMA-trAIce role |
 |------|---------|-------|-------------------|
-| Claude (claude.ai) | LLM conversational | F0–F5 | Research synthesis, writing review |
+| the LLM assistant | LLM conversational | F0–F5 | Research synthesis, writing review |
 | ChatGPT (OpenAI) | LLM conversational | F0–F2 | Cross-validation, alternative perspectives |
 | DeepSeek-R1 | LLM reasoning | F0–F1 | Statistical and technical questions |
 | Google Gemini | LLM multimodal | F0–F1 | Figure analysis, long documents |
@@ -140,7 +140,7 @@ GROUP BY tool, phase
 | AnythingLLM | Local RAG | F1–F4 | Local document Q&A |
 | Llama 3.2 8B (Ollama) | Experiment model | F2–F4 | **Research subject**, not research tool |
 | Mistral 7B (Ollama) | Experiment model | F2–F4 | **Research subject**, not research tool |
-| Claude Code | Coding agent | F2–F4 | Code generation (human-reviewed) |
+| OpenCode | Coding agent | F2–F4 | Code generation (human-reviewed) |
 | GitHub Copilot | Code completion | F2–F3 | Inline code suggestions |
 | Cursor AI | Code assistant | F2–F3 | Code refactoring |
 | OpenCode | Code agent | F2–F3 | Open-source alternative |

@@ -177,3 +177,8 @@ Include a sustainability table in each experiment report:
 ## MOCs
 
 - [[80 - MOC/81 Topic-Maps/MOC-PUMA-Master]]
+
+## Related atomic notes (Phase 4.3)
+- [[PN-PUMA-030]]
+- [[PN-PUMA-032]]
+- [[RES-MEM-049]]

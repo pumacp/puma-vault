@@ -6,7 +6,7 @@ tool: undermind
 phase: Phase1-Research
 step: "01-Literature-Exploration"
 methodology: [SLR, DSR, RCOIF]
-tags: [prompt, undermind, deep-research, puma, rcoif, ai-ethics, automation, baseline, benchmark, bias, carbon-footprint, code-review, codecarbon, dataset, dsr, effort-estimation, ethics, evaluation, finer, github, human-in-the-loop, ict, issue-triage, jira, langgraph, literature-review, llama, llm, local-llm, meta, metrics, mistral, moc, multi-agent, ollama, orchestration, pipeline, planning, precision-recall, project-management, prompt-template, prompting, pydantic, python, rag, research-methodology, retrieval, slr, software-engineering, story-points, sustainability, tawos, tfg, thesis, triage]
+tags: [prompt, undermind, deep-research, puma, rcoif, ai-ethics, automation, baseline, benchmark, bias, carbon-footprint, code-review, codecarbon, dataset, dsr, effort-estimation, ethics, evaluation, finer, github, human-in-the-loop, ict, issue-triage, jira, langgraph, literature-review, llama, llm, local-llm, meta, metrics, mistral, moc, multi-agent, ollama, orchestration, pipeline, planning, precision-recall, project-management, prompt-template, prompting, pydantic, python, rag, research-methodology, retrieval, slr, software-engineering, story-points, sustainability, tawos, triage]
 rating: 5
 created: 2026-04-07
 updated: 2026-04-07
@@ -26,7 +26,7 @@ updated: 2026-04-07
 ```
 Role: Expert Academic Reviewer in AI-Driven Project Management and Software Engineering Research.
 
-Context: I am developing PUMA (Project Understanding and Management with Agents), a reproducible benchmark for evaluating local LLM agents (Ollama, Llama 3.2, Mistral 7B) in ICT project management tasks: issue triage (priority classification on Jira Social Repository) and effort estimation (story points on TAWOS dataset). The project follows Design Science Research methodology and produces a TFG at UOC.
+Context: I am developing PUMA (Project Understanding and Management with Agents), a reproducible benchmark for evaluating local LLM agents (Ollama, Llama 3.2, Mistral 7B) in ICT project management tasks: issue triage (priority classification on Jira Social Repository) and effort estimation (story points on TAWOS dataset). The project follows Design Science Research methodology and produces a open-source project.
 
 Objective: Identify the state of the art and empirical evidence on LLM agents and multi-agent systems applied specifically to software project management task automation, focusing on reproducible evaluation and sustainability (local inference, CodeCarbon).
 

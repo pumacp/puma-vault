@@ -84,7 +84,7 @@ The Data Agent generates Python/pandas code, executes it in a sandboxed subproce
 - [[30 - Permanent/31 Concepts/PN-MultiAgent-ArchitecturePatterns]] — three-agent specialization pattern
 - [[20 - Literature/20.1 Papers/LLM-Agents-General/LN-Shinn-2023-Reflexion]] — error recovery via self-reflection
 - [[20 - Literature/20.3 Datasets/LN-Datasets-JiraSR-TAWOS]] — target datasets for Data Agent
-- [[40 - Projects/PUMA/41.6 Specs/SP-Architecture-v1]] — pipeline architecture
+- [[40 - Projects/PUMA/41.6 Specs/SP-Architecture]] — pipeline architecture
 
 ## MOCs
 

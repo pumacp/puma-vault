@@ -2,10 +2,9 @@
 id: PR-PUMA-Ch1-Introduction
 title: "Chapter 1 — Introduction (PUMA Project)"
 type: project-note
-tags: [project, chapter, introduction, puma, academic-writing, ai-tools, anthropic, anythingllm, architecture, backlog, baseline, bias, bmad, carbon-footprint, checklist, claude, code-review, codecarbon, cornell-notes, critical-thinking, dataset, dev-tools, dsr, effect-size, effort-estimation, ethics, evaluation, few-shot, finer, gemini, github, google, hypothesis, ict, ide, issue-triage, jira, literature-review, llama, llm, local-llm, meta, metrics, mistral, moc, multi-agent, navigation, non-parametric, note-taking, notebooklm, ollama, opencode, openhands, pec, perplexity, precision-recall, prisma, project-management, project-note, red-teaming, research-methodology, research-tools, slr, sprint, statistics, story-points, sustainability, tawos, thesis, triage, wilcoxon]
+tags: [project, chapter, introduction, puma, academic-writing, ai-tools, anthropic, anythingllm, architecture, backlog, baseline, bias, bmad, carbon-footprint, checklist, code-review, codecarbon, cornell-notes, critical-thinking, dataset, dev-tools, dsr, effect-size, effort-estimation, ethics, evaluation, few-shot, finer, gemini, github, google, hypothesis, ict, ide, issue-triage, jira, literature-review, llama, llm, local-llm, meta, metrics, mistral, moc, multi-agent, navigation, non-parametric, note-taking, notebooklm, ollama, opencode, openhands, perplexity, precision-recall, prisma, project-management, project-note, red-teaming, research-methodology, research-tools, slr, sprint, statistics, story-points, sustainability, tawos, triage, wilcoxon]
 status: complete
 deadline: 2026-03-08
-pec: PEC1
 word_count_target: 3000
 word_count_current: 0
 created: 2026-03-01
@@ -17,8 +16,8 @@ updated: 2026-03-01
 > [!success] Chapter Status
 
 > [!info] Overview
-> ✅ PEC1 delivered 2026-03-08
-> **Chapter structure:** Follows PUMA Project requirements for final thesis
+> ✅ Milestone 1 delivered 2026-03-08
+> **Chapter structure:** Follows PUMA Project requirements for final project report
 
 ---
 
@@ -83,13 +82,13 @@ updated: 2026-03-01
 
 | Phase | Period | Key Output |
 |-------|--------|-----------|
-| F0 Initiation | Feb 23 – Mar 8 | PEC1: Chapter 1 + environment verified |
+| F0 Initiation | Feb 23 – Mar 8 | Milestone 1: Chapter 1 + environment verified |
 | F1 Design | Mar 9–28 | Architecture + prompting strategies |
-| F2 Prototype | Mar 29 – Apr 8 | PEC2: Working triage module |
-| F3 Extension | Apr 9 – May 10 | PEC3: Estimation module |
+| F2 Prototype | Mar 29 – Apr 8 | Milestone 2: Working triage module |
+| F3 Extension | Apr 9 – May 10 | Milestone 3: Estimation module |
 | F3b Conditional | May 11–31 | Backlog module (if F3 on time) |
-| F4 Analysis | May 1 – Jun 7 | PEC4: Full results + statistics |
-| F5 Closure | Jun 8–23 | PEC5: Final submission + defence |
+| F4 Analysis | May 1 – Jun 7 | Milestone 4: Full results + statistics |
+| F5 Closure | Jun 8–23 | Milestone 5: Final release |
 
 ---
 
@@ -98,7 +97,7 @@ updated: 2026-03-01
 **Framework:** Marco Veritas (Codina, 2024)
 **Principle:** No delegation of judgement — AI generates options, author decides
 **Validation:** Every AI-sourced reference verified in primary source
-**Tools declared:** Claude, Perplexity, DeepSeek, Gemini, NotebookLM, AnythingLLM, GitHub Copilot, Cursor, OpenHands, Warp AI Terminal, OpenCode, Browser OS
+**Tools declared:** the LLM assistant, Perplexity, DeepSeek, Gemini, NotebookLM, AnythingLLM, GitHub Copilot, Cursor, OpenHands, Warp AI Terminal, OpenCode, Browser OS
 
 Full log: [[50 - Areas/51 Research/AI-Use-Log]]
 
@@ -106,7 +105,7 @@ Full log: [[50 - Areas/51 Research/AI-Use-Log]]
 
 ## Writing Notes
 
-*Use this section for drafting observations, things to revise, feedback from tutor*
+*Use this section for drafting observations, things to revise, feedback from reviewers*
 
 - [ ] Tutor feedback received on: {{date}}
 - [ ] Main revision needed: {{notes}}

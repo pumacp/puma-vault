@@ -6,7 +6,7 @@ channel: "Prompt Engineering"
 url: "https://www.youtube.com/watch?v=ZWfZQa05C8s"
 year: 2025
 status: to-watch
-tags: [video, gemini-cli, google, coding-agent, free, anthropic, api, claude, dev-tools, gemini, ide, llm, mcp, moc, prompt-engineering, protocol, video-note]
+tags: [video, gemini-cli, google, coding-agent, free, anthropic, api, dev-tools, gemini, ide, llm, mcp, moc, prompt-engineering, protocol, video-note]
 phase: ['F2', 'F3']
 rating: 4
 created: 2026-04-06

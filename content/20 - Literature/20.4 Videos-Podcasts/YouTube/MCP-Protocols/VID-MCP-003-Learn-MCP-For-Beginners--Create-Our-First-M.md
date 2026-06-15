@@ -6,7 +6,7 @@ channel: "midudev"
 url: "https://www.youtube.com/watch?v=wnHczxwukYY"
 year: 2025
 status: to-watch
-tags: [video, mcp, tutorial, python, spanish, anthropic, api, architecture, claude, effort-estimation, jira, moc, protocol, rest-api, story-points, video-note]
+tags: [video, mcp, tutorial, python, spanish, anthropic, api, architecture, effort-estimation, jira, moc, protocol, rest-api, story-points, video-note]
 phase: ['F2', 'F3']
 rating: 4
 created: 2026-04-06
@@ -30,7 +30,7 @@ Spanish-language comprehensive MCP tutorial by Midudev (600k+ subscribers). Buil
 
 ## PUMA Relevance
 
-Most accessible Spanish-language MCP tutorial. The filesystem MCP server implementation pattern is directly reusable for PUMA's Jira MCP server (replace filesystem operations with Jira REST API calls). The tool schema design principles shown here inform PUMA's SP-Architecture-v1 MCP tool definitions.
+Most accessible Spanish-language MCP tutorial. The filesystem MCP server implementation pattern is directly reusable for PUMA's Jira MCP server (replace filesystem operations with Jira REST API calls). The tool schema design principles shown here inform PUMA's SP-Architecture MCP tool definitions.
 
 ---
 

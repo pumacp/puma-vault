@@ -10,7 +10,7 @@ relevance: 5
 citekey: "@MITAILab1988HowToDoResearch"
 venue: "MIT AI Lab Working Paper 316"
 url: "http://www.ai.mit.edu/lab/howto.html"
-tags: [literature, research-methodology, mit-ai-lab, keshav, reading-method, puma-core, academic-writing, ami, bibliography, chain-of-thought, checklist, citation, cot, dataset, drca, egi, falsifiability, literature-note, literature-review, obsidian, permanent-note, popper, project-management, prompting, qualitative-research, rcoif, reasoning, research, slr, thesis, vault, wp316]
+tags: [literature, research-methodology, mit-ai-lab, keshav, reading-method, puma-core, academic-writing, ami, bibliography, chain-of-thought, checklist, citation, cot, dataset, drca, egi, falsifiability, literature-note, literature-review, obsidian, permanent-note, popper, project-management, prompting, qualitative-research, rcoif, reasoning, research, slr, vault, wp316]
 created: 2026-04-06
 updated: 2026-04-06
 keshav-pass: 3
@@ -59,7 +59,7 @@ These three questions are **not a formal named methodology** in the document —
 **On choosing research problems**:
 - Work on problems that matter. Don't chase fashionable topics.
 - Ask: "If I solve this, will anyone care?"
-- The document distinguishes between "thesis problems" (safe, completable) and "research problems" (uncertain, high-value).
+- The document distinguishes between "project problems" (safe, completable) and "research problems" (uncertain, high-value).
 
 **On reading the literature**:
 - Read deeply, not broadly. Better to understand 10 papers completely than skim 100.

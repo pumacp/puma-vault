@@ -3,14 +3,14 @@ id: MOC-AI-Knowledge-Generation
 title: "MOC — AI and New Scientific Knowledge Generation"
 type: moc
 version: 1.0
-tags: [moc, ai-science, agentic-science, knowledge-generation, pec2, puma, ai-scientist, alphafold, anthropic, automation, bibliography, citation, claude, critical-thinking, effort-estimation, gemini, gnome, google, gpt, graphcast, issue-triage, jira, llm, materials-science, notebooklm, openai, orchestration, pec, pipeline, plasma-physics, project-management, protein-folding, red-teaming, reinforcement-learning, research-tools, scientific-knowledge, smart-pmo, story-points, triage, weather-prediction, zettelkasten]
+tags: [moc, ai-science, agentic-science, knowledge-generation, puma, ai-scientist, alphafold, anthropic, automation, bibliography, citation, critical-thinking, effort-estimation, gemini, gnome, google, gpt, graphcast, issue-triage, jira, llm, materials-science, notebooklm, openai, orchestration, pipeline, plasma-physics, project-management, protein-folding, red-teaming, reinforcement-learning, research-tools, scientific-knowledge, smart-pmo, story-points, triage, weather-prediction, zettelkasten]
 created: 2026-04-07
 updated: 2026-04-07
 ---
 
 # 🗂️ MOC — AI and New Scientific Knowledge Generation
 
-This MOC covers PUMA's PEC2 research area: the question of whether and how AI systems can generate new scientific knowledge. Connected to PUMA's broader positioning of LLM-based PM agents within the Agentic Science trajectory.
+This MOC covers PUMA's Milestone 2 research area: the question of whether and how AI systems can generate new scientific knowledge. Connected to PUMA's broader positioning of LLM-based PM agents within the Agentic Science trajectory.
 
 ---
 
@@ -79,13 +79,13 @@ PUMA fits at LeCun's Level 2 (AI as scientific model):
 - Input: User story text → Output: story point estimate (Level 2 model)
 - Future (Stage 5): Full PM cycle orchestration (approaching Level 3)
 
-The PEC2 research provides the theoretical context for why Level 2 AI models are scientifically valid and practically valuable.
+The Milestone 2 research provides the theoretical context for why Level 2 AI models are scientifically valid and practically valuable.
 
 ---
 
 ## Bibliography
 
-- [[60 - Resources/65 Bibliographies/BIB-Supplement-PEC2-AIKnowledge]] — All PEC2 references in APA7
+- [[60 - Resources/65 Bibliographies/BIB-Supplement-AIKnowledge]] — All Milestone 2 references in APA7
 
 ---
 

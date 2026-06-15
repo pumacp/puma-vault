@@ -138,7 +138,7 @@ Typical constraints in PM workflows:
 2. **Estimation bottleneck**: SP estimation requires PM expertise — PUMA's H2 addresses this
 3. **Policy constraint**: Waiting for human approval before starting work on triaged issues
 
-PUMA's thesis: automating the triage bottleneck (H1) elevates the system's throughput. The constraint shifts downstream — which is where Stage 2 (effort estimation) enters.
+PUMA's project: automating the triage bottleneck (H1) elevates the system's throughput. The constraint shifts downstream — which is where Stage 2 (effort estimation) enters.
 
 ### TOC and PUMA's Five-Stage Architecture
 

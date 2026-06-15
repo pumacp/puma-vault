@@ -308,7 +308,7 @@ The 1.7× issue escalation finding directly motivates SmartPMO's code quality mo
 
 ### Thesis Relevance (PUMA Chapter 1)
 
-The finding that PRs per author increased 20% while incidents per PR increased 23.5% is a **precise quantification of the AI quality-speed tension** — directly supporting PUMA's thesis argument that:
+The finding that PRs per author increased 20% while incidents per PR increased 23.5% is a **precise quantification of the AI quality-speed tension** — directly supporting PUMA's project argument that:
 
 > "AI acceleration of PM tasks requires quality safeguards to avoid translating velocity gains into incident amplification."
 

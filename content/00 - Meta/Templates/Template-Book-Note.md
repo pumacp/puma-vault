@@ -3,7 +3,7 @@ id: "LN-{{AuthorYear}}-{{Keyword}}"
 title: "{{ Book Title }}"
 type: literature-note
 subtype: book
-tags: [literature, book, {{topic}}, academic-writing, checklist, code-review, cornell-notes, github, moc, note-taking, research-tools, template, thesis, zotero]
+tags: [literature, book, {{topic}}, academic-writing, checklist, code-review, cornell-notes, github, moc, note-taking, research-tools, template, zotero]
 authors: ["{{Author LastName, FirstName}}"]
 year: "{{YYYY}}"
 publisher: "{{Publisher}}"

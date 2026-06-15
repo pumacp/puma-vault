@@ -2,7 +2,7 @@
 id: "GT-Daily-{{date}}"
 title: "Daily Review — {{date}}"
 type: gtd-daily
-tags: [gtd, daily-review, tasks, academic-writing, ai-tools, anthropic, claude, dataset, hypothesis, metrics, perplexity, precision-recall, research, research-methodology, research-tools, template, zotero]
+tags: [gtd, daily-review, tasks, academic-writing, ai-tools, anthropic, dataset, hypothesis, metrics, perplexity, precision-recall, research, research-methodology, research-tools, template, zotero]
 date: "{{date}}"
 created: "{{date}}"
 ---
@@ -65,14 +65,14 @@ created: "{{date}}"
 
 | Tool | Purpose | Quality | Notes |
 |------|---------|---------|-------|
-| "{{Claude}}" | "{{Refined hypothesis}}" | "{{High}}" | "{{Summary}}" |
+| "{{LLM assistant}}" | "{{Refined hypothesis}}" | "{{High}}" | "{{Summary}}" |
 | "{{Perplexity}}" | "{{Found paper X}}" | "{{Medium}}" | "{{Needed verification}}" |
 
 ---
 
 ## 🔄 Waiting For
 
-- [ ] "{{Waiting for: tutor feedback on Ch1}}" — sent "{{date}}"
+- [ ] "{{Waiting for: reviewer feedback on Ch1}}" — sent "{{date}}"
 - [ ] "{{Waiting for: dataset download}}" — submitted "{{date}}"
 
 ---

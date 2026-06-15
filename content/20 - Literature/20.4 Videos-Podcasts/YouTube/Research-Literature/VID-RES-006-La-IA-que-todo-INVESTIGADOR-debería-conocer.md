@@ -6,7 +6,7 @@ channel: "Ph.D. Alejandro Medina Sandín"
 url: "https://www.youtube.com/watch?v=tCrw2p19Xj4"
 year: 2024
 status: to-watch
-tags: [video, research, consensus, evidence, spanish, literature-review, moc, pipeline, prisma, project-management, slr, tfg, thesis, video-note]
+tags: [video, research, consensus, evidence, spanish, literature-review, moc, pipeline, prisma, project-management, slr, video-note]
 phase: ['F0']
 rating: 4
 created: 2026-04-06
@@ -30,7 +30,7 @@ Spanish-language tutorial on Consensus for academic research. Demonstrates how t
 
 ## PUMA Relevance
 
-Motivates PUMA's use of Consensus for finding empirical evidence about AI effectiveness in PM tasks. The evidence-level filtering (not just finding papers but finding high-quality evidence) supports PUMA's SLR quality assessment criteria. The Spanish-language format makes it accessible as a reference for the TFG committee.
+Motivates PUMA's use of Consensus for finding empirical evidence about AI effectiveness in PM tasks. The evidence-level filtering (not just finding papers but finding high-quality evidence) supports PUMA's SLR quality assessment criteria. The Spanish-language format makes it accessible as a reference for the project committee.
 
 ---
 

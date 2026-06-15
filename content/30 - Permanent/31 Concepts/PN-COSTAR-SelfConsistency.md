@@ -118,7 +118,7 @@ def self_consistent_classify(issue, model, k=5):
             prompt=build_prompt(issue),
             temperature=0.7,
             max_tokens=512
-        )
+       )
         parsed = parse_json(result)
         if parsed:
             responses.append(parsed["type"])

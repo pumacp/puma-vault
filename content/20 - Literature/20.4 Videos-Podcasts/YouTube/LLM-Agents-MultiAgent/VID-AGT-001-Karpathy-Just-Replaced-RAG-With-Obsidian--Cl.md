@@ -6,7 +6,7 @@ channel: "Chase AI"
 url: "https://www.youtube.com/watch?v=OSZdFnQmgRw"
 year: 2025
 status: to-watch
-tags: [video, agents, karpathy, obsidian, anthropic, architecture, claude, dev-tools, embeddings, graph-rag, ide, knowledge-graph, knowledge-management, llm, metrics, moc, precision-recall, project-management, rag, retrieval, vault, vector-db, video-note]
+tags: [video, agents, karpathy, obsidian, anthropic, architecture, dev-tools, embeddings, graph-rag, ide, knowledge-graph, knowledge-management, llm, metrics, moc, precision-recall, project-management, rag, retrieval, vault, vector-db, video-note]
 phase: ['F0', 'F1', 'F2']
 rating: 5
 created: 2026-04-06

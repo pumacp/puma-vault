@@ -131,3 +131,8 @@ All three converge on the same failure mode: insufficient weight given to histor
 
 - [[80 - MOC/81 Topic-Maps/MOC-LLM-Benchmarks-PM-AI]]
 - [[80 - MOC/81 Topic-Maps/MOC-PUMA-Master]]
+
+## Related atomic notes (Phase 4.3)
+- [[PN-MEM-007]]
+- [[PN-MEM-005]]
+- [[PN-MEM-006]]

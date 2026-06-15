@@ -36,7 +36,7 @@ keshav-pass: 2
 | **Category** | Policy argument + technology forecast |
 | **Context** | Written by Mustafa Suleyman (co-founder of DeepMind, co-founder of Inflection AI, Microsoft AI CEO) with Michael Bhaskar (writer and AI researcher); bridges insider AI knowledge with policy prescription |
 | **Correctness** | Analytical argument rather than empirical; draws on Suleyman's direct industry experience across two decades at the frontier of AI development |
-| **Contributions** | (1) "The containment problem": how to prevent AI/biotech from becoming uncontrollable; (2) Proliferation thesis: AI capabilities spread faster than governance can adapt; (3) Proposal for "wide safety" — technical + political + cultural containment; (4) The "coming wave" concept: simultaneous convergence of AI and synthetic biology |
+| **Contributions** | (1) "The containment problem": how to prevent AI/biotech from becoming uncontrollable; (2) Proliferation project: AI capabilities spread faster than governance can adapt; (3) Proposal for "wide safety" — technical + political + cultural containment; (4) The "coming wave" concept: simultaneous convergence of AI and synthetic biology |
 | **Clarity** | Excellent. Accessible, urgent tone. |
 
 > [!success] Relevance: ⭐⭐⭐

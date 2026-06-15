@@ -22,7 +22,7 @@ keshav-pass: 2
 
 > [!cite] Bibliographic Reference
 > **Citation**: Karpathy, A. (2026). *LLM Wiki: Personal knowledge base pattern*. GitHub Gist. https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
-> **Related video**: *Karpathy Just Replaced RAG With Obsidian + Claude Code* — [[20 - Literature/20.4 Videos-Podcasts/YouTube/LLM-Agents-MultiAgent/VID-AGT-001-Karpathy-Just-Replaced-RAG-With-Obsidian--Cl]]
+> **Related video**: *Karpathy Just Replaced RAG With Obsidian + OpenCode* — [[20 - Literature/20.4 Videos-Podcasts/YouTube/LLM-Agents-MultiAgent/VID-AGT-001-Karpathy-Just-Replaced-RAG-With-Obsidian--Cl]]
 
 ---
 
@@ -37,7 +37,7 @@ keshav-pass: 2
 | **Clarity** | Excellent. Intentionally abstract — describes the pattern, not the implementation. Readers adapt to their domain. |
 
 > [!success] Relevance: ⭐⭐⭐⭐⭐
-> The LLM Wiki pattern is the conceptual basis of the PUMA Obsidian vault itself: this vault is a human-curated, LLM-assisted wiki where Claude Code reads, synthesises, and updates interconnected markdown files — exactly as Karpathy describes.
+> The LLM Wiki pattern is the conceptual basis of the PUMA Obsidian vault itself: this vault is a human-curated, LLM-assisted wiki where OpenCode reads, synthesises, and updates interconnected markdown files — exactly as Karpathy describes.
 
 ---
 
@@ -187,7 +187,7 @@ Bush's vision was unrealisable in 1945 — he could imagine associative trails b
 
 ### The PUMA Vault IS an LLM Wiki
 
-The PUMA Obsidian vault implements the LLM Wiki pattern with Claude Code as the LLM maintainer:
+The PUMA Obsidian vault implements the LLM Wiki pattern with OpenCode as the LLM maintainer:
 
 | Karpathy's Layer | PUMA Equivalent |
 |-----------------|-----------------|
@@ -197,7 +197,7 @@ The PUMA Obsidian vault implements the LLM Wiki pattern with Claude Code as the 
 | `index.md` | `00 - Home.md` + `80 - MOC/` navigation layer |
 | `log.md` | `50 - Areas/51 Research/AI-Use-Log.md` (PRISMA-trAIce) |
 | Ingest | Literature note creation (Keshav Three-Pass) |
-| Query | Research synthesis sessions with Claude Code |
+| Query | Research synthesis sessions with OpenCode |
 | Lint | Vault formatting sessions — duplicate detection, callout repair, orphan link cleanup |
 
 ### PUMA Enhancements Over the Base Pattern

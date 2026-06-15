@@ -2,7 +2,7 @@
 id: Master-Index
 title: "📇 Master Index — Johnny Decimal"
 type: index
-tags: [index, johnny-decimal, navigation, master, academic-writing, ai-ethics, ami, anthropic, architecture, baseline, benchmark, bibliography, chain-of-thought, citation, claude, code-review, contextual-anchoring, cornell-notes, cot, critical-thinking, dashboard, dataset, dev-tools, drca, dsr, effort-estimation, egi, embeddings, ethics, evaluation, falsifiability, few-shot, finer, github, glossary, gtd, hypothesis, iipr, issue-triage, jira, langgraph, literature-review, llm, local-llm, metrics, mit-ai-lab, moc, multi-agent, non-parametric, note-taking, obsidian, ollama, opencode, pipeline, popper, precision-recall, prisma, project-management, prompting, rag, rcoif, react, reasoning-action, red-teaming, research, research-methodology, retrieval, scrum, sdd, slr, spec-driven-development, statistics, story-points, tawos, template, triage, vault, vector-db, wilcoxon, workflow, wp316, zettelkasten]
+tags: [index, johnny-decimal, navigation, master, academic-writing, ai-ethics, ami, anthropic, architecture, baseline, benchmark, bibliography, chain-of-thought, citation, code-review, contextual-anchoring, cornell-notes, cot, critical-thinking, dashboard, dataset, dev-tools, drca, dsr, effort-estimation, egi, embeddings, ethics, evaluation, falsifiability, few-shot, finer, github, glossary, gtd, hypothesis, iipr, issue-triage, jira, langgraph, literature-review, llm, local-llm, metrics, mit-ai-lab, moc, multi-agent, non-parametric, note-taking, obsidian, ollama, opencode, pipeline, popper, precision-recall, prisma, project-management, prompting, rag, rcoif, react, reasoning-action, red-teaming, research, research-methodology, retrieval, scrum, sdd, slr, spec-driven-development, statistics, story-points, tawos, template, triage, vault, vector-db, wilcoxon, workflow, wp316, zettelkasten]
 created: 2026-03-01
 updated: 2026-03-01
 ---
@@ -161,8 +161,8 @@ updated: 2026-03-01
 
 | ID | Note | Status |
 |----|------|--------|
-| 30.34-01 | [[30 - Permanent/34 Results/RES-Results-Placeholders]] (Triage Stage 1 — pending) | Pending |
-| 30.34-02 | [[30 - Permanent/34 Results/RES-Results-Placeholders]] (Estimation Stage 2 — pending) | Pending |
+| 30.34-01 | [[30 - Permanent/34 Results/RES-Results-Index]] (Triage Stage 1 — pending) | Pending |
+| 30.34-02 | [[30 - Permanent/34 Results/RES-Results-Index]] (Estimation Stage 2 — pending) | Pending |
 
 ### 35 Hypotheses
 
@@ -205,7 +205,7 @@ updated: 2026-03-01
 | ID | Note | Category |
 |----|------|---------|
 | 60.61 | [[60 - Resources/61 Prompts/PT-PUMA-Experiment-Prompts]] | Prompts |
-| 60.62 | [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-RCOIF-Research]] | Prompts |
+| 60.62 | [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-OpenCode-RCOIF-Research]] | Prompts |
 | 60.63 | [[60 - Resources/61 Prompts/61.2 Research-Tools/PT-Research-Discovery-Prompts]] | Prompts |
 | 60.64 | [[60 - Resources/61 Prompts/61.3 Dev-Tools/PT-DevTools-Prompts]] | Prompts |
 | 60.65 | [[60 - Resources/62 Workflows/WF-SLR-Pipeline]] | Workflows |

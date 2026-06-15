@@ -6,3 +6,6 @@ tags: [readme, archive]
 
 > [!info] Overview
 > Project notes, experiment notes, and task files moved here when fully complete.
+
+## Related
+- [[MOC-PUMA-Master]] — project map

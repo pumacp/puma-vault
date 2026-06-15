@@ -3,7 +3,7 @@ id: MOC-Prompts-Library
 title: "💬 MOC — Prompts Library"
 type: moc
 version: 1.0
-tags: [moc, prompts, ai-tools, rcoif, few-shot, cot, research-workflow, puma, tools, academic-writing, ami, anthropic, anythingllm, architecture, artefact, automation, bdd, benchmark, bibliography, bmad, carbon-footprint, chain-of-thought, citation, claude, codecarbon, connected-papers, context-engineering, contextual-anchoring, critical-thinking, dataset, dev-tools, drca, dsr, effort-estimation, egi, elicit, gemini, github, google, gpt, grounded-theory, hypothesis, ide, iipr, index, issue-triage, jira, keshav, literature-review, llm, local-llm, metrics, multi-agent, navigation, non-parametric, notebooklm, ollama, openai, opencode, openhands, openspec, perplexity, pipeline, precision-recall, prisma, project-management, prompt-engineering, prompting, rag, reading-method, reasoning, red-teaming, refactoring, research, research-methodology, research-rabbit, research-tools, retrieval, sdd, semantic-scholar, semantic-search, slr, spec-driven-development, statistics, story-points, sustainability, tawos, thesis, triage, wilcoxon, workflow, zero-shot, zettelkasten, zotero]
+tags: [moc, prompts, ai-tools, rcoif, few-shot, cot, research-workflow, puma, tools, academic-writing, ami, anthropic, anythingllm, architecture, artefact, automation, bdd, benchmark, bibliography, bmad, carbon-footprint, chain-of-thought, citation, codecarbon, connected-papers, context-engineering, contextual-anchoring, critical-thinking, dataset, dev-tools, drca, dsr, effort-estimation, egi, elicit, gemini, github, google, gpt, grounded-theory, hypothesis, ide, iipr, index, issue-triage, jira, keshav, literature-review, llm, local-llm, metrics, multi-agent, navigation, non-parametric, notebooklm, ollama, openai, opencode, openhands, openspec, perplexity, pipeline, precision-recall, prisma, project-management, prompt-engineering, prompting, rag, reading-method, reasoning, red-teaming, refactoring, research, research-methodology, research-rabbit, research-tools, retrieval, sdd, semantic-scholar, semantic-search, slr, spec-driven-development, statistics, story-points, sustainability, tawos, triage, wilcoxon, workflow, zero-shot, zettelkasten, zotero]
 created: 2026-03-01
 updated: 2026-03-01
 ---
@@ -17,13 +17,13 @@ updated: 2026-03-01
 
 ## 🤖 LLM Tools — Conversational AI
 
-### Claude (Anthropic) — claude.ai
-- [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-RCOIF-Research]] — Academic research assistant
-- 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-DRCA-Paper — Paper deconstruction
-- 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-EGI-Exploration — Guided concept exploration
-- 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-AMI-Review — Iterative self-improvement
-- 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-Red-Team — Rival hypothesis generation
-- 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-IIPR-Prompt-Refinement — Prompt reverse engineering
+### Claude (Anthropic) — the LLM platform
+- [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-OpenCode-RCOIF-Research]] — Academic research assistant
+- 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-OpenCode-DRCA-Paper — Paper deconstruction
+- 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-OpenCode-EGI-Exploration — Guided concept exploration
+- 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-OpenCode-AMI-Review — Iterative self-improvement
+- 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-OpenCode-Red-Team — Rival hypothesis generation
+- 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-OpenCode-IIPR-Prompt-Refinement — Prompt reverse engineering
 
 ### ChatGPT (OpenAI)
 - 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-ChatGPT-SLR-Synthesis — Literature synthesis
@@ -74,10 +74,10 @@ updated: 2026-03-01
 
 ## 💻 Development Tools
 
-### Claude Code
-- 60 - Resources/61 Prompts/61.3 Dev-Tools/PT-ClaudeCode-Agent-Triage — Triage agent implementation
-- 60 - Resources/61 Prompts/61.3 Dev-Tools/PT-ClaudeCode-Benchmark-Pipeline — Benchmark pipeline
-- 60 - Resources/61 Prompts/61.3 Dev-Tools/PT-ClaudeCode-Dataset-Prep — Dataset preparation
+### OpenCode
+- 60 - Resources/61 Prompts/61.3 Dev-Tools/PT-OpenCode-Agent-Triage — Triage agent implementation
+- 60 - Resources/61 Prompts/61.3 Dev-Tools/PT-OpenCode-Benchmark-Pipeline — Benchmark pipeline
+- 60 - Resources/61 Prompts/61.3 Dev-Tools/PT-OpenCode-Dataset-Prep — Dataset preparation
 
 ### OpenCode
 - 60 - Resources/61 Prompts/61.3 Dev-Tools/PT-OpenCode-Refactor — Code refactoring
@@ -139,7 +139,7 @@ All prompts follow the **RCOIF framework** (Role, Context, Objective, Instructio
 |----|-------|------|--------|
 | [[PT-P1S2-001-ConnectedPapers-CitationMap]] | Connected Papers Citation Map | Connected Papers | ⭐⭐⭐⭐⭐ |
 | [[PT-P1S2-002-LitMaps-TemporalEvolution]] | LitMaps Temporal Evolution | LitMaps | ⭐⭐⭐⭐⭐ |
-| [[PT-P1S2-003-Claude-LiteratureSynthesis-RCOIF]] | Claude Literature Synthesis | Claude | ⭐⭐⭐⭐⭐ |
+| [[PT-P1S2-003-OpenCode-LiteratureSynthesis-RCOIF]] | Claude Literature Synthesis | Claude | ⭐⭐⭐⭐⭐ |
 | [[PT-P1S2-004-Perplexity-FastEvidenceMap]] | Perplexity Fast Evidence Map | Perplexity | ⭐⭐⭐⭐ |
 | [[PT-P1S2-005-Gemini-BroadCorpusSynthesis]] | Gemini Broad Corpus Synthesis | Gemini | ⭐⭐⭐⭐ |
 
@@ -156,7 +156,7 @@ All prompts follow the **RCOIF framework** (Role, Context, Objective, Instructio
 
 | ID | Title | Tool | Rating |
 |----|-------|------|--------|
-| [[PT-P1S4-001-Claude-TheoreticalFramework]] | Claude Theoretical Framework | Claude | ⭐⭐⭐⭐⭐ |
+| [[PT-P1S4-001-OpenCode-TheoreticalFramework]] | Claude Theoretical Framework | Claude | ⭐⭐⭐⭐⭐ |
 | [[PT-P1S4-002-ChatGPT-ZettelkastenNotes]] | ChatGPT Zettelkasten Notes | ChatGPT | ⭐⭐⭐⭐⭐ |
 | [[PT-P1S4-003-Gemini-ConceptualModel]] | Gemini Conceptual Model | Gemini | ⭐⭐⭐⭐ |
 
@@ -164,21 +164,21 @@ All prompts follow the **RCOIF framework** (Role, Context, Objective, Instructio
 
 | ID | Title | Tool | Rating |
 |----|-------|------|--------|
-| [[PT-P1S5-001-Claude-HypothesisFormulation]] | Claude Hypothesis Formulation | Claude | ⭐⭐⭐⭐⭐ |
+| [[PT-P1S5-001-OpenCode-HypothesisFormulation]] | Claude Hypothesis Formulation | Claude | ⭐⭐⭐⭐⭐ |
 | [[PT-P1S5-002-ChatGPT-RivalHypotheses]] | ChatGPT Rival Hypotheses | ChatGPT | ⭐⭐⭐⭐⭐ |
 
 ### Step 6 — Experimental Design
 
 | ID | Title | Tool | Rating |
 |----|-------|------|--------|
-| [[PT-P1S6-001-Claude-ExperimentProtocol]] | Claude Experiment Protocol | Claude | ⭐⭐⭐⭐⭐ |
+| [[PT-P1S6-001-OpenCode-ExperimentProtocol]] | Claude Experiment Protocol | Claude | ⭐⭐⭐⭐⭐ |
 | [[PT-P1S6-002-ChatGPT-DatasetPreparation]] | ChatGPT Dataset Preparation | ChatGPT | ⭐⭐⭐⭐⭐ |
 
 ### Step 7 — Critical Review
 
 | ID | Title | Tool | Rating |
 |----|-------|------|--------|
-| [[PT-P1S7-001-Claude-PeerReviewSimulation]] | Claude Peer Review Simulation | Claude | ⭐⭐⭐⭐⭐ |
+| [[PT-P1S7-001-OpenCode-PeerReviewSimulation]] | Claude Peer Review Simulation | Claude | ⭐⭐⭐⭐⭐ |
 | [[PT-P1S7-002-Grok-AdversarialCritique]] | Grok Adversarial Critique | Grok | ⭐⭐⭐⭐ |
 | [[PT-P1S7-003-Perplexity-ClaimVerification]] | Perplexity Claim Verification | Perplexity | ⭐⭐⭐⭐ |
 
@@ -188,8 +188,8 @@ All prompts follow the **RCOIF framework** (Role, Context, Objective, Instructio
 
 | ID | Title | Tool | Rating |
 |----|-------|------|--------|
-| [[PT-P2-001-Claude-ArchitectureDesign-SDD]] | Architecture Design (SDD/BMAD) | Claude | ⭐⭐⭐⭐⭐ |
-| [[PT-P2-002-CursorClaudeCode-Implementation]] | Cursor/Claude Code Implementation | Cursor + Claude Code | ⭐⭐⭐⭐⭐ |
+| [[PT-P2-001-OpenCode-ArchitectureDesign-SDD]] | Architecture Design (SDD/BMAD) | Claude | ⭐⭐⭐⭐⭐ |
+| [[PT-P2-002-Cursor-Implementation]] | Cursor/OpenCode Implementation | Cursor + OpenCode | ⭐⭐⭐⭐⭐ |
 | [[PT-P2-003-PromptEngineering-AgentPrompts]] | Agent Prompt Engineering | Context Engineering | ⭐⭐⭐⭐⭐ |
 | [[PT-P2-004-AcademicWriting-ThesisChapters]] | Academic Writing — Thesis Chapters | Claude + ChatGPT | ⭐⭐⭐⭐⭐ |
 
@@ -228,7 +228,7 @@ All prompts follow the **RCOIF framework** (Role, Context, Objective, Instructio
 | Researcher | PT-P1S3-004 | — |
 | ChatGPT | PT-P1S4-002, PT-P1S5-002, PT-P1S6-002 | PT-P2-004 |
 | Grok | PT-P1S7-002 | — |
-| Cursor + Claude Code | — | PT-P2-002 |
+| Cursor + OpenCode | — | PT-P2-002 |
 
 ---
 
@@ -282,11 +282,11 @@ All prompts follow the **RCOIF framework** (Role, Context, Objective, Instructio
 
 | Methodology | Notes | Example Prompt |
 |-------------|-------|---------------|
-| RCOIF | [[30 - Permanent/33 Frameworks/PN-RCOIF-Framework]] | [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-RCOIF-Research]] |
+| RCOIF | [[30 - Permanent/33 Frameworks/PN-RCOIF-Framework]] | [[60 - Resources/61 Prompts/61.1 LLM-Tools/PT-OpenCode-RCOIF-Research]] |
 | Zero-Shot CoT | 30 - Permanent/31 Concepts/PN-Chain-of-Thought | 60 - Resources/61 Prompts/PT-PUMA-Triage-CoT |
 | Few-Shot | 30 - Permanent/31 Concepts/PN-Few-Shot-Prompting | 60 - Resources/61 Prompts/PT-PUMA-Triage-FewShot3 |
-| EGI | [[30 - Permanent/33 Frameworks/PN-EGI-Framework]] | 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-EGI-Exploration |
-| AMI | 30 - Permanent/33 Frameworks/PN-AMI-Framework | 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-AMI-Review |
-| DRCA | 30 - Permanent/33 Frameworks/PN-DRCA-Framework | 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-DRCA-Paper |
-| IIPR | 30 - Permanent/33 Frameworks/PN-IIPR-Framework | 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-Claude-IIPR-Prompt-Refinement |
+| EGI | [[30 - Permanent/33 Frameworks/PN-EGI-Framework]] | 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-OpenCode-EGI-Exploration |
+| AMI | 30 - Permanent/33 Frameworks/PN-AMI-Framework | 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-OpenCode-AMI-Review |
+| DRCA | 30 - Permanent/33 Frameworks/PN-DRCA-Framework | 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-OpenCode-DRCA-Paper |
+| IIPR | 30 - Permanent/33 Frameworks/PN-IIPR-Framework | 60 - Resources/61 Prompts/61.1 LLM-Tools/PT-OpenCode-IIPR-Prompt-Refinement |
 | Contextual Anchoring | 30 - Permanent/33 Frameworks/PN-Contextual-Anchoring | Multiple |

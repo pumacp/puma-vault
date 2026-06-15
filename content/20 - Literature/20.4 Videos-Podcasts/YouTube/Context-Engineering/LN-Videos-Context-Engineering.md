@@ -2,7 +2,7 @@
 id: LN-Videos-Context-Engineering
 title: "🎬 Videos — Context Engineering, Prompt Engineering & Skills"
 type: literature-videos
-tags: [videos, context-engineering, prompt-engineering, skills, puma, ami, anthropic, chain-of-thought, claude, cot, dev-tools, drca, ide, iipr, literature-note, llm, metrics, moc, para, precision-recall, prompting, rcoif, software-engineering, workflow]
+tags: [videos, context-engineering, prompt-engineering, skills, puma, ami, anthropic, chain-of-thought, cot, dev-tools, drca, ide, iipr, literature-note, llm, metrics, moc, para, precision-recall, prompting, rcoif, software-engineering, workflow]
 created: 2026-04-06
 updated: 2026-04-06
 total-videos: 20

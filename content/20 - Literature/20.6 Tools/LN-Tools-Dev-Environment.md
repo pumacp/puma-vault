@@ -2,7 +2,7 @@
 id: LN-Tools-Dev-Environment
 title: "⚙️ Tools — Development Environment, IDE & Technical Stack"
 type: literature-tools
-tags: [tools, development, vscode, docker, python, langgraph, fastapi, puma, academic-writing, aiops, api, architecture, carbon-footprint, chain-of-thought, cicd, cot, crewai, dashboard, data-formats, dev-tools, devops, effort-estimation, embeddings, github, human-in-the-loop, ide, issue-triage, json, langchain, literature-note, llm, local-llm, metrics, moc, multi-agent, ollama, opencode, openhands, openspec, orchestration, precision-recall, project-management, pydantic, react, reasoning, reasoning-action, research, rest-api, scrum, sdd, smart-pmo, spec-driven-development, story-points, sustainability, tfg, thesis, triage, vector-db, workflow]
+tags: [tools, development, vscode, docker, python, langgraph, fastapi, puma, academic-writing, aiops, api, architecture, carbon-footprint, chain-of-thought, cicd, cot, crewai, dashboard, data-formats, dev-tools, devops, effort-estimation, embeddings, github, human-in-the-loop, ide, issue-triage, json, langchain, literature-note, llm, local-llm, metrics, moc, multi-agent, ollama, opencode, openhands, openspec, orchestration, precision-recall, project-management, pydantic, react, reasoning, reasoning-action, research, rest-api, scrum, sdd, smart-pmo, spec-driven-development, story-points, sustainability, triage, vector-db, workflow]
 created: 2026-04-06
 updated: 2026-04-06
 phase: [F2, F3, F4, F5]
@@ -108,9 +108,9 @@ phase: [F2, F3, F4, F5]
 - **PUMA use**:
   - All experiment code versioned (each experiment run tagged)
   - Commit messages as audit trail of design decisions
-  - Public repository with MIT licence before TFG defence (OE8)
+  - Public repository with MIT licence before project release (OE8)
   - README: ≤10 commands from zero to reproduced results
-- **Branch strategy**: `main` (stable) / `experiment/stage-N` (active) / `release/v1.0` (TFG final)
+- **Branch strategy**: `main` (stable) / `experiment/stage-N` (active) / `release/v1.0` (project final)
 
 ### GitHub Actions
 - **URL**: https://github.com/features/actions

@@ -3,7 +3,7 @@ id: LN-Web-Resources
 title: "🌐 Web Resources — Blogs, Docs & Key Links"
 type: literature-note
 subtype: web
-tags: [literature, web, blog, docs, links, academic-writing, anthropic, api, bibliography, carbon-footprint, citation, claude, codecarbon, critical-thinking, dataset, dev-tools, fleeting-note, github, hypothesis, ide, jira, langchain, langgraph, literature-note, llm, local-llm, metrics, multi-agent, obsidian, ollama, permanent-note, precision-recall, pydantic, python, red-teaming, research, research-methodology, research-tools, semantic-scholar, software-engineering, sustainability, tawos, template, vault, zettelkasten]
+tags: [literature, web, blog, docs, links, academic-writing, anthropic, api, bibliography, carbon-footprint, citation, codecarbon, critical-thinking, dataset, dev-tools, fleeting-note, github, hypothesis, ide, jira, langchain, langgraph, literature-note, llm, local-llm, metrics, multi-agent, obsidian, ollama, permanent-note, precision-recall, pydantic, python, red-teaming, research, research-methodology, research-tools, semantic-scholar, software-engineering, sustainability, tawos, template, vault, zettelkasten]
 created: 2026-03-01
 ---
 
@@ -22,7 +22,7 @@ created: 2026-03-01
 | Ollama docs | https://ollama.ai/docs | API reference, model tags |
 | Ollama API reference | https://github.com/ollama/ollama/blob/main/docs/api.md | seed/temperature params |
 | CodeCarbon docs | https://mlco2.github.io/codecarbon | EmissionsTracker setup |
-| Anthropic docs | https://docs.anthropic.com | Claude API, Claude Code |
+| Anthropic docs | https://docs.anthropic.com | Claude API, OpenCode |
 | Pydantic AI docs | https://ai.pydantic.dev | Structured output patterns |
 | LangGraph docs | https://langchain-ai.github.io/langgraph | Multi-agent reference |
 

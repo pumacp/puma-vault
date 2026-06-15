@@ -6,7 +6,7 @@ channel: "The Gray Cat"
 url: "https://www.youtube.com/watch?v=b6cbxSaa4U4"
 year: 2026
 status: watched
-tags: [video, sdd, puma, anthropic, architecture, claude, dev-tools, ide, langgraph, memory, moc, orchestration, smart-pmo, spec-driven-development, video-note, spec-driven development, sdd]
+tags: [video, sdd, puma, anthropic, architecture, dev-tools, ide, langgraph, memory, moc, orchestration, smart-pmo, spec-driven-development, video-note, spec-driven development, sdd]
 phase: ['F2', 'F3']
 rating: 4
 created: 2026-04-16
@@ -43,20 +43,20 @@ I also cover what's happening around the edges: Superpowers by Jesse Vincent, GS
 - [[80 - MOC/81 Topic-Maps/MOC-Tools-Stack]]
 
 ## Others References
-[[https://www.youtube.com/watch?v=sGYvGUkerA0&pp=0gcJCR0AztywvtLA]]
+https://www.youtube.com/watch?v=sGYvGUkerA0&pp=0gcJCR0AztywvtLA
 
-[[https://www.youtube.com/watch?v=OdR7HKYFb1s]]
+https://www.youtube.com/watch?v=OdR7HKYFb1s
 
-[[https://www.youtube.com/watch?v=0oNMR8CGGJ8]]
+https://www.youtube.com/watch?v=0oNMR8CGGJ8
 
-[[https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html]]
+https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html
 
-[[https://marmelab.com/blog/2025/11/04/spec-driven-development-waterfall.html]]
+https://marmelab.com/blog/2025/11/04/spec-driven-development-waterfall.html
 
-[[https://brooker.co.za/blog/2026/04/09/waterfall-vs-spec.html]]
+https://brooker.co.za/blog/2026/04/09/waterfall-vs-spec.html
 
-[[https://engineering.prezi.com/we-tried-spec-driven-development-so-you-dont-have-to-56d52231c19e]]
+https://engineering.prezi.com/we-tried-spec-driven-development-so-you-dont-have-to-56d52231c19e
 
-[[https://www.augmentcode.com/tools/best-spec-driven-development-tools]]
+https://www.augmentcode.com/tools/best-spec-driven-development-tools
 
-[[https://den.dev/blog/anthropic]]
+https://den.dev/blog/anthropic

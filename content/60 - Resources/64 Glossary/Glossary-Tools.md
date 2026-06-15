@@ -2,10 +2,10 @@
 id: Glossary-Tools-v4
 title: "📖 Glossary — Tools & Platforms (Supplement v4)"
 type: glossary
-tags: [glossary, tools, platforms, supplement, academic-writing, ai-tools, anythingllm, api, architecture, automation, bibliography, carbon-footprint, chain-of-thought, cicd, citation, codecarbon, cornell-notes, cot, crewai, dataset, dev-tools, devops, docker, elicit, embeddings, github, human-in-the-loop, ide, index, issue-triage, jira, keshav, knowledge-management, langchain, langgraph, literature-review, llama, llm, lm-studio, local-llm, mas, meta, metrics, mistral, multi-agent, note-taking, notebooklm, obsidian, ollama, opencode, openhands, openspec, orchestration, perplexity, pipeline, planning, precision-recall, project-management, pydantic, python, rag, react, reading-method, reasoning, reasoning-action, research, research-tools, rest-api, retrieval, sdd, semantic-scholar, semantic-search, slr, spec-driven-development, sprint, sustainability, tawos, tfg, thesis, triage, vector-db, zotero]
+tags: [glossary, tools, platforms, supplement, academic-writing, ai-tools, anythingllm, api, architecture, automation, bibliography, carbon-footprint, chain-of-thought, cicd, citation, codecarbon, cornell-notes, cot, crewai, dataset, dev-tools, devops, docker, elicit, embeddings, github, human-in-the-loop, ide, index, issue-triage, jira, keshav, knowledge-management, langchain, langgraph, literature-review, llama, llm, lm-studio, local-llm, mas, meta, metrics, mistral, multi-agent, note-taking, notebooklm, obsidian, ollama, opencode, openhands, openspec, orchestration, perplexity, pipeline, planning, precision-recall, project-management, pydantic, python, rag, react, reading-method, reasoning, reasoning-action, research, research-tools, rest-api, retrieval, sdd, semantic-scholar, semantic-search, slr, spec-driven-development, sprint, sustainability, tawos, triage, vector-db, zotero]
 created: 2026-04-06
 updated: 2026-04-06
-source: "Anexo C — Catálogo de Herramientas (TFG PUMA v5.0)"
+source: "reference section C — Catálogo de Herramientas (project PUMA v5.0)"
 ---
 
 # 📖 Glossary — Tools & Platforms (Supplement v4)
@@ -52,7 +52,7 @@ source: "Anexo C — Catálogo de Herramientas (TFG PUMA v5.0)"
 
 **Docker + Docker Compose** — Containerisation platform that packages all PUMA services (Ollama, Qdrant, PostgreSQL, FastAPI, Streamlit) into reproducible containers. Ensures identical environments across machines; critical for Constitution Article 1 (reproducibility).
 
-**draw.io (diagrams.net)** — A free, open-source diagram tool for creating UML, C4, and flowchart diagrams. Used in PUMA for formal C4 architecture diagrams in the TFG memoir.
+**draw.io (diagrams.net)** — A free, open-source diagram tool for creating UML, C4, and flowchart diagrams. Used in PUMA for formal C4 architecture diagrams in the project report.
 
 ---
 
@@ -184,4 +184,4 @@ source: "Anexo C — Catálogo de Herramientas (TFG PUMA v5.0)"
 
 ---
 
-*Glossary Tools v4 · 40+ terms · Source: Anexo C — Catálogo de Herramientas (PUMA TFG v5.0) · April 2026*
+*Glossary Tools v4 · 40+ terms · Source: reference section C — Catálogo de Herramientas (PUMA project v5.0) · April 2026*

@@ -6,7 +6,7 @@ tool: claude
 phase: Phase1-Research
 step: "06-Experimental-Design"
 methodology: [DSR, Hevner, Peffers]
-tags: [prompt, dsr, hevner, peffers, artifact-design, puma, anthropic, artefact, baseline, benchmark, bias, carbon-footprint, claude, code-review, codecarbon, dataset, effort-estimation, ethics, evaluation, github, issue-triage, jira, literature-review, llm, local-llm, metrics, moc, non-parametric, pipeline, planning, precision-recall, project-management, prompt-template, pydantic, python, research-methodology, slr, statistics, story-points, sustainability, tawos, triage, wilcoxon]
+tags: [prompt, dsr, hevner, peffers, artifact-design, puma, anthropic, artefact, baseline, benchmark, bias, carbon-footprint, code-review, codecarbon, dataset, effort-estimation, ethics, evaluation, github, issue-triage, jira, literature-review, llm, local-llm, metrics, moc, non-parametric, pipeline, planning, precision-recall, project-management, prompt-template, pydantic, python, research-methodology, slr, statistics, story-points, sustainability, tawos, triage, wilcoxon]
 rating: 5
 created: 2026-04-07
 updated: 2026-04-07
@@ -94,7 +94,7 @@ Format: Evaluation matrix (Claim | Evidence | Counterargument | Mitigation).
 
 ## PUMA Relevance
 
-These DSR prompts structure PUMA's research in a way that is academically defensible at UOC. The activity structure maps directly to [[30 - Permanent/32 Methods/PN-DSR-SLR-Methods]] and provides the argumentative skeleton for PUMA Section 2 (Materials and Methods).
+These DSR prompts structure PUMA's research in a way that is academically defensible at the project. The activity structure maps directly to [[30 - Permanent/32 Methods/PN-DSR-SLR-Methods]] and provides the argumentative skeleton for PUMA Section 2 (Materials and Methods).
 
 ---
 

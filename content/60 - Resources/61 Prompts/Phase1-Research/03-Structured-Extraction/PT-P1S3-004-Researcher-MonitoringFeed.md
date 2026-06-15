@@ -6,7 +6,7 @@ tool: researcher
 phase: Phase1-Research
 step: "03-Structured-Extraction"
 methodology: [Continuous-Monitoring, SLR-Update]
-tags: [prompt, researcher, monitoring, discovery, puma, academic-writing, automation, benchmark, carbon-footprint, codecarbon, effort-estimation, github, human-in-the-loop, hypothesis, issue-triage, jira, literature-review, llm, moc, multi-agent, orchestration, prisma, project-management, prompt-template, research, research-methodology, slr, software-engineering, story-points, sustainability, tfg, thesis, triage]
+tags: [prompt, researcher, monitoring, discovery, puma, academic-writing, automation, benchmark, carbon-footprint, codecarbon, effort-estimation, github, human-in-the-loop, hypothesis, issue-triage, jira, literature-review, llm, moc, multi-agent, orchestration, prisma, project-management, prompt-template, research, research-methodology, slr, software-engineering, story-points, sustainability, triage]
 rating: 4
 created: 2026-04-07
 updated: 2026-04-07
@@ -49,7 +49,7 @@ Scan the recent literature for new terminology being used for concepts related t
 
 ## PUMA Relevance
 
-Researcher.life ensures PUMA's SLR remains current throughout the TFG development period (PEC1 through PEC5). New papers published after the initial literature review can be incorporated into the thesis if they appear before the PEC4 submission deadline (2026-06-07).
+Researcher.life ensures PUMA's SLR remains current throughout the project development period (Milestone 1 through Milestone 5). New papers published after the initial literature review can be incorporated into the project if they appear before the Milestone 4 submission deadline (2026-06-07).
 
 ---
 

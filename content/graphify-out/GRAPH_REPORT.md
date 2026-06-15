@@ -178,7 +178,7 @@ Nodes (23): Keshav's Three-Pass Method — Paper Reading Protocol for PUMA, Desi
 
 ### Community 14 - "AI Knowledge Generation"
 Cohesion: 0.11
-Nodes (22): BIB Supplement PEC2 AI Knowledge, LN Lu 2024 AI Scientist, LN ArkaniHamed 2026 GluonAmplitudes, LN Degrave 2022 PlasmaControl, LN Felin 2024 Theory Is All You Need, LN Felin 2024 TheoryIsAllYouNeed, LN Jain 2023 GNoME Materials, LN Jain 2023 GNoME Materials (+14 more)
+Nodes (22): BIB Supplement AI Knowledge, LN Lu 2024 AI Scientist, LN ArkaniHamed 2026 GluonAmplitudes, LN Degrave 2022 PlasmaControl, LN Felin 2024 Theory Is All You Need, LN Felin 2024 TheoryIsAllYouNeed, LN Jain 2023 GNoME Materials, LN Jain 2023 GNoME Materials (+14 more)
 
 ### Community 15 - "Vault Navigation MOCs"
 Cohesion: 0.12

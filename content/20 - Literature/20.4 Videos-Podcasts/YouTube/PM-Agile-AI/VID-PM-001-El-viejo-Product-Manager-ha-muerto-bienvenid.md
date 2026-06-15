@@ -6,7 +6,7 @@ channel: "Javier Garzás"
 url: "https://www.youtube.com/watch?v=8Rcnj_JsZ84"
 year: 2025
 status: to-watch
-tags: [video, pm, product-manager, ai, agile, academic-writing, backlog, code-review, github, issue-triage, llm, moc, planning, project-management, smart-pmo, sprint, thesis, triage, video-note]
+tags: [video, pm, product-manager, ai, agile, academic-writing, backlog, code-review, github, issue-triage, llm, moc, planning, project-management, smart-pmo, sprint, triage, video-note]
 phase: ['F0', 'F5']
 rating: 5
 created: 2026-04-06
@@ -30,7 +30,7 @@ Javier Garzás — Spain's most prominent Agile thought leader — argues that t
 
 ## PUMA Relevance
 
-This video is the practitioner-level validation of PUMA's thesis: the shift from manual triage/estimation (old PM) to AI-automated triage/estimation (new PM) is not just theoretical but actively happening in industry. Can be referenced in PUMA Section 1.1 as evidence of industrial relevance alongside academic citations (Assalaarachchi 2026, Cinkusz 2025).
+This video is the practitioner-level validation of PUMA's project: the shift from manual triage/estimation (old PM) to AI-automated triage/estimation (new PM) is not just theoretical but actively happening in industry. Can be referenced in PUMA Section 1.1 as evidence of industrial relevance alongside academic citations (Assalaarachchi 2026, Cinkusz 2025).
 
 ---
 

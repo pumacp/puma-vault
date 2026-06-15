@@ -95,7 +95,7 @@ Shum operationalizes CO-STAR as a six-section prompt template:
 
 ### Human-AI Co-Creation and Generative Cognition
 
-Beyond the technical taxonomy, *Pensar con Prompts* advances a broader thesis about what prompting represents epistemologically: it is a form of **generative cognition** — thinking *through* and *with* an AI system rather than simply instructing it.
+Beyond the technical taxonomy, *Pensar con Prompts* advances a broader project about what prompting represents epistemologically: it is a form of **generative cognition** — thinking *through* and *with* an AI system rather than simply instructing it.
 
 Key claims:
 - Prompts are not commands to a tool; they are the articulation of thought in a form that another mind (the model) can extend
@@ -123,7 +123,7 @@ The book closes with a philosophical claim: LLMs are the first general-purpose c
 - **Prompt design**: CO-STAR structure is the template for all PUMA H1/H2 prompts
 - **Technique selection**: Shum's taxonomy provides vocabulary for PUMA's experimental conditions
 - **Anti-pattern checklist**: Review all PUMA prompts against Shum's anti-pattern list before experiment execution
-- **Spanish-language resource**: Relevant for PUMA academic context (Spanish university TFG)
+- **Spanish-language resource**: Relevant for PUMA academic context (Spanish university project)
 - **Generative cognition framing**: Supports PUMA's claim that prompt engineering is a methodology, not just a parameter
 
 ## Related Notes

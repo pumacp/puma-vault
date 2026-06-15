@@ -6,7 +6,7 @@ tool: gemini
 phase: Phase1-Research
 step: "02-Scientific-Mapping"
 methodology: [Deep-Research, Multi-Document-Synthesis]
-tags: [prompt, gemini, deep-research, corpus-synthesis, puma, academic-writing, anthropic, api, architecture, benchmark, chain-of-thought, claude, code-review, cot, dataset, few-shot, github, google, llm, local-llm, moc, project-management, prompt-template, prompting, rcoif, research, zero-shot]
+tags: [prompt, gemini, deep-research, corpus-synthesis, puma, academic-writing, anthropic, api, architecture, benchmark, chain-of-thought, code-review, cot, dataset, few-shot, github, google, llm, local-llm, moc, project-management, prompt-template, prompting, rcoif, research, zero-shot]
 rating: 4
 created: 2026-04-07
 updated: 2026-04-07
@@ -55,7 +55,7 @@ Gemini Deep Research can process large document collections simultaneously, maki
 ## Related Notes
 
 - [[40 - Projects/PUMA/41.3 Methods/PR-PUMA-Ch3-Methods]]
-- [[PT-P1S2-003-Claude-LiteratureSynthesis-RCOIF]]
+- [[PT-P1S2-003-OpenCode-LiteratureSynthesis-RCOIF]]
 
 ## MOCs
 

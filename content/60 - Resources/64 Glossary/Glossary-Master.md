@@ -2,7 +2,7 @@
 id: Glossary-Master
 title: "📖 PUMA Vault — Master Glossary"
 type: glossary
-tags: [glossary, reference, definitions, academic-writing, agile, ai-tools, ami, anythingllm, api, artefact, backlog, baseline, bdd, benchmark, bias, bmad, carbon-footprint, chain-of-thought, code-review, codecarbon, contextual-anchoring, cornell-notes, cot, critical-thinking, data-formats, dataset, dev-tools, drca, dsr, effect-size, effort-estimation, egi, elicit, embeddings, ethics, evaluation, few-shot, fine-tuning, finer, github, gpt, gtd, human-in-the-loop, ict, iipr, index, issue-triage, jira, johnny-decimal, json, keshav, knowledge-management, langchain, langgraph, literature-review, llama, llm, lm-studio, local-llm, memory, meta, metrics, mistral, moc, multi-agent, navigation, neural-network, non-parametric, note-taking, obsidian, ollama, one-shot, openai, opencode, openspec, orchestration, para, pec, perplexity, pipeline, precision-recall, prisma, project-management, prompt-engineering, prompting, puma, python, rag, rcoif, reading-method, reasoning, red-teaming, research, research-methodology, research-tools, rest-api, retrieval, sdd, slr, smart-pmo, software-engineering, spec-driven-development, spec-kit, sprint, statistics, story-points, sustainability, tawos, triage, vault, vector-db, wilcoxon, workflow, zero-shot, zettelkasten]
+tags: [glossary, reference, definitions, academic-writing, agile, ai-tools, ami, anythingllm, api, artefact, backlog, baseline, bdd, benchmark, bias, bmad, carbon-footprint, chain-of-thought, code-review, codecarbon, contextual-anchoring, cornell-notes, cot, critical-thinking, data-formats, dataset, dev-tools, drca, dsr, effect-size, effort-estimation, egi, elicit, embeddings, ethics, evaluation, few-shot, fine-tuning, finer, github, gpt, gtd, human-in-the-loop, ict, iipr, index, issue-triage, jira, johnny-decimal, json, keshav, knowledge-management, langchain, langgraph, literature-review, llama, llm, lm-studio, local-llm, memory, meta, metrics, mistral, moc, multi-agent, navigation, neural-network, non-parametric, note-taking, obsidian, ollama, one-shot, openai, opencode, openspec, orchestration, para, perplexity, pipeline, precision-recall, prisma, project-management, prompt-engineering, prompting, puma, python, rag, rcoif, reading-method, reasoning, red-teaming, research, research-methodology, research-tools, rest-api, retrieval, sdd, slr, smart-pmo, software-engineering, spec-driven-development, spec-kit, sprint, statistics, story-points, sustainability, tawos, triage, vault, vector-db, wilcoxon, workflow, zero-shot, zettelkasten]
 created: 2026-03-01
 updated: 2026-04-06
 ---
@@ -225,13 +225,13 @@ updated: 2026-04-06
 
 **Semantic Note-Taking** — Taking notes connected via conceptual relationships detected by AI. Implemented via Smart Connections plugin + Zettelkasten permanent notes.
 
-**SLR (Systematic Literature Review)** — A reproducible, explicit methodology for synthesising research literature, following a pre-registered protocol with defined inclusion/exclusion criteria. See [[60 - Resources/62 Workflows/WF-SLR-Pipeline]].
+**SLR (Systematic Literature Review)** — A reproducible, explicit methodology for the projecting research literature, following a pre-registered protocol with defined inclusion/exclusion criteria. See [[60 - Resources/62 Workflows/WF-SLR-Pipeline]].
 
 **Smart PMO** — A Project Management Office augmented by AI agents performing automated triage, estimation, risk detection, and reporting under human governance. PUMA's Stage 5 vision. See [[50 - Areas/56 Smart-PMO/Smart-PMO-Vision]].
 
 **Spec Kit** — GitHub's open-source toolkit formalising SDD with a 4-phase gated workflow: Specify → Plan → Tasks → Implement. Each phase requires explicit human approval. See [[30 - Permanent/33 Frameworks/PN-SDD-Framework]].
 
-**Sprint** — A time-boxed Agile iteration (typically 2 weeks) where a defined set of work items is completed. PUMA uses sprints aligned to PEC deliverables.
+**Sprint** — A time-boxed Agile iteration (typically 2 weeks) where a defined set of work items is completed. PUMA uses sprints aligned to milestone deliverables.
 
 **Story Points (SP)** — A dimensionless unit estimating relative effort, complexity, and risk in Agile. Follows Fibonacci scale: {1, 2, 3, 5, 8, 13, 21}. PUMA Stage 2 evaluates LLM story point estimation.
 

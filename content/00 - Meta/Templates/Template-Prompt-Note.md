@@ -2,7 +2,7 @@
 id: "PT-{{Tool}}-{{UseCase}}"
 title: "Prompt: {{Tool}} — {{Use Case}}"
 type: prompt-template
-tags: [prompt, tool, methodology, use-case, ai-tools, ami, anthropic, chain-of-thought, checklist, claude, cot, dev-tools, drca, egi, few-shot, gemini, google, gpt, ide, iipr, local-llm, metrics, ollama, openai, perplexity, precision-recall, prompt-engineering, prompt-template, prompting, rcoif, template, zero-shot]
+tags: [prompt, tool, methodology, use-case, ai-tools, ami, anthropic, chain-of-thought, checklist, cot, dev-tools, drca, egi, few-shot, gemini, google, gpt, ide, iipr, local-llm, metrics, ollama, openai, perplexity, precision-recall, prompt-engineering, prompt-template, prompting, rcoif, template, zero-shot]
 tool: "{{claude | chatgpt | perplexity | deepseek | gemini | ollama | cursor | copilot}}"
 methodology: "{{rcoif | cot | few-shot | egi | ami | drca | iipr | zero-shot}}"
 use_case: "{{research | coding | analysis | writing | experiment}}"

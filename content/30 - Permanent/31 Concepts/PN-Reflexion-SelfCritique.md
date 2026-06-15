@@ -129,7 +129,7 @@ class ReflexionTriageAgent:
             f"Issue: {issue['title']}\n"
             f"Predicted type: {prediction['type']} (confidence: {prediction['confidence']:.2f})\n"
             f"What signals did I miss? What should I look for on the next attempt?"
-        )
+       )
 ```
 
 ### Failure Modes Addressed

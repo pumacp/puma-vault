@@ -33,7 +33,7 @@ MCP provides: **one protocol, any tool**.
 ```
 ┌──────────────────────────────────────────────────────────┐
 │                    MCP HOST                               │
-│   (LLM application — Claude Desktop, Claude Code, PUMA)  │
+│   (LLM application — Claude Desktop, OpenCode, PUMA)  │
 │                                                           │
 │   ┌─────────────┐     ┌─────────────┐                   │
 │   │ MCP Client  │     │ MCP Client  │                   │
@@ -164,7 +164,7 @@ async def create_puma_mcp_session():
         args=["-m", "jira_mcp_server"],
         env={"JIRA_URL": os.getenv("JIRA_URL"),
              "JIRA_TOKEN": os.getenv("JIRA_TOKEN")}
-    )
+   )
     async with stdio_client(server_params) as (read, write):
         async with ClientSession(read, write) as session:
             await session.initialize()

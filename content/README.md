@@ -144,9 +144,9 @@ Idea/Source → [10 Inbox] → Process → [20 Literature] or [30 Permanent]
 | `LN-` | Literature note | `LN-Tawosi2022-TAWOS` |
 | `PN-` | Permanent note | `PN-Few-Shot-Prompting` |
 | `PR-` | Project note | `PR-PUMA-Ch1-Introduction` |
-| `SP-` | Spec note | `SP-Triage-Agent-v1` |
+| `SP-` | Spec note | `SP-Triage-Agent` |
 | `EX-` | Experiment note | `EX-Llama32-ZeroShot-Triage` |
-| `PT-` | Prompt template | `PT-Claude-RCOIF-Research` |
+| `PT-` | Prompt template | `PT-OpenCode-RCOIF-Research` |
 | `MOC-` | Map of Content | `MOC-LLM-Benchmarks` |
 
 ---
