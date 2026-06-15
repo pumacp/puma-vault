@@ -85,7 +85,7 @@ updated: 2026-04-12
 > [!info] Overview
 > *Can language models manage ICT projects? An empirical benchmark of local LLM agents for issue triage and effort estimation in ICT projects.*
 
-Version 1.0 · Updated April 2026
+Version 1.0 · Updated June 2026
 
 ---
 
@@ -1362,4 +1362,4 @@ All files are listed as clickable relative links, organized by folder following 
 
 ---
 
-*Vault Guide v2.0 · April 2026*
+*Vault Guide v2.0 · June 2026*

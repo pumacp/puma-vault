@@ -277,4 +277,4 @@ updated: 2026-04-06
 
 ---
 
-*Glossary v2.0 · 65 terms · Updated April 2026 
+*Glossary v2.0 · 65 terms · Updated June 2026 

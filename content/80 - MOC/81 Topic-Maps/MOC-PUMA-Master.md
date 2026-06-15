@@ -164,7 +164,7 @@ SORT deadline ASC
 
 ---
 
-*MOC updated: April 2026 (Milestone 2)*
+*MOC updated: June 2026 (Milestone 2)*
 
 ## Closure: new-area maps (Phase 4.5)
 - [[MOC-Results-Empirical]]

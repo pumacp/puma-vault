@@ -206,4 +206,4 @@ New idea / paper / observation
 
 ---
 
-*Vault v1.0 (April 2026) · PARA + GTD + Zettelkasten + Johnny Decimal + SDD + BMAD + Keshav + CDD*
+*Vault v1.0 (June 2026) · PARA + GTD + Zettelkasten + Johnny Decimal + SDD + BMAD + Keshav + CDD*

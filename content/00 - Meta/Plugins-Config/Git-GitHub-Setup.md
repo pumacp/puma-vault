@@ -18,7 +18,7 @@ created: 2026-03-01
 
 ```bash
 # Option A: GitHub CLI
-gh repo create PUMA-Vault --public --description "PUMA Research Vault — Obsidian knowledge base for PUMA Project"
+gh repo create PUMA-Vault --public --description "PUMA Vault — Obsidian knowledge base for PUMA Project"
 
 # Option B: GitHub web → New repository → name: PUMA-Vault
 ```

@@ -194,4 +194,4 @@ Cohen, J. (1988). *Statistical power analysis for the behavioral sciences* (2nd 
 
 ---
 
-*Total references: 51 · Target: ≥ 40 (OE1 satisfied) · Last updated: April 2026*
+*Total references: 51 · Target: ≥ 40 (OE1 satisfied) · Last updated: June 2026*

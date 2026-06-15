@@ -49,7 +49,7 @@ methodology:
 
 ---
 
-# PUMA Research Vault
+# PUMA Vault
 
 > **Platform for Understanding and Management with Agents — Empirical Benchmark for LLM-Assisted ICT Project Management**
 
@@ -138,10 +138,10 @@ PUMA investigates whether autonomous LLM agents can perform practical software p
 ---
 
 > [!QUOTE] Update Log
-> This vault reflects the ecosystem status as of **April 2026**. In accordance with the *Veritas Framework* proactive disclosure principle, this will be updated in each partial delivery to reflect new tools or public profile updates.
+> This vault reflects the ecosystem status as of **June 2026**. In accordance with the *Veritas Framework* proactive disclosure principle, this will be updated in each partial delivery to reflect new tools or public profile updates.
 
 ---
 
-PUMA Research Vault &nbsp;·&nbsp; Last updated: April 2026 &nbsp;·&nbsp; License: MIT
+PUMA Vault &nbsp;·&nbsp; Last updated: June 2026 &nbsp;·&nbsp; License: MIT
 
-*Vault v1.0 · April 2026 · PARA + GTD + Zettelkasten + Johnny Decimal + SDD + BMAD + Keshav + CDD · [GitHub](https://github.com/pumacp/PUMA)*
+*Vault v1.0 · June 2026 · PARA + GTD + Zettelkasten + Johnny Decimal + SDD + BMAD + Keshav + CDD · [GitHub](https://github.com/pumacp/PUMA)*

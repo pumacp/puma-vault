@@ -1,4 +1,4 @@
-# PUMA Research Vault
+# PUMA Vault
 
 ---
 
@@ -194,4 +194,4 @@ See [VAULT-GUIDE.md](VAULT-GUIDE.md) for the complete reference — methodology 
 
 ---
 
-*Last updated: April 2026 · License: MIT · Built for the PUMA project*
+*Last updated: June 2026 · License: MIT · Built for the PUMA project*
