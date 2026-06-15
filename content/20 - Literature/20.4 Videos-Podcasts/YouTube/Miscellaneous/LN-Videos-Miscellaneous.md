@@ -4,7 +4,7 @@ title: "🎬 Videos — General AI Tools, SaaS, Automation & Miscellaneous"
 type: literature-videos
 tags: [videos, automation, saas, n8n, gemini, supabase, misc, puma, academic-writing, anthropic, api, architecture, chain-of-thought, cot, data-formats, database, dev-tools, google, ide, json, literature-note, llm, mcp, memory, metrics, moc, multi-agent, notebooklm, para, pipeline, precision-recall, prompt-engineering, protocol, rag, reasoning, research, research-tools, retrieval, sdd, software-engineering, spec-driven-development, workflow]
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 total-videos: 68
 phase: [F0, F1, F2, F3, F4, F5]
 ---

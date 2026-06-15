@@ -10,7 +10,7 @@ tags: [video, ollama, lm-studio, comparison, inference, api, devops, docker, eff
 phase: ['F1']
 rating: 5
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 Ollama vs LM Studio vs Docker Models vs LlamaBarn ¿Cuál es el mejor inferidor?

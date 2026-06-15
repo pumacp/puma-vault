@@ -10,7 +10,7 @@ tags: [video, agents, academic, nlp, overview, code-review, critical-thinking, g
 phase: ['F0', 'F1']
 rating: 4
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 MAIA Master Class — De NLP a la IA Agéntica: Una visión general

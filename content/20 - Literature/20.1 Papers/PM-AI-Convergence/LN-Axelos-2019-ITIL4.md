@@ -14,7 +14,7 @@ doi: ""
 url: "https://www.axelos.com/certifications/itil-service-management"
 tags: [literature, itil, itil4, service-management, sla, incident-management, ticket-triage, value-chain, smart-pmo, puma-core, standards, mttd, mttr, literature-note, moc]
 created: 2026-04-14
-updated: 2026-04-14
+updated: 2026-06-15
 keshav-pass: 2
 ---
 

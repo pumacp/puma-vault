@@ -14,7 +14,7 @@ doi: "10.1145/3712003"
 url: "https://dl.acm.org/doi/epdf/10.1145/3712003"
 tags: [literature, llm-agents, multi-agent, software-engineering, mas, vision, puma-core, agents, architecture, benchmark, coding, critical-thinking, effort-estimation, ict, keshav, literature-note, llm, moc, project-management, research, sdd, spec-driven-development, story-points, triage]
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-06-15
 keshav-pass: 2
 ---
 

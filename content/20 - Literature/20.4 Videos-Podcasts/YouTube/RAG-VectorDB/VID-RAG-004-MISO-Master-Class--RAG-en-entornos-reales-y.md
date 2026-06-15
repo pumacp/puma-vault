@@ -10,7 +10,7 @@ tags: [video, rag, academic, challenges, production, code-review, embeddings, gi
 phase: ['F0', 'F1']
 rating: 5
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 MISO Master Class — RAG en entornos reales y los desafíos con LLMs

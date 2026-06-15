@@ -5,7 +5,7 @@ type: area-note
 status: aspirational
 tags: [smart-pmo, multi-agent, swarm, puma, future-work, accuracy, api, architecture, bias, bmad, carbon-footprint, code-review, codecarbon, critical-thinking, dashboard, effort-estimation, embeddings, ethics, github, human-in-the-loop, issue-triage, jira, langgraph, literature-review, llama, llm, local-llm, memory, meta, metrics, mistral, moc, observability, ollama, openhands, orchestration, planning, project-management, pydantic, python, rag, react, reasoning, reasoning-action, red-teaming, retrieval, slr, sprint, story-points, sustainability, swarm-intelligence, tracing, triage, vector-db]
 created: 2026-03-20
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🏢 Smart PMO Vision — PUMA Stage 5

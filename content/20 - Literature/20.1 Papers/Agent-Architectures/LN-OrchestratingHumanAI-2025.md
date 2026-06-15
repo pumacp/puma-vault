@@ -14,7 +14,7 @@ doi: "10.48550/arXiv.2510.02557"
 url: "https://arxiv.org/abs/2510.02557"
 tags: [literature, manager-agent, human-ai-teams, orchestration, multi-agent, puma-core, academic-writing, bibliography, bmad, citation, gpt, issue-triage, keshav, literature-note, llm, moc, openai, planning, project-management, reading-method, reasoning, research, smart-pmo, triage]
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 keshav-pass: 2
 ---
 

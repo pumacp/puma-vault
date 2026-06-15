@@ -15,7 +15,7 @@ doi: ""
 url: "https://www.workthesystem.com/the-book"
 tags: [literature, systems-thinking, process-documentation, sop, operations, business-systems, scalability, delegation, repeatability, smart-pmo, book, methodology, management, process-improvement, automation, literature-note, moc]
 created: 2026-04-14
-updated: 2026-04-14
+updated: 2026-06-15
 keshav-pass: 2
 ---
 

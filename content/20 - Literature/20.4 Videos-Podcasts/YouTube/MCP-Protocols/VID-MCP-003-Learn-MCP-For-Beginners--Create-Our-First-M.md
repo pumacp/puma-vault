@@ -10,7 +10,7 @@ tags: [video, mcp, tutorial, python, spanish, anthropic, api, architecture, effo
 phase: ['F2', 'F3']
 rating: 4
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 Learn MCP! For Beginners + Create Our First MCP From Scratch

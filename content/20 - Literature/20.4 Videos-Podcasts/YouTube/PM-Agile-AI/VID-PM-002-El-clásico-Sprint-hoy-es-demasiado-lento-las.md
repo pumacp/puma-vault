@@ -10,7 +10,7 @@ tags: [video, sprint, agile, velocity, ai, automation, code-review, github, issu
 phase: ['F0', 'F1']
 rating: 5
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 El clásico Sprint hoy es demasiado lento: las 3 velocidades de los equipos con IA

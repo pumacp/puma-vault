@@ -9,7 +9,7 @@ methodology: [Marco-Veritas, Evidence-Checking]
 tags: [prompt, perplexity, fact-checking, verification, puma, marco-veritas, academic-writing, ai-tools, bibliography, citation, code-review, dataset, effect-size, github, jira, llm, metrics, moc, non-parametric, precision-recall, prompt-template, quantitative-research, reasoning, research, software-engineering, statistics, tawos, wilcoxon]
 rating: 4
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-06-15
 ---
 
 # ✅ Perplexity — Claim Verification and Fact-Checking for PUMA

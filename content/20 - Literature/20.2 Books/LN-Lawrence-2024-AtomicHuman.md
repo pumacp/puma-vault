@@ -14,7 +14,7 @@ doi: ""
 url: "https://the-atomic-human.ai"
 tags: [literature, human-ai-collaboration, intelligence, autonomy, information-theory, human-agency, ai-ethics, puma-core, book, ethics, research, hitl, accountability, social-impact, embodied-intelligence, bandwidth, atomic-human, literature-note, keshav, moc]
 created: 2026-04-13
-updated: 2026-04-14
+updated: 2026-06-15
 keshav-pass: 2
 ---
 

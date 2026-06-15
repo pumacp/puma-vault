@@ -10,7 +10,7 @@ tags: [video, skills, agents, tools, context, anthropic, chain-of-thought, cot, 
 phase: ['F2', 'F3']
 rating: 4
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 Aprende los Agent Skills y usalos en cualquier herramienta IA

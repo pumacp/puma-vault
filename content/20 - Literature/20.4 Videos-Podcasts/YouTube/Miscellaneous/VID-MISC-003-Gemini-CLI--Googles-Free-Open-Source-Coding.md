@@ -10,7 +10,7 @@ tags: [video, gemini-cli, google, coding-agent, free, anthropic, api, dev-tools,
 phase: ['F2', 'F3']
 rating: 4
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 Gemini CLI — Google's Free Open-Source Coding Agent

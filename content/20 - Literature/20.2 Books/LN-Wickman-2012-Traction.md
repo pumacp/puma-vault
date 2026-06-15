@@ -14,7 +14,7 @@ doi: ""
 url: "https://www.eosworldwide.com/traction-book"
 tags: [literature, eos, entrepreneurial-operating-system, vision, traction, execution, business-framework, rocks, scorecard, l10-meeting, vto, smart-pmo, book, methodology, management, operations, data-driven, literature-note, moc]
 created: 2026-04-14
-updated: 2026-04-14
+updated: 2026-06-15
 keshav-pass: 2
 ---
 

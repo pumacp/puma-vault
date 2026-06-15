@@ -4,7 +4,7 @@ title: "AI systems can generate new scientific knowledge, but only within human-
 type: permanent-note
 tags: [permanent-note, ai-science, knowledge-generation, puma, agentic-science, academic-writing, accuracy, ai-scientist, alphafold, anthropic, code-review, critical-thinking, gemini, github, gnome, google, gpt, graphcast, hypothesis, llm, materials-science, metrics, moc, multi-agent, notebooklm, openai, pipeline, plasma-physics, project-management, protein-folding, red-teaming, reinforcement-learning, research, research-methodology, research-tools, scientific-knowledge, smart-pmo, weather-prediction]
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-06-15
 ---
 
 # AI systems can generate new scientific knowledge, but only within human-defined research frameworks

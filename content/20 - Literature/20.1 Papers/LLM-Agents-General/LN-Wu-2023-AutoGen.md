@@ -14,7 +14,7 @@ doi: "10.48550/arXiv.2308.08155"
 url: "https://arxiv.org/abs/2308.08155"
 tags: [literature, multi-agent, autogen, microsoft, conversation, framework, puma-core, bibliography, bmad, chatdev, citation, crewai, human-in-the-loop, keshav, langgraph, literature-note, llm, mas, metagpt, moc, project-management, reading-method, smart-pmo]
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 keshav-pass: 2
 ---
 

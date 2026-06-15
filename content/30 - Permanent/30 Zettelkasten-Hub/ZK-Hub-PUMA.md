@@ -4,7 +4,7 @@ title: "🗃️ Zettelkasten Hub — PUMA Research Knowledge Base"
 type: zettelkasten-hub
 tags: [zettelkasten, hub, moc, knowledge-base, puma, agentic-science, ami, bdd, bmad, chain-of-thought, cornell-notes, cot, critical-thinking, drca, dsr, effort-estimation, egi, embeddings, few-shot, finer, fleeting-note, github, graph-rag, gtd, iipr, index, issue-triage, keshav, knowledge-graph, literature-note, literature-review, llm, metrics, multi-agent, navigation, non-parametric, note-taking, obsidian, para, permanent-note, precision-recall, prisma, prompting, rag, rcoif, react, reading-method, reasoning, reasoning-action, red-teaming, research-methodology, retrieval, sdd, slr, spec-driven-development, statistics, story-points, triage, vault, vector-db, wilcoxon]
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🗃️ Zettelkasten Hub — PUMA Research Knowledge Base

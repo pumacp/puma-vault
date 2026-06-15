@@ -10,7 +10,7 @@ tags: [video, agents, orchestration, determinism, hooks, effort-estimation, llm,
 phase: ['F2', 'F3']
 rating: 4
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 Orquestación de Agentes: Control Determinista con Hooks

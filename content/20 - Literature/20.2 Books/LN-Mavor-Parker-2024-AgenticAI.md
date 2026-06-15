@@ -14,7 +14,7 @@ doi: ""
 url: "https://www.manning.com/books/agentic-ai"
 tags: [literature, agentic-ai, autonomous-agents, langgraph, bounded-autonomy, cyclical-workflow, tool-use, puma-core, book, architecture, smart-pmo, hitl, literature-note, moc]
 created: 2026-04-14
-updated: 2026-04-14
+updated: 2026-06-15
 keshav-pass: 2
 ---
 

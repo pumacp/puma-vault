@@ -14,7 +14,7 @@ doi: "10.1145/3586183.3606763"
 url: "https://dl.acm.org/doi/abs/10.1145/3586183.3606763"
 tags: [literature, llm-agents, generative-agents, simulacra, human-behavior, multi-agent, memory, reflection, puma-core, agents, architecture, benchmark, citation, critical-thinking, effort-estimation, keshav, literature-note, llm, moc, project-management, research, social-simulation, story-points]
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-06-15
 keshav-pass: 3
 ---
 

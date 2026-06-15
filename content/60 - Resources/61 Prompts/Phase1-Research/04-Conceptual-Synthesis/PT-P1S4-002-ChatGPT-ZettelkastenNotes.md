@@ -9,7 +9,7 @@ methodology: [Zettelkasten, PARA, GTD]
 tags: [prompt, chatgpt, zettelkasten, permanent-notes, puma, bibliography, citation, dataset, fleeting-note, gpt, gtd, index, johnny-decimal, literature-note, moc, notebooklm, obsidian, openai, para, permanent-note, project-management, prompt-template, research-tools, vault, workflow]
 rating: 5
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-06-15
 ---
 
 # 🗒️ ChatGPT — Zettelkasten Note Generation for PUMA

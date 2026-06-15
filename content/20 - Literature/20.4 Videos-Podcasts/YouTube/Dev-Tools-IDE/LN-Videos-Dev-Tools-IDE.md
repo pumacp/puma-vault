@@ -4,7 +4,7 @@ title: "🎬 Videos — Development Tools, IDEs & Coding Workflows"
 type: literature-videos
 tags: [videos, vscode, cursor, opencode, docker, git, python, puma, aiops, anthropic, automation, code-review, dev-tools, devops, effort-estimation, evaluation, gemini, github, google, gpt, ide, issue-triage, literature-note, llm, moc, openai, para, promptfoo, story-points, testing, triage, workflow]
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 total-videos: 40
 phase: [F2, F3, F4]
 ---

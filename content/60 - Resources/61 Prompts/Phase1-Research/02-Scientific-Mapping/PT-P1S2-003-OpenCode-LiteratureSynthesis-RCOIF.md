@@ -9,7 +9,7 @@ methodology: [RCOIF, DSR, SLR, Keshav-Three-Pass]
 tags: [prompt, rcoif, synthesis, keshav, puma, academic-writing, ami, anthropic, automation, benchmark, code-review, dataset, dsr, effort-estimation, github, human-in-the-loop, hypothesis, issue-triage, jira, literature-review, llama, llm, local-llm, meta, metrics, mistral, moc, ollama, pipeline, precision-recall, project-management, prompt-template, prompting, reading-method, research, research-methodology, slr, software-engineering, story-points, tawos, triage]
 rating: 5
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-06-15
 ---
 
 # 🤖 OpenCode — Literature Synthesis with RCOIF Framework

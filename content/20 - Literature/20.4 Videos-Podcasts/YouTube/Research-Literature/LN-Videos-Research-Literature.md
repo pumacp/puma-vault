@@ -4,7 +4,7 @@ title: "🎬 Videos — Academic Research, Literature Review & AI Research Tools
 type: literature-videos
 tags: [videos, research, literature-review, semantic-scholar, consensus, research-rabbit, puma, academic-writing, anthropic, dev-tools, gpt, ide, literature-note, llm, metrics, moc, openai, para, pipeline, precision-recall, prisma, research-tools, slr, workflow]
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 total-videos: 42
 phase: [F0, F1]
 ---

@@ -10,7 +10,7 @@ tags: [video, pydanticai, agents, structured-output, python, effort-estimation, 
 phase: ['F2', 'F3']
 rating: 5
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 E124 — Creando agentes con PydanticAI

@@ -14,7 +14,7 @@ doi: ""
 url: "https://www.packtpub.com/en-us/product/generative-ai-agents-9781835084991"
 tags: [literature, agentic-ai, langchain, llamaindex, rag, react, tool-use, sdd, cdd, puma-core, book, implementation, python, autonomous-agents, literature-note, moc]
 created: 2026-04-14
-updated: 2026-04-14
+updated: 2026-06-15
 keshav-pass: 2
 ---
 

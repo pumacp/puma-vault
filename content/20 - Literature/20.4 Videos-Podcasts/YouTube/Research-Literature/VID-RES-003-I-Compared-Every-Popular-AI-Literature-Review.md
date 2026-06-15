@@ -10,7 +10,7 @@ tags: [video, research, tools, comparison, slr, accuracy, ai-tools, bibliography
 phase: ['F0']
 rating: 5
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 I Compared Every Popular AI Literature Review Tool So You Don't Have To

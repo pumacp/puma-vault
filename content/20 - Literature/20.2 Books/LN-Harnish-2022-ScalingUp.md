@@ -15,7 +15,7 @@ doi: ""
 url: "https://scalingup.com/bookstore/"
 tags: [literature, scaling, rockefeller-habits, strategy, execution, people, cash, one-page-strategic-plan, opsp, growth, smart-pmo, book, methodology, management, operations, okr, literature-note, moc]
 created: 2026-04-14
-updated: 2026-04-14
+updated: 2026-06-15
 keshav-pass: 2
 ---
 

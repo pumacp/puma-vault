@@ -4,7 +4,7 @@ title: "⚙️ Tools — Development Environment, IDE & Technical Stack"
 type: literature-tools
 tags: [tools, development, vscode, docker, python, langgraph, fastapi, puma, academic-writing, aiops, api, architecture, carbon-footprint, chain-of-thought, cicd, cot, crewai, dashboard, data-formats, dev-tools, devops, effort-estimation, embeddings, github, human-in-the-loop, ide, issue-triage, json, langchain, literature-note, llm, local-llm, metrics, moc, multi-agent, ollama, opencode, openhands, openspec, orchestration, precision-recall, project-management, pydantic, react, reasoning, reasoning-action, research, rest-api, scrum, sdd, smart-pmo, spec-driven-development, story-points, sustainability, triage, vector-db, workflow]
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 phase: [F2, F3, F4, F5]
 ---
 

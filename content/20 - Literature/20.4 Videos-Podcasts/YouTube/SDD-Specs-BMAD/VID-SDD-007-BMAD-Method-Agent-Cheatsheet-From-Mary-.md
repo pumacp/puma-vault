@@ -10,7 +10,7 @@ tags: [video, bmad, puma, moc, multi-agent, project-management, sdd, spec-driven
 phase: ['F2']
 rating: 4
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 BMAD Method Agent Cheatsheet (From Mary to Quinn)

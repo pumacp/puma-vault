@@ -14,7 +14,7 @@ doi: "10.18653/v1/P19-1355"
 url: "https://doi.org/10.18653/v1/P19-1355"
 tags: [literature, sustainability, carbon-footprint, co2, energy, nlp, deep-learning, codecarbon, strubell, puma-core, ethics, computational-cost, environmental-impact, literature-note, moc]
 created: 2026-04-14
-updated: 2026-04-14
+updated: 2026-06-15
 keshav-pass: 2
 ---
 

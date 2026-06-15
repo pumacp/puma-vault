@@ -4,7 +4,7 @@ title: "Algorithmic Bias in AI-Assisted Project Management"
 topic: ethics
 tags: [permanent, algorithmic-bias, fairness, ethics, discrimination, project-management, ai-safety, puma-core, research, hitl, issue-triage, effort-estimation, accountability, social-impact, diversity]
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-06-15
 aliases: ["Algorithmic Bias", "AI Fairness", "PM Bias"]
 ---
 

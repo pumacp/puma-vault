@@ -4,7 +4,7 @@ title: "Marco Veritas — AI Transparency and Academic Integrity Framework"
 topic: research-ethics
 tags: [permanent, framework, veritas, marco-veritas, ai-transparency, academic-integrity, ethics, prisma-traice, proactive-disclosure, hallucination-detection, ai-use-log, puma-core, research, methodology, accountability, open-science]
 created: 2026-04-14
-updated: 2026-04-14
+updated: 2026-06-15
 aliases: ["Veritas Framework", "Marco Veritas", "AI Integrity Framework", "Proactive Disclosure"]
 ---
 

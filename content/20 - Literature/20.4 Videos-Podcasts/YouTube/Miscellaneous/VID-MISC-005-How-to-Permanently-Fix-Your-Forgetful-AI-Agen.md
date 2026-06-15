@@ -10,7 +10,7 @@ tags: [video, agents, memory, persistence, langgraph, architecture, effort-estim
 phase: ['F3', 'F4']
 rating: 4
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 How to Permanently Fix Your Forgetful AI Agents (Full Guide)

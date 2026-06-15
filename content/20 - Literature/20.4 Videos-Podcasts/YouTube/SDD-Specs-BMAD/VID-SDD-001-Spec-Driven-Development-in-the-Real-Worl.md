@@ -10,7 +10,7 @@ tags: [video, sdd, puma, effort-estimation, issue-triage, metrics, moc, precisio
 phase: ['F1', 'F2']
 rating: 5
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 Spec-Driven Development in the Real World

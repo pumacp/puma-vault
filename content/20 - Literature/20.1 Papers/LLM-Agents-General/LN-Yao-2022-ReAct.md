@@ -14,7 +14,7 @@ doi: "10.48550/arXiv.2210.03629"
 url: "https://arxiv.org/abs/2210.03629"
 tags: [literature, llm-agents, react, reasoning, acting, prompting, puma-core, academic-writing, agents, api, architecture, benchmark, bibliography, chain-of-thought, citation, cot, critical-thinking, effort-estimation, embeddings, few-shot, fine-tuning, issue-triage, jira, keshav, literature-note, llm, moc, multi-agent, permanent-note, project-management, rag, reading-method, reasoning-action, red-teaming, research, retrieval, sdd, smart-pmo, spec-driven-development, story-points, triage, vector-db]
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 keshav-pass: 3
 ---
 

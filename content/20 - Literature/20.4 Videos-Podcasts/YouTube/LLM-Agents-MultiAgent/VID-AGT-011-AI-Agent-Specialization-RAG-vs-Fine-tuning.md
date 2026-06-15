@@ -10,7 +10,7 @@ tags: [video, agents, rag, fine-tuning, specialisation, academic-writing, benchm
 phase: ['F1', 'F4']
 rating: 4
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 AI Agent Specialization. RAG vs Fine-tuning — T3chFest 2026

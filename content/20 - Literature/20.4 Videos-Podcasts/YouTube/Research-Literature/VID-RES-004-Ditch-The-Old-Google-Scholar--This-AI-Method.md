@@ -10,7 +10,7 @@ tags: [video, research, google-scholar, semantic-scholar, discovery, bibliograph
 phase: ['F0']
 rating: 4
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 Ditch The Old Google Scholar — This AI Method Finds Papers 10x Faster

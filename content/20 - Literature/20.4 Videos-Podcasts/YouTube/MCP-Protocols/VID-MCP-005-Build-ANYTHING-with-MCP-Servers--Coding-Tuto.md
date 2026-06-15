@@ -10,7 +10,7 @@ tags: [video, mcp, tutorial, build, coding, accuracy, architecture, effort-estim
 phase: ['F2', 'F3']
 rating: 4
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 Build ANYTHING with MCP Servers — Coding Tutorial

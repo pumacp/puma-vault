@@ -14,7 +14,7 @@ doi: "10.48550/arXiv.2503.18238"
 url: "https://arxiv.org/abs/2503.18238"
 tags: [literature, human-ai-collaboration, field-experiment, teamwork, productivity, hitl, puma-core, agents, benchmark, critical-thinking, effort-estimation, ethics, ict, keshav, literature-note, llm, moc, multi-agent, project-management, research]
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-06-15
 keshav-pass: 1
 ---
 

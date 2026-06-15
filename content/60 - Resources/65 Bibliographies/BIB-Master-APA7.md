@@ -4,7 +4,7 @@ title: "📚 Master Bibliography — APA 7th Edition"
 type: bibliography
 tags: [bibliography, apa7, references, zotero, academic-writing, agile, ai-ethics, benchmark, carbon-footprint, chain-of-thought, citation, codecarbon, cot, dataset, dsr, effort-estimation, ethics, fairness, falsifiability, few-shot, github, gtd, jira, keshav, knowledge-management, literature-review, llama, llm, local-llm, meta, mistral, mit-ai-lab, multi-agent, nlp, non-parametric, ollama, popper, prisma, project-management, rag, reading-method, reasoning, research, research-methodology, research-tools, retrieval, sdd, second-brain, slr, software-engineering, spec-driven-development, sprint, statistics, story-points, sustainability, tawos, wilcoxon, workflow, wp316]
 created: 2026-03-01
-updated: 2026-04-06
+updated: 2026-06-15
 total-references: 51
 ---
 

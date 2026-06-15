@@ -14,7 +14,7 @@ doi: "10.48550/arXiv.2101.03961"
 url: "https://arxiv.org/abs/2101.03961"
 tags: [literature, mixture-of-experts, moe, sparse-model, switch-transformer, scaling, deepseek, mixtral, transformer, architecture, efficiency, puma-core, literature-note, moc]
 created: 2026-04-14
-updated: 2026-04-14
+updated: 2026-06-15
 keshav-pass: 2
 ---
 

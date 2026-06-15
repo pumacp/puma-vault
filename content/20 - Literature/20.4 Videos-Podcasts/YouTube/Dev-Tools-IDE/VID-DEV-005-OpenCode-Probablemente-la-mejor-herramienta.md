@@ -10,7 +10,7 @@ tags: [video, opencode, open-source, coding, terminal, dev-tools, effort-estimat
 phase: ['F2', 'F3']
 rating: 4
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 OpenCode: Probablemente la mejor herramienta Open Source para programar

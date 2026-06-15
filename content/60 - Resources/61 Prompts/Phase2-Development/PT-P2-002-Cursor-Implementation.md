@@ -9,7 +9,7 @@ methodology: [VibeCoding, SDD, TDD, Reproducibility]
 tags: [prompt, cursor, claude-code, implementation, langgraph, puma, anthropic, api, architecture, carbon-footprint, chain-of-thought, checklist, codecarbon, cot, dashboard, data-formats, database, dev-tools, devops, docker, effort-estimation, few-shot, ide, issue-triage, jira, json, llm, local-llm, moc, ollama, prompt-template, pydantic, python, reasoning, sdd, spec-driven-development, sql, story-points, sustainability, tdd, triage, workflow, zero-shot]
 rating: 5
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-06-15
 ---
 
 # 💻 Cursor / OpenCode — Implementation Prompts for PUMA

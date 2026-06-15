@@ -4,7 +4,7 @@ title: "Computational Sustainability — Carbon Footprint of LLM Experiments"
 topic: sustainability
 tags: [permanent, sustainability, carbon-footprint, co2, codecarbon, green-ai, energy, emissions, puma-core, research, ethics, llm, benchmark, local-models, experiment, cloud-vs-local]
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-06-15
 aliases: ["Green AI", "Carbon Footprint", "CodeCarbon", "CO2 Tracking"]
 ---
 

@@ -14,7 +14,7 @@ doi: "10.48550/arXiv.2310.10634"
 url: "https://arxiv.org/abs/2310.10634"
 tags: [literature, llm-agents, open-platform, data-agent, web-agent, plugins, puma-core, agents, architecture, benchmark, coding, critical-thinking, keshav, literature-note, llm, local-llm, moc, multi-agent, project-management, python, rag, research, tool-use, web]
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-06-15
 keshav-pass: 2
 ---
 

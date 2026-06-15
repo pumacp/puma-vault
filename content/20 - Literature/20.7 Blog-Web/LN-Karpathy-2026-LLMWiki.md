@@ -14,7 +14,7 @@ doi: ""
 url: "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f"
 tags: [literature, knowledge-management, llm-wiki, rag-alternative, persistent-wiki, obsidian, markdown, agent-memory, karpathy, puma-core, blog-gist, agents, architecture, context-engineering, zettelkasten, knowledge-graph, retrieval, compounding-knowledge, ai-tools, research-tools, literature-note, moc]
 created: 2026-04-14
-updated: 2026-04-14
+updated: 2026-06-15
 keshav-pass: 2
 ---
 

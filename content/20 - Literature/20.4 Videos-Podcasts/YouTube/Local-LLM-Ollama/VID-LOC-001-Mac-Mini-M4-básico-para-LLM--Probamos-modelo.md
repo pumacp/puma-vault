@@ -10,7 +10,7 @@ tags: [video, ollama, mac-mini, hardware, benchmark, effort-estimation, issue-tr
 phase: ['F1', 'F2']
 rating: 5
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 Mac Mini M4 básico para LLM — Probamos modelos de lenguaje para ver sus límites

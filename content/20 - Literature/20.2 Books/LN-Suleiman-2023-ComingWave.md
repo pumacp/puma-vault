@@ -14,7 +14,7 @@ doi: ""
 url: "https://the-coming-wave.com"
 tags: [literature, ai-policy, ai-safety, power-concentration, containment, ethics, societal-impact, synthetic-biology, proliferation, governance, puma-core, book, ethics, research, literature-note, keshav, moc, social-impact]
 created: 2026-04-13
-updated: 2026-04-14
+updated: 2026-06-15
 keshav-pass: 2
 ---
 

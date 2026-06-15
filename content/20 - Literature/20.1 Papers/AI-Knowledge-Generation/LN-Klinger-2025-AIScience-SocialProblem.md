@@ -10,7 +10,7 @@ doi: "10.48550/arXiv.2509.06580"
 tags: [literature-note, ai-science, social-problem, governance, reproducibility, puma, academic-writing, ai-ethics, architecture, bibliography, citation, dataset, effort-estimation, ethics, human-in-the-loop, jira, moc, project-management, research, sprint, story-points, tawos]
 status: verified
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-06-15
 ---
 
 # LN — AI for Scientific Discovery is a Social Problem (Klinger et al., 2025)

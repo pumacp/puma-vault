@@ -14,7 +14,7 @@ doi: ""
 url: "https://www.oreilly.com/library/view/natural-language-processing/9781098136780/"
 tags: [literature, transformers, hugging-face, nlp, fine-tuning, quantization, ollama, open-weights, mistral, gemma, bert, puma-core, book, implementation, python, literature-note, moc]
 created: 2026-04-14
-updated: 2026-04-14
+updated: 2026-06-15
 keshav-pass: 2
 ---
 

@@ -9,7 +9,7 @@ doi: "10.1038/s41586-021-04301-9"
 tags: [literature-note, reinforcement-learning, plasma, fusion, ai-discovery, deepmind, puma, academic-writing, ai-science, alphafold, bibliography, chain-of-thought, citation, cot, issue-triage, metrics, moc, plasma-physics, precision-recall, protein-folding, reasoning, research, triage]
 status: verified
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-06-15
 ---
 
 # LN — Plasma Control with Deep RL (Degrave et al., 2022)

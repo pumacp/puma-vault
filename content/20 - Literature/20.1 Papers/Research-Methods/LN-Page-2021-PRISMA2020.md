@@ -14,7 +14,7 @@ doi: "10.1136/bmj.n71"
 url: "https://doi.org/10.1136/bmj.n71"
 tags: [literature, prisma, prisma-2020, systematic-review, reporting-guideline, transparency, reproducibility, puma-core, academic-writing, research, literature-review, flow-diagram, literature-note, moc]
 created: 2026-04-14
-updated: 2026-04-14
+updated: 2026-06-15
 keshav-pass: 2
 ---
 

@@ -10,7 +10,7 @@ tags: [video, prompting, evaluation, refinement, workflow, accuracy, hypothesis,
 phase: ['F3', 'F4']
 rating: 4
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 How to build, evaluate, and refine prompts with AI — Latitude

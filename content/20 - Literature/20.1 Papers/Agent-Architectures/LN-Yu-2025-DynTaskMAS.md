@@ -14,7 +14,7 @@ doi: "10.48550/arXiv.2503.07675"
 url: "https://arxiv.org/abs/2503.07675"
 tags: [literature, multi-agent, dynamic-tasks, task-graph, asynchronous, parallel, puma-core, academic-writing, architecture, backlog, bibliography, citation, issue-triage, keshav, literature-note, llm, mas, moc, project-management, reading-method, research, smart-pmo, triage]
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 keshav-pass: 1
 ---
 

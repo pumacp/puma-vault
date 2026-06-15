@@ -3,7 +3,7 @@ id: PN-LLM-Local-vs-Cloud
 title: "Local LLM inference trades capability ceiling for reproducibility, privacy, and zero marginal cost"
 type: permanent
 created: 2026-03-15
-updated: 2026-04-06
+updated: 2026-06-15
 tags: [permanent-note, llm, local-inference, reproducibility, sustainability, puma, anthropic, api, benchmark, carbon-footprint, code-review, critical-thinking, effort-estimation, embeddings, falsifiability, github, gpt, llama, local-llm, meta, mistral, moc, ollama, openai, popper, privacy, project-management, rag, reasoning, red-teaming, retrieval, software-engineering, story-points, vector-db]
 ---
 

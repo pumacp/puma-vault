@@ -4,7 +4,7 @@ title: "🎬 Videos — Model Context Protocol (MCP) & Agent Protocols"
 type: literature-videos
 tags: [videos, mcp, model-context-protocol, agentic-protocols, puma, academic-writing, aiops, anthropic, api, automation, dev-tools, devops, effort-estimation, github, ide, jira, literature-note, llm, mcp-security, moc, opencode, para, protocol, python, research, security, story-points]
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 total-videos: 28
 phase: [F2, F3, F4, F5]
 ---

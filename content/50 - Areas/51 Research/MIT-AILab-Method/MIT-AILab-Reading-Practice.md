@@ -4,7 +4,7 @@ title: "📖 MIT AI Lab Q1/Q2/Q3 — Applied Reading Log"
 type: area-note
 tags: [mit-ai-lab, wp316, reading, research, active-reading, puma, academic-writing, accuracy, agile, api, baseline, carbon-footprint, chain-of-thought, checklist, codecarbon, cot, critical-thinking, dataset, effort-estimation, evaluation, falsifiability, few-shot, gpt, hypothesis, issue-triage, jira, keshav, literature-review, llama, local-llm, meta, metrics, mistral, ollama, openai, permanent-note, planning, popper, precision-recall, project-management, rag, reading-method, reasoning, red-teaming, research-methodology, retrieval, slr, software-engineering, sprint, story-points, sustainability, tawos, triage, validity, zero-shot]
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 📖 MIT AI Lab Q1/Q2/Q3 — Applied Reading Log

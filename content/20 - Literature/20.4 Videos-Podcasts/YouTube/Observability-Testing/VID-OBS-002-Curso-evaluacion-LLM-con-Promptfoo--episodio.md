@@ -10,7 +10,7 @@ tags: [video, promptfoo, evaluation, llm, spanish, data-formats, hypothesis, iss
 phase: ['F3', 'F4']
 rating: 5
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 Curso evaluacion LLM con Promptfoo — episodio 1

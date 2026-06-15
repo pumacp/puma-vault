@@ -10,7 +10,7 @@ tags: [video, observability, prometheus, monitoring, metrics, devops, docker, mo
 phase: ['F4', 'F5']
 rating: 3
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 Introduction to Observability and Prometheus Tutorial

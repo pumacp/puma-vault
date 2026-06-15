@@ -10,7 +10,7 @@ tags: [video, cursor, tips, workflow, ai-ide, anthropic, architecture, dev-tools
 phase: ['F2', 'F3']
 rating: 4
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 How I use Cursor (+ my best tips)

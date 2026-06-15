@@ -14,7 +14,7 @@ doi: ""
 url: "https://www.researchgate.net/publication/389396526_The_Uniqueness_Trap"
 tags: [literature, project-management, uniqueness-trap, megaprojects, cognitive-bias, reference-class-forecasting, puma-core, academic-writing, benchmark, citation, critical-thinking, effort-estimation, keshav, literature-note, moc, research, story-points, triage, scope-creep, cost-overrun]
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-06-15
 keshav-pass: 3
 ---
 

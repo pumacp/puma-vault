@@ -3,7 +3,7 @@ id: PN-ToolSelection-PUMA
 title: "PUMA tool selection follows a hierarchy: reproducibility first, then capability, then convenience"
 type: permanent
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 tags: [permanent-note, tool-selection, reproducibility, local-inference, puma-design, api, architecture, autogen, code-review, effort-estimation, embeddings, github, gpt, langgraph, llama, llm, lm-studio, local-llm, meta, metrics, mistral, moc, ollama, openai, precision-recall, pydantic, python, rag, retrieval, story-points, vector-db]
 ---
 

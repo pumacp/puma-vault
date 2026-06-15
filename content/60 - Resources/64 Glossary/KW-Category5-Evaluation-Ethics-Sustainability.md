@@ -5,7 +5,7 @@ type: keyword-glossary
 category: "Evaluation-Ethics-Sustainability"
 tags: [keywords, evaluation, ethics, sustainability, puma, codecarbon, glossary, academic-writing, ai-ethics, api, benchmark, bias, bibliography, carbon-footprint, citation, critical-thinking, dataset, effort-estimation, human-in-the-loop, index, issue-triage, jira, llm, metrics, moc, planning, precision-recall, project-management, pydantic, python, quantitative-research, reasoning, red-teaming, research, smart-pmo, software-engineering, sprint, story-points, tawos, triage]
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-06-15
 ---
 
 # 🔑 Keywords — Category 5: Evaluation, Ethics, and Sustainability

@@ -14,7 +14,7 @@ doi: ""
 url: "https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report"
 tags: [literature, ai-code-quality, code-generation, benchmarking, human-ai-comparison, code-review, coderabbit, security, error-handling, readability, performance, empirical-study, github, pull-requests, open-source, software-quality, agent-quality, blog-report, industry-report, puma-relevant, quality-assurance, incident-management, devops, aiops]
 created: 2026-04-14
-updated: 2026-04-14
+updated: 2026-06-15
 keshav-pass: 2
 ---
 

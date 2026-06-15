@@ -10,7 +10,7 @@ tags: [video, sdd, puma, bmad, metrics, moc, multi-agent, precision-recall, spec
 phase: ['F1']
 rating: 5
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 AgentOS VS BMAD VS Spec Kit: Which AI Development Framework is Worth Your Time?

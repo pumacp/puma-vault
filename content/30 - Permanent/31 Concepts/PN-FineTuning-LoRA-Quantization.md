@@ -4,7 +4,7 @@ title: "Fine-Tuning LLMs — LoRA, QLoRA, GGUF Quantization, and PUMA Considerat
 topic: llm-training
 tags: [permanent, fine-tuning, lora, qlora, quantization, gguf, ollama, llm, training, puma-core, research, agents, benchmark, local-models, effort-estimation, issue-triage, architecture]
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-06-15
 aliases: ["LoRA", "QLoRA", "Fine-tuning", "Quantization", "GGUF"]
 ---
 

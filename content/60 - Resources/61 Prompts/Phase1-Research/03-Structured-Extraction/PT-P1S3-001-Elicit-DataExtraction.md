@@ -9,7 +9,7 @@ methodology: [SLR, PRISMA, Data-Extraction]
 tags: [prompt, elicit, data-extraction, slr, puma, academic-writing, accuracy, api, baseline, benchmark, bibliography, chain-of-thought, citation, cot, dataset, effort-estimation, evaluation, few-shot, github, hypothesis, issue-triage, jira, literature-review, llm, metrics, moc, pipeline, planning, precision-recall, prisma, prompt-engineering, prompt-template, quantitative-research, rag, research, research-methodology, research-tools, retrieval, story-points, tawos, triage, zero-shot]
 rating: 5
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-06-15
 ---
 
 # 📊 Elicit — Structured Data Extraction for PUMA SLR

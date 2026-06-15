@@ -14,7 +14,7 @@ doi: "10.48550/arXiv.2308.00352"
 url: "https://arxiv.org/abs/2308.00352"
 tags: [literature, multi-agent, metagpt, software-engineering, roles, puma-core, architecture, artefact, benchmark, bibliography, bmad, citation, dsr, ict, issue-triage, keshav, literature-note, llm, mas, moc, pipeline, planning, project-management, react, reading-method, reasoning-action, sdd, smart-pmo, spec-driven-development, sprint, triage, workflow]
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 keshav-pass: 2
 ---
 

@@ -14,7 +14,7 @@ doi: "10.48550/arXiv.2311.12983"
 url: "https://arxiv.org/abs/2311.12983"
 tags: [literature, benchmark, gaia, general-ai, evaluation, bibliography, citation, gpt, issue-triage, keshav, literature-note, llm, moc, openai, planning, project-management, reading-method, reasoning, sprint, tool-use, triage]
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 keshav-pass: 1
 ---
 

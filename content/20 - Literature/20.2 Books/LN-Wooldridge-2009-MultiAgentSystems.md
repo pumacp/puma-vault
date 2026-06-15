@@ -15,7 +15,7 @@ doi: ""
 url: "https://www.wiley.com/en-us/An+Introduction+to+MultiAgent+Systems%2C+2nd+Edition-p-9780470519462"
 tags: [literature, mas, multi-agent-systems, agent-autonomy, coordination, negotiation, bdi, deliberative-agents, reactive-agents, puma-core, book, architecture, smart-pmo, bmad, literature-note, moc]
 created: 2026-04-14
-updated: 2026-04-14
+updated: 2026-06-15
 keshav-pass: 2
 ---
 

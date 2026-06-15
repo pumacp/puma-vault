@@ -10,7 +10,7 @@ tags: [video, scrum, agile, ai, future, backlog, code-review, effort-estimation,
 phase: ['F0']
 rating: 4
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 La IA ha Matado a Scrum (esto es lo que viene Ahora)

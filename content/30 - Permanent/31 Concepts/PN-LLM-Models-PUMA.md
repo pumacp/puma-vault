@@ -4,7 +4,7 @@ title: "LLM Models Used in PUMA — Technical Reference"
 topic: llm-models
 tags: [permanent, llm, models, llama, mistral, phi, gemma, deepseek, gpt4o, qwen, moe, quantization, ollama, puma-core, research, benchmark, effort-estimation, issue-triage, agents, architecture]
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-06-15
 aliases: ["PUMA Models", "LLM Comparison", "Model Reference"]
 ---
 

@@ -4,7 +4,7 @@ title: "Reflexion — Verbal Self-Reflection for Agent Self-Improvement"
 topic: agent-architectures
 tags: [permanent, reflexion, self-reflection, agent, llm, verbal-reinforcement, self-critique, episodic-memory, actor-evaluator, puma-core, research, agents, architecture, benchmark, coding, issue-triage, effort-estimation, iterative-improvement]
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-06-15
 aliases: ["Reflexion Pattern", "Verbal Reinforcement", "Self-Reflection Loop"]
 ---
 

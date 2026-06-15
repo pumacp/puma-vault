@@ -10,7 +10,7 @@ tags: [video, research, hallucinations, integrity, marco-veritas, academic-writi
 phase: ['F0']
 rating: 5
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 This EMBARRASSING AI-Generated Paper Exposed a Billion-Dollar Problem

@@ -10,7 +10,7 @@ tags: [video, agents, andrew-ng, workflows, few-shot, hypothesis, llm, metrics, 
 phase: ['F0', 'F1']
 rating: 5
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 Flujos de trabajo utilizando Agentes - Andrew Ng explica

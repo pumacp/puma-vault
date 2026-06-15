@@ -4,7 +4,7 @@ title: "🎬 MOC — PUMA Video Library (Master Map)"
 type: moc
 tags: [moc, videos, youtube, library, puma, academic-writing, agile, anthropic, architecture, bmad, context-engineering, dev-tools, devops, docker, embeddings, evaluation, ide, issue-triage, knowledge-management, literature-review, llm, lm-studio, local-llm, mcp, mcp-security, metrics, multi-agent, navigation, obsidian, ollama, openspec, para, pipeline, pkm, precision-recall, project-management, prompt-engineering, promptfoo, protocol, rag, research, retrieval, sdd, second-brain, security, slr, smart-pmo, spec-driven-development, spec-kit, sprint, testing, triage, vault, vector-db]
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 total-videos: 281
 ---
 

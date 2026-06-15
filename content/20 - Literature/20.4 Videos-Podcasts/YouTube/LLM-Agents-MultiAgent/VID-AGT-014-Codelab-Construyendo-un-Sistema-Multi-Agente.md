@@ -10,7 +10,7 @@ tags: [video, agents, multi-agent, multimodal, evidence, architecture, benchmark
 phase: ['F2', 'F3']
 rating: 4
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 Codelab: Construyendo un Sistema Multi-Agente Multimodal para Análisis de Evidencia

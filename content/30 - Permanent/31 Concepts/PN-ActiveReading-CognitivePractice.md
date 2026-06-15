@@ -3,7 +3,7 @@ id: PN-ActiveReading-CognitivePractice
 title: "Active reading turns passive information into actionable knowledge through deliberate questioning"
 type: permanent
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 tags: [permanent-note, reading, cognition, research-methodology, mit-ai-lab, keshav, academic-writing, ai-tools, anthropic, elicit, gtd, literature-review, moc, notebooklm, para, perplexity, pipeline, reading-method, research, research-tools, slr, wp316, zettelkasten]
 ---
 

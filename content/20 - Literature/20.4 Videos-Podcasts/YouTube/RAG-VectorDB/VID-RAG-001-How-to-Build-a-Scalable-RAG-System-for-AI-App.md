@@ -10,7 +10,7 @@ tags: [video, rag, architecture, scalable, devops, docker, embeddings, jira, llm
 phase: ['F2', 'F3', 'F4']
 rating: 5
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 How to Build a Scalable RAG System for AI Apps (Full Architecture)

@@ -10,7 +10,7 @@ tags: [video, ollama, local-agent, hermes, api-free, api, effort-estimation, jir
 phase: ['F2', 'F3']
 rating: 5
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 Run a Powerful AI Agent Locally — Hermes Agent + Ollama (No API Key Required)

@@ -9,7 +9,7 @@ doi: "10.1038/s41586-023-06735-9"
 tags: [literature-note, materials-science, gnome, deepmind, ai-discovery, puma, academic-writing, ai-science, alphafold, bibliography, citation, graph-rag, issue-triage, knowledge-graph, moc, neural-network, project-management, protein-folding, quantitative-research, research, scientific-knowledge, triage]
 status: verified
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-06-15
 ---
 
 # LN — GNoME: Materials Discovery at Scale (Jain et al., 2023)

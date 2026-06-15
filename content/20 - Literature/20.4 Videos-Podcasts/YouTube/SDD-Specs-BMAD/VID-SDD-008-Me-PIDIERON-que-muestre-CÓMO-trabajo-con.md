@@ -10,7 +10,7 @@ tags: [video, sdd, puma, architecture, langgraph, memory, moc, pipeline, smart-p
 phase: ['F2', 'F3']
 rating: 4
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 Me PIDIERON que muestre CÓMO trabajo con IA — Engram + Agent Teams + SDD

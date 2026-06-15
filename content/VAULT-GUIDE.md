@@ -73,7 +73,7 @@ tags:
   - zettelkasten
   - zotero
 created: 2026-03-01
-updated: 2026-04-12
+updated: 2026-06-15
 ---
 
 ![PUMA Logo](https://raw.githubusercontent.com/pumacp/puma/main/assets/img/PUMA.png)

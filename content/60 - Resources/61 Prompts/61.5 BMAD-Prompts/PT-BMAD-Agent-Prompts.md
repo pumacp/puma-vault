@@ -4,7 +4,7 @@ title: "🤖 BMAD Agent Prompts — PUMA Project"
 type: prompt-library
 tags: [bmad, prompts, agents, rcoif, cdd, puma, academic-writing, agile, api, architecture, baseline, benchmark, bibliography, carbon-footprint, chain-of-thought, checklist, citation, codecarbon, cot, data-formats, dataset, drca, effect-size, effort-estimation, egi, evaluation, falsifiability, few-shot, github, gtd, human-in-the-loop, ict, issue-triage, jira, json, keshav, literature-review, llama, llm, local-llm, meta, metrics, mistral, multi-agent, non-parametric, ollama, openspec, planning, popper, precision-recall, project-management, prompt-template, prompting, python, reading-method, research, research-methodology, rest-api, sdd, slr, software-engineering, spec-driven-development, spec-kit, sprint, statistics, story-points, sustainability, tawos, triage, validity, wilcoxon, zero-shot]
 created: 2026-04-01
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🤖 BMAD Agent Prompts — PUMA Project

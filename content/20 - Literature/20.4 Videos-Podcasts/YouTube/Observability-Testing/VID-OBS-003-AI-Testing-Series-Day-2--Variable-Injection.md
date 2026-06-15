@@ -10,7 +10,7 @@ tags: [video, promptfoo, testing, assertions, variables, automation, data-format
 phase: ['F3', 'F4']
 rating: 4
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 AI Testing Series Day 2 — Variable Injection & Assertions in #promptfoo

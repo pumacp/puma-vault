@@ -10,7 +10,7 @@ tags: [video, supabase, mcp, backend, database, anthropic, api, dev-tools, devop
 phase: ['F3', 'F4']
 rating: 3
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 Supabase con IA (CLI + MCP + Skills): Automatiza todo tu backend

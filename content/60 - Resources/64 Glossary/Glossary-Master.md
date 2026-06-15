@@ -4,7 +4,7 @@ title: "📖 PUMA Vault — Master Glossary"
 type: glossary
 tags: [glossary, reference, definitions, academic-writing, agile, ai-tools, ami, anythingllm, api, artefact, backlog, baseline, bdd, benchmark, bias, bmad, carbon-footprint, chain-of-thought, code-review, codecarbon, contextual-anchoring, cornell-notes, cot, critical-thinking, data-formats, dataset, dev-tools, drca, dsr, effect-size, effort-estimation, egi, elicit, embeddings, ethics, evaluation, few-shot, fine-tuning, finer, github, gpt, gtd, human-in-the-loop, ict, iipr, index, issue-triage, jira, johnny-decimal, json, keshav, knowledge-management, langchain, langgraph, literature-review, llama, llm, lm-studio, local-llm, memory, meta, metrics, mistral, moc, multi-agent, navigation, neural-network, non-parametric, note-taking, obsidian, ollama, one-shot, openai, opencode, openspec, orchestration, para, perplexity, pipeline, precision-recall, prisma, project-management, prompt-engineering, prompting, puma, python, rag, rcoif, reading-method, reasoning, red-teaming, research, research-methodology, research-tools, rest-api, retrieval, sdd, slr, smart-pmo, software-engineering, spec-driven-development, spec-kit, sprint, statistics, story-points, sustainability, tawos, triage, vault, vector-db, wilcoxon, workflow, zero-shot, zettelkasten]
 created: 2026-03-01
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 📖 PUMA Vault — Master Glossary

@@ -3,7 +3,7 @@ id: PN-PARA-GTD-Zettelkasten
 title: "PARA, GTD, and Zettelkasten work as complementary engines, not competing systems"
 type: permanent
 created: 2026-04-01
-updated: 2026-04-06
+updated: 2026-06-15
 tags: [permanent-note, para, gtd, zettelkasten, johnny-decimal, methodology, knowledge-management, bibliography, citation, glossary, index, moc, obsidian, pipeline, puma, sdd, second-brain, spec-driven-development, vault, workflow]
 ---
 

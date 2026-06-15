@@ -10,7 +10,7 @@ tags: [video, agents, anthropic, context, best-practices, chain-of-thought, cot,
 phase: ['F1', 'F2']
 rating: 5
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 ¡No construyas Agentes IA hasta que veas esto! [Secretos de Anthropic]

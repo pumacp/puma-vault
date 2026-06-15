@@ -14,7 +14,7 @@ doi: ""
 url: ""
 tags: [literature, prompting, prompt-engineering, costar, chain-of-thought, few-shot, zero-shot, structured-output, puma-core, book, methodology, research, literature-note, keshav, moc, llm, agents, human-ai-co-creation, generative-cognition, spanish]
 created: 2026-04-13
-updated: 2026-04-14
+updated: 2026-06-15
 keshav-pass: 2
 ---
 

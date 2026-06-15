@@ -10,7 +10,7 @@ tags: [video, observability, evals, arize, traceability, effort-estimation, eval
 phase: ['F3', 'F4']
 rating: 5
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 Construyendo IA Fiable: Evals, Trazabilidad y Observabilidad — LambdaCast 34

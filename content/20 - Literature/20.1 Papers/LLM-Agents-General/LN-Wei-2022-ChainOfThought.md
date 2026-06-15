@@ -14,7 +14,7 @@ doi: "10.48550/arXiv.2201.11903"
 url: "https://arxiv.org/abs/2201.11903"
 tags: [literature, chain-of-thought, cot, prompting, reasoning, few-shot, zero-shot-cot, puma-core, story-points, effort-estimation, triage, llm, google-brain, literature-note, moc]
 created: 2026-04-14
-updated: 2026-04-14
+updated: 2026-06-15
 keshav-pass: 2
 ---
 

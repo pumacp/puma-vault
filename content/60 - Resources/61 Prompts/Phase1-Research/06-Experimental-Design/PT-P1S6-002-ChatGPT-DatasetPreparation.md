@@ -9,7 +9,7 @@ methodology: [DSR, Reproducibility, Data-Engineering]
 tags: [prompt, chatgpt, dataset, jira-sr, tawos, puma, reproducibility, agile, baseline, checklist, dsr, effort-estimation, embeddings, evaluation, few-shot, gpt, issue-triage, jira, llm, metrics, moc, openai, pipeline, precision-recall, prompt-engineering, prompt-template, python, research-methodology, sprint, story-points, template, triage, vector-db]
 rating: 5
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-06-15
 ---
 
 # 📦 ChatGPT — Dataset Preparation Protocol for PUMA

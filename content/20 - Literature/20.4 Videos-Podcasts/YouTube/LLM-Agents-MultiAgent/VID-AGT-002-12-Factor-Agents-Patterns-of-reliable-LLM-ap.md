@@ -10,7 +10,7 @@ tags: [video, agents, reliability, design-patterns, checklist, effort-estimation
 phase: ['F2', 'F3']
 rating: 5
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 12-Factor Agents: Patterns of reliable LLM applications

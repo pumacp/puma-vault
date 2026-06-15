@@ -10,7 +10,7 @@ tags: [video, mcp, impact, ecosystem, aiops, anthropic, api, devops, github, jir
 phase: ['F1', 'F2']
 rating: 4
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 Claude MCP has Changed AI Forever — Here's What You NEED to Know

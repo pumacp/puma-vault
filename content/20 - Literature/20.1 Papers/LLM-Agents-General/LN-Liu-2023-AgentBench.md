@@ -14,7 +14,7 @@ doi: "10.48550/arXiv.2308.03688"
 url: "https://arxiv.org/abs/2308.03688"
 tags: [literature, llm-agents, benchmark, agentbench, evaluation, puma-core, agents, architecture, baseline, coding, critical-thinking, effort-estimation, gpt, keshav, literature-note, llm, local-llm, moc, multi-agent, ollama, open-source, project-management, react, red-teaming, research, story-points, triage, web]
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-06-15
 keshav-pass: 3
 ---
 

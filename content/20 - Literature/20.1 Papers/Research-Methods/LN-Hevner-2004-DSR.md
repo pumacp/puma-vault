@@ -14,7 +14,7 @@ doi: "10.2307/25148625"
 url: "https://doi.org/10.2307/25148625"
 tags: [literature, dsr, design-science, research-methodology, artefact, mis-quarterly, puma-core, academic-writing, research, framework, evaluation, literature-note, moc]
 created: 2026-04-14
-updated: 2026-04-14
+updated: 2026-06-15
 keshav-pass: 2
 ---
 

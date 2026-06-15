@@ -5,7 +5,7 @@ type: keyword-glossary
 category: "Project-Management-Smart-PMO"
 tags: [keywords, project-management, smart-pmo, puma, agiops, glossary, agile, aiops, architecture, automation, backlog, bias, dashboard, dataset, devops, effort-estimation, ethics, few-shot, github, hypothesis, index, issue-triage, jira, llm, moc, pipeline, planning, quantitative-research, rag, reasoning, research-methodology, resource-allocation, retrieval, sprint, story-points, tawos, triage]
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-06-15
 ---
 
 # 🔑 Keywords — Category 2: Project Management and Smart PMO

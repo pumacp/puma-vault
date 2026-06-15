@@ -10,7 +10,7 @@ tags: [video, pm, product-manager, ai, agile, academic-writing, backlog, code-re
 phase: ['F0', 'F5']
 rating: 5
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 El viejo Product Manager ha muerto: bienvenido el IA PM

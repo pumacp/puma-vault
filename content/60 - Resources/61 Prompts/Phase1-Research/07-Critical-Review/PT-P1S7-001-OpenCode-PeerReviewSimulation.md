@@ -9,7 +9,7 @@ methodology: [RCOIF, Peer-Review-Simulation, AMI]
 tags: [prompt, peer-review, academic-writing, puma, ami, anthropic, carbon-footprint, code-review, codecarbon, dataset, dsr, effort-estimation, few-shot, github, issue-triage, jira, llm, local-llm, metrics, moc, non-parametric, precision-recall, project-management, prompt-template, prompting, rcoif, research, research-methodology, software-engineering, sprint, statistics, story-points, sustainability, tawos, triage, wilcoxon, workflow, zero-shot]
 rating: 5
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-06-15
 ---
 
 # 🔬 OpenCode — Peer Review Simulation for PUMA

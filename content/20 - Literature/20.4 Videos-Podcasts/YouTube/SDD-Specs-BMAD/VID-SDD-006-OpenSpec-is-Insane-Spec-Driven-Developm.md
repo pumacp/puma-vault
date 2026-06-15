@@ -10,7 +10,7 @@ tags: [video, openspec, puma, bmad, effort-estimation, issue-triage, metrics, mo
 phase: ['F1', 'F2']
 rating: 4
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 OpenSpec is Insane: Spec Driven Development is 100X Better Than Vibe Coding

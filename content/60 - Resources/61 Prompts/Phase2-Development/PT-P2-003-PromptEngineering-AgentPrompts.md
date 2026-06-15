@@ -9,7 +9,7 @@ methodology: [RCOIF, CoT, FewShot, ZeroShot, ContextEngineering]
 tags: [prompt, prompt-engineering, zero-shot, few-shot, cot, puma, rcoif, anthropic, chain-of-thought, context-engineering, data-formats, ict, issue-triage, jira, json, llama, meta, moc, prompt-template, prompting, reasoning, triage]
 rating: 5
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-06-15
 ---
 
 # 🎨 Prompt Engineering — PUMA Experiment Prompts Design

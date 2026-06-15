@@ -4,7 +4,7 @@ title: "Statistical Validation — Wilcoxon, Bootstrap, Effect Size, and CI for 
 topic: statistics
 tags: [permanent, statistics, wilcoxon, bootstrap, effect-size, confidence-interval, shapiro-wilk, cohen-d, non-parametric, hypothesis-testing, puma-core, research, evaluation, benchmark, effort-estimation, story-points, statistical-validation]
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-06-15
 aliases: ["Statistical Validation", "PUMA Statistics", "Non-parametric Tests"]
 ---
 

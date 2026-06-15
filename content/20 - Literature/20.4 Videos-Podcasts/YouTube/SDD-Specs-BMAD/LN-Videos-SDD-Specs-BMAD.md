@@ -4,7 +4,7 @@ title: "🎬 Videos — Spec-Driven Development, BMAD, OpenSpec & Spec Kit"
 type: literature-videos
 tags: [videos, sdd, bmad, openspec, spec-kit, context-engineering, puma, aiops, architecture, devops, effort-estimation, gemini, google, literature-note, metrics, moc, multi-agent, orchestration, para, precision-recall, spec-driven-development, story-points, workflow]
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 total-videos: 38
 phase: [F1, F2, F3]
 ---

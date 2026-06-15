@@ -14,7 +14,7 @@ doi: ""
 url: "https://www.elsevier.com/solutions/sciencedirect"
 tags: [literature, slr, systematic-literature-review, research-methodology, kitchenham, evidence-based-se, puma-core, academic-writing, research, literature-review, inclusion-criteria, exclusion-criteria, search-protocol, literature-note, moc]
 created: 2026-04-14
-updated: 2026-04-14
+updated: 2026-06-15
 keshav-pass: 2
 ---
 

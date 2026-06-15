@@ -4,7 +4,7 @@ title: "📚 Bibliography Supplement v3 — Verified New References"
 type: bibliography
 tags: [bibliography, apa7, references, supplement, verified, academic-writing, agentscope, agile, aiops, aiopslabs, architecture, autogen, automation, benchmark, chatdev, citation, devops, gaia, github, langgraph, llm, mas, masai, mcp, memgpt, metagpt, multi-agent, openhands, orchestration, planning, project-management, protocol, react, reasoning, reasoning-action, reinforcement-learning, research, root-cause-analysis, scheduling, security, swe-bench, tool-use, tree-of-thoughts, workflow]
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 total-verified: 30
 ---
 

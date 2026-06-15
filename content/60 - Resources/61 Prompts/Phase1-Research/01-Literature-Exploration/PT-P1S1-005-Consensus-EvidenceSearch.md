@@ -9,7 +9,7 @@ methodology: [SLR, Evidence-Based]
 tags: [prompt, consensus, evidence, literature-exploration, puma, agile, dsr, effort-estimation, human-in-the-loop, hypothesis, issue-triage, literature-review, llm, moc, multi-agent, pipeline, project-management, prompt-template, research-methodology, research-tools, slr, software-engineering, story-points, triage, zotero]
 rating: 5
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-06-15
 ---
 
 # 🔍 Consensus — Evidence-Based Search for PUMA

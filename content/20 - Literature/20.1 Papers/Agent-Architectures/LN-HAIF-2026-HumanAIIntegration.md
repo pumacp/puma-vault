@@ -14,7 +14,7 @@ doi: "10.48550/arXiv.2602.07641"
 url: "https://arxiv.org/abs/2602.07641"
 tags: [literature, human-ai-integration, hybrid-teams, collaboration, governance, hitl, puma-core, academic-writing, bibliography, citation, human-in-the-loop, keshav, literature-note, llm, moc, project-management, reading-method, research]
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 keshav-pass: 1
 ---
 

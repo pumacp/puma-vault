@@ -14,7 +14,7 @@ doi: ""
 url: "https://www.frictionlessorg.com/about-this-book-1"
 tags: [literature, customer-experience, cx, friction, service-design, process-improvement, customer-effort, ces, operations, smart-pmo, book, methodology, management, user-experience, literature-note, moc]
 created: 2026-04-14
-updated: 2026-04-14
+updated: 2026-06-15
 keshav-pass: 2
 ---
 

@@ -10,7 +10,7 @@ tags: [video, llm, architecture, transformer, theory, attention, chain-of-though
 phase: ['F0', 'F1']
 rating: 4
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 A Visual Tour of Modern LLM Architectures

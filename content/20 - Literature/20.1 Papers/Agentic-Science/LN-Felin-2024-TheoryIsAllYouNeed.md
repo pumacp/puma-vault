@@ -9,7 +9,7 @@ doi: "10.1287/stsc.2024.0189"
 tags: [literature-note, theory, ai-limits, causal-reasoning, critique, puma, academic-writing, accuracy, agentic-science, ai-science, alphafold, automation, bibliography, citation, code-review, gemini, github, google, hypothesis, llm, metrics, moc, project-management, protein-folding, reasoning, research, research-methodology, theory-generation]
 status: verified
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-06-15
 ---
 
 # LN — Theory Is All You Need (Felin & Holweg, 2024)

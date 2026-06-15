@@ -9,7 +9,7 @@ methodology: [SLR, PRISMA]
 tags: [prompt, elsevier, scopus, mendeley, puma, boolean, academic-writing, aiops, automation, benchmark, bibliography, citation, dataset, devops, effort-estimation, human-in-the-loop, issue-triage, literature-review, llm, metrics, moc, multi-agent, precision-recall, prisma, project-management, prompt-template, research, research-tools, semantic-scholar, slr, story-points, triage, zotero]
 rating: 4
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-06-15
 ---
 
 # 📚 Elsevier / Scopus — Structured Database Search for PUMA

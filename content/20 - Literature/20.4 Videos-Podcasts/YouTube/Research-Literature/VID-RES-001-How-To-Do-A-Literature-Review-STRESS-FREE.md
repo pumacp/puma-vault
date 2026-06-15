@@ -10,7 +10,7 @@ tags: [video, research, slr, literature-review, dsr, moc, pipeline, prisma, rese
 phase: ['F0']
 rating: 5
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 How To Do A Literature Review (STRESS-FREE!)

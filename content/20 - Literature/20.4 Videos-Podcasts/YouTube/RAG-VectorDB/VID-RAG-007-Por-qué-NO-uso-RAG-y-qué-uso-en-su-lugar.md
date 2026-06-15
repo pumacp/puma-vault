@@ -10,7 +10,7 @@ tags: [video, rag, alternatives, context-engineering, baseline, chain-of-thought
 phase: ['F1']
 rating: 3
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 Por qué NO uso RAG (y qué uso en su lugar)

@@ -3,7 +3,7 @@ title: MOC Books
 date: 2025-08-19, 17:48
 tags: [moc, books, literature, knowledge-management, ai, business-systems, prompt-engineering, agile, operations-management]
 aliases: []
-updated: 2026-04-14
+updated: 2026-06-15
 ---
 
 # 📚 MOC — Books

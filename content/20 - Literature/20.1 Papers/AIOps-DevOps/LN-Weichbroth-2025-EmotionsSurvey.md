@@ -14,7 +14,7 @@ doi: "10.48550/arXiv.2510.04611"
 url: "https://arxiv.org/abs/2510.04611"
 tags: [literature, developer-productivity, emotions, burnout, sentiment, software-engineering, automation, bibliography, citation, issue-triage, keshav, literature-note, llm, moc, project-management, reading-method, triage]
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 keshav-pass: 1
 ---
 

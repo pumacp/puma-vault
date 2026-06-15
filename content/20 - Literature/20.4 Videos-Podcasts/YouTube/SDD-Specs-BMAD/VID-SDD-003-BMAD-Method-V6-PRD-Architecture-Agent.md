@@ -10,7 +10,7 @@ tags: [video, bmad, puma, architecture, effort-estimation, metrics, moc, multi-a
 phase: ['F1', 'F2']
 rating: 5
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 BMAD Method V6: PRD, Architecture, Agents — This Finally Ends Vibe Coding

@@ -10,7 +10,7 @@ tags: [video, rag, notebooklm, build, masterclass, anythingllm, architecture, em
 phase: ['F0', 'F1']
 rating: 4
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 Did you like NotebookLM? Create it yourself from scratch (RAG Masterclass)

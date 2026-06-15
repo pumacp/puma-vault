@@ -9,7 +9,7 @@ methodology: [RCOIF, AcademicWriting, PeerReview, IMRaD]
 tags: [prompt, academic-writing, puma, rcoif, accuracy, ai-ethics, ai-tools, ami, anthropic, benchmark, bias, bibliography, carbon-footprint, citation, code-review, codecarbon, dataset, dsr, effort-estimation, ethics, gemini, github, google, gpt, human-in-the-loop, ict, issue-triage, jira, llama, llm, local-llm, meta, metrics, mistral, moc, nlp, non-parametric, notebooklm, openai, perplexity, precision-recall, privacy, project-management, prompt-template, prompting, research, research-methodology, research-tools, software-engineering, statistics, story-points, sustainability, tawos, triage, wilcoxon]
 rating: 5
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-06-15
 ---
 
 # ✍️ Claude / ChatGPT — Academic Writing Prompts for PUMA Thesis

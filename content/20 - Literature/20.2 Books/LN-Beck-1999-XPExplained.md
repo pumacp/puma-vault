@@ -15,7 +15,7 @@ doi: ""
 url: "https://www.informit.com/store/extreme-programming-explained-embrace-change-9780321278654"
 tags: [literature, agile, extreme-programming, xp, scrum, tdd, pair-programming, continuous-integration, story-points, puma-core, book, methodology, project-management, sprint, backlog, refactoring, simplicity, adaptive-development, literature-note, keshav, moc, research]
 created: 2026-04-13
-updated: 2026-04-14
+updated: 2026-06-15
 keshav-pass: 2
 ---
 

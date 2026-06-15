@@ -10,7 +10,7 @@ tags: [video, rag, agentic, strategy, embeddings, issue-triage, llm, moc, pipeli
 phase: ['F3', 'F4']
 rating: 4
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 The Future of RAG is Agentic — Learn this Strategy NOW

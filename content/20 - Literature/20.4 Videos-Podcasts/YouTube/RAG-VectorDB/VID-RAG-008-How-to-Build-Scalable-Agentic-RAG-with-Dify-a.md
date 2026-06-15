@@ -10,7 +10,7 @@ tags: [video, rag, qdrant, dify, agentic, ai-tools, embeddings, issue-triage, mo
 phase: ['F2', 'F3']
 rating: 4
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 How to Build Scalable Agentic RAG with Dify and Qdrant

@@ -10,7 +10,7 @@ doi: "10.48550/arXiv.2602.12176"
 tags: [literature-note, physics, ai-discovery, gpt-5, theoretical-physics, puma, academic-writing, ai-science, alphafold, automation, bibliography, citation, gpt, index, llm, moc, openai, plasma-physics, project-management, protein-folding, reasoning, research]
 status: verified
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-06-15
 ---
 
 # LN — Single-minus Gluon Tree Amplitudes (Arkani-Hamed et al., 2026)

@@ -4,7 +4,7 @@ title: "Generative Agents — Memory Stream, Reflection, and Planning Architectu
 topic: agent-architectures
 tags: [permanent, generative-agents, memory-stream, reflection, planning, agent-architecture, llm, simulation, emergent-behavior, puma-core, research, agents, architecture, multi-agent, smart-pmo, persistent-memory]
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-06-15
 aliases: ["Generative Agents", "Memory Stream", "Agent Simulation", "Smallville Agents"]
 ---
 

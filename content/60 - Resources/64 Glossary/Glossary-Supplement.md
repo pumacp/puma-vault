@@ -4,7 +4,7 @@ title: "📖 Glossary Supplement v2 — Extended Technical Terms"
 type: glossary
 tags: [glossary, reference, definitions, supplement, academic-writing, accuracy, agentscope, ai-tools, aiops, ami, anthropic, api, architecture, auc, autogen, backlog, baseline, benchmark, bias, chain-of-thought, cot, crewai, data-formats, dataset, devops, drca, effect-size, effort-estimation, egi, embeddings, ethics, evaluation, few-shot, fine-tuning, github, gpt, human-in-the-loop, hypothesis, ict, iipr, issue-triage, jira, json, keshav, langchain, langgraph, literature-review, llama, llm, lm-studio, local-llm, mas, memory, meta, metrics, mistral, mit-ai-lab, multi-agent, nlp, non-parametric, ollama, one-shot, openai, orchestration, perplexity, pipeline, planning, precision-recall, project-management, prompting, python, rag, rcoif, react, reading-method, reasoning, reasoning-action, reinforcement-learning, research, research-methodology, rest-api, retrieval, security, slr, software-engineering, sprint, statistics, story-points, supervised-learning, swarm-intelligence, swe-bench, tawos, tool-use, transformer, tree-of-thoughts, triage, validity, vector-db, wilcoxon, wp316, zero-shot]
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 source: "PUMA Project Technical Glosary v5.0"
 ---
 

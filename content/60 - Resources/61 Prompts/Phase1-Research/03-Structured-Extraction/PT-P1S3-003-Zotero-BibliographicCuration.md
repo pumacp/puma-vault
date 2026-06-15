@@ -9,7 +9,7 @@ methodology: [PRISMA, Marco-Veritas, APA7]
 tags: [prompt, zotero, bibliography, curation, puma, apa7, academic-writing, aiops, benchmark, citation, dataset, devops, effort-estimation, issue-triage, literature-review, llm, moc, obsidian, prisma, project-management, prompt-template, research, research-tools, slr, story-points, triage, vault]
 rating: 5
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-06-15
 ---
 
 # 📚 Zotero — Bibliographic Curation Protocol for PUMA

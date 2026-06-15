@@ -9,7 +9,7 @@ methodology: [RCOIF, DSR, Wilcoxon, CodeCarbon]
 tags: [prompt, experiment-design, wilcoxon, codecarbon, puma, anthropic, api, baseline, carbon-footprint, chain-of-thought, cot, dataset, dsr, effect-size, effort-estimation, evaluation, few-shot, hypothesis, issue-triage, jira, llama, llm, local-llm, meta, metrics, mistral, moc, non-parametric, ollama, precision-recall, project-management, prompt-template, prompting, python, rcoif, research-methodology, software-engineering, statistics, story-points, sustainability, tawos, template, triage, validity, zero-shot]
 rating: 5
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-06-15
 ---
 
 # 🧪 OpenCode — Controlled Experiment Protocol Design for PUMA

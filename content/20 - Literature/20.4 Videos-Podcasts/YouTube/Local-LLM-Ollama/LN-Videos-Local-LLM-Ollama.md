@@ -4,7 +4,7 @@ title: "🎬 Videos — Local LLMs, Ollama & Hardware"
 type: literature-videos
 tags: [videos, ollama, local-llm, hardware, mac-mini, reproducibility, puma, anthropic, api, dev-tools, devops, docker, effort-estimation, gpt, ide, literature-note, llm, lm-studio, mcp, metrics, moc, openai, opencode, para, precision-recall, privacy, protocol, software-engineering, story-points, workflow]
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 total-videos: 30
 phase: [F1, F2, F3, F4]
 ---

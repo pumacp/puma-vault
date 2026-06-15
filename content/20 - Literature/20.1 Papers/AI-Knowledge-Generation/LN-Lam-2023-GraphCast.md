@@ -9,7 +9,7 @@ doi: "10.1126/science.adi2336"
 tags: [literature-note, weather, graphcast, deepmind, ai-science, puma, academic-writing, accuracy, agentic-science, alphafold, baseline, bibliography, citation, code-review, evaluation, github, graph-rag, issue-triage, jira, knowledge-graph, llm, metrics, moc, neural-network, permanent-note, project-management, protein-folding, research, triage, weather-prediction]
 status: verified
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-06-15
 ---
 
 # LN — GraphCast Weather Forecasting (Lam et al., 2023)

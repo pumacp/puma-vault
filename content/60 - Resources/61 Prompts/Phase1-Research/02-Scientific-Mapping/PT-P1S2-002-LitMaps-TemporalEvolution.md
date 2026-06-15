@@ -9,7 +9,7 @@ methodology: [Bibliometrics, Timeline-Analysis]
 tags: [prompt, litmaps, timeline, temporal-analysis, puma, academic-writing, automation, benchmark, bibliography, carbon-footprint, citation, code-review, codecarbon, connected-papers, effort-estimation, github, human-in-the-loop, issue-triage, llm, local-llm, moc, multi-agent, observability, orchestration, project-management, prompt-template, react, reasoning-action, research-tools, story-points, sustainability, tracing, triage, zotero]
 rating: 5
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-06-15
 ---
 
 # 📈 LitMaps — Temporal Evolution of PUMA Research Field

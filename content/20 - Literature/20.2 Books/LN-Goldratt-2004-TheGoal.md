@@ -15,7 +15,7 @@ doi: ""
 url: "https://www.tocinstitute.org/the-goal-summary.html"
 tags: [literature, theory-of-constraints, toc, bottleneck, throughput, wip, operations-management, continuous-improvement, drum-buffer-rope, five-focusing-steps, smart-pmo, book, methodology, management, process-improvement, literature-note, moc]
 created: 2026-04-14
-updated: 2026-04-14
+updated: 2026-06-15
 keshav-pass: 2
 ---
 

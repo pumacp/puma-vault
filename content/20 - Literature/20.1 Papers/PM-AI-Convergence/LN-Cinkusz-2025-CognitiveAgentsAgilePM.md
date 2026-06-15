@@ -14,7 +14,7 @@ doi: "10.48550/arXiv.2508.16678"
 url: "https://arxiv.org/abs/2508.16678"
 tags: [literature, cognitive-agents, agile-pm, llm, benchmark, puma-core, academic-writing, agile, api, architecture, bibliography, carbon-footprint, chain-of-thought, citation, code-review, codecarbon, cot, critical-thinking, effort-estimation, few-shot, github, gpt, hypothesis, issue-triage, keshav, literature-note, literature-review, local-llm, metrics, moc, obsidian, ollama, openai, planning, precision-recall, project-management, reading-method, red-teaming, research, research-methodology, slr, sprint, story-points, sustainability, triage, vault, zero-shot]
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 keshav-pass: 3
 ---
 

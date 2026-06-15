@@ -10,7 +10,7 @@ tags: [video, spec-kit, puma, bmad, data-formats, github, json, metrics, moc, mu
 phase: ['F1']
 rating: 4
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 Plan, Specify, and Implement with Spec Kit

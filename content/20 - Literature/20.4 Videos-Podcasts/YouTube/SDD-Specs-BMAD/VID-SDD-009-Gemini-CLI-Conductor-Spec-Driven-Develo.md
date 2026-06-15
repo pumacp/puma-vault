@@ -10,7 +10,7 @@ tags: [video, sdd, puma, bmad, effort-estimation, gemini, google, metrics, moc, 
 phase: ['F1']
 rating: 3
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 Gemini CLI Conductor: Spec-Driven Development 100x Better Than BMAD and OpenSpec

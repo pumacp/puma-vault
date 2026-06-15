@@ -10,7 +10,7 @@ tags: [video, research, consensus, evidence, spanish, literature-review, moc, pi
 phase: ['F0']
 rating: 4
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 La IA que todo INVESTIGADOR debería conocer — Consensus IA

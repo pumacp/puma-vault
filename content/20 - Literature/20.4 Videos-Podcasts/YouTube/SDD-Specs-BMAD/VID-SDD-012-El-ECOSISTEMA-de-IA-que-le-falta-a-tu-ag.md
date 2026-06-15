@@ -10,7 +10,7 @@ tags: [video, sdd, puma, anthropic, architecture, dev-tools, ide, langgraph, mem
 phase: ['F2', 'F3']
 rating: 4
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 El ECOSISTEMA de IA que le falta a tu agente — Engram + SDD + Skills

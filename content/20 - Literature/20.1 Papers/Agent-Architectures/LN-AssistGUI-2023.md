@@ -14,7 +14,7 @@ doi: "10.48550/arXiv.2312.03723"
 url: "https://arxiv.org/abs/2312.03723"
 tags: [literature, llm-agents, gui-automation, desktop, task-completion, multimodal, puma-core, agents, architecture, benchmark, coding, keshav, literature-note, llm, moc, project-management, research, tool-use]
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-06-15
 keshav-pass: 2
 ---
 

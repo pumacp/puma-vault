@@ -4,7 +4,7 @@ title: "The Uniqueness Trap — Why PM Estimation Fails and How PUMA Fixes It"
 topic: project-management
 tags: [permanent, uniqueness-trap, flyvbjerg, reference-class-forecasting, planning-fallacy, cognitive-bias, project-management, puma-core, research, effort-estimation, story-points, benchmark, critical-thinking, scope-creep, cost-overrun]
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-06-15
 aliases: ["Uniqueness Trap", "Reference Class Forecasting", "Planning Fallacy PM"]
 ---
 

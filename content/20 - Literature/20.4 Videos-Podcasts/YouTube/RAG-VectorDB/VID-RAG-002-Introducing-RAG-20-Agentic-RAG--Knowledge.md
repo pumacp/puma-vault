@@ -10,7 +10,7 @@ tags: [video, rag, agentic-rag, knowledge-graph, graph-rag, llm, moc, project-ma
 phase: ['F3', 'F4', 'F5']
 rating: 5
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 Introducing RAG 2.0: Agentic RAG + Knowledge Graphs (FREE Template)

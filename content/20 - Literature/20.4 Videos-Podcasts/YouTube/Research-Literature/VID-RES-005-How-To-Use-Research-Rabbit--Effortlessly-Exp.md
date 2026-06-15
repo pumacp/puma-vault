@@ -10,7 +10,7 @@ tags: [video, research, research-rabbit, citation-graph, bibliography, citation,
 phase: ['F0']
 rating: 4
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 How To Use Research Rabbit — Effortlessly Explore Literature for FREE!

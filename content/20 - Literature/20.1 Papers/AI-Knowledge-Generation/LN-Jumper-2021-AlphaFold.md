@@ -9,7 +9,7 @@ doi: "10.1038/s41586-021-03819-2"
 tags: [literature-note, alphafold, protein, ai-discovery, deepmind, puma, academic-writing, accuracy, agentic-science, ai-science, architecture, attention, bibliography, citation, gnome, graphcast, hypothesis, issue-triage, llm, materials-science, metrics, moc, permanent-note, project-management, protein-folding, research, research-methodology, transformer, triage, weather-prediction]
 status: verified
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-06-15
 ---
 
 # LN — AlphaFold2 (Jumper et al., 2021)

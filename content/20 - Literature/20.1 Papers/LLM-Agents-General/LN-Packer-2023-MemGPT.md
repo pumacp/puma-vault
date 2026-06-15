@@ -14,7 +14,7 @@ doi: "10.48550/arXiv.2310.08560"
 url: "https://arxiv.org/abs/2310.08560"
 tags: [literature, llm-agents, memory, operating-system, context-management, agents, architecture, bibliography, citation, keshav, literature-note, llm, memgpt, moc, project-management, rag, reading-method, retrieval, smart-pmo, sprint]
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 keshav-pass: 1
 ---
 

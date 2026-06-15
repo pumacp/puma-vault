@@ -10,7 +10,7 @@ tags: [video, agents, course, practical, api, autogen, crewai, jira, langgraph, 
 phase: ['F1', 'F2']
 rating: 4
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 Building AI Agents that actually work (Full Course)

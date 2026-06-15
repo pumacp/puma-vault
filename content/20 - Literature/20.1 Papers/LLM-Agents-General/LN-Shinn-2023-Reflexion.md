@@ -14,7 +14,7 @@ doi: "10.48550/arXiv.2303.11366"
 url: "https://arxiv.org/abs/2303.11366"
 tags: [literature, llm-agents, reflexion, self-reflection, verbal-reinforcement, puma-core, agents, architecture, benchmark, chain-of-thought, cot, critical-thinking, effort-estimation, keshav, literature-note, llm, moc, multi-agent, prompting, react, reasoning, red-teaming, research, self-critique, story-points]
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-06-15
 keshav-pass: 3
 ---
 

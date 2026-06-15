@@ -10,7 +10,7 @@ tags: [video, rag, hallucination, python, tutorial, bibliography, citation, effo
 phase: ['F2', 'F3']
 rating: 4
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 RAG 2.0: Olvida las alucinaciones de tu IA para SIEMPRE (tutorial Python)

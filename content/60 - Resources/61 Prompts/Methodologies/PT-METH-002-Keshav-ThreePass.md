@@ -9,7 +9,7 @@ methodology: [Keshav-Three-Pass, Critical-Reading]
 tags: [prompt, keshav, three-pass, reading, puma, academic-writing, accuracy, anthropic, baseline, benchmark, dataset, dsr, evaluation, hypothesis, jira, literature-note, literature-review, metrics, moc, non-parametric, notebooklm, permanent-note, precision-recall, prompt-template, quantitative-research, reading-method, research, research-methodology, research-tools, slr, statistics, tawos, validity, wilcoxon, zettelkasten]
 rating: 5
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-06-15
 ---
 
 # 📖 Keshav's Three-Pass Method — Paper Reading Protocol for PUMA

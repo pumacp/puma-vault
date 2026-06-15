@@ -10,7 +10,7 @@ tags: [video, cursor, ticket, pr, workflow, baseline, code-review, dev-tools, ef
 phase: ['F2', 'F3']
 rating: 5
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 Demo: De Ticket a Pull Request en 30 minutos con Cursor

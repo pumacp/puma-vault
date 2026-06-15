@@ -4,7 +4,7 @@ title: "📊 Tools — Datasets, Benchmarks & Data Access"
 type: literature-tools
 tags: [tools, datasets, benchmarks, jira-sr, tawos, swe-bench, puma, academic-writing, agile, baseline, benchmark, carbon-footprint, code-review, dataset, effort-estimation, evaluation, github, hypothesis, issue-triage, jira, literature-note, metrics, moc, nlp, non-parametric, observability, planning, precision-recall, python, research, research-methodology, smart-pmo, statistics, story-points, sustainability, tracing, triage, wilcoxon, workflow]
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 phase: [F0, F1, F2, F3, F4]
 ---
 

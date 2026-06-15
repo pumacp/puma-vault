@@ -5,7 +5,7 @@ type: keyword-glossary
 category: "Data-Engineering-Technical-Stack"
 tags: [keywords, data-engineering, rag, qdrant, ollama, puma, glossary, agile, api, benchmark, clustering, crewai, data-formats, dataset, devops, docker, effort-estimation, embeddings, few-shot, github, index, issue-triage, jira, json, langchain, langgraph, llama, llm, local-llm, mcp, memory, meta, metrics, mistral, moc, orchestration, precision-recall, project-management, prompt-engineering, protocol, pydantic, python, reasoning, rest-api, retrieval, smart-pmo, software-engineering, sprint, story-points, tawos, template, triage, vector-db]
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-06-15
 ---
 
 # 🔑 Keywords — Category 4: Data Engineering and Technical Stack

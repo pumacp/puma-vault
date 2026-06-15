@@ -10,7 +10,7 @@ tags: [video, obsidian, gemini, pkm, research, anthropic, google, knowledge-mana
 phase: ['F0', 'F1']
 rating: 4
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 MI INTELIGENCIA y ESTRATEGIA se disparan gracias a GEMINI CLI y OBSIDIAN

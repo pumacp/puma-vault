@@ -10,7 +10,7 @@ tags: [video, agents, langgraph, enterprise, cost, api, automation, code-review,
 phase: ['F1', 'F2']
 rating: 4
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 Agentes de IA y LangGraph: cómo las empresas reducen costos

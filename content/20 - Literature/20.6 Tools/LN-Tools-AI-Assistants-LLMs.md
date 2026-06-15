@@ -4,7 +4,7 @@ title: "🤖 Tools — AI Assistants & LLM Models"
 type: literature-tools
 tags: [tools, llm, ai-assistants, chatgpt, ollama, puma, anthropic, api, architecture, benchmark, bias, bibliography, bmad, chain-of-thought, citation, cot, dev-tools, effort-estimation, ethics, gemini, google, gpt, issue-triage, keshav, literature-note, llama, lm-studio, local-llm, meta, metrics, mistral, moc, multi-agent, notebooklm, openai, opencode, precision-recall, project-management, prompt-engineering, prompting, rag, rcoif, reading-method, reasoning, research-tools, rest-api, retrieval, story-points, triage]
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 phase: [F0, F1, F2, F3, F4, F5]
 ---
 

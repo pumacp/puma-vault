@@ -10,7 +10,7 @@ tags: [video, sdd, puma, api, benchmark, bmad, metrics, moc, multi-agent, opensp
 phase: ['F1']
 rating: 4
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 Spec-Driven Development for AI Agents: I Tried OpenSpec and Others

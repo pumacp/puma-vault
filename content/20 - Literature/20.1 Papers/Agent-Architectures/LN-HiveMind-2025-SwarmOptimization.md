@@ -14,7 +14,7 @@ doi: "10.48550/arXiv.2503.05473"
 url: "https://arxiv.org/abs/2503.05473"
 tags: [literature, swarm, multi-agent, optimization, collective-intelligence, foundation-models, academic-writing, architecture, bibliography, citation, issue-triage, keshav, literature-note, llm, mas, moc, project-management, reading-method, research, smart-pmo, swarm-intelligence, triage]
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 keshav-pass: 1
 ---
 

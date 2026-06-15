@@ -9,7 +9,7 @@ methodology: [DSR, Hevner, Peffers]
 tags: [prompt, dsr, hevner, peffers, artifact-design, puma, anthropic, artefact, baseline, benchmark, bias, carbon-footprint, code-review, codecarbon, dataset, effort-estimation, ethics, evaluation, github, issue-triage, jira, literature-review, llm, local-llm, metrics, moc, non-parametric, pipeline, planning, precision-recall, project-management, prompt-template, pydantic, python, research-methodology, slr, statistics, story-points, sustainability, tawos, triage, wilcoxon]
 rating: 5
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-06-15
 ---
 
 # 🔬 Design Science Research — Artifact Design Prompts for PUMA

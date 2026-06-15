@@ -10,7 +10,7 @@ tags: [video, context-engineering, prompting, fundamentals, academic-writing, ch
 phase: ['F1', 'F2']
 rating: 5
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 Context Engineering Clearly Explained

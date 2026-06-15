@@ -3,7 +3,7 @@ id: PN-Integrated-Reading-Method
 title: "Keshav Three-Pass and MIT AI Lab Three Questions: An Integrated Academic Reading Protocol for PUMA"
 type: permanent
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-06-15
 tags: [permanent-note, keshav, paper-reading, methodology, literature, academic-writing, ami, benchmark, drca, egi, falsifiability, fleeting-note, hypothesis, ict, iipr, literature-note, literature-review, llm, mit-ai-lab, moc, pipeline, popper, project-management, prompt-engineering, prompting, rcoif, reading-method, research, slr, template, validity, vault, wp316, zettelkasten]
 ---
 

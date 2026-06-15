@@ -10,7 +10,7 @@ tags: [video, agents, karpathy, obsidian, anthropic, architecture, dev-tools, em
 phase: ['F0', 'F1', 'F2']
 rating: 5
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 Karpathy Just Replaced RAG With Obsidian + Claude Code

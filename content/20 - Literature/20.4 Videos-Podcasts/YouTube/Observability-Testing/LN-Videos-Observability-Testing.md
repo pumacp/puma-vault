@@ -4,7 +4,7 @@ title: "🎬 Videos — Observability, LLM Evaluation, Testing & DevOps"
 type: literature-videos
 tags: [videos, observability, evaluation, testing, arize-phoenix, promptfoo, devops, puma, aiops, anthropic, automation, carbon-footprint, cicd, code-review, codecarbon, dev-tools, github, hypothesis, ide, literature-note, llm, mcp, moc, monitoring, multi-agent, non-parametric, protocol, pydantic, python, research-methodology, statistics, sustainability, wilcoxon]
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 total-videos: 18
 phase: [F3, F4, F5]
 ---

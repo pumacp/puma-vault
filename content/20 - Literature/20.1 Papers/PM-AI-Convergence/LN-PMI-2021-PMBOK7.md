@@ -14,7 +14,7 @@ doi: ""
 url: "https://www.pmi.org/pmbok-guide-standards/foundational/pmbok"
 tags: [literature, pmbok, pmi, project-management, value-delivery, principles, ethics, puma-core, smart-pmo, standards, scrum, agile, waterfall, literature-note, moc]
 created: 2026-04-14
-updated: 2026-04-14
+updated: 2026-06-15
 keshav-pass: 2
 ---
 

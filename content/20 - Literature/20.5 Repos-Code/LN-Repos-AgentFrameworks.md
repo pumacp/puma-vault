@@ -5,7 +5,7 @@ type: literature
 topic: tools-repos
 tags: [literature, tools, repositories, github, open-source, frameworks, academic-writing, agentscope, aiops, aiopslabs, api, architecture, autogen, benchmark, bibliography, bmad, carbon-footprint, citation, code-review, codecarbon, dataset, devops, effort-estimation, human-in-the-loop, issue-triage, jira, langchain, langgraph, literature-note, llm, local-llm, mcp, metagpt, moc, multi-agent, ollama, openhands, orchestration, project-management, protocol, rag, research, retrieval, scrum, security, smart-pmo, story-points, sustainability, tawos, template, triage]
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 📦 Repository Notes — Verified Agent Frameworks and Tools

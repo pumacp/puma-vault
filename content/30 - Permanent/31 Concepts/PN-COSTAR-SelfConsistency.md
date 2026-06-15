@@ -4,7 +4,7 @@ title: "Prompting Frameworks — CO-STAR, Self-Consistency, and Structured Promp
 topic: prompting
 tags: [permanent, prompting, costar, self-consistency, chain-of-thought, few-shot, zero-shot, structured-output, prompt-engineering, puma-core, research, agents, llm, benchmark, issue-triage, effort-estimation, architecture]
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-06-15
 aliases: ["CO-STAR", "Self-Consistency", "Prompt Engineering", "Structured Prompting"]
 ---
 

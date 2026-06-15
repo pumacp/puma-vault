@@ -4,7 +4,7 @@ title: "Human-in-the-Loop (HITL) and Bounded Autonomy for AI Agents"
 topic: human-ai-collaboration
 tags: [permanent, hitl, human-in-the-loop, bounded-autonomy, ai-safety, ethics, oversight, control, human-ai-collaboration, puma-core, research, agents, architecture, ethics, project-management, accountability, alignment]
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-06-15
 aliases: ["HITL", "Bounded Autonomy", "Human Oversight", "Human-AI Collaboration"]
 ---
 

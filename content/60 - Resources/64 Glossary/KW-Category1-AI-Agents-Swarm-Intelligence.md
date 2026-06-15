@@ -5,7 +5,7 @@ type: keyword-glossary
 category: "AI-Agents-Swarm-Intelligence"
 tags: [keywords, ai-agents, swarm-intelligence, mas, puma, glossary, api, architecture, benchmark, bmad, chain-of-thought, cot, crewai, critical-thinking, data-formats, dataset, github, human-in-the-loop, index, issue-triage, jira, json, langgraph, llama, llm, local-llm, mcp, memory, meta, metrics, mistral, moc, multi-agent, ollama, orchestration, pipeline, planning, precision-recall, project-management, protocol, python, react, reasoning, reasoning-action, red-teaming, smart-pmo, software-engineering, sprint, tawos, tool-use, triage, workflow]
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-06-15
 ---
 
 # 🔑 Keywords — Category 1: AI Agents and Swarm Intelligence

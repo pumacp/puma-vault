@@ -10,7 +10,7 @@ tags: [video, langgraph, crewai, autogen, comparison, human-in-the-loop, issue-t
 phase: ['F1', 'F2']
 rating: 5
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 CrewAI vs AutoGen vs LangGraph: Features, Pros & Cons Compared (2026)

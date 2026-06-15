@@ -10,7 +10,7 @@ tags: [video, context-engineering, agents, key-skill, architecture, chain-of-tho
 phase: ['F1', 'F2']
 rating: 4
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 Ingeniería de Contexto: La Habilidad CLAVE para crear AGENTES de IA ahora mismo

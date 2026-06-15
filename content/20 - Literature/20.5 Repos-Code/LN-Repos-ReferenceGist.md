@@ -4,7 +4,7 @@ title: "📦 Repository Gist — Analysed Reference Gist"
 type: literature-repos
 tags: [tools, repositories, github, open-source, reference, code-patterns, puma, academic-writing, api, architecture, backlog, benchmark, crewai, dev-tools, devops, docker, effort-estimation, gpt, human-in-the-loop, ide, issue-triage, jira, langgraph, literature-note, llm, moc, multi-agent, nlp, openai, openhands, orchestration, planning, project-management, prompt-engineering, react, reasoning-action, research, rest-api, scrum, software-engineering, sprint, story-points, swe-bench, template, tool-use, triage, workflow]
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 📦 Repository Gist — Analysed Reference Gist

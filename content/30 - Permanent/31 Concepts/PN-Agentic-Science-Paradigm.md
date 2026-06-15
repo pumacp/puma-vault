@@ -4,7 +4,7 @@ title: "Agentic Science represents a new research paradigm where AI manages comp
 type: permanent-note
 tags: [permanent-note, agentic-science, robot-scientists, ai-discovery, puma, academic-writing, ai-science, ai-scientist, alphafold, automation, code-review, github, gnome, hypothesis, issue-triage, llm, materials-science, moc, multi-agent, orchestration, planning, project-management, protein-folding, react, reasoning, reasoning-action, research, research-methodology, smart-pmo, sprint, triage]
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-06-15
 ---
 
 # Agentic Science represents a new research paradigm where AI manages complete investigation cycles autonomously

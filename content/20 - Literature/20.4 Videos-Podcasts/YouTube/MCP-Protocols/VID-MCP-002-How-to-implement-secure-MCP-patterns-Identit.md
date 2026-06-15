@@ -10,7 +10,7 @@ tags: [video, mcp, security, authorization, google, ai-ethics, effort-estimation
 phase: ['F3', 'F4', 'F5']
 rating: 5
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 How to implement secure MCP patterns: Identity, authorization, and runtime protection

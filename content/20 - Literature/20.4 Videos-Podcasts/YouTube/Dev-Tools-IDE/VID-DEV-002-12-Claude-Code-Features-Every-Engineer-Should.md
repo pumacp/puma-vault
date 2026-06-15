@@ -10,7 +10,7 @@ tags: [video, claude-code, features, subagents, mcp, anthropic, code-review, dev
 phase: ['F2', 'F3']
 rating: 5
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 12 Claude Code Features Every Engineer Should Know

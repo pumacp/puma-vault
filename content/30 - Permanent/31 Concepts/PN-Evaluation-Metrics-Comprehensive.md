@@ -4,7 +4,7 @@ title: "Evaluation Metrics — Comprehensive Reference for PUMA"
 topic: evaluation-metrics
 tags: [permanent, evaluation, metrics, f1, mae, rmse, spearman, wilcoxon, auc-roc, bleu, rouge, perplexity, co2, inference-latency, puma-core, research, benchmark, statistics, story-points, issue-triage, effort-estimation, statistical-validation, nlp, sustainability]
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-06-15
 aliases: ["Evaluation Metrics", "PUMA Metrics", "Benchmark Metrics"]
 ---
 

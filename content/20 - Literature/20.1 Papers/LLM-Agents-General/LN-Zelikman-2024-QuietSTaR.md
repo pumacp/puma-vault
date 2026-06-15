@@ -14,7 +14,7 @@ doi: "10.48550/arXiv.2403.09629"
 url: "https://arxiv.org/abs/2403.09629"
 tags: [literature, llm-reasoning, chain-of-thought, self-training, thinking, academic-writing, bibliography, citation, cot, fine-tuning, keshav, literature-note, llm, moc, project-management, reading-method, reasoning, research, supervised-learning, unsupervised-learning, zero-shot]
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 keshav-pass: 1
 ---
 

@@ -14,7 +14,7 @@ doi: "10.48550/arXiv.2312.14411"
 url: "https://arxiv.org/abs/2312.14411"
 tags: [literature, aiops, incident-management, triage, survey, llm, automation, puma-core, agents, benchmark, critical-thinking, effort-estimation, ict, issue-triage, keshav, literature-note, moc, project-management, research, sla, story-points]
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-06-15
 keshav-pass: 1
 ---
 

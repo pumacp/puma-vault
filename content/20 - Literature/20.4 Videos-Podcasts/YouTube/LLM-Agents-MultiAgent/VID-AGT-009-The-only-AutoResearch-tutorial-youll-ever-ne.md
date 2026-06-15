@@ -10,7 +10,7 @@ tags: [video, agents, karpathy, autoresearch, tutorial, anthropic, dev-tools, hy
 phase: ['F0', 'F1']
 rating: 4
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 The only AutoResearch tutorial you'll ever need

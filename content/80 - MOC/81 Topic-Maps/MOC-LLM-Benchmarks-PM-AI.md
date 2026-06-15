@@ -4,7 +4,7 @@ title: "📊 MOC — LLM Benchmarks, PM-AI Convergence & Agent Architectures (v2
 type: moc
 tags: [moc, llm-benchmarks, pm-ai, agents, architectures, academic-writing, agentscope, aiops, aiopslabs, architecture, autogen, baseline, benchmark, bibliography, chain-of-thought, chatdev, citation, cot, critical-thinking, devops, embeddings, evaluation, gaia, github, gpt, langgraph, llm, local-llm, mas, masai, mcp, memgpt, memory, metagpt, multi-agent, navigation, ollama, openai, openhands, orchestration, project-management, protocol, rag, react, reasoning, reasoning-action, red-teaming, research, retrieval, root-cause-analysis, security, smart-pmo, software-engineering, swarm-intelligence, swe-bench, tree-of-thoughts, vector-db, workflow]
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 📊 MOC — LLM Benchmarks, PM-AI Convergence & Agent Architectures

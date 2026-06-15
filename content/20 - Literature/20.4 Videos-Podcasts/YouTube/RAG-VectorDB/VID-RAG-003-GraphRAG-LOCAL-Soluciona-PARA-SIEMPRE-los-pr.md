@@ -10,7 +10,7 @@ tags: [video, rag, graphrag, neo4j, ollama, embeddings, graph-rag, knowledge-gra
 phase: ['F4', 'F5']
 rating: 5
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 GraphRAG LOCAL: Soluciona PARA SIEMPRE los problemas de tu RAG

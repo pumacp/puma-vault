@@ -3,7 +3,7 @@ id: PN-MIT-Student-Method-Complete
 title: "The MIT AI Lab three questions (Q1/Q2/Q3) activate deep reading when combined with Keshav Three-Pass as the PUMA research protocol"
 type: permanent
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 tags: [permanent-note, keshav, mit-ai-lab, reading-method, research-methodology, wp316, academic-writing, ami, benchmark, drca, egi, falsifiability, fleeting-note, hypothesis, ict, iipr, literature-note, literature-review, llm, moc, pipeline, popper, project-management, prompt-engineering, prompting, rcoif, research, slr, template, validity]
 ---
 

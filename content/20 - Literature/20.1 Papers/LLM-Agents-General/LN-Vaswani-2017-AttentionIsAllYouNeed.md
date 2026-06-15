@@ -14,7 +14,7 @@ doi: "10.48550/arXiv.1706.03762"
 url: "https://arxiv.org/abs/1706.03762"
 tags: [literature, transformer, attention-mechanism, self-attention, multi-head-attention, positional-encoding, encoder-decoder, nlp, foundational, puma-core, architecture, llm, gpt, bert, literature-note, moc]
 created: 2026-04-14
-updated: 2026-04-14
+updated: 2026-06-15
 keshav-pass: 2
 ---
 

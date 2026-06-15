@@ -14,7 +14,7 @@ doi: "10.1007/978-3-642-29044-2"
 url: "https://link.springer.com/book/10.1007/978-3-642-29044-2"
 tags: [literature, experimentation, controlled-experiment, wilcoxon, shapiro-wilk, hypothesis-testing, effect-size, validity, puma-core, book, research-methodology, statistics, literature-note, moc]
 created: 2026-04-14
-updated: 2026-04-14
+updated: 2026-06-15
 keshav-pass: 2
 ---
 

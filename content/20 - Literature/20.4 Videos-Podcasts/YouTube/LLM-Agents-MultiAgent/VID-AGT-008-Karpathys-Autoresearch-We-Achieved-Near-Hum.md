@@ -10,7 +10,7 @@ tags: [video, agents, karpathy, autoresearch, benchmark, anthropic, dev-tools, i
 phase: ['F0', 'F1']
 rating: 4
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 Karpathy's Autoresearch: We Achieved Near-Human Scores in 2 Hours!

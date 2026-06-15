@@ -10,7 +10,7 @@ tags: [video, obsidian, second-brain, para, zettelkasten, anthropic, dev-tools, 
 phase: ['F0', 'F1']
 rating: 5
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 I Built a Second Brain That Organises Itself (and you can too!)

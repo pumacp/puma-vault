@@ -10,7 +10,7 @@ tags: [video, mcp, protocol, fundamentals, aiops, anthropic, api, devops, github
 phase: ['F2', 'F3']
 rating: 5
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 you need to learn MCP RIGHT NOW!! (Model Context Protocol)

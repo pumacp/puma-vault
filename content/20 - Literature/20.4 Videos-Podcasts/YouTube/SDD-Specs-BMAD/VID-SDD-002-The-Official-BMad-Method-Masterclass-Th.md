@@ -10,7 +10,7 @@ tags: [video, bmad, puma, agile, architecture, metrics, moc, multi-agent, precis
 phase: ['F1', 'F2', 'F3']
 rating: 5
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 The Official BMad-Method Masterclass (The Complete IDE Workflow)

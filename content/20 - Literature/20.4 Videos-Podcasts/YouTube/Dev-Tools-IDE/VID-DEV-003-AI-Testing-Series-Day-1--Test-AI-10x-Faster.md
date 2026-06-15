@@ -10,7 +10,7 @@ tags: [video, promptfoo, testing, evaluation, llm, anthropic, automation, data-f
 phase: ['F3', 'F4']
 rating: 5
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 AI Testing Series Day 1 — Test AI 10x Faster with #promptfoo!

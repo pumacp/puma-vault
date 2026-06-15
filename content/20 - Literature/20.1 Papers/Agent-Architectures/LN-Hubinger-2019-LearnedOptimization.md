@@ -14,7 +14,7 @@ doi: "10.48550/arXiv.1906.01820"
 url: "https://arxiv.org/abs/1906.01820"
 tags: [literature, ai-safety, inner-alignment, deceptive-alignment, mesa-optimization, learned-optimization, puma-core, agents, architecture, ethics, keshav, literature-note, llm, moc, red-teaming, research, safety]
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-06-15
 keshav-pass: 2
 ---
 

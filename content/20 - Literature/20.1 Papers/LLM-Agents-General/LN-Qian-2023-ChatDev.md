@@ -14,7 +14,7 @@ doi: "10.48550/arXiv.2307.07924"
 url: "https://arxiv.org/abs/2307.07924"
 tags: [literature, multi-agent, chatdev, software-development, communication, architecture, bibliography, citation, keshav, literature-note, llm, mas, metagpt, moc, project-management, reading-method]
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 keshav-pass: 1
 ---
 

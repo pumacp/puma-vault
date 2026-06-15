@@ -14,7 +14,7 @@ doi: ""
 url: "https://michaelegerbercompanies.com/product/the-e-myth-revisited/"
 tags: [literature, e-myth, entrepreneurship, small-business, systems, process, franchise-model, technician, manager, entrepreneur, delegation, scalability, smart-pmo, book, methodology, management, operations, literature-note, moc]
 created: 2026-04-14
-updated: 2026-04-14
+updated: 2026-06-15
 keshav-pass: 2
 ---
 

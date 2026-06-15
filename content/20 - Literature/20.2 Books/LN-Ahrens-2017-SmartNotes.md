@@ -14,7 +14,7 @@ doi: ""
 url: "https://www.smartnotes.ai/"
 tags: [literature, zettelkasten, smart-notes, knowledge-management, atomic-notes, permanent-notes, fleeting-notes, literature-notes, obsidian, second-brain, puma-core, book, vault, writing, learning, literature-note, moc]
 created: 2026-04-14
-updated: 2026-04-14
+updated: 2026-06-15
 keshav-pass: 2
 ---
 

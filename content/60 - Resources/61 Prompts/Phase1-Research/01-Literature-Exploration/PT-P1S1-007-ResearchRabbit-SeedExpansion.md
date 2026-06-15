@@ -9,7 +9,7 @@ methodology: [SLR, Citation-Network]
 tags: [prompt, research-rabbit, citation-network, snowballing, puma, agile, automation, benchmark, bibliography, carbon-footprint, citation, clustering, effort-estimation, human-in-the-loop, hypothesis, issue-triage, literature-review, masai, moc, multi-agent, orchestration, pipeline, prisma, project-management, prompt-template, react, reasoning-action, research-methodology, research-tools, slr, story-points, sustainability, swe-bench, triage, workflow, zotero]
 rating: 5
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-06-15
 ---
 
 # 🐇 Research Rabbit — Seed Expansion for PUMA Corpus

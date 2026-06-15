@@ -10,7 +10,7 @@ tags: [video, sdd, puma, bmad, metrics, moc, multi-agent, precision-recall, spec
 phase: ['F1']
 rating: 4
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 BMAD vs Open Spec vs Spec Kit: Which AI Development Framework Actually Works?

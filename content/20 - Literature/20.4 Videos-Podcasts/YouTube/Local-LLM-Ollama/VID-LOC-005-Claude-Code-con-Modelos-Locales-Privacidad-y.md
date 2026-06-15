@@ -10,7 +10,7 @@ tags: [video, claude-code, ollama, privacy, local, anthropic, api, dev-tools, id
 phase: ['F2', 'F3']
 rating: 4
 created: 2026-04-06
-updated: 2026-04-06
+updated: 2026-06-15
 ---
 
 # 🎬 Claude Code con Modelos Locales: Privacidad y Coste Cero con Ollama
