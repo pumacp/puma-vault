@@ -101,8 +101,8 @@ git add .
 git commit -m "EX-NNN: [brief description of results]"
 git push origin main
 
-# After PEC submission
-git tag "PEC-N-submitted-$(date +%Y-%m-%d)"
+# After milestone submission
+git tag "milestone-N-submitted-$(date +%Y-%m-%d)"
 git push origin --tags
 
 # Check status

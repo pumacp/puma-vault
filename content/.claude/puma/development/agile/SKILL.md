@@ -1,32 +1,32 @@
 ---
 name: puma-agile
-description: Agile conventions adapted for AI-assisted PUMA research cycles — sprint planning, task management, kanban board maintenance, and sprint reviews aligned with UOC PEC calendar. Integrates GTD with Agile for academic project management. Use when planning research sprints, managing tasks, updating kanban boards, or preparing PEC deliverables. Includes the GSD (Get Shit Done) execution mode for high-output sessions.
+description: Agile conventions adapted for AI-assisted PUMA research cycles — sprint planning, task management, kanban board maintenance, and sprint reviews aligned with the project milestone calendar. Integrates GTD with Agile for academic project management. Use when planning research sprints, managing tasks, updating kanban boards, or preparing milestone deliverables. Includes the GSD (Get Shit Done) execution mode for high-output sessions.
 ---
 
 # PUMA Agile — AI-Assisted Research Sprints
 
 ## PUMA Sprint Calendar
 
-Sprints are aligned with UOC PEC (Prova d'Evaluació Continuada) deadlines:
+Sprints are aligned with the project milestone deadlines:
 
-| Sprint | PEC | Focus | Duration |
+| Sprint | milestone | Focus | Duration |
 |--------|-----|-------|----------|
-| Sprint-01 | PEC1 | Introduction + planning | ~4 weeks |
-| Sprint-02 | PEC2 | Methods + Results | ~6 weeks |
-| Sprint-03 | PEC3 | Discussion + Conclusions | ~4 weeks |
-| Sprint-04 | TFG final | Review + submission | ~4 weeks |
+| Sprint-01 | Milestone 1 | Introduction + planning | ~4 weeks |
+| Sprint-02 | Milestone 2 | Methods + Results | ~6 weeks |
+| Sprint-03 | Milestone 3 | Discussion + Conclusions | ~4 weeks |
+| Sprint-04 | project final | Review + submission | ~4 weeks |
 
 Current sprint: `40-Projects/PUMA/41.8-Sprint-Boards/Sprint-NN.md`
 
 ## Sprint Planning Protocol
 
-### Sprint Start (Monday / PEC period start)
+### Sprint Start (Monday / milestone period start)
 
 1. Open `BMAD-PRD-PUMA.md` → define sprint goal
 2. Create `Sprint-NN.md` from template
 3. Populate Backlog from:
    - Previous sprint's remaining tasks
-   - Tutor feedback items
+   - Reviewer feedback items
    - Experiment pipeline next steps
 4. Prioritize using MoSCoW: Must | Should | Could | Won't
 5. Move "Must" tasks to "To Do"
@@ -97,10 +97,10 @@ Example: "Complete H₁ triage experiments with statistical validation
 Open `90-GTD/95-Reviews/Weekly-Review-Template.md`:
 
 1. **Inbox zero**: Process all fleeting notes
-2. **Project review**: Check PEC progress, experiment pipeline
+2. **Project review**: Check milestone progress, experiment pipeline
 3. **Note lifecycle**: FL- → LN- or PN- (convert accumulated fleeting notes)
 4. **MOC update**: Add new notes to relevant MOCs
-5. **Waiting for**: Check tutor feedback, GitHub issues
+5. **Waiting for**: Check reviewer feedback, GitHub issues
 6. **Plan**: Set next week's "must" tasks
 7. **Audit**: Run Zettelkasten lint (orphan notes, missing links)
 8. **Carbon**: Check CodeCarbon log
@@ -127,9 +127,9 @@ GSD Session Protocol:
 - Defer all scope creep to Backlog
 - Log energy level and blockers for retrospective
 
-## Sprint Review / PEC Submission
+## Sprint Review / milestone Submission
 
-Before each PEC submission:
+Before each milestone submission:
 
 **Content checklist**:
 - [ ] All committed tasks have outputs
@@ -138,7 +138,7 @@ Before each PEC submission:
 - [ ] AI use declared (Marco Veritas)
 - [ ] References in APA 7th format
 - [ ] Spanish language verified throughout
-- [ ] UOC template used correctly
+- [ ] the project template used correctly
 
 **Technical checklist**:
 - [ ] Git pushed to github.com/pumacp
@@ -148,7 +148,7 @@ Before each PEC submission:
 
 ## Sprint Retrospective
 
-After each PEC feedback:
+After each milestone feedback:
 
 ```markdown
 ## Sprint NN Retrospective
@@ -159,7 +159,7 @@ After each PEC feedback:
 ### What to improve
 - [...]
 
-### Tutor feedback integration
+### Reviewer feedback integration
 - Feedback: [quote key feedback]
 - Action: TASK-NNN — [how to address it]
 

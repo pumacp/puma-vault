@@ -142,8 +142,8 @@ PUMA Vault/
     ├── 41.5-Discussion/            PR-PUMA-Ch5-Discussion.md
     ├── 41.6-Specs/
     │   ├── SP-PUMA-Constitution.md ← MASTER AUTHORITY
-    │   ├── SP-Architecture-v1.md
-    │   ├── SP-Triage-Agent-v1.md
+    │   ├── SP-Architecture.md
+    │   ├── SP-Triage-Agent.md
     │   └── SP-Estimation-Dataset-Specs.md
     ├── 41.7-Experiments/
     │   ├── EX-Hypotheses-H1-H2.md

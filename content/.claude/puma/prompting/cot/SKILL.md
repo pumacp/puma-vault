@@ -13,7 +13,7 @@ Chain-of-Thought (CoT) prompting elicits intermediate reasoning steps from the m
 - Story point estimation benefits from explicit complexity factor analysis
 - CoT traces are auditable — they explain WHY a prediction was made
 - CoT reduces estimation errors by preventing shortcut heuristics
-- PUMA results: few-shot-3-CoT achieves MAE=1.89 SP (best strategy)
+- PUMA results: few-shot-3-CoT achieves MAE=1.89 SP on qwen2.5:3b (project best: 1.86 SP @ qwen2.5:7b, contextual-anchoring)
 
 ## CoT Variants
 

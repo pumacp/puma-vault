@@ -113,7 +113,7 @@ All three converge on the same failure mode: insufficient weight given to histor
 
 ---
 
-## PUMA Thesis Framing
+## PUMA Project Report Framing
 
 > [!tip] Ch.1 Opening Argument
 > "Software projects consistently overrun their estimates. The root cause is not incompetent estimators — it is a systematic cognitive bias: the Uniqueness Trap (Flyvbjerg, 2023). Project managers treat each issue as a unique, unprecedented case, discarding the historical record that would otherwise ground their estimates. PUMA addresses this bias directly: by automating Reference Class Forecasting through LLM few-shot prompting, PUMA provides the 'outside view' that human estimators systematically neglect."

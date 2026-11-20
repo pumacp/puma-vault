@@ -2589,7 +2589,7 @@
       "norm_label": "code review log \u2014 puma"
     },
     {
-      "label": "Writing Progress Tracker \u2014 PUMA Thesis Chapters",
+      "label": "Writing Progress Tracker \u2014 PUMA Project Report Chapters",
       "file_type": "document",
       "source_file": "50 - Areas/52 Writing/Writing-Progress-Tracker.md",
       "source_location": null,
@@ -8016,7 +8016,7 @@
       "norm_label": "prompt engineering \u2014 puma experiment prompts design"
     },
     {
-      "label": "Academic Writing Prompts for PUMA Thesis (PT-P2-004)",
+      "label": "Academic Writing Prompts for the PUMA Project Report (PT-P2-004)",
       "file_type": "prompt-note",
       "source_file": "60 - Resources/61 Prompts/Phase2-Development/PT-P2-004-AcademicWriting-ThesisChapters.md",
       "source_location": null,

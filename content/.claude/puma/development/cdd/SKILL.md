@@ -69,7 +69,7 @@ Total: ~1200 tokens ← PUMA optimal for triage
 [Example 3: issue + CoT reasoning + SP] ~300 tokens
 [Query input] ~200 tokens
 [CoT trigger: "Think step by step:"] ~10 tokens
-Total: ~1560 tokens ← PUMA optimal for estimation (MAE=1.89)
+Total: ~1560 tokens ← qwen2.5:3b estimation (MAE=1.89; project best = 1.86 SP @ qwen2.5:7b)
 ```
 
 ## Context Engineering Checklist

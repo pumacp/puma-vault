@@ -140,9 +140,9 @@ Kanban columns: `Backlog | To Do | In Progress | Review | Done`
 ## Integration with Agile (PUMA-AGILE)
 
 BMAD sprints map to PUMA's academic calendar:
-- Sprint = PEC delivery period
-- PRD = PEC deliverable scope
-- Sprint Review = PEC submission + tutor feedback
-- Retrospective = lessons learned for next PEC
+- Sprint = milestone delivery period
+- PRD = milestone deliverable scope
+- Sprint Review = milestone submission + reviewer feedback
+- Retrospective = lessons learned for next milestone
 
 See `puma-agile` skill for sprint cadence details.

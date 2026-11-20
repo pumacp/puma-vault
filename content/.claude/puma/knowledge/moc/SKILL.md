@@ -93,7 +93,7 @@ What is the research territory? What are the key tensions or questions?]
 ### When to create a new MOC
 - A topic has ≥5 permanent notes referencing it
 - A new research area is being explored (new SLR phase)
-- A chapter of the TFG needs a navigation hub
+- A chapter of the project needs a navigation hub
 - A methodology cluster needs synthesis
 
 ### Creation steps

@@ -55,7 +55,7 @@ Push on commit: ON
 ### Zotero Integration
 ```
 Zotero Library type: User
-User ID: 20166221
+User ID: pumacp
 API Key: [personal — do not commit]
 Import format: Markdown
 Literature note folder: 20 - Literature/20.1-Papers/
@@ -185,7 +185,7 @@ Key snippets (see `CSS-Snippets-Guide.md` for details):
 > Potential search query: [query for future SLR pass]
 
 > [!puma-result]
-> F1-macro: 0.5867 | Strategy: zero-shot | Model: qwen2.5:3b
+> F1-macro: 0.5867 | Strategy: contextual-anchoring | Model: qwen2.5:3b
 ```
 
 ## File Naming Conventions
@@ -198,7 +198,7 @@ Key snippets (see `CSS-Snippets-Guide.md` for details):
 | Permanent | `PN-DeclarativeTitle` | `PN-CoT-Improves-Estimation-Accuracy` |
 | Structure | `ST-ThemeName` | `ST-Prompting-Strategies` |
 | Experiment | `EX-NNN-Description` | `EX-001-ZeroShot-Triage` |
-| Spec | `SP-ComponentName-vN` | `SP-Triage-Agent-v1` |
+| Spec | `SP-ComponentName-vN` | `SP-Triage-Agent` |
 | Prompt | `PT-Task-Strategy-vN` | `PT-Triage-FewShot3-v2` |
 | MOC | `MOC-TopicName` | `MOC-LLM-Agents` |
 | Video | `VID-CAT-NNN-Title` | `VID-AGT-001-Karpathy-RAG` |

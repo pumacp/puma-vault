@@ -23,8 +23,8 @@ description: Spec-Driven Development (SDD) conventions for PUMA — specs as the
 
 | Spec Type | Prefix | Location | Example |
 |-----------|--------|----------|---------|
-| Architecture spec | `SP-Arch-` | `41.6-Specs/` | `SP-Architecture-v1.md` |
-| Agent spec | `SP-Agent-` | `41.6-Specs/` | `SP-Triage-Agent-v1.md` |
+| Architecture spec | `SP-Arch-` | `41.6-Specs/` | `SP-Architecture.md` |
+| Agent spec | `SP-Agent-` | `41.6-Specs/` | `SP-Triage-Agent.md` |
 | Dataset spec | `SP-Data-` | `41.6-Specs/` | `SP-Estimation-Dataset-Specs.md` |
 | Experiment spec | `SP-EX-` | `41.6-Specs/` | `SP-EX-ZeroShot-Triage.md` |
 | Constitution | `SP-PUMA-Constitution` | `41.6-Specs/` | Single file — master authority |

@@ -578,7 +578,6 @@ sprint: NN
 goal: "[One-sentence sprint goal]"
 dates: "YYYY-MM-DD → YYYY-MM-DD"
 status: "planned | active | completed"
-pec: "PEC1 | PEC2 | PEC3 | Final"
 tags: [puma, sprint, agile]
 created: YYYY-MM-DD
 jd: "40.41"

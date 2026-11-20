@@ -80,7 +80,7 @@ created: 2026-03-01
 3. **Cross-validation** — Verify all AI-sourced facts in primary sources
 4. **Substantial rewriting** — No AI text incorporated verbatim
 5. **Proactive declaration** — Declare AI use upfront, not only when asked
-6. **Tutor validation** — Discuss AI use with academic supervisor
+6. **Reviewer validation** — Discuss AI use with project reviewers
 
 ---
 

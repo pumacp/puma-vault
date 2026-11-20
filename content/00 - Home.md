@@ -124,7 +124,7 @@ PUMA is a research-driven platform that benchmarks autonomous AI agents on pract
 | M2  | 2026-04-08 | Triage Module + Baseline + Stats | 🔄 In Progress |
 | M3  | 2026-05-10 | Estimation Module + TAWOS        | ⏳ Pending      |
 | M4  | 2026-06-07 | Full Results + Carbon + Video    | ⏳ Pending      |
-| M5  | 2026-06-23 | Defence + v1.0 Tag               | ⏳ Pending      |
+| M5  | 2026-06-23 | Final review + v1.0 tag          | ⏳ Pending      |
 
 ---
 

@@ -85,15 +85,15 @@ Revised prompt: [full revised version incorporating fixes]
 2. Coherence: Does the section flow logically?
 3. Evidence: Is every claim supported by a citation?
 4. Spanish quality: Is the register academic and inclusive?
-5. UOC compliance: Follows template structure?
+5. the project compliance: Follows template structure?
 
 **Writing Refinement Prompt**:
 ```
-ROLE: Academic writing reviewer for Spanish-language ICT research theses
-CONTEXT: PUMA TFG at UOC — issue triage and effort estimation with LLM agents
+ROLE: Academic writing reviewer for Spanish-language ICT research reports
+CONTEXT: PUMA open-source project — issue triage and effort estimation with LLM agents
 OBJECTIVE: Critique this section and identify 3 improvements
 INSTRUCTIONS:
-1. Check each criterion (clarity, coherence, evidence, Spanish, UOC template)
+1. Check each criterion (clarity, coherence, evidence, Spanish, the project template)
 2. List 3 specific improvements with text replacements
 3. Apply improvements in the revised version
 FORMAT:
@@ -180,7 +180,7 @@ Passes when:
 
 ### Gate 4: Writing → Submitted
 Passes when:
-- Section complete per TFG chapter structure
+- Section complete per report chapter structure
 - All citations in APA 7th
 - Inclusive Spanish language verified
 - Peer review: 0 critical issues found

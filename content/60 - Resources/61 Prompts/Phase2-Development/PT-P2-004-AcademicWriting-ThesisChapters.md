@@ -1,6 +1,6 @@
 ---
 id: PT-P2-004
-title: "Claude / ChatGPT — Academic Writing Prompts for PUMA Thesis"
+title: "Claude / ChatGPT — Academic Writing Prompts for the PUMA Project Report"
 type: prompt-note
 tool: claude-chatgpt
 phase: Phase2-Development
@@ -12,7 +12,7 @@ created: 2026-04-07
 updated: 2026-06-15
 ---
 
-# ✍️ Claude / ChatGPT — Academic Writing Prompts for PUMA Thesis
+# ✍️ Claude / ChatGPT — Academic Writing Prompts for the PUMA Project Report
 
 **Tool**: Claude / ChatGPT
 **Phase**: Phase 2 — Development

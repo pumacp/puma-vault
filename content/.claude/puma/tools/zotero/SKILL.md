@@ -1,6 +1,6 @@
 ---
 name: puma-zotero
-description: Zotero integration conventions for PUMA — import workflow, tagging system, citekey conventions, Obsidian integration, and bibliography export. Use when importing new papers, managing the PUMA Zotero library, exporting bibliographies for TFG chapters, or troubleshooting Zotero-Obsidian integration. Essential for maintaining citation integrity in academic deliverables.
+description: Zotero integration conventions for PUMA — import workflow, tagging system, citekey conventions, Obsidian integration, and bibliography export. Use when importing new papers, managing the PUMA Zotero library, exporting bibliographies for report chapters, or troubleshooting Zotero-Obsidian integration. Essential for maintaining citation integrity in academic deliverables.
 ---
 
 # PUMA Zotero — Bibliography Management
@@ -9,9 +9,9 @@ description: Zotero integration conventions for PUMA — import workflow, taggin
 
 - **Platform**: Zotero 7
 - **Public library**: https://www.zotero.org/pumacp/library
-- **User ID**: 20166221
-- **API endpoint**: `https://api.zotero.org/users/20166221/items`
-- **RSS/Atom**: https://api.zotero.org/users/20166221/items/top?format=atom&sort=title
+- **User ID**: pumacp
+- **API endpoint**: `https://www.zotero.org/pumacp/library`
+- **RSS/Atom**: https://www.zotero.org/pumacp/library
 
 ## PUMA Tagging System
 
@@ -87,7 +87,7 @@ In Obsidian, Zotero notes are named `@citekey.md` or `LN-Author-Year-Title.md`.
 1. Install "Zotero Integration" plugin in Obsidian
 2. Configure:
    - Library type: User
-   - User ID: 20166221
+   - User ID: pumacp
    - API Key: [your personal key from zotero.org/settings/keys]
    - Import format: Markdown
    - Import folder: `20 - Literature/20.1-Papers/`
@@ -145,7 +145,7 @@ jd: "20.1"
 [List PN- notes to create from this paper]
 ```
 
-## Bibliography Export for TFG
+## Bibliography Export for project
 
 ### APA 7th Edition Export (for Word documents)
 
@@ -189,7 +189,7 @@ Review duplicates → keep most complete entry → merge or delete
 ```python
 import requests
 
-ZOTERO_USER_ID = "20166221"
+ZOTERO_USER_ID = "pumacp"
 ZOTERO_API_KEY = "YOUR_KEY"  # from zotero.org/settings/keys
 
 # Fetch all included papers

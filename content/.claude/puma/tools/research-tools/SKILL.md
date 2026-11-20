@@ -136,8 +136,8 @@ Hypothesis check: "Does the evidence in these papers support or
 
 **URL**: https://www.zotero.org  
 **PUMA Library**: https://www.zotero.org/pumacp/library  
-**User ID**: 20166221  
-**API**: https://api.zotero.org/users/20166221/items/top
+**User ID**: pumacp  
+**API**: https://www.zotero.org/pumacp/library
 
 **Purpose**: Bibliography management, PDF organization, citation export  
 **Integration**: Obsidian Zotero Integration plugin (`Ctrl+Shift+Z`)

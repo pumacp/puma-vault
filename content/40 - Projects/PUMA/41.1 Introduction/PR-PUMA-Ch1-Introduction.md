@@ -107,7 +107,7 @@ Full log: [[50 - Areas/51 Research/AI-Use-Log]]
 
 *Use this section for drafting observations, things to revise, feedback from reviewers*
 
-- [ ] Tutor feedback received on: {{date}}
+- [ ] Reviewer feedback received on: {{date}}
 - [ ] Main revision needed: {{notes}}
 - [ ] Approved version submitted: {{date}}
 

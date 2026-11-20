@@ -36,7 +36,7 @@ created: 2026-03-01
 |------|---------|------------|-------|
 | 2026-03-08 | Ch.1 | 3000 | Milestone 1 submitted ✅ |
 
-## Tutor Feedback Log
+## Reviewer Feedback Log
 | Date | Chapter | Feedback | Action |
 |------|---------|---------|--------|
 | TBD | Ch.1 | TBD | TBD |
