@@ -89,7 +89,7 @@ Format: English abstract → Spanish abstract → Keywords (EN) → Keywords (ES
 
 ## PUMA Relevance
 
-These writing prompts generate the first drafts of PUMA's project chapters. Following the AMI principle, every output must be critically reviewed and substantially rewritten before inclusion. The Marco Veritas declaration in Prompt C is a project requirement for all TFGs using AI tools.
+These writing prompts generate the first drafts of PUMA's project chapters. Following the AMI principle, every output must be critically reviewed and substantially rewritten before inclusion. The Marco Veritas declaration in Prompt C is a project requirement for all project reports using AI tools.
 
 ---
 

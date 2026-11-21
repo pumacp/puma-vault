@@ -4140,7 +4140,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "id": "bib_supplement_pec2",
+      "id": "bib_supplement_m2",
       "community": 14,
       "norm_label": "bib supplement Milestone 2 ai knowledge"
     },
@@ -17274,9 +17274,9 @@
       "provenance": "EXTRACTED",
       "note": "wikilink Bibliography section",
       "_src": "moc_ai_knowledge_generation",
-      "_tgt": "bib_supplement_pec2",
+      "_tgt": "bib_supplement_m2",
       "source": "moc_ai_knowledge_generation",
-      "target": "bib_supplement_pec2"
+      "target": "bib_supplement_m2"
     },
     {
       "relation": "references",

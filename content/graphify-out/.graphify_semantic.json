@@ -3259,7 +3259,7 @@
       "contributor": null
     },
     {
-      "id": "bib_supplement_pec2",
+      "id": "bib_supplement_m2",
       "label": "BIB Supplement AI Knowledge",
       "file_type": "document",
       "source_file": "60 - Resources/65 Bibliographies/BIB-Supplement-AIKnowledge.md",
@@ -12677,7 +12677,7 @@
     },
     {
       "source": "pn_veritas_framework",
-      "target": "ai_use_log_pec2_entry",
+      "target": "ai_use_log_m2_entry",
       "relation": "references",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
@@ -16400,7 +16400,7 @@
     },
     {
       "source": "moc_ai_knowledge_generation",
-      "target": "bib_supplement_pec2",
+      "target": "bib_supplement_m2",
       "relation": "references",
       "confidence_score": 1.0,
       "provenance": "EXTRACTED",
