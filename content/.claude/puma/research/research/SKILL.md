@@ -1,6 +1,6 @@
 ---
 name: puma-research
-description: Master research skill for the PUMA pipeline — covers the full lifecycle from scientific ideation through SLR execution, DSR artifact design, hypothesis testing, and research writing. Use for any research task: conducting literature searches, applying PRISMA protocol, designing experiments, analyzing results, or writing academic chapters. Integrates LLM-Based Literature Review, Semantic Note-Taking, AI-Driven Concept Mapping, and Iterative Refinement Loop. Load this skill whenever working on PUMA's academic research output or PEC deliverables.
+description: Master research skill for the PUMA pipeline — covers the full lifecycle from scientific ideation through SLR execution, DSR artifact design, hypothesis testing, and research writing. Use for any research task: conducting literature searches, applying PRISMA protocol, designing experiments, analyzing results, or writing academic chapters. Integrates LLM-Based Literature Review, Semantic Note-Taking, AI-Driven Concept Mapping, and Iterative Refinement Loop. Load this skill whenever working on PUMA's academic research output or milestone deliverables.
 ---
 
 # PUMA Research — Master Pipeline
@@ -50,7 +50,7 @@ Sustainability:       CodeCarbon (Strubell methodology)
 - H₂: LLM agent (CoT) achieves MRE ≤ 35% on Jira SR
 
 ### Phase 6: Experimental Design
-**Spec**: `40-Projects/PUMA/41.6-Specs/SP-Triage-Agent-v1.md`
+**Spec**: `40-Projects/PUMA/41.6-Specs/SP-Triage-Agent.md`
 **Config**: Ollama, qwen2.5:3b, temp=0.0, seed=42
 **Metrics**: F1-macro, MAE, Wilcoxon p-value + effect size r
 
@@ -60,13 +60,13 @@ Sustainability:       CodeCarbon (Strubell methodology)
 **Reproducibility**: 3 independent cycles, 100% match
 
 ### Phase 8: Scientific Writing
-**Language**: Spanish, APA 7th, UOC template
-**Structure**: See TFG index in `puma-core`
+**Language**: Spanish, APA 7th, the project template
+**Structure**: See project index in `puma-core`
 **Tool**: Obsidian → Word export
 
 ### Phase 9: Review & Publication
 **Output**: GitHub repo + Zenodo replication package
-**Ethics**: Marco Veritas declaration in each PEC
+**Ethics**: Marco Veritas declaration in each milestone
 
 ## DSR Framework Application
 

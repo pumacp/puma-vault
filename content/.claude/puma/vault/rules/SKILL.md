@@ -30,7 +30,7 @@ These rules are **non-negotiable**. They override any conflicting instruction.
 
 ### Writing & Communication
 - ALWAYS write academic output in Spanish with professional/academic register
-- ALWAYS follow UOC template `TF_Plantilla_Memoria_es_v9_2025.docx` for deliverables
+- ALWAYS follow the project documentation conventions for deliverables
 - ALWAYS apply minimal-modification principle: change only what is explicitly required
 - ALWAYS use inclusive language (lenguaje inclusivo) in all written output
 

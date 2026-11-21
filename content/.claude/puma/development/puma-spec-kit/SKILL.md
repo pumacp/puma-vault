@@ -236,6 +236,6 @@ Quick-reference cards for common PUMA components:
 
 ### Zotero Integration Card
 - **Purpose**: Bibliography management + Obsidian import
-- **Library**: User ID 20166221 (public: zotero.org/pumacp/library)
+- **Library**: User ID pumacp (public: zotero.org/pumacp/library)
 - **Shortcut**: `Ctrl+Shift+Z` in Obsidian to import
 - **Tag convention**: `#puma-candidate` → `#puma-include`

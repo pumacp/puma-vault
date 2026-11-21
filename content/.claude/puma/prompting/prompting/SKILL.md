@@ -105,7 +105,7 @@ Input: {query_input}
 Output:
 ```
 
-**PUMA config**: `few-shot-3` = 3 examples (best MAE=1.89 SP). Stratified sampling per label class.
+**PUMA config**: `few-shot-3` = 3 examples (MAE=1.89 SP on qwen2.5:3b; project best 1.86 SP @ qwen2.5:7b). Stratified sampling per label class.
 
 **Selection criteria**: Examples should be representative, diverse, and structurally similar to query.
 

@@ -98,7 +98,7 @@ git merge exp/stage1-triage
 
 ---
 
-## Sharing with Tutor
+## Sharing with reviewers
 
 ```bash
 # Share read-only view via GitHub

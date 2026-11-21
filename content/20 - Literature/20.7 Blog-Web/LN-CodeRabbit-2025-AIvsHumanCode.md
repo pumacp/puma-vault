@@ -306,7 +306,7 @@ The 1.7× issue escalation finding directly motivates SmartPMO's code quality mo
 - **Query**: PM asks "What is the AI vs human issue ratio for this sprint?" → wiki answers from accumulated data
 - **Alert**: If AI issue rate exceeds 2× human baseline, auto-escalate to human review
 
-### Thesis Relevance (PUMA Chapter 1)
+### Project Report Relevance (PUMA Chapter 1)
 
 The finding that PRs per author increased 20% while incidents per PR increased 23.5% is a **precise quantification of the AI quality-speed tension** — directly supporting PUMA's project argument that:
 

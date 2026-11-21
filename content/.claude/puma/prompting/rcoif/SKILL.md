@@ -112,7 +112,7 @@ Project: PUMA — empirical benchmark of local LLM agents for ICT project manage
 Research questions: 
   H₁: Can LLM agents achieve >75% F1-macro on TAWOS issue triage?
   H₂: Can LLM agents achieve MRE ≤35% on Jira SR story point estimation?
-Academic context: TFG at UOC, DSR methodology, PRISMA SLR.
+Academic context: open-source project, DSR methodology, PRISMA SLR.
 
 OBJECTIVE:
 [Specific synthesis objective — fill in per task]

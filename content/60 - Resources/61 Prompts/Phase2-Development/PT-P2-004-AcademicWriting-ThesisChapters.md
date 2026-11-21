@@ -1,6 +1,6 @@
 ---
 id: PT-P2-004
-title: "Claude / ChatGPT — Academic Writing Prompts for PUMA Thesis"
+title: "Claude / ChatGPT — Academic Writing Prompts for the PUMA Project Report"
 type: prompt-note
 tool: claude-chatgpt
 phase: Phase2-Development
@@ -12,7 +12,7 @@ created: 2026-04-07
 updated: 2026-06-15
 ---
 
-# ✍️ Claude / ChatGPT — Academic Writing Prompts for PUMA Thesis
+# ✍️ Claude / ChatGPT — Academic Writing Prompts for the PUMA Project Report
 
 **Tool**: Claude / ChatGPT
 **Phase**: Phase 2 — Development
@@ -89,7 +89,7 @@ Format: English abstract → Spanish abstract → Keywords (EN) → Keywords (ES
 
 ## PUMA Relevance
 
-These writing prompts generate the first drafts of PUMA's project chapters. Following the AMI principle, every output must be critically reviewed and substantially rewritten before inclusion. The Marco Veritas declaration in Prompt C is a project requirement for all TFGs using AI tools.
+These writing prompts generate the first drafts of PUMA's project chapters. Following the AMI principle, every output must be critically reviewed and substantially rewritten before inclusion. The Marco Veritas declaration in Prompt C is a project requirement for all project reports using AI tools.
 
 ---
 

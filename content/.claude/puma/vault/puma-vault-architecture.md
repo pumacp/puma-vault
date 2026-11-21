@@ -37,5 +37,5 @@ Follow PARA + Johnny Decimal and GTD in the PUMA vault:
 - **Excalidraw**: For diagrams.
 - **Tasks plugin**: Global task tracking.
 - **Obsidian Git**: Version control of vault.
-- **Pandoc**: Export notes to documents (e.g., for thesis).
+- **Pandoc**: Export notes to documents (e.g., for the project report).
 

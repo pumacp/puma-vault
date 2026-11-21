@@ -36,7 +36,7 @@ These are **prediction tasks with ground truth** — exactly the domain where Le
 
 ---
 
-## Thesis Section Mapping
+## Project Report Section Mapping
 
 | PUMA Section | Milestone 2 Connection |
 |-------------|-----------------|

@@ -64,7 +64,7 @@ created: 2026-03-01
 
 | Item | Waiting for | Since | Follow-up date |
 |------|------------|-------|---------------|
-| Tutor feedback on Ch.1 | Dr. [Tutor name] | 2026-03-08 | 2026-03-15 |
+| Reviewer feedback on Ch.1 | [Reviewer name] | 2026-03-08 | 2026-03-15 |
 | Jira SR full dataset download confirmation | Zenodo (zenodo.org) | 2026-03-04 | Verify SHA256 |
 | TAWOS dataset download | GitHub SOLAR-group | 2026-03-04 | ✅ Done |
 | Ollama v0.5+ release (seed API fix) | Ollama project | TBD | Check monthly |

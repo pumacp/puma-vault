@@ -191,7 +191,7 @@ All prompts follow the **RCOIF framework** (Role, Context, Objective, Instructio
 | [[PT-P2-001-OpenCode-ArchitectureDesign-SDD]] | Architecture Design (SDD/BMAD) | Claude | ⭐⭐⭐⭐⭐ |
 | [[PT-P2-002-Cursor-Implementation]] | Cursor/OpenCode Implementation | Cursor + OpenCode | ⭐⭐⭐⭐⭐ |
 | [[PT-P2-003-PromptEngineering-AgentPrompts]] | Agent Prompt Engineering | Context Engineering | ⭐⭐⭐⭐⭐ |
-| [[PT-P2-004-AcademicWriting-ThesisChapters]] | Academic Writing — Thesis Chapters | Claude + ChatGPT | ⭐⭐⭐⭐⭐ |
+| [[PT-P2-004-AcademicWriting-ThesisChapters]] | Academic Writing — Project Report Chapters | Claude + ChatGPT | ⭐⭐⭐⭐⭐ |
 
 ---
 
